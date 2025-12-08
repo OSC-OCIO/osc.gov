@@ -1,0 +1,44 @@
+---
+title: OSC Concludes Review of Airline Safety Allegations with Special Counsel Questioning Some Agency Conclusions
+permalink: /news/pages/25-17-airline-safety-disclosures/
+
+
+---
+
+1/15/2025
+
+Disclosure of Wrongdoing
+
+OSC today alerted the President and Congress of findings issued in response to several allegations brought to OSC by Transportation and Security Administration (TSA) whistleblower Robert MacLean.
+
+Page Content
+
+The U.S. Office of Special Counsel (OSC) today [alerted](https://gcc02.safelinks.protection.outlook.com/?url=https://osc.gov/Documents/Public%2520Files/FY25/DI-18-5205/OSC%2520Letter%2520to%2520the%2520President.pdf&data=05%7c02%7c%7cc0f430ad479042215fdf08dd35a13c6f%7c39dcbe17c0694d7c8ad7efbbedb5fc55%7c0%7c0%7c638725688820956684%7cUnknown%7cTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7c0%7c%7c%7c&sdata=esWK9M9k0UUpTtZY3oOkPTheg0Y3yoi3FsUwpmnv5OU%3D&reserved=0) the President and Congress of findings issued in response to several allegations brought to OSC by Transportation and Security Administration (TSA) whistleblower Robert MacLean. Mr. MacLean, a former longtime TSA Federal Air Marshal, alleged that TSA and Federal Aviation Administration (FAA) officials failed to uphold their responsibility to safeguard the flying public from threats to aviation safety. OSC referred the allegations, which were subsequently investigated by the Department of Homeland Security and the Department of Transportation (DOT). The agencies' investigative reports did not substantiate the allegations. Neither report was signed by the head of the agency, a concern noted by the whistleblower. After review, Special Counsel Hampton Dellinger [determined](https://gcc02.safelinks.protection.outlook.com/?url=https://osc.gov/Documents/Public%2520Files/FY25/DI-18-5205/OSC%2520Letter%2520to%2520the%2520President.pdf&data=05%7c02%7c%7cc0f430ad479042215fdf08dd35a13c6f%7c39dcbe17c0694d7c8ad7efbbedb5fc55%7c0%7c0%7c638725688820971100%7cUnknown%7cTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7c0%7c%7c%7c&sdata=REt6e7wtF6LKEzWUF3QkjNGjBFuqAkI/%2BvMWHyMpf1w%3D&reserved=0) some findings do not appear to be reasonable.
+
+“I want to acknowledge Mr. MacLean's longstanding dedication to whistleblowing, particularly regarding potential threats to the flying public," said Special Counsel Dellinger. “We now know that Congress has acted to mitigate vulnerabilities disclosed years ago by Mr. MacLean, showing that his disclosures made a difference and improved airline safety.
+
+“Further, I agree with Mr. MacLean's view that agency heads are statutorily required to review and sign investigative reports of whistleblower allegations submitted to OSC. The law that gives OSC authority to mandate investigations of whistleblower allegations clearly assigns agency heads this responsibility.  Delegating the duty to a subordinate is wrong and Mr. MacLean is right to criticize the practice. "
+
+**Flight Deck Barriers:**
+
+The whistleblower alleged that TSA and FAA failed to require aircraft operators to install secondary barriers as an added layer of protection between the passenger area and the flight deck. Recognizing this vulnerability, Congress passed a law in 2018 directing the FAA to ensure future aircraft are constructed with secondary barriers.
+
+The FAA [report](https://gcc02.safelinks.protection.outlook.com/?url=https://osc.gov/Documents/Public%2520Files/FY25/DI-16-2046/DI-16-2046%2520-%2520DOT%2520Report.pdf&data=05%7c02%7c%7cc0f430ad479042215fdf08dd35a13c6f%7c39dcbe17c0694d7c8ad7efbbedb5fc55%7c0%7c0%7c638725688820984561%7cUnknown%7cTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7c0%7c%7c%7c&sdata=ZkjyclSmo72IQGX6ynKm39G7o811dsnmj14/8p0jPEc%3D&reserved=0) found that there are no specific laws, rules, or regulations that require the installation of physical secondary barriers on _existing_ aircraft, only _future_ aircraft. It also did not have data from DOT or other credible sources to support the change. TSA [concurred](https://gcc02.safelinks.protection.outlook.com/?url=https://osc.gov/Documents/Public%2520Files/FY25/DI-16-2046/DI-16-2046%2520-%2520DHS%2520Report.pdf&data=05%7c02%7c%7cc0f430ad479042215fdf08dd35a13c6f%7c39dcbe17c0694d7c8ad7efbbedb5fc55%7c0%7c0%7c638725688820997935%7cUnknown%7cTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7c0%7c%7c%7c&sdata=VXTpZJyC7KkA2WElEXLC/BtuQpDjdCY7ue3zkO5XvOc%3D&reserved=0) with the FAA's findings that the benefit of requiring airlines to install secondary barriers in existing aircraft does not outweigh the burden and cost to the industry, considering the security measures already in place.
+
+However, on May 16, 2024, the FAA Reauthorization Act of 2024 was signed into law requiring installation of secondary flight deck barriers on _existing_ aircraft. Both TSA and FAA have informed OSC that they plan to comply with the new law.
+
+After reviewing the reports, Special Counsel Dellinger questioned the agencies' conclusion not to require the installation of physical secondary barriers on existing aircraft. “I have determined that the findings, in part, are not reasonable," said Dellinger. “A recent decision by Congress to require existing aircraft to have secondary barriers validates the legitimacy of the whistleblower's concerns."
+
+**Opioid Attacks:**
+
+The whistleblower alleged that TSA and FAA failed to properly protect flight crews and the public from potential opioid attacks. The agencies did not substantiate the allegation. Regarding fentanyl, a type of opioid that could potentially be exposed on an aircraft, TSA [asserted](https://gcc02.safelinks.protection.outlook.com/?url=https://osc.gov/Documents/Public%2520Files/FY25/DI-18-5205/DI-18-5205%2520and%2520DI-19-0778%2520-%2520DHS%2520Report.pdf&data=05%7c02%7c%7cc0f430ad479042215fdf08dd35a13c6f%7c39dcbe17c0694d7c8ad7efbbedb5fc55%7c0%7c0%7c638725688821011289%7cUnknown%7cTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7c0%7c%7c%7c&sdata=CJwop5DDA1P9zxnbapyI3yy9lFq/3dW0AISmwgiYLvA%3D&reserved=0) that current screening procedures are designed to prevent unknown powders from being brought aboard an aircraft. TSA indicated it has the capability to detect fentanyl in amounts as small as a fingerprint or a few visible grains of powder.
+
+The FAA also considered the whistleblower's suggestion that the FAA could mandate opioid antidotes, such as Narcan, in emergency medical kits onboard commercial flights. However, it [found](https://gcc02.safelinks.protection.outlook.com/?url=https://osc.gov/Documents/Public%2520Files/FY25/DI-18-5205/DI-18-5205%2520-%2520DOT%2520Report%2520-%2520Part%2520A.pdf&data=05%7c02%7c%7cc0f430ad479042215fdf08dd35a13c6f%7c39dcbe17c0694d7c8ad7efbbedb5fc55%7c0%7c0%7c638725688821024653%7cUnknown%7cTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7c0%7c%7c%7c&sdata=BBgBFy1qfbk5yGpnQAoA7oXNQNf8yKH1Hdy562rrsl4%3D&reserved=0) that providing Narcan in sufficient quantity for each crew member and passenger onboard would prove costly and have questionable effectiveness.
+
+Given the totality of the circumstances, Special Counsel Dellinger was unable to determine whether the agencies' findings appear reasonable. “I have been unable to reconcile the agencies' conclusions with the growing public safety concerns of the use, and potential weaponization, of opioids identified by the whistleblower and others," Dellinger said.
+
+**Religious Food Trucks:**
+
+The whistleblower alleged that TSA failed to prevent significant security breaches because of its policy exempting religious food trucks from airport inspections. The agency did not substantiate the whistleblower's allegations. In its [report](https://gcc02.safelinks.protection.outlook.com/?url=https://osc.gov/Documents/Public%2520Files/FY25/DI-18-5205/DI-18-5205%2520and%2520DI-19-0778%2520-%2520DHS%2520Report.pdf&data=05%7c02%7c%7cc0f430ad479042215fdf08dd35a13c6f%7c39dcbe17c0694d7c8ad7efbbedb5fc55%7c0%7c0%7c638725688821037956%7cUnknown%7cTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7c0%7c%7c%7c&sdata=ODNueWcvHZguK/GyOoDauSw0A3ZGq3jaVOPhibgaF3E%3D&reserved=0), TSA explained that there is no difference in requirements for "religious food trucks" vis-a-vis any other catering truck. As there is an insider threat risk throughout the transportation sector, TSA has a layered security approach to secure catering trucks. Further, the report confirmed that catering operations are consistently subjected to inspections, testing, and oversight. Special Counsel Dellinger determined these findings to be reasonable.
+
+\*\*\*​
