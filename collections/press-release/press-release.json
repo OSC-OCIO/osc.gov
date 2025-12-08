@@ -1,0 +1,5 @@
+{
+  "permalink": "/news/{{ page.fileSlug }}/",
+  "layout": "layouts/post",
+  "tags": ["press-release]"]
+}
