@@ -1,6 +1,5 @@
 ---
 title: Additional Resources for Disclosure of Wrongdoing
-permalink: /services/disclosure-of-wrongdoing/resources/
 ---
 
 - Disclosures of Wrongdoing - Video

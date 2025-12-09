@@ -1,6 +1,5 @@
 ---
 title: Resources
-permalink: /resources/
 ---
 
 - [COVID-19 Workplace Safety Plan final 10 12 23](~assets/documents/COVID-19-Workplace-Safety-Plan-final-10-12-23.pdf)

@@ -1,6 +1,5 @@
 ---
 title: USERRA Enforcement by OSC
-permalink: /services/userra/enforcement/
 ---
 
 ​OSC has authority to bring cases before the Merit Systems Protection Board (MSPB) for prosecution.

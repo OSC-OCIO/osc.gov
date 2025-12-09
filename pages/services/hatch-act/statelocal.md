@@ -1,6 +1,5 @@
 ---
 title: State, D.C., or Local Employee Hatch Act Information
-permalink: /services/hatch-act/statelocal/
 ---
 
 ​The Hatch Act restricts the political activity of individuals principally employed by state, District of Columbia, or local executive agencies and who work in connection with programs financed in whole or in part by federal loans or grants. Usually, employment with a state, D.C., or local agency constitutes the principal employment of the employee in question. However, when an employee holds two or more jobs, principal employment is generally deemed to be that job which accounts for the most work time and the most earned income.

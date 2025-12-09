@@ -1,8 +1,5 @@
 ---
 title: Public Files
-permalink: /publicfiles/
-
-
 ---
 
 ## Whistleblower Cases

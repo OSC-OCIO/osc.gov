@@ -1,6 +1,5 @@
 ---
 title: Reports
-permalink: /reports/
 ---
 
 ## Annual Reports to Congress

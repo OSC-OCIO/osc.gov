@@ -1,6 +1,5 @@
 ---
 title: FAQs
-permalink: /faq/
 ---
 
 # Prohibited Personnel Practices

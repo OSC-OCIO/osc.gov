@@ -1,8 +1,5 @@
 ---
 title: Site Map
-permalink: /pages/sitemap/
-
-
 ---
 
 OSC

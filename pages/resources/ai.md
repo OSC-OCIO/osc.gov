@@ -1,8 +1,5 @@
 ---
 title: Artificial Intelligence (AI)
-permalink: /resources/pages/ai/
-
-
 ---
 
 Page Content

@@ -1,6 +1,5 @@
 ---
 title: What Happens When an Employee Files a Disclosure Claim?
-permalink: /services/disclosure-of-wrongdoing/process/
 ---
 
 Eligible employees are encouraged to report allegations of violations of law, rule or regulation, gross mismanagement, a gross waste of funds, an abuse of authority, substantial and specific dangers to public health and or safety and censorship related to research, analysis, or technical information directly to OSC. Disclosures must be based on credible information, such as first-hand observation or documents. OSC cannot rely on speculation or unsupported second-hand information in making its determination.

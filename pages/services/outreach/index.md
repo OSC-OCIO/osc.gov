@@ -1,6 +1,5 @@
 ---
 title: Outreach, Training, & Certification Overview
-permalink: /services/outreach/
 ---
 
 ​​​​​​​​​​​​​​​​​​​The Office of Special Counsel (OSC) offers training to federal agencies and non-federal organizations in each of the areas within OSC’s jurisdiction. Specifically, OSC offers training on:

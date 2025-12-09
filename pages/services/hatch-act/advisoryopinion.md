@@ -1,6 +1,5 @@
 ---
 title: Hatch Act Advisory Opinions
-permalink: /services/hatch-act/advisoryopinion/
 ---
 
 ## ​Federal Advisory Opinions

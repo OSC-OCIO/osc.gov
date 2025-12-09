@@ -1,6 +1,5 @@
 ---
 title: Prohibited Personnel Practices FAQs
-permalink: /services/prohibited-personnel-practices/faq/
 ---
 
 ## Prohibited Personnel PracticesFiling Complaints

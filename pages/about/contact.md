@@ -1,8 +1,5 @@
 ---
 title: Contact OSC
-permalink: /pages/contact/
-
-
 ---
 
 ### 

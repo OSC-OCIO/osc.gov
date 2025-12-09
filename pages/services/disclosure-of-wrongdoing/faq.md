@@ -1,6 +1,5 @@
 ---
 title: Disclosure of Wrongdoing FAQs
-permalink: /services/disclosure-of-wrongdoing/faq/
 ---
 
 ## Disclosure of Wrongdoing

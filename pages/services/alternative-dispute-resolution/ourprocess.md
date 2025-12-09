@@ -1,6 +1,5 @@
 ---
 title: Alternative Dispute Resolution Process
-permalink: /services/alternative-dispute-resolution/ourprocess/
 ---
 
 ### ​​​​​​​​​​​​Our P​rocess

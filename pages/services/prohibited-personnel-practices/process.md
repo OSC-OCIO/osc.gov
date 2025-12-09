@@ -1,6 +1,5 @@
 ---
 title: What Happens When an Employee Files a Prohibited Personnel Practices Complaint?
-permalink: /services/prohibited-personnel-practices/process/
 ---
 
 ### ​​Our Process

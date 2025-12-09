@@ -1,6 +1,5 @@
 ---
 title: 2302(c) Recertification
-permalink: /services/outreach/2302cert-recertification/
 ---
 
 ​Agencies are required to recertify every three years. After receiving initial certification from OSC, the agency may recertify by providing OSC with verification that the supervisory trainings were completed (must be completed every three years for all supervisors) and that the agency continues to meet the other requirements of the program, such as issuing an annual notice to all employees about their rights and remedies under the PPPs and rights to file whistleblower disclosures.

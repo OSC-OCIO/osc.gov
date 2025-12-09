@@ -1,6 +1,5 @@
 ---
 title: Who Can File a Prohibited Personnel Practices Complaint?
-permalink: /services/prohibited-personnel-practices/whocanfile/
 ---
 
 OSC has jurisdiction over prohibited personnel practices committed against most employees, applicants for employment, and former federal employees in executive branch agencies and the Government Printing Office. However, there are so​​me agencies over which OSC does not have authority, or has limited authority. If you are an employee of any of the following, OSC cannot obtain corrective action on your behalf:

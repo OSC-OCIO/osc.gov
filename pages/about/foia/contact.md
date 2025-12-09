@@ -1,8 +1,5 @@
 ---
 title: Contact Us About FOIA
-permalink: /pages/foia-contact/
-
-
 ---
 
 ### OSC FOIA Office  

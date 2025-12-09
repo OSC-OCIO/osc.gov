@@ -1,6 +1,5 @@
 ---
 title: Disclosure of Wrongdoing Overview
-permalink: /services/disclosure-of-wrongdoing/
 ---
 
 ​​​​​​​​​​The Office of Special Counsel (OSC) handles disclosures of wrongdoing within the executive branch of the federal government from current federal employees, former federal employees, and applicants for federal employment. (For purposes of this section, former and current employees, and applicants for federal employment are all “employees" or “whistleblowers") The OSC unit responsible for this work is the Disclosure Unit.

@@ -1,6 +1,5 @@
 ---
 title: 2302(c) Certification for Government Corporations
-permalink: /services/outreach/2302cert-gov/
 ---
 
 ## ​​​​​​​​​​​​​​Background

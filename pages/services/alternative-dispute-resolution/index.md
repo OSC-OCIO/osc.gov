@@ -1,6 +1,5 @@
 ---
 title: Alternative Dispute Resolution Overview
-permalink: /services/alternative-dispute-resolution/
 ---
 
 ​The Office of Special Counsel (OSC) offers Alternative Dispute Resolution (ADR) to resolve selected prohibited personnel practices (PPP) and USERRA complaints that have been filed with OSC. Selected cases are referred to OSC’s ADR Unit for review. If the ADR Unit determines that a case is a good candidate for mediation, an OSC ADR Specialist contacts the complainant and the employing agency to invite them to participate in the mediation program. If both parties agree, OSC will assign mediators who will work with the parties to prepare for and schedule a mediation. If mediation results in resolution, the agreement is put into writing and becomes binding on both parties.

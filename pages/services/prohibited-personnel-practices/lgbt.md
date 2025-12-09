@@ -1,6 +1,5 @@
 ---
 title: Resources for LGBTQIA+ Related Prohibited Personnel Practices
-permalink: /services/prohibited-personnel-practices/lgbt/
 ---
 
 ​​​The Civil Service Reform Act of 1978 describes prohibited personnel practices. The U.S. Office of Special Counsel (OSC) is an independent investigative and prosecutorial agency that receives and investigates complaints alleging prohibited personnel practices, including those involving discrimination based on sexual orientation and gender identity.

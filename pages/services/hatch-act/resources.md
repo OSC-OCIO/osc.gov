@@ -1,6 +1,5 @@
 ---
 title: Additional Resources for Hatch Act
-permalink: /services/hatch-act/resources/
 ---
 
 - Hatch Act: Overview - Video

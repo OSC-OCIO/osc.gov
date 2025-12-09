@@ -1,8 +1,5 @@
 ---
 title: Forms
-permalink: /resources/pages/forms/
-
-
 ---
 
 [OSC Form-14 Disclosure Form](../../~assets/documents/OSC-Form-14-Disclosure-Form.pdf)

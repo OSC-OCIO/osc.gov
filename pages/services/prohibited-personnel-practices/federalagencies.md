@@ -1,6 +1,5 @@
 ---
 title: Federal Agency Responsibilities Regarding Prohibited Personnel Practices
-permalink: /services/prohibited-personnel-practices/federalagencies/
 ---
 
 #### ​What legal responsibilities does a federal agency have to prevent prohibited person​​nel practices?

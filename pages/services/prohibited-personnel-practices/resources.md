@@ -1,6 +1,5 @@
 ---
 title: Additional Resources for Prohibited Personnel Practices
-permalink: /services/prohibited-personnel-practices/resources/
 ---
 
 - Amicus Curiae Briefs

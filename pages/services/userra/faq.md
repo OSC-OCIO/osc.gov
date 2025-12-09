@@ -1,6 +1,5 @@
 ---
 title: USERRA FAQs
-permalink: /services/userra/faq/
 ---
 
 ## USERRA

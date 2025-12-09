@@ -1,6 +1,5 @@
 ---
 title: Alternative Dispute Resolution FAQs
-permalink: /services/alternative-dispute-resolution/faq/
 ---
 
 ## Alternative Dispute Resolution

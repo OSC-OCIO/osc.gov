@@ -1,8 +1,5 @@
 ---
 title: Opportunities
-permalink: /pages/opportunities/
-
-
 ---
 
 ​Detail – Current Attorneys, Federal government wide

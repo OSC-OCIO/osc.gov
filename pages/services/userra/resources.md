@@ -1,6 +1,5 @@
 ---
 title: Additional Resources for USERRA
-permalink: /services/userra/resources/
 ---
 
 ## USERRA Overview - Video

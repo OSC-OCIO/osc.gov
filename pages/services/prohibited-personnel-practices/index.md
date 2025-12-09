@@ -1,6 +1,5 @@
 ---
 title: Prohibited Personnel Practices Overview
-permalink: /services/prohibited-personnel-practices/
 ---
 
 ​  

@@ -1,8 +1,5 @@
 ---
 title: Contact Us About Privacy
-permalink: /pages/privacy-contact/
-
-
 ---
 
 The Office of the Clerk implements the agency's privacy program. The Clerk is the Senior Agency Official for Privacy (SAOP). The Clerk's contact information:  

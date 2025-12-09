@@ -1,6 +1,5 @@
 ---
 title: Your USERRA Rights as an Employer
-permalink: /services/userra/employer/
 ---
 
 ​USERRA includes guidelines for the employers of service members, such as the following:

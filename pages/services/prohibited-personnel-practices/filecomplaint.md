@@ -1,6 +1,5 @@
 ---
 title: How to File a Prohibited Personnel Practices Complaint
-permalink: /services/prohibited-personnel-practices/filecomplaint/
 ---
 
 ​​**At this time, OSC is unable to pro​cess paper filings. Plea​se file electronically.​**

@@ -1,8 +1,5 @@
 ---
 title: Office of Special Counsel Privacy Program
-permalink: /pages/privacy/
-
-
 ---
 
 The U.S. Office of Special Counsel (OSC) is committed to protecting your privacy and securing the personal information made available to us when you access our public-facing website(s), application(s), and/or form(s).  The Privacy Act of 1974 (5 U.S.C. § 552a) mandates how federal agencies maintain records about individuals. The law strives to balance the government's need to maintain these records with the individual's right to be protected from unwarranted invasions of personal privacy.  OSC does not collect personal information when you visit our website, unless you choose to provide that information.  Our Privacy Policy describes what information is made available to OSC, what information OSC collects, how that information is used, and how information is stored and/or shared pursuant to Privacy Act exemptions.

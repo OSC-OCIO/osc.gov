@@ -1,8 +1,5 @@
 ---
 title: FOIA Reading Room
-permalink: /pages/foia-readingroom/
-
-
 ---
 
 [FOIA Log Fiscal Year 2021](../~assets/documents/FOIA-Log-Fiscal-Year-2021.pdf)

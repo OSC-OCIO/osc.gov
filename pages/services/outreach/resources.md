@@ -1,6 +1,5 @@
 ---
 title: Additional Resources for Outreach, Training, & Certification
-permalink: /services/outreach/resources/
 ---
 
 - Handouts

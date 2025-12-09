@@ -1,7 +1,5 @@
 ---
-title: "FOIA: Resources"
-permalink: /pages/foia-resources/
-
+title: 'FOIA: Resources'
 ---
 
 [Department of Justice Guide to the Freedom of Information Act](https://www.justice.gov/oip/doj-guide-freedom-information-act-0)

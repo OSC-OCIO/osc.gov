@@ -1,6 +1,5 @@
 ---
 title: Your USERRA Rights as an Employee
-permalink: /services/userra/employee/
 ---
 
 ​Service members who are in the civilian workforce fall into one of the following employment categories:

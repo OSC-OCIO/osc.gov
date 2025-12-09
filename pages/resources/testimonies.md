@@ -1,6 +1,5 @@
 ---
 title: Testimonies & Transcripts
-permalink: /resources/pages/testimonies/
 ---
 
 [Testimony of Special Counsel Henry J. Kerner, on 'Learning from Whistleblowers at the Department of Veterans Affairs,' July 23, 2019](../../~assets/documents/Testimony-of-Special-Counsel-Henry-J.-Kerner,-on-'Learning-from-Whi-25f30a11.pdf)

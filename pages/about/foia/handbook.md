@@ -1,8 +1,5 @@
 ---
 title: FOIA Handbook
-permalink: /pages/foia-handbook/
-
-
 ---
 
 *   What is the Freedom of Information Act?

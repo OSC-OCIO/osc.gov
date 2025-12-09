@@ -1,6 +1,5 @@
 ---
 title: 2302(c) Certification Process
-permalink: /services/outreach/2302cert-process/
 ---
 
 ### ​STEP 1: Registration​

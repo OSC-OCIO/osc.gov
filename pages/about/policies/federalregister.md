@@ -1,6 +1,5 @@
 ---
 title: OSC Federal Register Notices
-permalink: /pages/federalregister/
 ---
 
 [OSC Draft Strategic Plan](../~assets/documents/OSC-Draft-Strategic-Plan.pdf)

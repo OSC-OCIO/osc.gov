@@ -1,6 +1,5 @@
 ---
 title: Hatch Act FAQs
-permalink: /services/hatch-act/faq/
 ---
 
 ## ​​​​General

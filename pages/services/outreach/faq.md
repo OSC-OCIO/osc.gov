@@ -1,6 +1,5 @@
 ---
 title: Outreach, Training, & Certification FAQs
-permalink: /services/outreach/faq/
 ---
 
 ## Outreach Training

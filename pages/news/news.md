@@ -1,8 +1,5 @@
 ---
 title: OSC in the News
-permalink: /news/
-
-
 ---
 
 *   2025

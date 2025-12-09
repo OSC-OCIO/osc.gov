@@ -1,6 +1,5 @@
 ---
 title: 2302(c) Registered Agencies
-permalink: /services/outreach/2302cert-registered/
 ---
 
 ​The following agencies have registered for the 2302(c) certification program:

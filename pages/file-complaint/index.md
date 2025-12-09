@@ -1,6 +1,6 @@
 ---
 title: File a Complaint
-permalink: /pages/file-complaint-portal/
+eleventyNavigation: false
 ---
 
 **​**

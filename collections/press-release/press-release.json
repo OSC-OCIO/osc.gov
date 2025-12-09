@@ -1,5 +1,5 @@
 {
-  "permalink": "/news/{{ page.fileSlug }}/",
+  "permalink": "/news/{{ page.date | date: \"%Y-%m-%d\" }}/{{ page.fileSlug }}/",
   "layout": "layouts/post",
   "tags": ["press-release"]
 }

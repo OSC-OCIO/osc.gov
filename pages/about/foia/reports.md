@@ -1,6 +1,5 @@
 ---
 title: FOIA Reports
-permalink: /pages/foia-reports/
 ---
 
 ## Annual Reports

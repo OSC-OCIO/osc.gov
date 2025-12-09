@@ -1,6 +1,5 @@
 ---
 title: Hatch Act Policies & Procedures
-permalink: /services/hatch-act/policies/
 ---
 
 #### ​​Are federal employees required to cooperate with OSC investigations?

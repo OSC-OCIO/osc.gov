@@ -1,8 +1,5 @@
 ---
 title: About OSC
-permalink: /pages/about/
-
-
 ---
 
 The U.S. Office of Special Counsel (OSC) is an independent federal investigative and prosecutorial agency. OSC's statutory authority comes from four federal laws: the Civil Service Reform Act, the Whistleblower Protection Act, the Hatch Act, and the Uniformed Services Employment & Reemployment Rights Act (USERRA).  

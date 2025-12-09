@@ -1,6 +1,5 @@
 ---
 title: Press Releases
-permalink: /pressreleases/
 ---
 
 - [OSC Recognizes Two Whistleblowers with 2025 Outstanding Public Servant Awards to Commemorate National Whistleblower Day](News/Pages/Press%20Release%20Template1.md)

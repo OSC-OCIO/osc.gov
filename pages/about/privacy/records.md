@@ -1,8 +1,5 @@
 ---
 title: System of Records Notices (SORNs)
-permalink: /pages/privacy-records/
-
-
 ---
 
 ​
