@@ -1,38 +1,45 @@
 /**
- * Shared computed data for everything under /pages.
- * - Builds clean permalinks from the folder structure (strips leading "pages/" and file extensions).
+ * Shared computed data for everything under /pages:
+ * - Builds clean permalinks from the folder structure (strips the leading "pages/" and file extensions).
  * - Derives eleventyNavigation from the same structure.
  * - Honors explicit front matter: `permalink` (including false), `eleventyNavigation`, and `order`.
  */
 
-const path = require("path");
-
-// Strip /pages/ prefix and split into path parts
-const splitParts = (inputPath) =>
-  inputPath
+// Remove leading "pages/" and split path into parts (with extensions).
+function splitParts(inputPath) {
+  return inputPath
     .replace(/^\.?\/?pages\//, "")
     .split("/")
     .filter(Boolean);
+}
 
-// Drop extensions and trailing index.* to form URL segments
-const toSegments = (parts) => {
+// Drop extensions and trailing index.* to get URL segments.
+function toSegments(parts) {
   const withoutExt = parts.map((p) => p.replace(/\.(md|njk|html)$/, ""));
-  return withoutExt[withoutExt.length - 1] === "index"
-    ? withoutExt.slice(0, -1)
-    : withoutExt;
-};
+  const isIndex = withoutExt[withoutExt.length - 1] === "index";
+  return isIndex ? withoutExt.slice(0, -1) : withoutExt;
+}
 
-const humanLabel = (segment, fallback) =>
-  (segment || fallback || "Home")
+// Build a label from a segment or title.
+function makeLabel(segment, fallback) {
+  return (segment || fallback || "Home")
     .replace(/^[0-9]+[-_]/, "")
     .replace(/[-_]+/g, " ")
     .replace(/(^|\s)(\w)/g, (_, s, c) => s + c.toUpperCase());
+}
 
 module.exports = {
   eleventyComputed: {
     permalink: (data) => {
-      // Respect explicit settings, including false (e.g., 404).
-      if (Object.prototype.hasOwnProperty.call(data, "permalink")) {
+      // If the page sets permalink (including false), respect it.
+      // if (Boolean(data.permalink)) {
+      //   return data.permalink;
+      // }
+      if (
+        data.permalink === false ||
+        (typeof data.permalink === "string" && data.permalink !== "")
+      ) {
+        console.log(data.permalink);
         return data.permalink;
       }
 
@@ -54,20 +61,17 @@ module.exports = {
         return data.eleventyNavigation;
       }
 
+      // Build navigation purely from file structure (not from permalinks).
       const segments = toSegments(splitParts(data.page.inputPath));
       const label =
-        data.title || humanLabel(segments.slice(-1)[0], data.page.fileSlug);
+        data.title || makeLabel(segments.slice(-1)[0], data.page.fileSlug);
 
       const parentSegments = segments.slice(0, -1);
       let parent = parentSegments.length
         ? `/${parentSegments.join("/")}/`
         : undefined;
 
-      const url =
-        typeof data.permalink === "string" && data.permalink.length > 0
-          ? data.permalink
-          : ("/" + segments.join("/") + "/").replace(/\/+/g, "/");
-
+      const url = ("/" + segments.join("/") + "/").replace(/\/+/g, "/");
       const isHome = url === "/";
       if (!parent && !isHome) parent = "/"; // attach top-level items to home
 
