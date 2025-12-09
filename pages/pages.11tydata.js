@@ -54,12 +54,6 @@ module.exports = {
       // Skip non-routing pages or explicit opt-out.
       if (data.permalink === false) return false;
       if (data.eleventyNavigation === false) return false;
-      if (
-        data.eleventyNavigation &&
-        typeof data.eleventyNavigation === "object"
-      ) {
-        return data.eleventyNavigation;
-      }
 
       // Build navigation purely from file structure (not from permalinks).
       const segments = toSegments(splitParts(data.page.inputPath));
@@ -75,10 +69,20 @@ module.exports = {
       const isHome = url === "/";
       if (!parent && !isHome) parent = "/"; // attach top-level items to home
 
-      const nav = { key: url, url, title: label };
-      if (parent) nav.parent = parent;
-      if (data.order !== undefined) nav.order = data.order;
-      return nav;
+      // Base nav derived from file structure.
+      const baseNav = { key: url, url, title: label };
+      if (parent) baseNav.parent = parent;
+      if (data.order !== undefined) baseNav.order = data.order;
+
+      // Merge in explicit settings (e.g., order) without losing key/title.
+      if (
+        data.eleventyNavigation &&
+        typeof data.eleventyNavigation === "object"
+      ) {
+        return { ...baseNav, ...data.eleventyNavigation };
+      }
+
+      return baseNav;
     },
   },
 };
