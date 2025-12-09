@@ -15,13 +15,11 @@ results:
 date: 2015-03-11
 files:
 - label: Letter to the President
-  href: /~assets/documents/AUO
----
-Letter-to-the-President-4.pdf
-- label: Agency Report
-  href: /~assets/documents/DI-13-2853-and-DI-13-3516-Supplemental-Report.pdf
+  href: /~assets/documents/AUO---Letter-to-the-President-4.pdf
 - label: Agency Report
   href: /~assets/documents/DI-13-2853-and-DI-13-3516-Agency-Report.pdf
+- label: Agency Report
+  href: /~assets/documents/DI-13-2853-and-DI-13-3516-Supplemental-Report.pdf
 - label: Whistleblower Comments
   href: /~assets/documents/DI-13-2853-and-DI-13-3516-Whistleblower-Comments.pdf
 - label: Whistleblower Comments
@@ -33,4 +31,3 @@ Letter-to-the-President-4.pdf
 - label: Analysis
   href: /~assets/documents/DI-13-2853-and-DI-13-3516-Case-Summary.pdf
 ---
-

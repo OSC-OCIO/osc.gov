@@ -15,9 +15,7 @@ results:
 date: 2019-08-08
 files:
 - label: Letter to the President
-  href: /~assets/documents/DI-17-4331-and-DI-17-4242
----
-Letter-to-the-President.pdf
+  href: /~assets/documents/DI-17-4331-and-DI-17-4242---Letter-to-the-President.pdf
 - label: Agency Report
   href: /~assets/documents/DI-17-4331-and-DI-17-4242---Agency-Report.pdf
 - label: Whistleblower Comments
@@ -25,4 +23,3 @@ Letter-to-the-President.pdf
 - label: Referral Letter
   href: /~assets/documents/DI-17-4331-and-DI-17-4242---Referral-Letter.pdf
 ---
-

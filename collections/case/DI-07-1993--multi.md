@@ -24,4 +24,3 @@ files:
 - label: Analysis
   href: /~assets/documents/DI-07-1993-Analysis.PDF
 ---
-
