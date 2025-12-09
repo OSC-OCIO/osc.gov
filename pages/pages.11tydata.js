@@ -1,50 +1,42 @@
 /**
- * Shared computed data for every template in the /pages directory.
- * - Builds clean permalinks from the folder structure (strips the leading "pages/" and file extensions).
- * - Derives eleventyNavigation automatically from the same structure.
- * - Respects explicit front matter: `permalink` (including `false`), `eleventyNavigation`, and `order`.
+ * Shared computed data for everything under /pages.
+ * - Builds clean permalinks from the folder structure (strips leading "pages/" and file extensions).
+ * - Derives eleventyNavigation from the same structure.
+ * - Honors explicit front matter: `permalink` (including false), `eleventyNavigation`, and `order`.
  */
 
-/**
- * Remove the leading "pages/" segment from an inputPath and split into parts.
- */
-function splitPath(inputPath) {
-  return inputPath
+const path = require("path");
+
+// Strip /pages/ prefix and split into path parts
+const splitParts = (inputPath) =>
+  inputPath
     .replace(/^\.?\/?pages\//, "")
     .split("/")
     .filter(Boolean);
-}
 
-/**
- * Turn path parts into URL segments (drop extensions, drop trailing index).
- */
-function toSegments(parts) {
+// Drop extensions and trailing index.* to form URL segments
+const toSegments = (parts) => {
   const withoutExt = parts.map((p) => p.replace(/\.(md|njk|html)$/, ""));
-  const isIndex = withoutExt[withoutExt.length - 1] === "index";
-  return isIndex ? withoutExt.slice(0, -1) : withoutExt;
-}
+  return withoutExt[withoutExt.length - 1] === "index"
+    ? withoutExt.slice(0, -1)
+    : withoutExt;
+};
 
-/**
- * Build a label from a segment or title.
- */
-function makeLabel(segment, fallback) {
-  return (segment || fallback || "Home")
-    .replace(/^[0-9]+[-_]/, "") // strip numeric prefixes
+const humanLabel = (segment, fallback) =>
+  (segment || fallback || "Home")
+    .replace(/^[0-9]+[-_]/, "")
     .replace(/[-_]+/g, " ")
     .replace(/(^|\s)(\w)/g, (_, s, c) => s + c.toUpperCase());
-}
 
 module.exports = {
   eleventyComputed: {
     permalink: (data) => {
-      // Respect explicit front matter: if permalink is set, use it (including false).
+      // Respect explicit settings, including false (e.g., 404).
       if (Object.prototype.hasOwnProperty.call(data, "permalink")) {
         return data.permalink;
       }
 
-      const parts = splitPath(data.page.inputPath);
-      const segments = toSegments(parts);
-
+      const segments = toSegments(splitParts(data.page.inputPath));
       let url = "/" + segments.join("/") + "/";
       url = url.replace(/\/+/g, "/");
       if (url === "//") url = "/";
@@ -52,10 +44,8 @@ module.exports = {
     },
 
     eleventyNavigation: (data) => {
-      // Skip non-routing pages.
+      // Skip non-routing pages or explicit opt-out.
       if (data.permalink === false) return false;
-
-      // Honor explicit opt-out or explicit config.
       if (data.eleventyNavigation === false) return false;
       if (
         data.eleventyNavigation &&
@@ -64,11 +54,9 @@ module.exports = {
         return data.eleventyNavigation;
       }
 
-      const parts = splitPath(data.page.inputPath);
-      const segments = toSegments(parts);
-
+      const segments = toSegments(splitParts(data.page.inputPath));
       const label =
-        data.title || makeLabel(segments.slice(-1)[0], data.page.fileSlug);
+        data.title || humanLabel(segments.slice(-1)[0], data.page.fileSlug);
 
       const parentSegments = segments.slice(0, -1);
       let parent = parentSegments.length
@@ -76,13 +64,12 @@ module.exports = {
         : undefined;
 
       const url =
-        (Object.prototype.hasOwnProperty.call(data, "permalink") &&
-          typeof data.permalink === "string" &&
-          data.permalink.length > 0)
+        typeof data.permalink === "string" && data.permalink.length > 0
           ? data.permalink
           : ("/" + segments.join("/") + "/").replace(/\/+/g, "/");
+
       const isHome = url === "/";
-      if (!parent && !isHome) parent = "/"; // hang top-level items off home
+      if (!parent && !isHome) parent = "/"; // attach top-level items to home
 
       const nav = { key: url, url, title: label };
       if (parent) nav.parent = parent;
