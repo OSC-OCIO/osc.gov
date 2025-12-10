@@ -1,5 +1,7 @@
 ---
 title: System of Records Notices (SORNs)
+eleventyNavigation:
+  order: 3
 ---
 
 ​

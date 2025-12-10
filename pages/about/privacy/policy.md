@@ -1,5 +1,7 @@
 ---
 title: Privacy Policies & Reports
+eleventyNavigation:
+  order: 5
 ---
 
 Thank you for visiting the U.S. Office of Special Counsel (OSC) Web site, and for reviewing our Internet privacy policy. The privacy policy, in brief, is clear: We collect no personal information about you when you visit this site unless you choose to provide it to us. Any information that we receive depends upon what you do when you visit the site. Further details of the policy are provided below.

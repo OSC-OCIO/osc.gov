@@ -1,5 +1,7 @@
 ---
 title: Accessibility for Individuals with Disabilities
+eleventyNavigation:
+  order: 1
 ---
 
 ​​The Office of Special Counsel (OSC) is committed to providing access to the content on our website for individuals with disabilities.  Section 508 of the Rehabilitation Act of 1973, as amended, requires us to ensure that Federal employees and members of the public with disabilities have access to and use of information and data that is comparable to that of Federal employees and members of the public without disabilities.  

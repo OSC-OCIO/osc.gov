@@ -1,5 +1,7 @@
 ---
 title: 'Privacy: Resources'
+eleventyNavigation:
+  order: 6
 ---
 
 ​[Office of Management and Budget Privacy Guidance](https://www.whitehouse.gov/omb/information-regulatory-affairs/privacy/)​

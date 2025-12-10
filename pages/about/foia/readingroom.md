@@ -1,5 +1,7 @@
 ---
 title: FOIA Reading Room
+eleventyNavigation:
+  order: 3
 ---
 
 [FOIA Log Fiscal Year 2021](../~assets/documents/FOIA-Log-Fiscal-Year-2021.pdf)

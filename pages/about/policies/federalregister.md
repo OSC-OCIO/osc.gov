@@ -1,5 +1,7 @@
 ---
 title: OSC Federal Register Notices
+eleventyNavigation:
+  order: 2
 ---
 
 [OSC Draft Strategic Plan](../~assets/documents/OSC-Draft-Strategic-Plan.pdf)

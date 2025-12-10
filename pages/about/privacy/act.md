@@ -1,5 +1,7 @@
 ---
 title: The Privacy Act of 1974
+eleventyNavigation:
+  order: 2
 ---
 
 The Privacy Act of 1974 is a federal law that governs our collection and use of records we maintain on you in a system of records. A system of records is any grouping of information about an individual under the control of a Federal agency from which information is retrievable by personal identifiers, such as name, social security number, or other identifying number or symbol.  Under the Privacy Act, Federal agencies may not disclose information without consent unless certain exceptions apply to the disclosure. The Privacy Act provides protections to individuals in three primary ways. It provides individuals with:

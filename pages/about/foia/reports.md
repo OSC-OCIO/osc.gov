@@ -1,5 +1,7 @@
 ---
 title: FOIA Reports
+eleventyNavigation:
+  order: 4
 ---
 
 ## Annual Reports

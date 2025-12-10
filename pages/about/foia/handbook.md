@@ -1,5 +1,7 @@
 ---
 title: FOIA Handbook
+eleventyNavigation:
+  order: 2
 ---
 
 *   What is the Freedom of Information Act?
