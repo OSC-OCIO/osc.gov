@@ -1,7 +1,7 @@
 ---
 title: Employee Engagement at OSC
 eleventyNavigation:
-  order: 0
+  order: 1
 ---
 
 ​The U.S. Office of Personnel Management (OPM) defines employee engagement as "employees' sense of purpose that is evident in their display of dedication, persistence, and effort in their work and overall attachment to their organization and its mission." OSC strives to maximize all of its employees'​​ engagement in the agency.​
