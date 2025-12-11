@@ -20,6 +20,19 @@
   $theme-show-notifications: false,
   $theme-font-path: "../node_modules/@uswds/uswds/dist/fonts",
   $theme-image-path: "../node_modules/@uswds/uswds/dist/img",
+  $theme-color-base-lighter: #ababab,
+  $theme-color-base-lightest: #f0f0f0,
+  $theme-color-base-dark: #323a45,
+  $theme-color-base-darkest: #1b1b1b,
+  $theme-color-primary: #112e51,
+  $theme-color-primary-light: #2f4668,
+  $theme-color-primary-lightest: #02bfe7,
+  $theme-color-primary-dark: #162e51,
+  $theme-color-primary-darker: #07162d,
+  $theme-color-secondary: #cd2026,
+  $theme-color-secondary-dark: #981b1e,
+  $theme-color-accent-cool: #2e8540,
+  $theme-color-accent-cool-light: #4aa564,
   $theme-font-type-sans: "public-sans",
   $theme-lead-font-size: "md",
   $theme-hero-image: "../node_modules/@uswds/uswds/dist/img/hero.jpg",
@@ -52,3 +65,63 @@ img {
   padding: 0.15rem;
   border-radius: 50%;
 }
+
+.usa-nav__primary button,
+.usa-nav__primary > .usa-nav__primary-item > a {
+  color: color('white') !important; 
+}
+
+.usa-header--extended .usa-nav__primary-item>.usa-current:after, .usa-header--extended .usa-nav__primary-item>.usa-nav__link:hover:after {
+    background-color: color('white');
+}
+
+.usa-nav__secondary-links {
+  @include at-media("desktop") {
+    a {
+      @include u-text("white");
+
+      &:hover {
+        @include u-text("white");
+      }
+    }
+  }
+}
+
+.usa-footer__secondary-section a {
+  @include u-text("white");
+  &:hover {
+    @include u-text("white");
+  }
+}
+
+.usa-hero {
+    width: 100vw;
+    margin-left: calc(50% - 50vw);
+    background-blend-mode: multiply;
+    background-image: linear-gradient(to bottom,#07162d 35%,#005ea2 132%);
+    background-position: center!important;
+    display: flex;
+    flex-wrap: wrap;
+    min-height: 200px;
+    border-top: 0!important;
+    padding: 1.5rem 0
+}
+
+  .usa-nav {
+    @include at-media($theme-header-min-width) {
+      border-top: none !important;
+      padding: 0;
+      width: 100%;
+    }
+  }
+
+//   .usa-card__container {
+//   @include border-box-sizing;
+//   @include set-text-and-bg("base-lightest");
+//   @include u-border("transparent");
+//   @include u-display("flex");
+//   @include u-height("full");
+//   @include u-flex("column");
+//   @include u-position("relative");
+//   @include u-shadow(1)
+// }
