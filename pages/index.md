@@ -19,7 +19,7 @@ topics:
     img: https://designsystem.digital.gov/img/introducing-uswds-2-0/built-to-grow--alt.jpg
     alt: A placeholder image
     body: Lorem ipsum dolor sit amet consectetur adipisicing elit.
-    buttontext: Visit Florida Keys
+    buttontext: Read More
   - title: Default flag
     url: /
     img: https://designsystem.digital.gov/img/introducing-uswds-2-0/built-to-grow--alt.jpg
