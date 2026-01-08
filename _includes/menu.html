@@ -19,6 +19,13 @@
         >
       </button>
       <ul class="usa-nav__primary usa-accordion">
+        <li class="usa-nav__primary-item">
+          <a
+            class="usa-nav__link{% if '/' == page.url %} usa-current{% endif %}"
+            href="/"
+            ><span>Home</span></a
+          >
+        </li>
         {% for nav_item in primary_navigation[0].children %}
           {% if nav_item.children.length < 1 or nav_item.hideChildrenFromTopNav %}
             <li class="usa-nav__primary-item">
@@ -51,7 +58,9 @@
       </ul>
       <div class="usa-nav__secondary">
         <ul class="usa-nav__secondary-links">
-          <ul class="add-list-reset display-flex flex-justify-center margin-bottom-2 desktop:margin-bottom-0">
+          <ul
+            class="add-list-reset display-flex flex-justify-center margin-bottom-2 desktop:margin-bottom-0"
+          >
             {% include 'socialmedia.html' %}
           </ul>
           {% for nav_item in secondary_navigation %}

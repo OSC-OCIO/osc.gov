@@ -3,13 +3,15 @@ permalink: /
 layout: layouts/wide
 title: Home
 eleventyNavigation:
-  key: home
+  key: /
   title: Home
+  order: 0
 hero:
   title: Hero callout
   url: /
-  body: >
-    Support the callout with some short explanatory text. You don’t need more than a couple of sentences.
+  body:
+    "Support the callout with some short explanatory text. You don\u2019t need\
+    \ more than a couple of sentences.\n"
   buttontext: Call to action
 topics:
   - title: Default flag

@@ -1,0 +1,42 @@
+<li class="usa-collection__item">
+  <div class="usa-collection__body">
+    <h3 class="usa-collection__heading">
+      <a class="usa-link" href="{{ post.url }}">{{- post.data.title -}}</a>
+    </h3>
+    <ul class="usa-collection__meta" aria-label="More information">
+      <li class="usa-collection__meta-item">{{- post.data.locations[0] -}}</li>
+      <li class="usa-collection__meta-item">
+        {{- post.data.source.agency -}}
+        {%- if post.data.source.subagency -%}
+          ,{{ ' ' }}
+          {{- post.data.source.subagency -}}
+        {%- endif -%}
+      </li>
+      <li class="usa-collection__meta-item">
+        <time datetime="{{ post.date | date: '%Y-%m-%dT12:00:00+01:00' }}">
+          {{- post.date | date: '%B %d, %Y' -}}
+        </time>
+      </li>
+    </ul>
+    <p class="usa-collection__description">
+      {%- if post.data.results -%}
+        <h4>Results:</h4>
+        <ul>
+          {%- for result in post.data.results -%}
+            <li>{{ result }}</li>
+          {%- endfor -%}
+        </ul>
+      {%- endif -%}
+      {%- if post.data.files -%}
+        <h4>Associated files:</h4>
+        <ul>
+          {%- for file in post.data.files -%}
+            <li>
+              <a href="{{file.href }}">{{ file.label }}</a>
+            </li>
+          {%- endfor -%}
+        </ul>
+      {%- endif -%}
+    </p>
+  </div>
+</li>

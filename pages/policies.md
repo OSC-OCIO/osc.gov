@@ -1,5 +1,6 @@
 ---
 title: Policies
+eleventyNavigation: false
 sidenav: false
 ---
 

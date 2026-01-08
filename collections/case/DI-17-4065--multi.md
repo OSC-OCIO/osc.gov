@@ -1,0 +1,21 @@
+---
+title: DI-17-4065 and DI-17-4247
+source:
+  agency: Veterans Affairs
+cases:
+- DI-17-4065
+- DI-17-4247
+locations:
+- San Juan, Puerto Rico
+results:
+- Changes in agency rules, regulations, policy or practices
+- Unsubstantiated but led to agency changes
+date: 2019-10-10
+files:
+- label: Letter to the President
+  href: /~assets/documents/DI-17-4065-and-DI-17-4247-Letter-to-the-President.pdf
+- label: Agency Report
+  href: /~assets/documents/Agency-Report-DI-17-4065-and-DI-17-4247.pdf
+- label: Referral Letter
+  href: /~assets/documents/DI-17-4065-and-DI-17-4247-Referral.pdf
+---

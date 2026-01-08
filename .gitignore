@@ -122,3 +122,4 @@ _site
 public
 node_modules
 _data/assetPaths.json
+~assets

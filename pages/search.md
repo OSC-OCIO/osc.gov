@@ -1,7 +1,7 @@
 ---
 title: Search results
 layout: layouts/search
-permalink: /search/
+eleventyNavigation: false
 sidenav: false
 ---
 
