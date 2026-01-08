@@ -1,13 +1,15 @@
 {% assign primary_navigation = collections.all | eleventyNavigation %}
 
 <header class="usa-header usa-header--extended" role="banner">
-  <div class="usa-navbar border-bottom-0">
-    {% include 'logo.html' %}
-    <button class="usa-menu-btn">Menu</button>
+  <div class="bg-primary-darker">
+    <div class="usa-navbar border-bottom-0">
+      {% include 'logo.html' %}
+      <button class="usa-menu-btn">Menu</button>
+    </div>
   </div>
   <nav
     role="navigation"
-    class="usa-nav"
+    class="usa-nav bg-primary-light"
   >
     <div class="usa-nav__inner">
       <button class="usa-nav__close" aria-label="Close navigation menu">
@@ -54,7 +56,7 @@
           </ul>
           {% for nav_item in secondary_navigation %}
             <li class="usa-nav__secondary-item text-center desktop:text-left display-block">
-              <a href="{{ nav_item.url }}">{{ nav_item.name | escape }}</a>
+              <a href="{{ nav_item.url }}" class="desktop:text-white hover:text-white">{{ nav_item.name | escape }}</a>
             </li>
           {% endfor %}
         </ul>

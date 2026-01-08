@@ -20,20 +20,20 @@
       <div class="desktop-lg:grid-col-4"></div>
     </div>
   </div>
-  <div class="usa-footer__secondary-section border-top border-base">
+  <div class="usa-footer__secondary-section bg-primary border-top border-base">
     <div class="grid-container">
       <div
         class="usa-footer__logo grid-row grid-gap-2 text-center desktop:text-left"
       >
         <div class="grid-col-12 desktop:grid-col-auto">
           <img
-            src="/node_modules/@uswds/uswds/dist/img/logo-img.png"
+            src="/img/osc-logo.png"
             class="maxw-6"
             alt="{{ site.title }}"
           />
         </div>
         <div class="grid-col-12 desktop:grid-col-fill">
-          <p class="usa-footer__logo-heading font-sans-lg">{{ site.title }}</p>
+          <p class="usa-footer__logo-heading text-white font-sans-lg">{{ site.title }}</p>
         </div>
         <div class="grid-col-12 desktop:grid-col-auto">
           <ul
@@ -41,7 +41,7 @@
           >
             {% include 'socialmedia.html' %}
           </ul>
-          <a href="mailto:{{ site.email }}">{{ site.email }}</a>
+          <a href="mailto:{{ site.email }}" class="text-white">{{ site.email }}</a>
         </div>
       </div>
     </div>
