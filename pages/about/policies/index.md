@@ -2,7 +2,7 @@
 title: Policies
 permalink: /about/policies/
 eleventyNavigation:
-  order: 3
+  order: 6
 ---
 
 <meta http-equiv="refresh" content="0; url=/about/policies/accessibility/">

@@ -31,20 +31,25 @@ secondary_navigation:
     url: "/contact/"
 
 footer_navigation:
-  - name: Accessibility statement
-    url: "/policies/#accessibility-statement"
+  - name: Open Government
+    url: "/resources/opengov"
   - name: Freedom of Information Act (FOIA)
-    url: "/policies/#freedom-of-information-act-foia"
-  - name: Equal employment
-    url: "/policies/#equal-employment"
-  - name: External links
-    url: "/policies/#external-links"
-  - name: Privacy policy
-    url: "/policies/#privacy-policy"
-  - name: Vulnerability disclosure policy
-    url: "/policies/#vulnerability-disclosure-policy"
-  - name: Have a question about government services? Contact USA.gov.
+    url: "/about/foia/index"
+  - name: Artificial Intelligence (AI)
+    url: "/resources/ai"
+  - name: Privacy Program
+    url: "/about/privacy/index"
+  - name: No FEAR Act/EEO Reports
+    url: "/resources/reports"
+  - name: USA.gov
     url: https://usa.gov/
+  - name: Accessibility
+    url: "/about/policies/accessibility"
+  - name: Careers
+    url: "/about/opportunities"
+  - name: Para Información En Español
+    url: "/about/policies/espanol"
+
 
 # Search.gov configuration
 #
