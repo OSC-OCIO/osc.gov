@@ -10,13 +10,9 @@ alert:
 
 social-media:
   - service: twitter
-    link: "https://x.com/MyAgency"
-  - service: vimeo
-    link: "https://vimeo.com/MyAgency"
-  - service: instagram
-    link: "https://www.instagram.com/MyAgency"
-  - service: facebook
-    link: "https://www.facebook.com/MyAgency"
+    link: "https://x.com/US_OSC"
+  - service: youtube
+    link: "https://www.youtube.com/channel/UCx5trnGvaEc-tuytqNwafpA"
 
 # Used to construct absolute URLs throughout the site
 url: "https://www.MyAgency.gov"
