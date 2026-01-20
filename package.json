@@ -47,6 +47,7 @@
   },
   "dependencies": {
     "@uswds/uswds": "^3.8.2",
-    "decap-cms": "^3.3.3"
+    "decap-cms": "^3.3.3",
+    "eleventy-plugin-youtube-embed": "^1.13.1"
   }
 }
