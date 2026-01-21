@@ -1,5 +1,7 @@
 ---
 title: How to File a Hatch Act Complaint
+eleventyNavigation:
+  order: 4
 ---
 
 OSC is also authorized to investigate violations of the Hatch Act. 5 U.S.C. § 1216 (a)(1)(2). If OSC charges an employee with a violation of the Hatch Act, those charges are adjudicated before the Merit Systems Protection Board. 5 U.S.C. §§ 1215, 1504 – 1508, 7321 – 7326. Filers alleging a violation of the Hatch Act can use OSC's Online Filing Portal by clicking the green _File a Complaint_ button in the top right-hand corner of this screen.

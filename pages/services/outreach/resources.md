@@ -1,5 +1,7 @@
 ---
 title: Additional Resources for Outreach, Training, & Certification
+eleventyNavigation:
+  order: 8
 ---
 
 - Handouts

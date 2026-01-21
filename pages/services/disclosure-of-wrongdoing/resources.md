@@ -1,5 +1,7 @@
 ---
 title: Additional Resources for Disclosure of Wrongdoing
+eleventyNavigation:
+  order: 7
 ---
 
 - Disclosures of Wrongdoing - Video
