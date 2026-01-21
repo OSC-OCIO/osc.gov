@@ -1,5 +1,7 @@
 ---
 title: Additional Resources for USERRA
+eleventyNavigation:
+  order: 6
 ---
 
 ## USERRA Overview - Video

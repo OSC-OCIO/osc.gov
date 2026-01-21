@@ -1,5 +1,7 @@
 ---
 title: Confidentiality & Anonymity When Filing a Disclosure Claim
+eleventyNavigation:
+  order: 3
 ---
 
 ​A whistleblower's identity will not be revealed by OSC without his or her consent except in rare cases where the Special Counsel determines there is an imminent danger to public health or safety or an imminent violation of a criminal law. In such a case, OSC would attempt to contact the whistleblower to inform him or her of this communication.

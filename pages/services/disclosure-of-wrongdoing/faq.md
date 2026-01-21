@@ -1,5 +1,7 @@
 ---
 title: Disclosure of Wrongdoing FAQs
+eleventyNavigation:
+  order: 6
 ---
 
 ## Disclosure of Wrongdoing

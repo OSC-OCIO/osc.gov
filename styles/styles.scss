@@ -127,6 +127,27 @@ img {
   object-fit: cover;
 }
 
+.usa-card {
+  position: relative;
+  transition: box-shadow 0.2s ease, transform 0.2s ease;
+}
+
+.usa-card:has(.usa-card__stretched-link:hover),
+.usa-card:has(.usa-card__stretched-link:focus-visible) {
+  @include u-shadow(3);
+}
+
+.usa-card__stretched-link {
+  position: absolute;
+  inset: 0;
+  z-index: 10;
+  display: block;
+}
+
+.usa-card__container {
+  position: relative;
+}
+
 //   .usa-card__container {
 //   @include border-box-sizing;
 //   @include set-text-and-bg("base-lightest");

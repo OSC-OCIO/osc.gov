@@ -1,5 +1,7 @@
 ---
 title: 2302(c) Certification Process
+eleventyNavigation:
+  order: 2
 ---
 
 ### ​STEP 1: Registration​
