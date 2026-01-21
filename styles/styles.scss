@@ -107,13 +107,25 @@ img {
     padding: 1.5rem 0
 }
 
-  .usa-nav {
-    @include at-media($theme-header-min-width) {
-      border-top: none !important;
-      padding: 0;
-      width: 100%;
-    }
+.usa-nav {
+  @include at-media($theme-header-min-width) {
+    border-top: none !important;
+    padding: 0;
+    width: 100%;
   }
+}
+
+.usa-card__img {
+  height: 180x;
+  overflow: hidden;
+}
+
+.usa-card__img img {
+  display: block;
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+}
 
 //   .usa-card__container {
 //   @include border-box-sizing;
