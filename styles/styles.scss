@@ -107,13 +107,46 @@ img {
     padding: 1.5rem 0
 }
 
-  .usa-nav {
-    @include at-media($theme-header-min-width) {
-      border-top: none !important;
-      padding: 0;
-      width: 100%;
-    }
+.usa-nav {
+  @include at-media($theme-header-min-width) {
+    border-top: none !important;
+    padding: 0;
+    width: 100%;
   }
+}
+
+.usa-card__img {
+  height: 180x;
+  overflow: hidden;
+}
+
+.usa-card__img img {
+  display: block;
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+}
+
+.usa-card {
+  position: relative;
+  transition: box-shadow 0.2s ease, transform 0.2s ease;
+}
+
+.usa-card:has(.usa-card__stretched-link:hover),
+.usa-card:has(.usa-card__stretched-link:focus-visible) {
+  @include u-shadow(3);
+}
+
+.usa-card__stretched-link {
+  position: absolute;
+  inset: 0;
+  z-index: 10;
+  display: block;
+}
+
+.usa-card__container {
+  position: relative;
+}
 
 //   .usa-card__container {
 //   @include border-box-sizing;

@@ -1,9 +1,8 @@
 ---
 title: Policies
-permalink: /about/policies/
+redirect_to: /about/accessibility
 eleventyNavigation:
-  order: 3
+  order: 6
 ---
 
-<meta http-equiv="refresh" content="0; url=/about/policies/accessibility/">
-<p>If you are not redirected, <a href="/about/policies/accessibility/">click here</a>.</p>
+

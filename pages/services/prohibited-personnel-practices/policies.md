@@ -1,5 +1,7 @@
 ---
 title: Policies & Procedures When Filing a Prohibited Personnel Practices Complaint
+eleventyNavigation:
+  order: 3
 ---
 
 #### ​​​​Can individuals​​ file a union grievance or MSPB appeal and OSC complaint on the same issue?​
