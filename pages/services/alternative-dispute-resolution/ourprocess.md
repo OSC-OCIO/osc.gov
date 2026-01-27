@@ -1,7 +1,5 @@
 ---
 title: Alternative Dispute Resolution Process
-eleventyNavigation:
-  order: 1
 ---
 
 ### ​​​​​​​​​​​​Our P​rocess

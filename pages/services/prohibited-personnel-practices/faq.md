@@ -1,7 +1,5 @@
 ---
 title: Prohibited Personnel Practices FAQs
-eleventyNavigation:
-  order: 8
 ---
 
 ## Prohibited Personnel PracticesFiling Complaints

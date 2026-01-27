@@ -1,7 +1,5 @@
 ---
 title: 2302(c) Registered Agencies
-eleventyNavigation:
-  order: 5
 ---
 
 ​The following agencies have registered for the 2302(c) certification program:

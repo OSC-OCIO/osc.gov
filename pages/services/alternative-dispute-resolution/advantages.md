@@ -1,7 +1,5 @@
 ---
 title: Advantages of Mediation
-eleventyNavigation:
-  order: 2
 ---
 
 ​Mediation is well suited for many PPP and USERRA claims because it is:
