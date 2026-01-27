@@ -1,7 +1,7 @@
 ---
 title: Contact OSC
 eleventyNavigation:
-  order: 3
+  order: 2
 ---
 
 ###

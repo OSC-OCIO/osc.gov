@@ -1,7 +1,5 @@
 ---
 title: Additional Resources for Hatch Act
-eleventyNavigation:
-  order: 9
 ---
 
 - Hatch Act: Overview - Video

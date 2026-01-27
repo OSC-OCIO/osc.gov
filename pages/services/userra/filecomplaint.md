@@ -1,7 +1,5 @@
 ---
 title: How to File a USERRA Complaint
-eleventyNavigation:
-  order: 3
 ---
 
 ​If you believe your USERRA rights may have been violated, you may file a formal complaint with the [U.S. Department of Labor, Veterans Employment & Training Service (DOL-VETS)](https://www.dol.gov/agencies/vets):

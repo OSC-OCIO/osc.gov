@@ -1,7 +1,5 @@
 ---
 title: Amicus Working Group
-eleventyNavigation:
-  order: 6
 ---
 
 ​​OSC's Amicus Working Group (AWG) seeks to make effective use of *amicus curiae* (friend of the court) briefs before the Merit Systems Protection Board and in federal courts. An *amicus curiae* brief is a legal argument provided to a court by a person or group who is not a party to the case, but who could be affected by the legal questions it raises.

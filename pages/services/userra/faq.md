@@ -1,7 +1,5 @@
 ---
 title: USERRA FAQs
-eleventyNavigation:
-  order: 5
 ---
 
 ## USERRA

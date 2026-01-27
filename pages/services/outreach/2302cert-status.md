@@ -1,7 +1,5 @@
 ---
 title: 2302(c) Certified Agencies
-eleventyNavigation:
-  order: 6
 ---
 
 Please see the complete list of 2302(c) Certified agencies below.  Agencies have six (6) months to complete the recertification process before being removed from the certification list.  An asterisk (\*) next to the agency name means that the agency has initiated the recertification process by registering for the 2302(c) Certification Program.   
