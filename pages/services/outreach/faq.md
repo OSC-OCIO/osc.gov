@@ -1,5 +1,7 @@
 ---
 title: Outreach, Training, & Certification FAQs
+eleventyNavigation:
+  order: 7
 ---
 
 ## Outreach Training

@@ -1,5 +1,7 @@
 ---
 title: Alternative Dispute Resolution FAQs
+eleventyNavigation:
+  order: 3
 ---
 
 ## Alternative Dispute Resolution

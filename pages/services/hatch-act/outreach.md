@@ -1,5 +1,7 @@
 ---
 title: Hatch Act Outreach
+eleventyNavigation:
+  order: 7
 ---
 
 ​OSC offers training to federal agencies and non-federal organizations in each of the areas within OSC’s jurisdiction. Specifically, OS​C offers training on:
