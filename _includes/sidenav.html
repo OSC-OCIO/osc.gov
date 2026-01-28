@@ -18,6 +18,10 @@
     {%- if currentSection -%}
       <ul class="usa-sidenav">
         {%- for child in currentSection.children -%}
+          {%- assign isCurrentChild = false -%}
+          {%- if child.url and currentUrl contains child.url -%}
+            {%- assign isCurrentChild = true -%}
+          {%- endif -%}
           <li class="usa-sidenav__item">
             <a
               href="{{ child.url }}"
@@ -27,7 +31,7 @@
             >
               {{ child.title }}
             </a>
-            {%- if child.children.size > 0 -%}
+            {%- if isCurrentChild and child.children.size > 0 -%}
               <ul class="usa-sidenav__sublist">
                 {%- for grandchild in child.children -%}
                   {%- unless grandchild.hideInSideNav -%}
