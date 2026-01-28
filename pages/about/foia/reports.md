@@ -10,9 +10,9 @@ eleventyNavigation:
 
 [Annual FOIA Report Fiscal Year 2024](../../../~assets/docs/annual-foia-report-fiscal-year-2024.xml)
 
-[Annual FOIA Report Fiscal 2023 - Raw Data](../../../~assets/docs/Annual-FOIA-Report-Fiscal-2023---Raw-Data.docx)
+[Annual FOIA Report Fiscal 2023 - Raw Data](../../../~assets/docs/annual-foia-report-fiscal-2023-raw-data.docx)
 
-[Annual FOIA Report Fiscal Year 2023](../../../~assets/docs/Annual-FOIA-Report-Fiscal-Year-2023.pdf)
+[Annual FOIA Report Fiscal Year 2023](../../../~assets/docs/annual-foia-report-fiscal-year-2023.pdf)
 
 [Annual FOIA Report Fiscal Year 2023 - DOJ Format](../../../~assets/docs/Annual-FOIA-Report-Fiscal-Year-2023---DOJ-Format.csv)
 
