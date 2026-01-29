@@ -4,5 +4,3 @@ lead: This sample page renders FAQs from a YAML data file using the USWDS accord
 layout: layouts/faq-accordion
 faqTag: filing
 ---
-
-{{ faqs }}
