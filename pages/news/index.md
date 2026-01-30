@@ -1,6 +1,9 @@
 ---
 title: News
-redirect_to: /news/news
+permalink: /news/
 eleventyNavigation:
   order: 3
 ---
+
+<meta http-equiv="refresh" content="0; url=/news/news/">
+<p>If you are not redirected, <a href="/news/news/">click here</a>.</p>

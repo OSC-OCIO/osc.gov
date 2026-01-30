@@ -1,7 +1,5 @@
 ---
 title: Hatch Act Advisory Opinions
-eleventyNavigation:
-  order: 3
 ---
 
 ## ​Federal Advisory Opinions

@@ -33,8 +33,9 @@
     "autoprefixer": "^10.4.20",
     "chokidar-cli": "^3.0.0",
     "eleventy-plugin-svg-sprite": "^2.4.2",
-    "esbuild": "0.25.0",
+    "esbuild": "0.27.2",
     "esbuild-sass-plugin": "^3.3.1",
+    "is-number": "^7.0.0",
     "js-yaml": "^4.1.0",
     "luxon": "^3.5.0",
     "markdown-it": "^14.1.0",
@@ -47,6 +48,11 @@
   },
   "dependencies": {
     "@uswds/uswds": "^3.8.2",
-    "decap-cms": "^3.3.3"
+    "decap-cms": "^3.3.3",
+    "eleventy-plugin-youtube-embed": "^1.13.1"
+  },
+  "overrides": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
   }
 }

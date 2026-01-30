@@ -1,7 +1,5 @@
 ---
 title: Hatch Act FAQs
-eleventyNavigation:
-  order: 8
 ---
 
 ## ​​​​General

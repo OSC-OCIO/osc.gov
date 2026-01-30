@@ -1,7 +1,5 @@
 ---
 title: Additional Resources for Prohibited Personnel Practices
-eleventyNavigation:
-  order: 9
 ---
 
 - Amicus Curiae Briefs

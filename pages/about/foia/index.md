@@ -1,7 +1,7 @@
 ---
 title: Freedom of Information Act
 eleventyNavigation:
-  order: 4
+  order: 1
 ---
 
 ​Freedom of Information Act (FOIA) requests must be submitted in writing by U.S. postal mail or other delivery service, e-mail, fax, or through our [Public Access Link (PAL)](https://efoia.osc.gov/) portal. The PAL allows you to submit a FOIA request online, as well as receive confirmations and updates on your pendi​ng request. (Online requests require use of an access account. [Click here​](https://efoia.osc.gov/) to create your account.)​ If sent by U.S. postal mail or other delivery service, your letter should clearly be marked "FOIA Request" and be addressed to:
