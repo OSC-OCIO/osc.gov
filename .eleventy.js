@@ -7,6 +7,7 @@ const markdownItNamedHeadings = require("markdown-it-named-headings");
 const yaml = require("js-yaml");
 const svgSprite = require("eleventy-plugin-svg-sprite");
 const { eleventyImageTransformPlugin } = require("@11ty/eleventy-img");
+const embedYouTube = require("eleventy-plugin-youtube-embed");
 
 module.exports = async function (config) {
   const { EleventyHtmlBasePlugin } = await import("@11ty/eleventy");
@@ -23,6 +24,10 @@ module.exports = async function (config) {
   config.addPlugin(pluginRss);
   config.addPlugin(pluginNavigation);
   config.addPlugin(EleventyHtmlBasePlugin);
+  config.addPlugin(embedYouTube, {
+    modestBranding: true,
+    lazy: true,
+  });
   config.addPlugin(eleventyImageTransformPlugin, {
     failOnError: false,
     widths: ["auto", 600],
@@ -77,7 +82,7 @@ module.exports = async function (config) {
 
     const postsByYear = uniqueYears.reduce((prev, year) => {
       const filteredPosts = posts.filter(
-        (post) => post.date.getFullYear() === year
+        (post) => post.date.getFullYear() === year,
       );
 
       return [...prev, [year, filteredPosts]];
