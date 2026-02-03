@@ -69,6 +69,15 @@ module.exports = async function (config) {
   config.addLiquidShortcode("uswds_icon", function (name) {
     return `<svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="#svg-${name}"></use></svg>`;
   });
+  config.addShortcode("youtube", (videoURL, title) => {
+    const url = new URL(videoURL);
+    const id = url.searchParams.get("v");
+    return `
+<iframe class="yt-shortcode" src="https://www.youtube-nocookie.com/embed/${id}" title="YouTube video player${
+      title ? ` for ${title}` : ""
+    }" frameborder="0" allowfullscreen></iframe>
+`;
+  });
 
   config.addCollection("postsByYear", (collection) => {
     const posts = collection.getFilteredByTag("announcements").reverse();
@@ -77,7 +86,7 @@ module.exports = async function (config) {
 
     const postsByYear = uniqueYears.reduce((prev, year) => {
       const filteredPosts = posts.filter(
-        (post) => post.date.getFullYear() === year
+        (post) => post.date.getFullYear() === year,
       );
 
       return [...prev, [year, filteredPosts]];

@@ -68,11 +68,12 @@ img {
 
 .usa-nav__primary button,
 .usa-nav__primary > .usa-nav__primary-item > a {
-  color: color('white') !important; 
+  color: color("white") !important;
 }
 
-.usa-header--extended .usa-nav__primary-item>.usa-current:after, .usa-header--extended .usa-nav__primary-item>.usa-nav__link:hover:after {
-    background-color: color('white');
+.usa-header--extended .usa-nav__primary-item > .usa-current:after,
+.usa-header--extended .usa-nav__primary-item > .usa-nav__link:hover:after {
+  background-color: color("white");
 }
 
 .usa-nav__secondary-links {
@@ -95,16 +96,16 @@ img {
 }
 
 .usa-hero {
-    width: 100vw;
-    margin-left: calc(50% - 50vw);
-    background-blend-mode: multiply;
-    background-image: linear-gradient(to bottom,#07162d 35%,#005ea2 132%);
-    background-position: center!important;
-    display: flex;
-    flex-wrap: wrap;
-    min-height: 200px;
-    border-top: 0!important;
-    padding: 1.5rem 0
+  width: 100vw;
+  margin-left: calc(50% - 50vw);
+  background-blend-mode: multiply;
+  background-image: linear-gradient(to bottom, #07162d 35%, #005ea2 132%);
+  background-position: center !important;
+  display: flex;
+  flex-wrap: wrap;
+  min-height: 200px;
+  border-top: 0 !important;
+  padding: 1.5rem 0;
 }
 
 .usa-nav {
@@ -129,7 +130,9 @@ img {
 
 .usa-card {
   position: relative;
-  transition: box-shadow 0.2s ease, transform 0.2s ease;
+  transition:
+    box-shadow 0.2s ease,
+    transform 0.2s ease;
 }
 
 .usa-card:has(.usa-card__stretched-link:hover),
@@ -148,6 +151,12 @@ img {
   position: relative;
 }
 
+iframe.yt-shortcode {
+  aspect-ratio: 16 / 9;
+  margin: 1rem 0;
+  max-height: 25rem;
+  width: 100%;
+}
 //   .usa-card__container {
 //   @include border-box-sizing;
 //   @include set-text-and-bg("base-lightest");
