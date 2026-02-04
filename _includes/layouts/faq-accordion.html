@@ -1,0 +1,33 @@
+---
+layout: layouts/default
+---
+{% assign faq_items = faqs %}
+{% assign filter_tag = faqTag | default: "" %}
+
+{% if filter_tag != "" %}
+  {% assign faq_items = faq_items | where_exp: "item", "item.tags contains filter_tag" %}
+{% endif %}
+
+{{ content }}
+
+{% if faq_items and faq_items.size > 0 %}
+  <div class="usa-accordion usa-accordion--multiselectable padding-top-6" data-allow-multiple>
+    {% for item in faq_items %}
+      {% assign accordion_id = page.fileSlug | append: "-faq-" | append: forloop.index %}
+      <h2 class="usa-accordion__heading">
+        <button
+          class="usa-accordion__button"
+          aria-expanded="false"
+          aria-controls="{{ accordion_id }}"
+        >
+          {{ item.question }}
+        </button>
+      </h2>
+      <div id="{{ accordion_id }}" class="usa-accordion__content usa-prose">
+        {{ item.answer | markdownify }}
+      </div>
+    {% endfor %}
+  </div>
+{% else %}
+  <p class="usa-prose">No FAQs found.</p>
+{% endif %}

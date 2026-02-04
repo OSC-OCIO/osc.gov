@@ -64,6 +64,7 @@ module.exports = async function (config) {
     linkify: true,
   }).use(markdownItNamedHeadings);
   config.setLibrary("md", markdownLibrary);
+  config.addFilter("markdownify", (value) => markdownLibrary.render(value || ""));
 
   // Set image shortcodes
   config.addLiquidShortcode("uswds_icon", function (name) {
