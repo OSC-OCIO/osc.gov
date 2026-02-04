@@ -18,15 +18,15 @@ results:
 date: 2020-12-22
 files:
 - label: Letter to the President
-  href: /~assets/documents/OSC-Letter-to-the-President,-Dec.-22,-2020_Redacted.pdf
+  href: /~assets/documents/osc-letter-to-the-president,-dec.-22,-2020_redacted.pdf
 - label: Agency Report
-  href: /~assets/documents/USAF-Report-and-Report-Cover-Letter-to-OSC---Hill-AFB_Redacted.pdf
+  href: /~assets/documents/usaf-report-and-report-cover-letter-to-osc---hill-afb_redacted.pdf
 - label: Supplemental Agency Report
-  href: /~assets/documents/AF-Response-to-OSC---8-Sep-2020---redacted_Redacted.pdf
+  href: /~assets/documents/af-response-to-osc---8-sep-2020---redacted_redacted.pdf
 - label: Supplemental Agency Report
-  href: /~assets/documents/USAF-1214e-Agency-Reponse-to-OSC_Redacted.pdf
+  href: /~assets/documents/usaf-1214e-agency-reponse-to-osc_redacted.pdf
 - label: Whistleblower Comments
-  href: /~assets/documents/USAF-1213c-WB-Comments---REDACTED.pdf
+  href: /~assets/documents/usaf-1213c-wb-comments---redacted.pdf
 - label: Referral Letter
-  href: /~assets/documents/OSC-to-USAF---September-6,-2018-Referral---REDACTED_Redacted.pdf
+  href: /~assets/documents/osc-to-usaf---september-6,-2018-referral---redacted_redacted.pdf
 ---

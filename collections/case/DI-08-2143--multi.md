@@ -12,13 +12,13 @@ results:
 date: 2010-05-25
 files:
 - label: Letter to the President
-  href: /~assets/documents/DI-08-2143-and-DI-09-0033-Letter-to-President.PDF
+  href: /~assets/documents/di-08-2143-and-di-09-0033-letter-to-president.pdf
 - label: Agency Report
-  href: /~assets/documents/DI-08-2143-and-DI-09-0033-Agency-Report.pdf
+  href: /~assets/documents/di-08-2143-and-di-09-0033-agency-report.pdf
 - label: Agency Report
-  href: /~assets/documents/DI-08-2143-and-DI-09-0033-Supplemental-Report.pdf
+  href: /~assets/documents/di-08-2143-and-di-09-0033-supplemental-report.pdf
 - label: Whistleblower Comments
-  href: /~assets/documents/DI-08-2143-and-DI-09-0033-Whistleblower-Comments-Part-1.pdf
+  href: /~assets/documents/di-08-2143-and-di-09-0033-whistleblower-comments-part-1.pdf
 - label: Whistleblower Comments
-  href: /~assets/documents/DI-08-2143-and-DI-09-0033-Whistleblower-Comments-Part-2.pdf
+  href: /~assets/documents/di-08-2143-and-di-09-0033-whistleblower-comments-part-2.pdf
 ---

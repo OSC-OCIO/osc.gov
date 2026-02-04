@@ -21,7 +21,7 @@ The second memorandum urges departments and agencies to ensure that their non-di
 
 Federal law requires agency heads, in consultation with OSC, to ensure that “agency employees are informed of the rights and remedies available to them” under civil service and whistleblower  protection laws. OSC has certified more than 90 percent of federal agencies under its newly designated 2302(d) Certification Program. The certification steps include: (1) placing informational posters about  prohibited personnel practices (PPP) and whistleblower protection laws at agency facilities; (2) providing information about protections under whistleblower protection laws to new employees as part of the orientation process; (3) providing annual notification to current employees about their rights and remedies under whistleblower protection laws; (4) providing PPP training for supervisors; and (5) posting a link to OSC’s website on the agency’s website and intranet.  
 
-The memoranda issued today are available [here](../../~assets/documents/Non-Disclosure-Policies,-Forms,-or-Agreements,-February-1,-2018.pdf) and  [here](../../~assets/documents/2018-Agency-Requirements-Memo.pdf).   
+The memoranda issued today are available [here](../../~assets/documents/non-disclosure-policies,-forms,-or-agreements,-february-1,-2018.pdf) and  [here](../../~assets/documents/2018-agency-requirements-memo.pdf).   
 
 \*\*\*  
 

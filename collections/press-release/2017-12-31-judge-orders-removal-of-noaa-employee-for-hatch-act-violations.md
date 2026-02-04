@@ -31,7 +31,7 @@ ordered Mr. Arnold’s removal from his federal job because of the “conspicuou
 
 Most federal employees can engage in a wide variety of political activities while off duty and out of the federal
 
-workplace. This [one‐page factsheet](../../~assets/documents/The-Hatch-Act-and-Most-Federal-Employees-Poster.pdf) details the permitted and prohibited activities for most federal employees. A small subset of federal employees—mostly in law enforcement and the intelligence community—are subject to additional restrictions. This [factsheet](../../~assets/documents/The-Hatch-Act-and-Further-Restricted-Employees-Poster.pdf)​ lists those additional limitations and to which employees they apply. Agencies may have additional rules that restrict their employees apart from the Hatch Act.  
+workplace. This [one‐page factsheet](../../~assets/documents/the-hatch-act-and-most-federal-employees-poster.pdf) details the permitted and prohibited activities for most federal employees. A small subset of federal employees—mostly in law enforcement and the intelligence community—are subject to additional restrictions. This [factsheet](../../~assets/documents/the-hatch-act-and-further-restricted-employees-poster.pdf)​ lists those additional limitations and to which employees they apply. Agencies may have additional rules that restrict their employees apart from the Hatch Act.  
 
   
 

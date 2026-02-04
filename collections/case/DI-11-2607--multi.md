@@ -13,25 +13,25 @@ results:
 date: 2020-05-18
 files:
 - label: Letter to the President
-  href: /~assets/documents/Pres-ltr-DI-11-2607-DI-15-0965-and-DI-18-5445_Redacted.pdf
+  href: /~assets/documents/pres-ltr-di-11-2607-di-15-0965-and-di-18-5445_redacted.pdf
 - label: Agency Report
-  href: /~assets/documents/Agency-Report_Redacted.pdf
+  href: /~assets/documents/agency-report_redacted.pdf
 - label: Referral Letter (DI-11-2607)
-  href: /~assets/documents/Referral-Letter-(DI-11-2607).pdf
+  href: /~assets/documents/referral-letter-(di-11-2607).pdf
 - label: Referral Letter (DI-15-0965)
-  href: /~assets/documents/Referral-Letter-(DI-15-0965).pdf
+  href: /~assets/documents/referral-letter-(di-15-0965).pdf
 - label: Referral Letter (DI-18-5445)
-  href: /~assets/documents/Referral-Letter-(DI-18-5445).pdf
+  href: /~assets/documents/referral-letter-(di-18-5445).pdf
 - label: Whistleblower Comments (DI-11-2607)
-  href: /~assets/documents/Whistleblower-Comments-(DI-11-2607).pdf
+  href: /~assets/documents/whistleblower-comments-(di-11-2607).pdf
 - label: Whistleblower Comments (DI-15-0965)
-  href: /~assets/documents/Whistleblower-Comments-(DI-15-0965).pdf
+  href: /~assets/documents/whistleblower-comments-(di-15-0965).pdf
 - label: Whistleblower Comments (DI-18-5445)
-  href: /~assets/documents/Whistleblower-Comments-(DI-18-5445).pdf
+  href: /~assets/documents/whistleblower-comments-(di-18-5445).pdf
 - label: Agency Report (DI-11-2607)
-  href: /~assets/documents/Agency-Report-(DI-11-2607)-.pdf
+  href: /~assets/documents/agency-report-(di-11-2607)-.pdf
 - label: Agency Report (DI-18-5445)
-  href: /~assets/documents/Agency-Report-(DI-18-5445).pdf
+  href: /~assets/documents/agency-report-(di-18-5445).pdf
 - label: OIG Audit Report
-  href: /~assets/documents/OIG-Audit-Report-.pdf
+  href: /~assets/documents/oig-audit-report-.pdf
 ---

@@ -15,21 +15,21 @@ eleventyNavigation:
 
 [McCarthy v SSA (OSC Amicus Brief)](<../../~assets/documents/mccarthy-v-ssa-(osc-amicus-brief).pdf>)
 
-[24 05_14_OSC_Reese \_Amicus_Brief](../../~assets/documents/24-05_OSC_Reese-_Amicus_Brief.pdf)
+[24 05_14_OSC_Reese \_Amicus_Brief](../../~assets/documents/24-05_osc_reese-_amicus_brief.pdf)
 
-[Milton v VA_OSC Amicus Brief_11.15.23 s](../../~assets/documents/Milton-v-VA_OSC-Amicus-Brief.15.23-s.pdf)
+[Milton v VA_OSC Amicus Brief_11.15.23 s](../../~assets/documents/milton-v-va_osc-amicus-brief.15.23-s.pdf)
 
 [Jindal v MSPB (OSC Amicus Brief)](<../../~assets/documents/jindal-v-mspb-(osc-amicus-brief).pdf>)
 
-[Morales v. VA_OSC Amicus Brief_6.28.22](../../~assets/documents/Morales-v.-VA_OSC-Amicus-Brief_6.28.22.pdf)
+[Morales v. VA_OSC Amicus Brief_6.28.22](../../~assets/documents/morales-v.-va_osc-amicus-brief_6.28.22.pdf)
 
-[Mosley-Dawson Amicus Brief Final 6-28-22_Redacted](../../~assets/documents/Mosley-Dawson-Amicus-Brief-Final-6-28-22_Redacted.pdf)
+[Mosley-Dawson Amicus Brief Final 6-28-22_Redacted](../../~assets/documents/mosley-dawson-amicus-brief-final-6-28-22_redacted.pdf)
 
 [Besanceney (OSC Amicus Brief)](<../../~assets/documents/besanceney-(osc-amicus-brief).pdf>)
 
 [20210212 Salazar-VA Amicus Brief (final)\_Redacted](<../../~assets/documents/20210212-salazar-va-amicus-brief-(final)_Redacted.pdf>)
 
-[OSC Amicus Brief Tao v MSPB 8.11.2020](../../~assets/documents/OSC-Amicus-Brief-Tao-v-MSPB-8.11.2020.pdf)
+[OSC Amicus Brief Tao v MSPB 8.11.2020](../../~assets/documents/osc-amicus-brief-tao-v-mspb-8.11.2020.pdf)
 
 [Considine_OSC amicus brief (filed 05_14_19)](<../../~assets/documents/considine_osc-amicus-brief-(filed-05).pdf>)
 
@@ -37,51 +37,51 @@ eleventyNavigation:
 
 [OSC Amicus Curiae Brief in Ryan v. Department of Defense (MSPB) filed April 17, 2017_Redacted](<../../~assets/documents/osc-amicus-curiae-brief-in-ryan-v.-department-of-defense-(mspb)-fil-b18335bc.pdf>)
 
-[OSC Amicus Curiae Brief in Johnen v. Department of the Army (9th Cir.) filed April 14, 2017](../../~assets/documents/OSC-Amicus-Curiae-Brief-in-Johnen-v.-Department-of-the-Army-(9th-Ci-a110c1cd.pdf)
+[OSC Amicus Curiae Brief in Johnen v. Department of the Army (9th Cir.) filed April 14, 2017](../../~assets/documents/osc-amicus-curiae-brief-in-johnen-v.-department-of-the-army-(9th-ci-a110c1cd.pdf)
 
-[OSC Amicus Curiae Brief in Salazar v. Department of Veterans Affairs (MSPB) filed August 3, 2016_Redacted](../../~assets/documents/OSC-Amicus-Curiae-Brief-in-Salazar-v.-Department-of-Veterans-Affair-a4f2f4a4.pdf)
+[OSC Amicus Curiae Brief in Salazar v. Department of Veterans Affairs (MSPB) filed August 3, 2016_Redacted](../../~assets/documents/osc-amicus-curiae-brief-in-salazar-v.-department-of-veterans-affair-a4f2f4a4.pdf)
 
-[OSC Amicus Curiae Brief in Benton-Flores v. Department of Defense (MSPB) filed April 12, 2016](../../~assets/documents/OSC-Amicus-Curiae-Brief-in-Benton-Flores-v.-Department-of-Defense-(-c2d2dfb8.pdf)
+[OSC Amicus Curiae Brief in Benton-Flores v. Department of Defense (MSPB) filed April 12, 2016](../../~assets/documents/osc-amicus-curiae-brief-in-benton-flores-v.-department-of-defense-(-c2d2dfb8.pdf)
 
-[OSC Amicus Curiae Brief filed in Acha v. Department of Agriculture (10th Cir.) filed April 7, 2016_Redacted](../../~assets/documents/OSC-Amicus-Curiae-Brief-filed-in-Acha-v.-Department-of-Agriculture--e52478ee.pdf)
+[OSC Amicus Curiae Brief filed in Acha v. Department of Agriculture (10th Cir.) filed April 7, 2016_Redacted](../../~assets/documents/osc-amicus-curiae-brief-filed-in-acha-v.-department-of-agriculture--e52478ee.pdf)
 
 [OSC Amicus Curiae Brief in Abernathy v. Department of Army (MSPB) filed February 9, 2016](<../../~assets/documents/osc-amicus-curiae-brief-in-abernathy-v.-department-of-army-(mspb)-f-158d5c0f.pdf>)
 
-[OSC Amicus Curiae Brief in Department of Homeland Security v. Robert MacLean (Supreme Court) filed September 30, 2014](../../~assets/documents/OSC-Amicus-Curiae-Brief-in-Department-of-Homeland-Security-v.-Rober-6729e5dd.pdf)
+[OSC Amicus Curiae Brief in Department of Homeland Security v. Robert MacLean (Supreme Court) filed September 30, 2014](../../~assets/documents/osc-amicus-curiae-brief-in-department-of-homeland-security-v.-rober-6729e5dd.pdf)
 
-[OSC Amicus Curiae Brief in Clarke v. Department of Veterans Affairs (Fed. Cir.) filed August 14, 2014](../../~assets/documents/OSC-Amicus-Curiae-Brief-in-Clarke-v.-Department-of-Veterans-Affairs-cd81de8a.pdf)
+[OSC Amicus Curiae Brief in Clarke v. Department of Veterans Affairs (Fed. Cir.) filed August 14, 2014](../../~assets/documents/osc-amicus-curiae-brief-in-clarke-v.-department-of-veterans-affairs-cd81de8a.pdf)
 
 [OSC Amicus Curiae Brief in Kerr v. Salazar (9th Cir.) filed May 13, 2013_Redacted](<../../~assets/documents/osc-amicus-curiae-brief-in-kerr-v.-salazar-(9th-cir.)-filed-May-13,-4e4b94ee.pdf>)
 
 [OSC Amicus Curiae Brief in Berry v. Conyers & Northover (Fed. Cir.) filed March 14, 2013](<../../~assets/documents/osc-amicus-curiae-brief-in-berry-v.-conyers-&-northover-(fed.-cir.)-398edc69.pdf>)
 
-[OSC Amicus Curiae Brief in Day v. Department of Homeland Security (MSPB) filed February 21, 2013_Redacted](../../~assets/documents/OSC-Amicus-Curiae-Brief-in-Day-v.-Department-of-Homeland-Security-(-87e4f4b1.pdf)
+[OSC Amicus Curiae Brief in Day v. Department of Homeland Security (MSPB) filed February 21, 2013_Redacted](../../~assets/documents/osc-amicus-curiae-brief-in-day-v.-department-of-homeland-security-(-87e4f4b1.pdf)
 
 [OSC Amicus Curiae Brief in McGriff v. Department of the Navy (MSPB) filed October 19, 2011](<../../~assets/documents/osc-amicus-curiae-brief-in-mcgriff-v.-department-of-the-navy-(mspb)-a0b6aa7d.pdf>)
 
-[OSC Amicus Curiae Brief in MacLean v. Department of Homeland Security (MSPB) filed August 25, 2011](../../~assets/documents/OSC-Amicus-Curiae-Brief-in-MacLean-v.-Department-of-Homeland-Securi-43b4dfb6.pdf)
+[OSC Amicus Curiae Brief in MacLean v. Department of Homeland Security (MSPB) filed August 25, 2011](../../~assets/documents/osc-amicus-curiae-brief-in-maclean-v.-department-of-homeland-securi-43b4dfb6.pdf)
 
 ## Complaint Processing Guidance
 
-[Designation of Personal Legal Representation Form](../../~assets/documents/Designation-of-Personal-Legal-Representation-Form.pdf)
+[Designation of Personal Legal Representation Form](../../~assets/documents/designation-of-personal-legal-representation-form.pdf)
 
-[Policy Statement on Legal Representation](../../~assets/documents/Policy-Statement-on-Legal-Representation.pdf)
+[Policy Statement on Legal Representation](../../~assets/documents/policy-statement-on-legal-representation.pdf)
 
-[Agency Liaison Information](../../~assets/documents/Agency-Liaison-Information-.pdf)
+[Agency Liaison Information](../../~assets/documents/agency-liaison-information-.pdf)
 
-[Designated Agency Liaisons Memo](../../~assets/documents/Designated-Agency-Liaisons-Memo-.pdf)
+[Designated Agency Liaisons Memo](../../~assets/documents/designated-agency-liaisons-memo-.pdf)
 
-[How Complaints are Received and Processed](../../~assets/documents/How-Complaints-are-Received-and-Processed.pdf)
+[How Complaints are Received and Processed](../../~assets/documents/how-complaints-are-received-and-processed.pdf)
 
-[Frequently Asked Questions, OSC Access to Privileged Material](../../~assets/documents/Frequently-Asked-Questions,-OSC-Access-to-Privileged-Material.pdf)
+[Frequently Asked Questions, OSC Access to Privileged Material](../../~assets/documents/frequently-asked-questions,-osc-access-to-privileged-material.pdf)
 
-[Non-Disclosure Policies, Forms, or Agreements, February 1, 2018](../../~assets/documents/Non-Disclosure-Policies,-Forms,-or-Agreements,-February-1,-2018.pdf)
+[Non-Disclosure Policies, Forms, or Agreements, February 1, 2018](../../~assets/documents/non-disclosure-policies,-forms,-or-agreements,-february-1,-2018.pdf)
 
-[Policy Statement on Disclosure of Information about Prohibited Personnel Practice Complaints](../../~assets/documents/Policy-Statement-on-Disclosure-of-Information-about-Prohibited-Pers-dd397ae9.pdf)
+[Policy Statement on Disclosure of Information about Prohibited Personnel Practice Complaints](../../~assets/documents/policy-statement-on-disclosure-of-information-about-prohibited-pers-dd397ae9.pdf)
 
-[Policy Statement on Stays of Personnel Actions](../../~assets/documents/Policy-Statement-on-Stays-of-Personnel-Actions.pdf)
+[Policy Statement on Stays of Personnel Actions](../../~assets/documents/policy-statement-on-stays-of-personnel-actions.pdf)
 
-[Fact Sheet for Whistleblower Retaliation](../../~assets/documents/Fact-Sheet-for-Whistleblower-Retaliation.pdf)
+[Fact Sheet for Whistleblower Retaliation](../../~assets/documents/fact-sheet-for-whistleblower-retaliation.pdf)
 
 ## Reports of Investigation
 
@@ -119,13 +119,13 @@ eleventyNavigation:
 
 ## PPP Posters, Handouts, & Training Materials
 
-[Fact Sheet_How OSC's Mediation Program Works](../../~assets/documents/Fact-Sheet_How-OSC's-Mediation-Program-Works.pdf)
+[Fact Sheet_How OSC's Mediation Program Works](../../~assets/documents/fact-sheet_how-osc's-mediation-program-works.pdf)
 
-[Your Role in an OSC Investigation](../../~assets/documents/Your-Role-in-an-OSC-Investigation.pdf)
+[Your Role in an OSC Investigation](../../~assets/documents/your-role-in-an-osc-investigation.pdf)
 
-[How Complaints are Investigated and Prosecuted](../../~assets/documents/How-Complaints-are-Investigated-and-Prosecuted.pdf)
+[How Complaints are Investigated and Prosecuted](../../~assets/documents/how-complaints-are-investigated-and-prosecuted.pdf)
 
-[How Complaints are Received and Processed](../../~assets/documents/How-Complaints-are-Received-and-Processed.pdf)
+[How Complaints are Received and Processed](../../~assets/documents/how-complaints-are-received-and-processed.pdf)
 
 ## Accordion Control
 

@@ -9,7 +9,7 @@ OSC issued updated Hatch Act guidance for federal employees now that President T
 
 Page Content
 
-​​The U.S. Office of Special Counsel (OSC) today issued updated Hatch Act [guidance](../../~assets/documents/Current-Guidance-on-President-Trump's-Reelection-Status.pdf)​ for federal employees now that President Trump has officially announced his candidacy for reelection in 2020.  
+​​The U.S. Office of Special Counsel (OSC) today issued updated Hatch Act [guidance](../../~assets/documents/current-guidance-on-president-trump's-reelection-status.pdf)​ for federal employees now that President Trump has officially announced his candidacy for reelection in 2020.  
 
 The guidance reminds federal employees that the Hatch Act prohibits federal employees from engaging in political activity while on duty or in a federal room or building. For purposes of the Hatch Act, political activity is defined as activity directed at the success or failure of a political party, partisan political group, or candidate for partisan political office.  
 

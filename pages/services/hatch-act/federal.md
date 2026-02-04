@@ -187,12 +187,12 @@ Except for the President and Vice President, all federal civilian executive bran
 ​​​​
 
 - The Hatch Act, 5 U.S.C. § 7321 – 7326​
-- Political Participation, [5 U.S.C § 7321](../../~assets/documents/5-USC-7321.pdf)​
-- Definitions, [5 U.S.C § 7322](../../~assets/documents/5-USC-7322.pdf)​
-- Political Activity Authorized; Prohibitions, [5 U.S.C § 7323](../../~assets/documents/5-USC-7323.pdf)​
-- Political Activities on Duty; Prohibition, [5 U.S.C § 7324](../../~assets/documents/5-USC-7324.pdf)​
-- Political Activity Permitted; Employees Residing in Certain Municipalities, [5 U.S.C § 7325](../../~assets/documents/5-USC-7325.pdf)​
-- Penalties, [5 U.S.C § 7326](../../~assets/documents/5-USC-7326.pdf)​​​​
+- Political Participation, [5 U.S.C § 7321](../../~assets/documents/5-usc-7321.pdf)​
+- Definitions, [5 U.S.C § 7322](../../~assets/documents/5-usc-7322.pdf)​
+- Political Activity Authorized; Prohibitions, [5 U.S.C § 7323](../../~assets/documents/5-usc-7323.pdf)​
+- Political Activities on Duty; Prohibition, [5 U.S.C § 7324](../../~assets/documents/5-usc-7324.pdf)​
+- Political Activity Permitted; Employees Residing in Certain Municipalities, [5 U.S.C § 7325](../../~assets/documents/5-usc-7325.pdf)​
+- Penalties, [5 U.S.C § 7326](../../~assets/documents/5-usc-7326.pdf)​​​​
 
 ## Regulations
 

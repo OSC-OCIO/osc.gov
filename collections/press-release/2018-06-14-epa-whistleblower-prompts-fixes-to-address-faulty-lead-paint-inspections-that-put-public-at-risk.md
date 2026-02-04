@@ -9,11 +9,11 @@ The Environmental Protection Agency Region 4 sent unqualified individuals to ins
 
 Page Content
 
-The U.S. Office of Special Counsel (OSC) today sent [letters](../../~assets/documents/DI-16-3546-Letter-to-President.pdf) to the President and Congress after an investigation revealed that Environmental Protection Agency (EPA) Region 4 sent unqualified individuals to inspect renovation sites for lead paint and failed to properly document the inspections. In response, EPA has instituted a number of changes to address these issues, including new accountability measures and a commitment to ensure inspectors nationwide understand the importance of checking during an inspection for children and pregnant women, who are most vulnerable to lead poisoning. EPA Region 4 covers Kentucky, Tennessee, North Carolina, South Carolina, Alabama, Georgia, Florida, and Mississippi.  
+The U.S. Office of Special Counsel (OSC) today sent [letters](../../~assets/documents/di-16-3546-letter-to-president.pdf) to the President and Congress after an investigation revealed that Environmental Protection Agency (EPA) Region 4 sent unqualified individuals to inspect renovation sites for lead paint and failed to properly document the inspections. In response, EPA has instituted a number of changes to address these issues, including new accountability measures and a commitment to ensure inspectors nationwide understand the importance of checking during an inspection for children and pregnant women, who are most vulnerable to lead poisoning. EPA Region 4 covers Kentucky, Tennessee, North Carolina, South Carolina, Alabama, Georgia, Florida, and Mississippi.  
 
   
 
-After a whistleblower [reported](/Documents/Public%20Files/FY18/DI-16-3546/DI-16-3546%20Whistleblower%20Comments%20%231.pdf) these allegations, OSC referred the matter to the agency for investigation. The investigation by EPA’s Office of Inspector General (OIG) largely [substantiated](../../~assets/documents/DI-16-3546-Agency-Report-1.pdf)​ the whistleblower’s allegations, concluding that:  
+After a whistleblower [reported](/Documents/Public%20Files/FY18/DI-16-3546/DI-16-3546%20Whistleblower%20Comments%20%231.pdf) these allegations, OSC referred the matter to the agency for investigation. The investigation by EPA’s Office of Inspector General (OIG) largely [substantiated](../../~assets/documents/di-16-3546-agency-report-1.pdf)​ the whistleblower’s allegations, concluding that:  
 
   
 

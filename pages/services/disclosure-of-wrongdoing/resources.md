@@ -12,17 +12,17 @@ eleventyNavigation:
 
 ## DU Posters, Handouts, & Training Materials
 
-[Agency Monitoring Policies and Whistleblower Disclosures, February 1, 2018](../../~assets/documents/Agency-Monitoring-Policies-and-Whistleblower-Disclosures,-February-1,-2018.pdf)
+[Agency Monitoring Policies and Whistleblower Disclosures, February 1, 2018](../../~assets/documents/agency-monitoring-policies-and-whistleblower-disclosures,-february-1,-2018.pdf)
 
-[OSC Monetary Policy re Whistleblowers 5.20.25](../../~assets/documents/OSC-Monetary-Policy-re-Whistleblowers-5.20.25.pdf)
+[OSC Monetary Policy re Whistleblowers 5.20.25](../../~assets/documents/osc-monetary-policy-re-whistleblowers-5.20.25.pdf)
 
 [1213(c) Appendix May 2025](<../../~assets/documents/1213(c)-Appendix-May-2025.pdf>)
 
 ## Other Disclosure of Wrongdoing Resources
 
-[Agency Monitoring Policies and Whistleblower Disclosures, February 1, 2018](../../~assets/documents/Agency-Monitoring-Policies-and-Whistleblower-Disclosures,-February-1,-2018.pdf)
+[Agency Monitoring Policies and Whistleblower Disclosures, February 1, 2018](../../~assets/documents/agency-monitoring-policies-and-whistleblower-disclosures,-february-1,-2018.pdf)
 
-[OSC Monetary Policy re Whistleblowers 5.20.25](../../~assets/documents/OSC-Monetary-Policy-re-Whistleblowers-5.20.25.pdf)
+[OSC Monetary Policy re Whistleblowers 5.20.25](../../~assets/documents/osc-monetary-policy-re-whistleblowers-5.20.25.pdf)
 
 [1213(c) Appendix May 2025](<../../~assets/documents/1213(c)-Appendix-May-2025.pdf>)
 

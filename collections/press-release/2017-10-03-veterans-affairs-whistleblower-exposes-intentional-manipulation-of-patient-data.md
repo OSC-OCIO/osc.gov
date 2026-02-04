@@ -9,7 +9,7 @@ OSC reported that a VA Medical Center intentionally manipulated patient data to 
 
 Page Content
 
-In a [letter](../../~assets/documents/DI-16-3638-Letter-to-President.pdf) sent to the White House and Congress on Friday, the U.S. Office of Special Counsel (OSC) reported that the Louis A. Johnson Veterans Affairs (VA) Medical Center intentionally manipulated patient data to artificially reduce reported wait times and the volume of patient visits. A confidential whistleblower came to OSC with the disclosures of data manipulation, prompting an investigation.  
+In a [letter](../../~assets/documents/di-16-3638-letter-to-president.pdf) sent to the White House and Congress on Friday, the U.S. Office of Special Counsel (OSC) reported that the Louis A. Johnson Veterans Affairs (VA) Medical Center intentionally manipulated patient data to artificially reduce reported wait times and the volume of patient visits. A confidential whistleblower came to OSC with the disclosures of data manipulation, prompting an investigation.  
 
   
 

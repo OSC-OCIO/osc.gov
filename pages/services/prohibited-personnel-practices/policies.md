@@ -32,7 +32,7 @@ Federal employees must cooperate and provide testimony, information, and documen
 
 Generally, the information you provide to OSC will remain confidential. Information in OSC investigative files is protected from disclosure under the Freedom of Information Act. Neither the complainant nor the agency will ordinarily have access to information provided to OSC. In a limited number of cases where OSC determines that a violation has occurred, OSC may include the information gathered in an investigation in a report to your agency, the MSPB, or the Office of Personnel Management.
 
-For more information, see [Your Role in an OSC Investigation​.](../../~assets/documents/Your-Role-in-an-OSC-Investigation.pdf)
+For more information, see [Your Role in an OSC Investigation​.](../../~assets/documents/your-role-in-an-osc-investigation.pdf)
 
 #### What if I’m the subject or witness of an O​SC investigation?
 
@@ -50,7 +50,7 @@ There can be ethical implications for an attorney who is employed by an agency t
 
 #### Can I have an attorney present at my OSC inte​rview?
 
-OSC permits subjects and witnesses to have a personal legal representative at interviews. You are responsible for arranging for your own legal representation. If you decide that you want to have a personal legal representative present during your interview, you must inform OSC before the interview and provide OSC with a completed [Designation of Personal Legal Representation form](../../~assets/documents/Designation-of-Personal-Legal-Representation-Form.pdf)​​​. Both you and your attorney must sign the form.
+OSC permits subjects and witnesses to have a personal legal representative at interviews. You are responsible for arranging for your own legal representation. If you decide that you want to have a personal legal representative present during your interview, you must inform OSC before the interview and provide OSC with a completed [Designation of Personal Legal Representation form](../../~assets/documents/designation-of-personal-legal-representation-form.pdf)​​​. Both you and your attorney must sign the form.
 
 There can be ethical implications for agency counsel to act as the personal legal representative of a subject or witness who is or was an employee of the same agency. OSC will permit agency counsel to attend interviews only if, in their personal capacity, they represent the individual being interviewed, and not the agency, for purposes of the matter under investigation. If agency counsel is not personally representing the individual being interviewed, he/she is not permitted to attend the intervi​ew. To protect subjects and witnesses and to prevent conflicts of interest from compromising the OSC investigation, the Designation of Personal Legal Representation form​ contains specific language addressing those situations where individuals request to be represented by agency counsel. Agency liaisons and points of contact should not serve as the personal legal representatives of any subject or witness.
 

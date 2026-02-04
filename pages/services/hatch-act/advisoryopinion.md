@@ -22,339 +22,339 @@ eleventyNavigation:
 
 ## Coverage
 
-[SGEs who work more than 130 days in a 365-day period](../../~assets/documents/SGEs-who-work-more-than-130-days-in-a-365-day-period.pdf)
+[SGEs who work more than 130 days in a 365-day period](../../~assets/documents/sges-who-work-more-than-130-days-in-a-365-day-period.pdf)
 
-[FAA Aviation Medical Examiners](../../~assets/documents/FAA-Aviation-Medical-Examiners.pdf)
+[FAA Aviation Medical Examiners](../../~assets/documents/faa-aviation-medical-examiners.pdf)
 
-[Personal Services Contractors](../../~assets/documents/Personal-Services-Contractors.pdf)
+[Personal Services Contractors](../../~assets/documents/personal-services-contractors.pdf)
 
-[American Red Cross AO - Redacted](../../~assets/documents/American-Red-Cross-AO---Redacted.pdf)
+[American Red Cross AO - Redacted](../../~assets/documents/american-red-cross-ao---redacted.pdf)
 
-[Miscellaneous (e.g., Local Political Party Membership, Spouse Hosting Fundraiser in Home, etc.)](../../~assets/documents/Miscellaneous-(e.g.,-Local-Political-Party-Membership,-Spouse-Hosti-3fa81e77.pdf)
+[Miscellaneous (e.g., Local Political Party Membership, Spouse Hosting Fundraiser in Home, etc.)](../../~assets/documents/miscellaneous-(e.g.,-local-political-party-membership,-spouse-hosti-3fa81e77.pdf)
 
-[Fanny Mae and Freddy Mac Employees](../../~assets/documents/Fanny-Mae-and-Freddy-Mac-Employees.pdf)
+[Fanny Mae and Freddy Mac Employees](../../~assets/documents/fanny-mae-and-freddy-mac-employees.pdf)
 
-[National Disaster Medical System, Disaster Mortuary Operation Response Team Employees](../../~assets/documents/National-Disaster-Medical-System,-Disaster-Mortuary-Operation-Respo-c3088cc5.pdf)
+[National Disaster Medical System, Disaster Mortuary Operation Response Team Employees](../../~assets/documents/national-disaster-medical-system,-disaster-mortuary-operation-respo-c3088cc5.pdf)
 
-[Temporary Work Assignments to an Elected Official’s Office](../../~assets/documents/Temporary-Work-Assignments-to-an-Elected-Official’s-Office.pdf)
+[Temporary Work Assignments to an Elected Official’s Office](../../~assets/documents/temporary-work-assignments-to-an-elected-official’s-office.pdf)
 
-[Americorps Vista Volunteers](../../~assets/documents/Americorps-Vista-Volunteers.pdf)
+[Americorps Vista Volunteers](../../~assets/documents/americorps-vista-volunteers.pdf)
 
-[FEMA Disaster Assistance Employees](../../~assets/documents/FEMA-Disaster-Assistance-Employees.pdf)
+[FEMA Disaster Assistance Employees](../../~assets/documents/fema-disaster-assistance-employees.pdf)
 
-[Temporary, Part-time, and Emergency Employees](../../~assets/documents/Temporary,-Part-time,-and-Emergency-Employees.pdf)
+[Temporary, Part-time, and Emergency Employees](../../~assets/documents/temporary,-part-time,-and-emergency-employees.pdf)
 
-[SBA Disaster Reserve Specialists](../../~assets/documents/SBA-Disaster-Reserve-Specialists.pdf)
+[SBA Disaster Reserve Specialists](../../~assets/documents/sba-disaster-reserve-specialists.pdf)
 
-[VA “Without Compensation” Appointments](../../~assets/documents/VA-“Without-Compensation”-Appointments.pdf)
+[VA “Without Compensation” Appointments](../../~assets/documents/va-“without-compensation”-appointments.pdf)
 
-[Amtrak Employees](../../~assets/documents/Amtrak-Employees.pdf)
+[Amtrak Employees](../../~assets/documents/amtrak-employees.pdf)
 
-[Temporary Seasonal Employees Under a 1039 Appointment](../../~assets/documents/Temporary-Seasonal-Employees-Under-a-1039-Appointment.pdf)
+[Temporary Seasonal Employees Under a 1039 Appointment](../../~assets/documents/temporary-seasonal-employees-under-a-1039-appointment.pdf)
 
 ## Candidacy/Holding Office
 
-[Seeking and Accepting a Judicial Appointment](../../~assets/documents/Seeking-and-Accepting-a-Judicial-Appointment.pdf)
+[Seeking and Accepting a Judicial Appointment](../../~assets/documents/seeking-and-accepting-a-judicial-appointment.pdf)
 
-[Serving on a Redistricting Commission](../../~assets/documents/Serving-on-a-Redistricting-Commission.pdf)
+[Serving on a Redistricting Commission](../../~assets/documents/serving-on-a-redistricting-commission.pdf)
 
-[Cross-filing in Elections](../../~assets/documents/Cross-filing-in-Elections.pdf)
+[Cross-filing in Elections](../../~assets/documents/cross-filing-in-elections.pdf)
 
-[When Candidacy Begins](../../~assets/documents/When-Candidacy-Begins.pdf)
+[When Candidacy Begins](../../~assets/documents/when-candidacy-begins.pdf)
 
-[Nonpartisan Election Candidacy and Fundraising](../../~assets/documents/Nonpartisan-Election-Candidacy-and-Fundraising-.pdf)
+[Nonpartisan Election Candidacy and Fundraising](../../~assets/documents/nonpartisan-election-candidacy-and-fundraising-.pdf)
 
-[Running or Serving as Chair of a Partisan Organization](../../~assets/documents/Running-or-Serving-as-Chair-of-a-Partisan-Organization.pdf)
+[Running or Serving as Chair of a Partisan Organization](../../~assets/documents/running-or-serving-as-chair-of-a-partisan-organization.pdf)
 
-[Establishing or Holding Office Within a PAC](../../~assets/documents/Establishing-or-Holding-Office-Within-a-PAC.pdf)
+[Establishing or Holding Office Within a PAC](../../~assets/documents/establishing-or-holding-office-within-a-pac.pdf)
 
-[Running for Political Party Office](../../~assets/documents/Running-for-Political-Party-Office.pdf)
+[Running for Political Party Office](../../~assets/documents/running-for-political-party-office.pdf)
 
-[Being Appointed to a Public Office](../../~assets/documents/Being-Appointed-to-a-Public-Office.pdf)
+[Being Appointed to a Public Office](../../~assets/documents/being-appointed-to-a-public-office.pdf)
 
-[Maintaining an Independent Candidacy When Running in a Designated Locality](../../~assets/documents/Maintaining-an-Independent-Candidacy-When-Running-in-a-Designated-Locality.pdf)
+[Maintaining an Independent Candidacy When Running in a Designated Locality](../../~assets/documents/maintaining-an-independent-candidacy-when-running-in-a-designated-locality.pdf)
 
-[Write-in Candidacy](../../~assets/documents/Write-in-Candidacy.pdf)
+[Write-in Candidacy](../../~assets/documents/write-in-candidacy.pdf)
 
-[Taking Preliminary Steps to Begin Candidacy](../../~assets/documents/Taking-Preliminary-Steps-to-Begin-Candidacy.pdf)
+[Taking Preliminary Steps to Begin Candidacy](../../~assets/documents/taking-preliminary-steps-to-begin-candidacy.pdf)
 
-[Testing the Waters to Begin a Candidacy](../../~assets/documents/Testing-the-Waters-to-Begin-a-Candidacy-.pdf)
+[Testing the Waters to Begin a Candidacy](../../~assets/documents/testing-the-waters-to-begin-a-candidacy-.pdf)
 
-[Candidacy in a Partisan Election](../../~assets/documents/Candidacy-in-a-Partisan-Election.pdf)
+[Candidacy in a Partisan Election](../../~assets/documents/candidacy-in-a-partisan-election.pdf)
 
-[VA “Without Compensation” Appointments](../../~assets/documents/VA-“Without-Compensation”-Appointments.pdf)
+[VA “Without Compensation” Appointments](../../~assets/documents/va-“without-compensation”-appointments.pdf)
 
-[Assisting a Spouse’s Campaign](../../~assets/documents/Assisting-a-Spouse’s-Campaign.pdf)
+[Assisting a Spouse’s Campaign](../../~assets/documents/assisting-a-spouse’s-campaign.pdf)
 
-[Candidacy in Nominally Nonpartisan Elections](../../~assets/documents/Candidacy-in-Nominally-Nonpartisan-Elections.pdf)
+[Candidacy in Nominally Nonpartisan Elections](../../~assets/documents/candidacy-in-nominally-nonpartisan-elections.pdf)
 
 ## Nonpartisan Activity
 
-[Use of Administrative Leave to Participate in Nonpartisan Poll Activities](../../~assets/documents/Use-of-Administrative-Leave-to-Participate-in-Nonpartisan-Poll-Activities.pdf)
+[Use of Administrative Leave to Participate in Nonpartisan Poll Activities](../../~assets/documents/use-of-administrative-leave-to-participate-in-nonpartisan-poll-activities.pdf)
 
-[Black Lives Matter and the Hatch Act](../../~assets/documents/Black-Lives-Matter-and-the-Hatch-Act.pdf)
+[Black Lives Matter and the Hatch Act](../../~assets/documents/black-lives-matter-and-the-hatch-act.pdf)
 
-[Nonpartisan Election Candidacy and Fundraising](../../~assets/documents/Nonpartisan-Election-Candidacy-and-Fundraising-.pdf)
+[Nonpartisan Election Candidacy and Fundraising](../../~assets/documents/nonpartisan-election-candidacy-and-fundraising-.pdf)
 
-[Contacting Members of Congress Concerning Legislation or Workplace Issues](../../~assets/documents/Contacting-Members-of-Congress-Concerning-Legislation-or-Workplace-Issues.pdf)
+[Contacting Members of Congress Concerning Legislation or Workplace Issues](../../~assets/documents/contacting-members-of-congress-concerning-legislation-or-workplace-issues.pdf)
 
-[Circulating Petitions for Ballot Initiatives](../../~assets/documents/Circulating-Petitions-for-Ballot-Initiatives.pdf)
+[Circulating Petitions for Ballot Initiatives](../../~assets/documents/circulating-petitions-for-ballot-initiatives.pdf)
 
-[Nonpartisan Voter Registration Drives in the Workplace](../../~assets/documents/Nonpartisan-Voter-Registration-Drives-in-the-Workplace.pdf)
+[Nonpartisan Voter Registration Drives in the Workplace](../../~assets/documents/nonpartisan-voter-registration-drives-in-the-workplace.pdf)
 
-[Wearing Anti-war or Nonpartisan Buttons in the Workplace](../../~assets/documents/Wearing-Anti-war-or-Nonpartisan-Buttons-in-the-Workplace.pdf)
+[Wearing Anti-war or Nonpartisan Buttons in the Workplace](../../~assets/documents/wearing-anti-war-or-nonpartisan-buttons-in-the-workplace.pdf)
 
-[Maintaining an Independent Candidacy When Running in a Designated Locality](../../~assets/documents/Maintaining-an-Independent-Candidacy-When-Running-in-a-Designated-Locality.pdf)
+[Maintaining an Independent Candidacy When Running in a Designated Locality](../../~assets/documents/maintaining-an-independent-candidacy-when-running-in-a-designated-locality.pdf)
 
-[Serving as an Officer for an Organization that has a PAC](../../~assets/documents/Serving-as-an-Officer-for-an-Organization-that-has-a-PAC.pdf)
+[Serving as an Officer for an Organization that has a PAC](../../~assets/documents/serving-as-an-officer-for-an-organization-that-has-a-pac.pdf)
 
 ## On Duty/In Workplace
 
-[Hatch Act Advisory Opinion Rescinding Advisory Opinions Dated May 20 and October 15, 2024](../../~assets/documents/Hatch-Act-Advisory-Opinion-Rescinding-Advisory-Opinions-Dated-May-2-a2b69ece.pdf)
+[Hatch Act Advisory Opinion Rescinding Advisory Opinions Dated May 20 and October 15, 2024](../../~assets/documents/hatch-act-advisory-opinion-rescinding-advisory-opinions-dated-may-2-a2b69ece.pdf)
 
-[The Hatch Act and Federal Employees' Discussions About the Conflict Between Israel and Hamas](../../~assets/documents/The-Hatch-Act-and-Federal-Employees'-Discussions-About-the-Conflict-a9de2256.pdf)
+[The Hatch Act and Federal Employees' Discussions About the Conflict Between Israel and Hamas](../../~assets/documents/the-hatch-act-and-federal-employees'-discussions-about-the-conflict-a9de2256.pdf)
 
-[Hatch Act Advisory Opinion Regarding the Use of Presidential Campaign Slogans](../../~assets/documents/Hatch-Act-Advisory-Opinion-Regarding-the-Use-of-Presidential-Campai-2a7a144a.pdf)
+[Hatch Act Advisory Opinion Regarding the Use of Presidential Campaign Slogans](../../~assets/documents/hatch-act-advisory-opinion-regarding-the-use-of-presidential-campai-2a7a144a.pdf)
 
-[The Hatch Act implications of President Biden announcing his reelection campaign](../../~assets/documents/The-Hatch-Act-implications-of-President-Biden-announcing-his-reelec-897f9d74.pdf)
+[The Hatch Act implications of President Biden announcing his reelection campaign](../../~assets/documents/the-hatch-act-implications-of-president-biden-announcing-his-reelec-897f9d74.pdf)
 
-[Hatch Act Advice on Workplace Discussions](../../~assets/documents/Hatch-Act-Advice-on-Workplace-Discussions.pdf)
+[Hatch Act Advice on Workplace Discussions](../../~assets/documents/hatch-act-advice-on-workplace-discussions.pdf)
 
-[Hatch Act Advice Now that Former President Trump is a Presidential Candidate](../../~assets/documents/Hatch-Act-Advice-Now-that-Former-President-Trump-is-a-Presidential-Candidate.pdf)
+[Hatch Act Advice Now that Former President Trump is a Presidential Candidate](../../~assets/documents/hatch-act-advice-now-that-former-president-trump-is-a-presidential-candidate.pdf)
 
-[Agency Hosting Lecture on Politically-Charged Topics](../../~assets/documents/Agency-Hosting-Lecture-on-Politically-Charged-Topics.pdf)
+[Agency Hosting Lecture on Politically-Charged Topics](../../~assets/documents/agency-hosting-lecture-on-politically-charged-topics.pdf)
 
-[Hatch Act Advisory for Teleworking Employees](../../~assets/documents/Hatch-Act-Advisory-for-Teleworking-Employees.pdf)
+[Hatch Act Advisory for Teleworking Employees](../../~assets/documents/hatch-act-advisory-for-teleworking-employees.pdf)
 
-[Displaying Photographs of the President During a Reelection Campaign](../../~assets/documents/Displaying-Photographs-of-the-President-During-a-Reelection-Campaign.pdf)
+[Displaying Photographs of the President During a Reelection Campaign](../../~assets/documents/displaying-photographs-of-the-president-during-a-reelection-campaign.pdf)
 
-[Advocating Resistance and Impeachment at Work](../../~assets/documents/Advocating-Resistance-and-Impeachment-at-Work.pdf)
+[Advocating Resistance and Impeachment at Work](../../~assets/documents/advocating-resistance-and-impeachment-at-work.pdf)
 
-[Candidate Visits to Federal Agencies](../../~assets/documents/Candidate-Visits-to-Federal-Agencies.pdf)
+[Candidate Visits to Federal Agencies](../../~assets/documents/candidate-visits-to-federal-agencies.pdf)
 
-[Social Media Guidance](../../~assets/documents/Social-Media-Guidance.pdf)
+[Social Media Guidance](../../~assets/documents/social-media-guidance.pdf)
 
-[Further Restricted Employee Supporting Spouse Who is a Candidate](../../~assets/documents/Further-Restricted-Employee-Supporting-Spouse-Who-is-a-Candidate.pdf)
+[Further Restricted Employee Supporting Spouse Who is a Candidate](../../~assets/documents/further-restricted-employee-supporting-spouse-who-is-a-candidate.pdf)
 
 [Mixed Travel by Presidential Appointees with Senate Confirmation (PAS)](<../../~assets/documents/mixed-travel-by-presidential-appointees-with-senate-confirmation-(pas).pdf>)
 
-[Political Briefings in the Workplace](../../~assets/documents/Political-Briefings-in-the-Workplace.pdf)
+[Political Briefings in the Workplace](../../~assets/documents/political-briefings-in-the-workplace.pdf)
 
-[Canvassing Residents and Other Political Activities in Government Housing](../../~assets/documents/Canvassing-Residents-and-Other-Political-Activities-in-Government-Housing.pdf)
+[Canvassing Residents and Other Political Activities in Government Housing](../../~assets/documents/canvassing-residents-and-other-political-activities-in-government-housing.pdf)
 
-[Miscellaneous (e.g., Bumper Stickers, Candidate Photographs, Agency News Clips, etc.)](../../~assets/documents/Miscellaneous-(e.g.,-Bumper-Stickers,-Candidate-Photographs,-Agency-c89c6ce4.pdf)
+[Miscellaneous (e.g., Bumper Stickers, Candidate Photographs, Agency News Clips, etc.)](../../~assets/documents/miscellaneous-(e.g.,-bumper-stickers,-candidate-photographs,-agency-c89c6ce4.pdf)
 
-[Contacting Members of Congress Concerning Legislation or Workplace Issues](../../~assets/documents/Contacting-Members-of-Congress-Concerning-Legislation-or-Workplace-Issues.pdf)
+[Contacting Members of Congress Concerning Legislation or Workplace Issues](../../~assets/documents/contacting-members-of-congress-concerning-legislation-or-workplace-issues.pdf)
 
-[Circulating Petitions for Ballot Initiatives](../../~assets/documents/Circulating-Petitions-for-Ballot-Initiatives.pdf)
+[Circulating Petitions for Ballot Initiatives](../../~assets/documents/circulating-petitions-for-ballot-initiatives.pdf)
 
-[Posting Candidates' Positions on Issues in the Workplace](../../~assets/documents/Posting-Candidates'-Positions-on-Issues-in-the-Workplace.pdf)
+[Posting Candidates' Positions on Issues in the Workplace](../../~assets/documents/posting-candidates'-positions-on-issues-in-the-workplace.pdf)
 
-[Nonpartisan Voter Registration Drives in the Workplace](../../~assets/documents/Nonpartisan-Voter-Registration-Drives-in-the-Workplace.pdf)
+[Nonpartisan Voter Registration Drives in the Workplace](../../~assets/documents/nonpartisan-voter-registration-drives-in-the-workplace.pdf)
 
-[Union Conducting Voter Registration Drives after It Has Endorsed a Candidate](../../~assets/documents/Union-Conducting-Voter-Registration-Drives-after-It-Has-Endorsed-a-Candidate.pdf)
+[Union Conducting Voter Registration Drives after It Has Endorsed a Candidate](../../~assets/documents/union-conducting-voter-registration-drives-after-it-has-endorsed-a-candidate.pdf)
 
-[Voter Registration Drives in the Workplace](../../~assets/documents/Voter-Registration-Drives-in-the-Workplace.pdf)
+[Voter Registration Drives in the Workplace](../../~assets/documents/voter-registration-drives-in-the-workplace.pdf)
 
-[Wearing Anti-war or Nonpartisan Buttons in the Workplace](../../~assets/documents/Wearing-Anti-war-or-Nonpartisan-Buttons-in-the-Workplace.pdf)
+[Wearing Anti-war or Nonpartisan Buttons in the Workplace](../../~assets/documents/wearing-anti-war-or-nonpartisan-buttons-in-the-workplace.pdf)
 
-[PAS Employees and Reimbursement of de minimis Political Expenses](../../~assets/documents/PAS-Employees-and-Reimbursement-of-de-minimis-Political-Expenses.pdf)
+[PAS Employees and Reimbursement of de minimis Political Expenses](../../~assets/documents/pas-employees-and-reimbursement-of-de-minimis-political-expenses.pdf)
 
-[Displaying Political Signs in Federal Housing](../../~assets/documents/Displaying-Political-Signs-in-Federal-Housing.pdf)
+[Displaying Political Signs in Federal Housing](../../~assets/documents/displaying-political-signs-in-federal-housing.pdf)
 
-[Making PAC Contributions through Salary Allotments](../../~assets/documents/Making-PAC-Contributions-through-Salary-Allotments.pdf)
+[Making PAC Contributions through Salary Allotments](../../~assets/documents/making-pac-contributions-through-salary-allotments.pdf)
 
-[Social Media Quick Guide](../../~assets/documents/Social-Media-Quick-Guide.pdf)
+[Social Media Quick Guide](../../~assets/documents/social-media-quick-guide.pdf)
 
-[Current Guidance on President Trump's Reelection Status](../../~assets/documents/Current-Guidance-on-President-Trump's-Reelection-Status.pdf)
+[Current Guidance on President Trump's Reelection Status](../../~assets/documents/current-guidance-on-president-trump's-reelection-status.pdf)
 
-[Example of Email that Constitutes Political Activity](../../~assets/documents/Example-of-Email-that-Constitutes-Political-Activity.pdf)
+[Example of Email that Constitutes Political Activity](../../~assets/documents/example-of-email-that-constitutes-political-activity.pdf)
 
-[Assisting a Spouse’s Campaign](../../~assets/documents/Assisting-a-Spouse’s-Campaign.pdf)
+[Assisting a Spouse’s Campaign](../../~assets/documents/assisting-a-spouse’s-campaign.pdf)
 
-[Social Media and Email FAQs](../../~assets/documents/Social-Media-and-Email-FAQs.pdf)
+[Social Media and Email FAQs](../../~assets/documents/social-media-and-email-faqs.pdf)
 
 ## Social Media & Email
 
-[Advocating Resistance and Impeachment at Work](../../~assets/documents/Advocating-Resistance-and-Impeachment-at-Work.pdf)
+[Advocating Resistance and Impeachment at Work](../../~assets/documents/advocating-resistance-and-impeachment-at-work.pdf)
 
-[Social Media Guidance](../../~assets/documents/Social-Media-Guidance.pdf)
+[Social Media Guidance](../../~assets/documents/social-media-guidance.pdf)
 
-[Further Restricted Employees' Use of Social Media](../../~assets/documents/Further-Restricted-Employees'-Use-of-Social-Media.pdf)
+[Further Restricted Employees' Use of Social Media](../../~assets/documents/further-restricted-employees'-use-of-social-media.pdf)
 
-[Miscellaneous (e.g., Bumper Stickers, Candidate Photographs, Agency News Clips, etc.)](../../~assets/documents/Miscellaneous-(e.g.,-Bumper-Stickers,-Candidate-Photographs,-Agency-c89c6ce4.pdf)
+[Miscellaneous (e.g., Bumper Stickers, Candidate Photographs, Agency News Clips, etc.)](../../~assets/documents/miscellaneous-(e.g.,-bumper-stickers,-candidate-photographs,-agency-c89c6ce4.pdf)
 
-[Hatch Act Agencies and Social Media FAQs](../../~assets/documents/Hatch-Act-Agencies-and-Social-Media-FAQs.pdf)
+[Hatch Act Agencies and Social Media FAQs](../../~assets/documents/hatch-act-agencies-and-social-media-faqs.pdf)
 
-[Social Media Quick Guide](../../~assets/documents/Social-Media-Quick-Guide.pdf)
+[Social Media Quick Guide](../../~assets/documents/social-media-quick-guide.pdf)
 
-[Current Guidance on President Trump's Reelection Status](../../~assets/documents/Current-Guidance-on-President-Trump's-Reelection-Status.pdf)
+[Current Guidance on President Trump's Reelection Status](../../~assets/documents/current-guidance-on-president-trump's-reelection-status.pdf)
 
-[Example of Email that Constitutes Political Activity](../../~assets/documents/Example-of-Email-that-Constitutes-Political-Activity.pdf)
+[Example of Email that Constitutes Political Activity](../../~assets/documents/example-of-email-that-constitutes-political-activity.pdf)
 
-[Social Media and Email FAQs](../../~assets/documents/Social-Media-and-Email-FAQs.pdf)
+[Social Media and Email FAQs](../../~assets/documents/social-media-and-email-faqs.pdf)
 
 ## Further Restricted Employees
 
-[Social Media Guidance](../../~assets/documents/Social-Media-Guidance.pdf)
+[Social Media Guidance](../../~assets/documents/social-media-guidance.pdf)
 
-[Further Restricted Employee Supporting Spouse Who is a Candidate](../../~assets/documents/Further-Restricted-Employee-Supporting-Spouse-Who-is-a-Candidate.pdf)
+[Further Restricted Employee Supporting Spouse Who is a Candidate](../../~assets/documents/further-restricted-employee-supporting-spouse-who-is-a-candidate.pdf)
 
-[Further Restricted Employees' Use of Social Media](../../~assets/documents/Further-Restricted-Employees'-Use-of-Social-Media.pdf)
+[Further Restricted Employees' Use of Social Media](../../~assets/documents/further-restricted-employees'-use-of-social-media.pdf)
 
-[Further Restricted Employee Housing Campaign Volunteers](../../~assets/documents/Further-Restricted-Employee-Housing-Campaign-Volunteers.pdf)
+[Further Restricted Employee Housing Campaign Volunteers](../../~assets/documents/further-restricted-employee-housing-campaign-volunteers.pdf)
 
-[Further Restricted Employee's Membership in a Partisan Political Group](../../~assets/documents/Further-Restricted-Employee's-Membership-in-a-Partisan-Political-Group.pdf)
+[Further Restricted Employee's Membership in a Partisan Political Group](../../~assets/documents/further-restricted-employee's-membership-in-a-partisan-political-group.pdf)
 
-[Social Media Quick Guide](../../~assets/documents/Social-Media-Quick-Guide.pdf)
+[Social Media Quick Guide](../../~assets/documents/social-media-quick-guide.pdf)
 
-[Social Media and Email FAQs](../../~assets/documents/Social-Media-and-Email-FAQs.pdf)
+[Social Media and Email FAQs](../../~assets/documents/social-media-and-email-faqs.pdf)
 
 ## Political Party Activities
 
-[Hatch Act Advisory Opinion Regarding Service on a Presidential Transition Team](../../~assets/documents/Hatch-Act-Advisory-Opinion-Regarding-Service-on-a-Presidential-Tran-c503aaa8.pdf)
+[Hatch Act Advisory Opinion Regarding Service on a Presidential Transition Team](../../~assets/documents/hatch-act-advisory-opinion-regarding-service-on-a-presidential-tran-c503aaa8.pdf)
 
-[Use of Administrative Leave to Participate in Nonpartisan Poll Activities](../../~assets/documents/Use-of-Administrative-Leave-to-Participate-in-Nonpartisan-Poll-Activities.pdf)
+[Use of Administrative Leave to Participate in Nonpartisan Poll Activities](../../~assets/documents/use-of-administrative-leave-to-participate-in-nonpartisan-poll-activities.pdf)
 
-[Political Briefings in the Workplace](../../~assets/documents/Political-Briefings-in-the-Workplace.pdf)
+[Political Briefings in the Workplace](../../~assets/documents/political-briefings-in-the-workplace.pdf)
 
-[Miscellaneous (e.g., Local Political Party Membership, Spouse Hosting Fundraiser in Home, etc.)](../../~assets/documents/Miscellaneous-(e.g.,-Local-Political-Party-Membership,-Spouse-Hosti-3fa81e77.pdf)
+[Miscellaneous (e.g., Local Political Party Membership, Spouse Hosting Fundraiser in Home, etc.)](../../~assets/documents/miscellaneous-(e.g.,-local-political-party-membership,-spouse-hosti-3fa81e77.pdf)
 
-[Canvassing Residents and Other Political Activities in Government Housing](../../~assets/documents/Canvassing-Residents-and-Other-Political-Activities-in-Government-Housing.pdf)
+[Canvassing Residents and Other Political Activities in Government Housing](../../~assets/documents/canvassing-residents-and-other-political-activities-in-government-housing.pdf)
 
-[Running or Serving as Chair of a Partisan Organization](../../~assets/documents/Running-or-Serving-as-Chair-of-a-Partisan-Organization.pdf)
+[Running or Serving as Chair of a Partisan Organization](../../~assets/documents/running-or-serving-as-chair-of-a-partisan-organization.pdf)
 
-[Establishing or Holding Office Within a PAC](../../~assets/documents/Establishing-or-Holding-Office-Within-a-PAC.pdf)
+[Establishing or Holding Office Within a PAC](../../~assets/documents/establishing-or-holding-office-within-a-pac.pdf)
 
-[Soliciting Funds to Pay for Party Membership Fees](../../~assets/documents/Soliciting-Funds-to-Pay-for-Party-Membership-Fees.pdf)
+[Soliciting Funds to Pay for Party Membership Fees](../../~assets/documents/soliciting-funds-to-pay-for-party-membership-fees.pdf)
 
-[Running for Political Party Office](../../~assets/documents/Running-for-Political-Party-Office.pdf)
+[Running for Political Party Office](../../~assets/documents/running-for-political-party-office.pdf)
 
-[Further Restricted Employee's Membership in a Partisan Political Group](../../~assets/documents/Further-Restricted-Employee's-Membership-in-a-Partisan-Political-Group.pdf)
+[Further Restricted Employee's Membership in a Partisan Political Group](../../~assets/documents/further-restricted-employee's-membership-in-a-partisan-political-group.pdf)
 
-[Making PAC Contributions through Salary Allotments](../../~assets/documents/Making-PAC-Contributions-through-Salary-Allotments.pdf)
+[Making PAC Contributions through Salary Allotments](../../~assets/documents/making-pac-contributions-through-salary-allotments.pdf)
 
 ## Campaign Activities
 
-[Use of Administrative Leave to Participate in Nonpartisan Poll Activities](../../~assets/documents/Use-of-Administrative-Leave-to-Participate-in-Nonpartisan-Poll-Activities.pdf)
+[Use of Administrative Leave to Participate in Nonpartisan Poll Activities](../../~assets/documents/use-of-administrative-leave-to-participate-in-nonpartisan-poll-activities.pdf)
 
-[Further Restricted Employee Supporting Spouse Who is a Candidate](../../~assets/documents/Further-Restricted-Employee-Supporting-Spouse-Who-is-a-Candidate.pdf)
+[Further Restricted Employee Supporting Spouse Who is a Candidate](../../~assets/documents/further-restricted-employee-supporting-spouse-who-is-a-candidate.pdf)
 
-[Serving as Campaign Treasurer](../../~assets/documents/Serving-as-Campaign-Treasurer.pdf)
+[Serving as Campaign Treasurer](../../~assets/documents/serving-as-campaign-treasurer.pdf)
 
 [Mixed Travel by Presidential Appointees with Senate Confirmation (PAS)](<../../~assets/documents/mixed-travel-by-presidential-appointees-with-senate-confirmation-(pas).pdf>)
 
-[Further Restricted Employee Housing Campaign Volunteers](../../~assets/documents/Further-Restricted-Employee-Housing-Campaign-Volunteers.pdf)
+[Further Restricted Employee Housing Campaign Volunteers](../../~assets/documents/further-restricted-employee-housing-campaign-volunteers.pdf)
 
-[Soliciting Volunteers for a Voter Protection Team](../../~assets/documents/Soliciting-Volunteers-for-a-Voter-Protection-Team.pdf)
+[Soliciting Volunteers for a Voter Protection Team](../../~assets/documents/soliciting-volunteers-for-a-voter-protection-team.pdf)
 
-[Miscellaneous (e.g., Local Political Party Membership, Spouse Hosting Fundraiser in Home, etc.)](../../~assets/documents/Miscellaneous-(e.g.,-Local-Political-Party-Membership,-Spouse-Hosti-3fa81e77.pdf)
+[Miscellaneous (e.g., Local Political Party Membership, Spouse Hosting Fundraiser in Home, etc.)](../../~assets/documents/miscellaneous-(e.g.,-local-political-party-membership,-spouse-hosti-3fa81e77.pdf)
 
-[Canvassing Residents and Other Political Activities in Government Housing](../../~assets/documents/Canvassing-Residents-and-Other-Political-Activities-in-Government-Housing.pdf)
+[Canvassing Residents and Other Political Activities in Government Housing](../../~assets/documents/canvassing-residents-and-other-political-activities-in-government-housing.pdf)
 
-[Union Conducting Voter Registration Drives after It Has Endorsed a Candidate](../../~assets/documents/Union-Conducting-Voter-Registration-Drives-after-It-Has-Endorsed-a-Candidate.pdf)
+[Union Conducting Voter Registration Drives after It Has Endorsed a Candidate](../../~assets/documents/union-conducting-voter-registration-drives-after-it-has-endorsed-a-candidate.pdf)
 
-[Voter Registration Drives in the Workplace](../../~assets/documents/Voter-Registration-Drives-in-the-Workplace.pdf)
+[Voter Registration Drives in the Workplace](../../~assets/documents/voter-registration-drives-in-the-workplace.pdf)
 
-[Maintaining an Independent Candidacy When Running in a Designated Locality](../../~assets/documents/Maintaining-an-Independent-Candidacy-When-Running-in-a-Designated-Locality.pdf)
+[Maintaining an Independent Candidacy When Running in a Designated Locality](../../~assets/documents/maintaining-an-independent-candidacy-when-running-in-a-designated-locality.pdf)
 
-[Retirement of Campaign Debt](../../~assets/documents/Retirement-of-Campaign-Debt.pdf)
+[Retirement of Campaign Debt](../../~assets/documents/retirement-of-campaign-debt.pdf)
 
-[Displaying Political Signs in Federal Housing](../../~assets/documents/Displaying-Political-Signs-in-Federal-Housing.pdf)
+[Displaying Political Signs in Federal Housing](../../~assets/documents/displaying-political-signs-in-federal-housing.pdf)
 
-[Assisting a Spouse’s Campaign](../../~assets/documents/Assisting-a-Spouse’s-Campaign.pdf)
+[Assisting a Spouse’s Campaign](../../~assets/documents/assisting-a-spouse’s-campaign.pdf)
 
 ## Fundraising
 
-[Social Media Guidance](../../~assets/documents/Social-Media-Guidance.pdf)
+[Social Media Guidance](../../~assets/documents/social-media-guidance.pdf)
 
-[Further Restricted Employee Supporting Spouse Who is a Candidate](../../~assets/documents/Further-Restricted-Employee-Supporting-Spouse-Who-is-a-Candidate.pdf)
+[Further Restricted Employee Supporting Spouse Who is a Candidate](../../~assets/documents/further-restricted-employee-supporting-spouse-who-is-a-candidate.pdf)
 
-[Serving as Campaign Treasurer](../../~assets/documents/Serving-as-Campaign-Treasurer.pdf)
+[Serving as Campaign Treasurer](../../~assets/documents/serving-as-campaign-treasurer.pdf)
 
-[Miscellaneous (e.g., Local Political Party Membership, Spouse Hosting Fundraiser in Home, etc.)](../../~assets/documents/Miscellaneous-(e.g.,-Local-Political-Party-Membership,-Spouse-Hosti-3fa81e77.pdf)
+[Miscellaneous (e.g., Local Political Party Membership, Spouse Hosting Fundraiser in Home, etc.)](../../~assets/documents/miscellaneous-(e.g.,-local-political-party-membership,-spouse-hosti-3fa81e77.pdf)
 
-[Miscellaneous (e.g., Bumper Stickers, Candidate Photographs, Agency News Clips, etc.)](../../~assets/documents/Miscellaneous-(e.g.,-Bumper-Stickers,-Candidate-Photographs,-Agency-c89c6ce4.pdf)
+[Miscellaneous (e.g., Bumper Stickers, Candidate Photographs, Agency News Clips, etc.)](../../~assets/documents/miscellaneous-(e.g.,-bumper-stickers,-candidate-photographs,-agency-c89c6ce4.pdf)
 
-[Nonpartisan Election Candidacy and Fundraising](../../~assets/documents/Nonpartisan-Election-Candidacy-and-Fundraising-.pdf)
+[Nonpartisan Election Candidacy and Fundraising](../../~assets/documents/nonpartisan-election-candidacy-and-fundraising-.pdf)
 
-[Running or Serving as Chair of a Partisan Organization](../../~assets/documents/Running-or-Serving-as-Chair-of-a-Partisan-Organization.pdf)
+[Running or Serving as Chair of a Partisan Organization](../../~assets/documents/running-or-serving-as-chair-of-a-partisan-organization.pdf)
 
-[Establishing or Holding Office Within a PAC](../../~assets/documents/Establishing-or-Holding-Office-Within-a-PAC.pdf)
+[Establishing or Holding Office Within a PAC](../../~assets/documents/establishing-or-holding-office-within-a-pac.pdf)
 
-[Soliciting Funds to Pay for Party Membership Fees](../../~assets/documents/Soliciting-Funds-to-Pay-for-Party-Membership-Fees.pdf)
+[Soliciting Funds to Pay for Party Membership Fees](../../~assets/documents/soliciting-funds-to-pay-for-party-membership-fees.pdf)
 
-[Running for Political Party Office](../../~assets/documents/Running-for-Political-Party-Office.pdf)
+[Running for Political Party Office](../../~assets/documents/running-for-political-party-office.pdf)
 
-[Retirement of Campaign Debt](../../~assets/documents/Retirement-of-Campaign-Debt.pdf)
+[Retirement of Campaign Debt](../../~assets/documents/retirement-of-campaign-debt.pdf)
 
-[Serving as an Officer for an Organization that has a PAC](../../~assets/documents/Serving-as-an-Officer-for-an-Organization-that-has-a-PAC.pdf)
+[Serving as an Officer for an Organization that has a PAC](../../~assets/documents/serving-as-an-officer-for-an-organization-that-has-a-pac.pdf)
 
-[Social Media Quick Guide](../../~assets/documents/Social-Media-Quick-Guide.pdf)
+[Social Media Quick Guide](../../~assets/documents/social-media-quick-guide.pdf)
 
-[Social Media and Email FAQs](../../~assets/documents/Social-Media-and-Email-FAQs.pdf)
+[Social Media and Email FAQs](../../~assets/documents/social-media-and-email-faqs.pdf)
 
 ## Senate-Confirmed Appointees
 
 [Mixed Travel by Presidential Appointees with Senate Confirmation (PAS)](<../../~assets/documents/mixed-travel-by-presidential-appointees-with-senate-confirmation-(pas).pdf>)
 
-[Political Briefings in the Workplace](../../~assets/documents/Political-Briefings-in-the-Workplace.pdf)
+[Political Briefings in the Workplace](../../~assets/documents/political-briefings-in-the-workplace.pdf)
 
-[PAS Employees and Reimbursement of de minimis Political Expenses](../../~assets/documents/PAS-Employees-and-Reimbursement-of-de-minimis-Political-Expenses.pdf)
+[PAS Employees and Reimbursement of de minimis Political Expenses](../../~assets/documents/pas-employees-and-reimbursement-of-de-minimis-political-expenses.pdf)
 
 ## Temporary, Part-time, and Irregular Employees
 
-[SGEs who work more than 130 days in a 365-day period](../../~assets/documents/SGEs-who-work-more-than-130-days-in-a-365-day-period.pdf)
+[SGEs who work more than 130 days in a 365-day period](../../~assets/documents/sges-who-work-more-than-130-days-in-a-365-day-period.pdf)
 
 [Uncompensated Special Government Employees (SGEs)](<../../~assets/documents/uncompensated-special-government-employees-(sges).pdf>)
 
-[Miscellaneous (e.g., Local Political Party Membership, Spouse Hosting Fundraiser in Home, etc.)](../../~assets/documents/Miscellaneous-(e.g.,-Local-Political-Party-Membership,-Spouse-Hosti-3fa81e77.pdf)
+[Miscellaneous (e.g., Local Political Party Membership, Spouse Hosting Fundraiser in Home, etc.)](../../~assets/documents/miscellaneous-(e.g.,-local-political-party-membership,-spouse-hosti-3fa81e77.pdf)
 
-[National Disaster Medical System, Disaster Mortuary Operation Response Team Employees](../../~assets/documents/National-Disaster-Medical-System,-Disaster-Mortuary-Operation-Respo-c3088cc5.pdf)
+[National Disaster Medical System, Disaster Mortuary Operation Response Team Employees](../../~assets/documents/national-disaster-medical-system,-disaster-mortuary-operation-respo-c3088cc5.pdf)
 
-[FEMA Disaster Assistance Employees](../../~assets/documents/FEMA-Disaster-Assistance-Employees.pdf)
+[FEMA Disaster Assistance Employees](../../~assets/documents/fema-disaster-assistance-employees.pdf)
 
-[Temporary, Part-time, and Emergency Employees](../../~assets/documents/Temporary,-Part-time,-and-Emergency-Employees.pdf)
+[Temporary, Part-time, and Emergency Employees](../../~assets/documents/temporary,-part-time,-and-emergency-employees.pdf)
 
-[SBA Disaster Reserve Specialists](../../~assets/documents/SBA-Disaster-Reserve-Specialists.pdf)
+[SBA Disaster Reserve Specialists](../../~assets/documents/sba-disaster-reserve-specialists.pdf)
 
-[Temporary Seasonal Employees Under a 1039 Appointment](../../~assets/documents/Temporary-Seasonal-Employees-Under-a-1039-Appointment.pdf)
+[Temporary Seasonal Employees Under a 1039 Appointment](../../~assets/documents/temporary-seasonal-employees-under-a-1039-appointment.pdf)
 
 ## Use of Official Authority
 
-[Hatch Act Advisory Opinion Rescinding Advisory Opinions Dated May 20 and October 15, 2024](../../~assets/documents/Hatch-Act-Advisory-Opinion-Rescinding-Advisory-Opinions-Dated-May-2-a2b69ece.pdf)
+[Hatch Act Advisory Opinion Rescinding Advisory Opinions Dated May 20 and October 15, 2024](../../~assets/documents/hatch-act-advisory-opinion-rescinding-advisory-opinions-dated-may-2-a2b69ece.pdf)
 
-[Hatch Act Advisory Opinion Regarding Official Agency Communications](../../~assets/documents/Hatch-Act-Advisory-Opinion-Regarding-Official-Agency-Communications.pdf)
+[Hatch Act Advisory Opinion Regarding Official Agency Communications](../../~assets/documents/hatch-act-advisory-opinion-regarding-official-agency-communications.pdf)
 
-[Hatch Act Advisory Opinion Regarding the Use of Presidential Campaign Slogans](../../~assets/documents/Hatch-Act-Advisory-Opinion-Regarding-the-Use-of-Presidential-Campai-2a7a144a.pdf)
+[Hatch Act Advisory Opinion Regarding the Use of Presidential Campaign Slogans](../../~assets/documents/hatch-act-advisory-opinion-regarding-the-use-of-presidential-campai-2a7a144a.pdf)
 
-[Agency Hosting Lecture on Politically-Charged Topics](../../~assets/documents/Agency-Hosting-Lecture-on-Politically-Charged-Topics.pdf)
+[Agency Hosting Lecture on Politically-Charged Topics](../../~assets/documents/agency-hosting-lecture-on-politically-charged-topics.pdf)
 
-[Candidate Visits to Federal Agencies](../../~assets/documents/Candidate-Visits-to-Federal-Agencies.pdf)
+[Candidate Visits to Federal Agencies](../../~assets/documents/candidate-visits-to-federal-agencies.pdf)
 
-[Social Media Guidance](../../~assets/documents/Social-Media-Guidance.pdf)
+[Social Media Guidance](../../~assets/documents/social-media-guidance.pdf)
 
-[Serving as Campaign Treasurer](../../~assets/documents/Serving-as-Campaign-Treasurer.pdf)
+[Serving as Campaign Treasurer](../../~assets/documents/serving-as-campaign-treasurer.pdf)
 
-[Soliciting Volunteers for a Voter Protection Team](../../~assets/documents/Soliciting-Volunteers-for-a-Voter-Protection-Team.pdf)
+[Soliciting Volunteers for a Voter Protection Team](../../~assets/documents/soliciting-volunteers-for-a-voter-protection-team.pdf)
 
-[Miscellaneous (e.g., Bumper Stickers, Candidate Photographs, Agency News Clips, etc.)](../../~assets/documents/Miscellaneous-(e.g.,-Bumper-Stickers,-Candidate-Photographs,-Agency-c89c6ce4.pdf)
+[Miscellaneous (e.g., Bumper Stickers, Candidate Photographs, Agency News Clips, etc.)](../../~assets/documents/miscellaneous-(e.g.,-bumper-stickers,-candidate-photographs,-agency-c89c6ce4.pdf)
 
-[Establishing or Holding Office Within a PAC](../../~assets/documents/Establishing-or-Holding-Office-Within-a-PAC.pdf)
+[Establishing or Holding Office Within a PAC](../../~assets/documents/establishing-or-holding-office-within-a-pac.pdf)
 
-[Hatch Act Agencies and Social Media FAQs](../../~assets/documents/Hatch-Act-Agencies-and-Social-Media-FAQs.pdf)
+[Hatch Act Agencies and Social Media FAQs](../../~assets/documents/hatch-act-agencies-and-social-media-faqs.pdf)
 
-[Social Media Quick Guide](../../~assets/documents/Social-Media-Quick-Guide.pdf)
+[Social Media Quick Guide](../../~assets/documents/social-media-quick-guide.pdf)
 
-[Social Media and Email FAQs](../../~assets/documents/Social-Media-and-Email-FAQs.pdf)
+[Social Media and Email FAQs](../../~assets/documents/social-media-and-email-faqs.pdf)
 
 ## Partisan Political Groups
 
-[What is a partisan political group](../../~assets/documents/What-is-a-partisan-political-group.pdf)
+[What is a partisan political group](../../~assets/documents/what-is-a-partisan-political-group.pdf)
 
-[Black Lives Matter and the Hatch Act](../../~assets/documents/Black-Lives-Matter-and-the-Hatch-Act.pdf)
+[Black Lives Matter and the Hatch Act](../../~assets/documents/black-lives-matter-and-the-hatch-act.pdf)
 
-[MoveOn.org and the Hatch Act](../../~assets/documents/MoveOn.org-and-the-Hatch-Act.pdf)
+[MoveOn.org and the Hatch Act](../../~assets/documents/moveon.org-and-the-hatch-act.pdf)
 
 ​​​​​​
 
@@ -395,67 +395,67 @@ eleventyNavigation:
 
 ## State & Local - Coverage
 
-[Hatch Act's Application to Employees of Private, Nonprofit Organizations](../../~assets/documents/Hatch-Act's-Application-to-Employees-of-Private,-Nonprofit-Organizations.pdf)
+[Hatch Act's Application to Employees of Private, Nonprofit Organizations](../../~assets/documents/hatch-act's-application-to-employees-of-private,-nonprofit-organizations.pdf)
 
-[Definition of Salary under the Hatch Act Modernization Act of 2012](../../~assets/documents/Definition-of-Salary-under-the-Hatch-Act-Modernization-Act-of-2012.pdf)
+[Definition of Salary under the Hatch Act Modernization Act of 2012](../../~assets/documents/definition-of-salary-under-the-hatch-act-modernization-act-of-2012.pdf)
 
-[Education Exemption](../../~assets/documents/Education-Exemption.pdf)
+[Education Exemption](../../~assets/documents/education-exemption.pdf)
 
-[Hatch Act Modernization Act Guidance for State and Local Employees](../../~assets/documents/Hatch-Act-Modernization-Act-Guidance-for-State-and-Local-Employees.pdf)
+[Hatch Act Modernization Act Guidance for State and Local Employees](../../~assets/documents/hatch-act-modernization-act-guidance-for-state-and-local-employees.pdf)
 
 ## State & Local - Candidacy/Holding Office
 
-[Elected Sheriffs Campaigning in Uniform](../../~assets/documents/Elected-Sheriffs-Campaigning-in-Uniform.pdf)
+[Elected Sheriffs Campaigning in Uniform](../../~assets/documents/elected-sheriffs-campaigning-in-uniform.pdf)
 
-[Hatch Act's Application to Employees of Private, Nonprofit Organizations](../../~assets/documents/Hatch-Act's-Application-to-Employees-of-Private,-Nonprofit-Organizations.pdf)
+[Hatch Act's Application to Employees of Private, Nonprofit Organizations](../../~assets/documents/hatch-act's-application-to-employees-of-private,-nonprofit-organizations.pdf)
 
-[Use of Official Title by State and Local Employees Who May Run for Partisan Political Office](../../~assets/documents/Use-of-Official-Title-by-State-and-Local-Employees-Who-May-Run-for--afd1b2fd.pdf)
+[Use of Official Title by State and Local Employees Who May Run for Partisan Political Office](../../~assets/documents/use-of-official-title-by-state-and-local-employees-who-may-run-for--afd1b2fd.pdf)
 
-[Definition of Salary under the Hatch Act Modernization Act of 2012](../../~assets/documents/Definition-of-Salary-under-the-Hatch-Act-Modernization-Act-of-2012.pdf)
+[Definition of Salary under the Hatch Act Modernization Act of 2012](../../~assets/documents/definition-of-salary-under-the-hatch-act-modernization-act-of-2012.pdf)
 
-[California’s Voter-Nominated Primary Elections are Presumptively Partisan for Purposes of the Hatch Act](../../~assets/documents/California’s-Voter-Nominated-Primary-Elections-are-Presumptively-Pa-c5a1ed38.pdf)
+[California’s Voter-Nominated Primary Elections are Presumptively Partisan for Purposes of the Hatch Act](../../~assets/documents/california’s-voter-nominated-primary-elections-are-presumptively-pa-c5a1ed38.pdf)
 
-[Elected Sheriffs Use of Title and Uniform for Campaign Purposes](../../~assets/documents/Elected-Sheriffs-Use-of-Title-and-Uniform-for-Campaign-Purposes.pdf)
+[Elected Sheriffs Use of Title and Uniform for Campaign Purposes](../../~assets/documents/elected-sheriffs-use-of-title-and-uniform-for-campaign-purposes.pdf)
 
-[Partisan vs. Nonpartisan Election](../../~assets/documents/Partisan-vs.-Nonpartisan-Election.pdf)
+[Partisan vs. Nonpartisan Election](../../~assets/documents/partisan-vs.-nonpartisan-election.pdf)
 
-[Education Exemption](../../~assets/documents/Education-Exemption.pdf)
+[Education Exemption](../../~assets/documents/education-exemption.pdf)
 
-[Hatch Act Modernization Act Guidance for State and Local Employees](../../~assets/documents/Hatch-Act-Modernization-Act-Guidance-for-State-and-Local-Employees.pdf)
+[Hatch Act Modernization Act Guidance for State and Local Employees](../../~assets/documents/hatch-act-modernization-act-guidance-for-state-and-local-employees.pdf)
 
 ## State & Local - Nonpartisan Activity
 
-[Hatch Act's Application to Employees of Private, Nonprofit Organizations](../../~assets/documents/Hatch-Act's-Application-to-Employees-of-Private,-Nonprofit-Organizations.pdf)
+[Hatch Act's Application to Employees of Private, Nonprofit Organizations](../../~assets/documents/hatch-act's-application-to-employees-of-private,-nonprofit-organizations.pdf)
 
-[Partisan vs. Nonpartisan Election](../../~assets/documents/Partisan-vs.-Nonpartisan-Election.pdf)
+[Partisan vs. Nonpartisan Election](../../~assets/documents/partisan-vs.-nonpartisan-election.pdf)
 
 ## State & Local - Campaign Activities
 
-[Elected Sheriffs Campaigning in Uniform](../../~assets/documents/Elected-Sheriffs-Campaigning-in-Uniform.pdf)
+[Elected Sheriffs Campaigning in Uniform](../../~assets/documents/elected-sheriffs-campaigning-in-uniform.pdf)
 
-[Signing or Asking Others to Sign a Letter of Support for Sheriff's Reelection](../../~assets/documents/Signing-or-Asking-Others-to-Sign-a-Letter-of-Support-for-Sheriff's--f33514f1.pdf)
+[Signing or Asking Others to Sign a Letter of Support for Sheriff's Reelection](../../~assets/documents/signing-or-asking-others-to-sign-a-letter-of-support-for-sheriff's--f33514f1.pdf)
 
-[Hatch Act's Application to Employees of Private, Nonprofit Organizations](../../~assets/documents/Hatch-Act's-Application-to-Employees-of-Private,-Nonprofit-Organizations.pdf)
+[Hatch Act's Application to Employees of Private, Nonprofit Organizations](../../~assets/documents/hatch-act's-application-to-employees-of-private,-nonprofit-organizations.pdf)
 
-[Use of Official Title by State and Local Employees Who May Run for Partisan Political Office](../../~assets/documents/Use-of-Official-Title-by-State-and-Local-Employees-Who-May-Run-for--afd1b2fd.pdf)
+[Use of Official Title by State and Local Employees Who May Run for Partisan Political Office](../../~assets/documents/use-of-official-title-by-state-and-local-employees-who-may-run-for--afd1b2fd.pdf)
 
-[Elected Sheriffs Use of Title and Uniform for Campaign Purposes](../../~assets/documents/Elected-Sheriffs-Use-of-Title-and-Uniform-for-Campaign-Purposes.pdf)
+[Elected Sheriffs Use of Title and Uniform for Campaign Purposes](../../~assets/documents/elected-sheriffs-use-of-title-and-uniform-for-campaign-purposes.pdf)
 
 ## State & Local - Fundraising
 
-[Elected Sheriffs Use of Title and Uniform for Campaign Purposes](../../~assets/documents/Elected-Sheriffs-Use-of-Title-and-Uniform-for-Campaign-Purposes.pdf)
+[Elected Sheriffs Use of Title and Uniform for Campaign Purposes](../../~assets/documents/elected-sheriffs-use-of-title-and-uniform-for-campaign-purposes.pdf)
 
 ## State & Local - Use of Official Authority
 
-[Elected Sheriffs Campaigning in Uniform](../../~assets/documents/Elected-Sheriffs-Campaigning-in-Uniform.pdf)
+[Elected Sheriffs Campaigning in Uniform](../../~assets/documents/elected-sheriffs-campaigning-in-uniform.pdf)
 
-[Signing or Asking Others to Sign a Letter of Support for Sheriff's Reelection](../../~assets/documents/Signing-or-Asking-Others-to-Sign-a-Letter-of-Support-for-Sheriff's--f33514f1.pdf)
+[Signing or Asking Others to Sign a Letter of Support for Sheriff's Reelection](../../~assets/documents/signing-or-asking-others-to-sign-a-letter-of-support-for-sheriff's--f33514f1.pdf)
 
-[Hatch Act's Application to Employees of Private, Nonprofit Organizations](../../~assets/documents/Hatch-Act's-Application-to-Employees-of-Private,-Nonprofit-Organizations.pdf)
+[Hatch Act's Application to Employees of Private, Nonprofit Organizations](../../~assets/documents/hatch-act's-application-to-employees-of-private,-nonprofit-organizations.pdf)
 
-[Use of Official Title by State and Local Employees Who May Run for Partisan Political Office](../../~assets/documents/Use-of-Official-Title-by-State-and-Local-Employees-Who-May-Run-for--afd1b2fd.pdf)
+[Use of Official Title by State and Local Employees Who May Run for Partisan Political Office](../../~assets/documents/use-of-official-title-by-state-and-local-employees-who-may-run-for--afd1b2fd.pdf)
 
-[Elected Sheriffs Use of Title and Uniform for Campaign Purposes](../../~assets/documents/Elected-Sheriffs-Use-of-Title-and-Uniform-for-Campaign-Purposes.pdf)
+[Elected Sheriffs Use of Title and Uniform for Campaign Purposes](../../~assets/documents/elected-sheriffs-use-of-title-and-uniform-for-campaign-purposes.pdf)
 
 ## Accordion Control
 

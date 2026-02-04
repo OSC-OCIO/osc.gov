@@ -17,7 +17,7 @@ The MSPB administrative judge concluded that Mr. Chambers had not exhausted his 
 
   
 
-Notably, this is the second amicus curiae brief filed by OSC this year regarding the MSPB’s interpretation of the administrative exhaustion issue. OSC’s earlier [brief](../../~assets/documents/OSC-Amicus-Curiae-Brief-in-Johnen-v.-Department-of-the-Army-\(9th-Ci-a110c1cd.pdf) ​was filed in April 2017 in the Court of Appeals for the Ninth Circuit in Johnen v. Merit System Protection Board and Department of the Army. The decision in that case has not been issued yet.
+Notably, this is the second amicus curiae brief filed by OSC this year regarding the MSPB’s interpretation of the administrative exhaustion issue. OSC’s earlier [brief](../../~assets/documents/osc-amicus-curiae-brief-in-johnen-v.-department-of-the-army-\(9th-ci-a110c1cd.pdf) ​was filed in April 2017 in the Court of Appeals for the Ninth Circuit in Johnen v. Merit System Protection Board and Department of the Army. The decision in that case has not been issued yet.
 
   
 

@@ -15,9 +15,9 @@ When individuals believe that they have been subjected to a prohibited personnel
 
 **​​​​Factsheets and Guides**
 
-[Federal Protections for Lesbian, Gay, Bisexual, and Transgender (LGBT) Individuals​​ ​(2014)](../../~assets/documents/Federal-Protections-for-Lesbian,-Gay,-Bisexual,-and-Transgender-(LG-1b14b3a8.pdf)​​​
+[Federal Protections for Lesbian, Gay, Bisexual, and Transgender (LGBT) Individuals​​ ​(2014)](../../~assets/documents/federal-protections-for-lesbian,-gay,-bisexual,-and-transgender-(lg-1b14b3a8.pdf)​​​
 
-[The Unique Role of the Office of Special Counsel in Protecting the Rights of Lesbian, Gay, Bisexual, and Transgender Employees in the Federal Workplace​ (PowerPoint presentation, 2014)​​](../../~assets/documents/The-Unique-Role-of-OSC-in-Protecting-LGBT-Rights-in-the-Federal-Workplace.pdf)​​
+[The Unique Role of the Office of Special Counsel in Protecting the Rights of Lesbian, Gay, Bisexual, and Transgender Employees in the Federal Workplace​ (PowerPoint presentation, 2014)​​](../../~assets/documents/the-unique-role-of-osc-in-protecting-lgbt-rights-in-the-federal-workplace.pdf)​​
 
 **Policy Documents​**
 

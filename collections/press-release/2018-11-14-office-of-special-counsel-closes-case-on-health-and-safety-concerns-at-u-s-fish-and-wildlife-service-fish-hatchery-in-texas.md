@@ -25,7 +25,7 @@ The allegations involved practices at the Inks Dam National Fish Hatchery in Bur
 
   
 
-In addition to writing to the president, OSC sent a copy of the special counsel’s [letter](../../~assets/documents/DI-16-4054-Letter-to-the-President.pdf) and the agency’s [report](../../~assets/documents/DI-16-4054---Agency-Report.pdf)​ to the chairmen and ranking members of the Senate Committee on Energy and Natural Resources and the House Committee on Natural Resources.  
+In addition to writing to the president, OSC sent a copy of the special counsel’s [letter](../../~assets/documents/di-16-4054-letter-to-the-president.pdf) and the agency’s [report](../../~assets/documents/di-16-4054---agency-report.pdf)​ to the chairmen and ranking members of the Senate Committee on Energy and Natural Resources and the House Committee on Natural Resources.  
 
   
 

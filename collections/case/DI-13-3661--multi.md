@@ -13,5 +13,5 @@ results:
 date: 2016-02-18
 files:
 - label: Letter to the President
-  href: /~assets/documents/DI-13-3661-and-DI-14-0558-Letter-to-President.pdf
+  href: /~assets/documents/di-13-3661-and-di-14-0558-letter-to-president.pdf
 ---

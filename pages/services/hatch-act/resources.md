@@ -30,17 +30,17 @@ eleventyNavigation:
 
 [Report of Prohibited Political Activity, Xavier Becerra (HA-22-000223)](<../../~assets/documents/report-of-prohibited-political-activity,-xavier-becerra-(ha-22-000223).pdf>)
 
-[Investigation of Political Activities by Senior Trump Administration Officials During the 2020 Presidential Election](../../~assets/documents/Investigation-of-Political-Activities-by-Senior-Trump-Administratio-136ab295.pdf)
+[Investigation of Political Activities by Senior Trump Administration Officials During the 2020 Presidential Election](../../~assets/documents/investigation-of-political-activities-by-senior-trump-administratio-136ab295.pdf)
 
-[Report of Prohibited Political Activity, Carla Sands, HA-20-000091](../../~assets/documents/Report-of-Prohibited-Political-Activity,-Carla-Sands,-HA-20-000091.pdf)
+[Report of Prohibited Political Activity, Carla Sands, HA-20-000091](../../~assets/documents/report-of-prohibited-political-activity,-carla-sands,-ha-20-000091.pdf)
 
 [Report of Prohibited Political Activity, Dr. Peter Navarro (HA-20-000279)](<../../~assets/documents/report-of-prohibited-political-activity,-dr.-peter-navarro-(ha-20-000279).pdf>)
 
-[Report of Prohibited Political Activity, Kellyanne Conway (HA-19-0631 & HA-19-3395)](../../~assets/documents/Report-of-Prohibited-Political-Activity,-Kellyanne-Conway-(HA-19-06-a8748ac5.pdf)
+[Report of Prohibited Political Activity, Kellyanne Conway (HA-19-0631 & HA-19-3395)](../../~assets/documents/report-of-prohibited-political-activity,-kellyanne-conway-(ha-19-06-a8748ac5.pdf)
 
 [Report of Prohibited Political Activity, Kellyanne Conway (HA-18-0966)](<../../~assets/documents/report-of-prohibited-political-activity,-kellyanne-conway-(ha-18-0966).pdf>)
 
-[Report of Prohibited Political Activity, Facilitating Labor Union's Political Activity Through Use of Union Official Leave Without Pay (HA-17-0610)](../../~assets/documents/Report-of-Prohibited-Political-Activity,-Facilitating-Labor-Union's-6535f18d.pdf)
+[Report of Prohibited Political Activity, Facilitating Labor Union's Political Activity Through Use of Union Official Leave Without Pay (HA-17-0610)](../../~assets/documents/report-of-prohibited-political-activity,-facilitating-labor-union's-6535f18d.pdf)
 
 [Report of Prohibited Political Activity, Julián Castro (HA-16-3113)](<../../~assets/documents/report-of-prohibited-political-activity,-julián-castro-(ha-16-3113).pdf>)
 
@@ -52,21 +52,21 @@ eleventyNavigation:
 
 ## Hatch Act Posters, Handouts, and Training Materials
 
-[The Hatch Act and Further Restricted Employees Poster](../../~assets/documents/The-Hatch-Act-and-Further-Restricted-Employees-Poster.pdf)
+[The Hatch Act and Further Restricted Employees Poster](../../~assets/documents/the-hatch-act-and-further-restricted-employees-poster.pdf)
 
-[The Hatch Act and State, D.C., and Local Employees Poster](../../~assets/documents/The-Hatch-Act-and-State,-D.C.,-and-Local-Employees-Poster.pdf)
+[The Hatch Act and State, D.C., and Local Employees Poster](../../~assets/documents/the-hatch-act-and-state,-d.c.,-and-local-employees-poster.pdf)
 
-[Hatch Act Agencies and Social Media FAQs](../../~assets/documents/Hatch-Act-Agencies-and-Social-Media-FAQs.pdf)
+[Hatch Act Agencies and Social Media FAQs](../../~assets/documents/hatch-act-agencies-and-social-media-faqs.pdf)
 
-[Hatch Act social media handout](../../~assets/documents/Hatch-Act-social-media-handout.pdf)
+[Hatch Act social media handout](../../~assets/documents/hatch-act-social-media-handout.pdf)
 
-[Social Media Quick Guide](../../~assets/documents/Social-Media-Quick-Guide.pdf)
+[Social Media Quick Guide](../../~assets/documents/social-media-quick-guide.pdf)
 
-[A Guide to the Hatch Act for Federal Employees](../../~assets/documents/A-Guide-to-the-Hatch-Act-for-Federal-Employees.pdf)
+[A Guide to the Hatch Act for Federal Employees](../../~assets/documents/a-guide-to-the-hatch-act-for-federal-employees.pdf)
 
-[Hatch Act Social Media Handout](../../~assets/documents/Hatch-Act-Social-Media-Handout-1.pdf)
+[Hatch Act Social Media Handout](../../~assets/documents/hatch-act-social-media-handout-1.pdf)
 
-[The Hatch Act and Most Federal Employees Poster](../../~assets/documents/The-Hatch-Act-and-Most-Federal-Employees-Poster.pdf)
+[The Hatch Act and Most Federal Employees Poster](../../~assets/documents/the-hatch-act-and-most-federal-employees-poster.pdf)
 
 ## Hatch Act: Overview - Video
 

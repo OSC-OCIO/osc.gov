@@ -24,13 +24,13 @@ To begin the certification process, please fill out the [registration form](<..
 
 The following posters are required to be posted throughout your agency and made available on your intranet in order to obtain certification:
 
-- [](<../../~assets/documents/Disclosures-of-Wrongdoing-Poster-(v2024).pdf>)[“Disclosures of Wrongdoing”](<../../~assets/documents/disclosures-of-wrongdoing-poster-(v2024).pdf>)​​​​​: Identifies the six types of wrongdoing that can be disclosed to OSC: a violation of any law, rule, or regulation; gross mismanagement; gross waste of funds; an abuse of authority; a substantial and specific danger to public health or safety; and censorship related to scientific integrity. Outlines OSC’s process for handling disclosures
+- [](<../../~assets/documents/disclosures-of-wrongdoing-poster-(v2024).pdf>)[“Disclosures of Wrongdoing”](<../../~assets/documents/disclosures-of-wrongdoing-poster-(v2024).pdf>)​​​​​: Identifies the six types of wrongdoing that can be disclosed to OSC: a violation of any law, rule, or regulation; gross mismanagement; gross waste of funds; an abuse of authority; a substantial and specific danger to public health or safety; and censorship related to scientific integrity. Outlines OSC’s process for handling disclosures
 - **[“Whistleblower Retaliatio​n”](<../../~assets/documents/whistleblower-retaliation-poster-(v2024).pdf>)**​: Asks, “What is whistleblower retaliation?” A federal employee authorized to take, direct others to take, recommend or approve any personnel action may not take, fail to take, or threaten (to take or fail to take) a personnel action with respect to an employee because of a protected disclosure or protected activity. Cites an example. Defines “protected ​disclosure" and "protected activity."​
 - [“Prohibited Personnel Practices” (PPPs)​​​](<../../~assets/documents/prohibited-personnel-practices-poster-(v2024).pdf>): Lists 14 prohibitions, including: whistleblower retaliation; discrimination for engaging in conduct unrelated to work performance, such as discrimination based on gender identity or sexual orientation; and hiring and promotion offenses that offend the merit system. 5 U.S.C. § 2302(b)(1)-(b)(14).
 
 The following materials, though not required to obtain certification, are also highly recommended:
 
-- [The Hatch Act: Permitted and Prohibited Activities for Most Federal Employees (poster)](../../~assets/documents/The-Hatch-Act-and-Most-Federal-Employees-Poster.pdf)​: Lists permitted and prohibited activities for employees who may engage in partisan activity.
+- [The Hatch Act: Permitted and Prohibited Activities for Most Federal Employees (poster)](../../~assets/documents/the-hatch-act-and-most-federal-employees-poster.pdf)​: Lists permitted and prohibited activities for employees who may engage in partisan activity.
 
 ## 2\. Provide i​nformation about the 14 PPPs and whistleblower disclosures to new employees as part of the orientation process
 
@@ -38,7 +38,7 @@ The following materials, though not required to obtain certification, are also h
 
 ## 3\. Provide information to current employees about the 14 PPPs and whistleblower disclosures​
 
-​Provide to all employees on an annual basis, written materials on PPPs, whistleblower disclosures, recognition of National Whistleblower Appreciation Day, and OSC’s role in enforcing the laws over which it has jurisdiction. Agencies should also include this information on agency websites. As noted above, OSC has developed materials that can be e-mailed to help agencies fulfill this requirement, including a [sample memo](../../~assets/documents/Sample-Memo-for-Annual-Notification.pdf)​. 
+​Provide to all employees on an annual basis, written materials on PPPs, whistleblower disclosures, recognition of National Whistleblower Appreciation Day, and OSC’s role in enforcing the laws over which it has jurisdiction. Agencies should also include this information on agency websites. As noted above, OSC has developed materials that can be e-mailed to help agencies fulfill this requirement, including a [sample memo](../../~assets/documents/sample-memo-for-annual-notification.pdf)​. 
 
 ## 4\. T​rain supervisors on the 14 PPPs and whistleblower disclosures
 
@@ -48,7 +48,7 @@ For the triennial training, OSC strongly recommends in-person, interactive train
 
 Supervisory training should be tracked to ensure that all supervisors have been trained prior to filling out the compliance form. Please note that agencies must obtain prior approval from OSC before disseminating forms or training materials created by an agency or outside entity to satisfy the training requirements of the Certification Program.
 
-• [Annual Supervisory Training PowerPoint Presentation](../../~assets/documents/FY25-Agency-Conducted-Annual-Supervisory-Training.pdf) (PDF)
+• [Annual Supervisory Training PowerPoint Presentation](../../~assets/documents/fy25-agency-conducted-annual-supervisory-training.pdf) (PDF)
 
 • PPP and Whistleblower Disclosures Training Quiz (Please contact OSC at [certification@osc.gov](mailto:certification@osc.gov)​ if your agency would like to use the quiz and has over 1,000 supervisors and managers.)
 

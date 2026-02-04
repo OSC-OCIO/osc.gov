@@ -9,7 +9,7 @@ OSC today sent a report to President Donald J. Trump finding that Counselor to t
 
 Page Content
 
-​The U.S. Office of Special Counsel (OSC) today sent [a report](../../~assets/documents/Report-of-Prohibited-Political-Activity,-Kellyanne-Conway-\(HA-19-06-a8748ac5.pdf) to President Donald J. Trump finding that Counselor to the President Kellyanne Conway violated the Hatch Act on numerous occasions by disparaging Democratic presidential candidates while speaking in her official capacity during television interviews and on social media.  
+​The U.S. Office of Special Counsel (OSC) today sent [a report](../../~assets/documents/report-of-prohibited-political-activity,-kellyanne-conway-\(ha-19-06-a8748ac5.pdf) to President Donald J. Trump finding that Counselor to the President Kellyanne Conway violated the Hatch Act on numerous occasions by disparaging Democratic presidential candidates while speaking in her official capacity during television interviews and on social media.  
 
   
 

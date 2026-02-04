@@ -15,4 +15,4 @@ The agency investigation largely substantiated the whistleblowers' allegations, 
 
 In response, USDA established an oversight and leadership response team and completed nearly 60 corrective actions. USDA also redirected funds toward modernizing and repairing the neglected infrastructure. A new permanent BARC Director has been selected, and a new BARC Master Plan has been developed.  
 
-“I thank the whistleblowers for bringing these allegations to OSC and [recommend](../../~assets/documents/OSC-Monetary-Policy-re-Whistleblowers-5.20.25.pdf) that the USDA recognize their contributions to improve government efficiency and the safety of BARC workers and consider issuing a monetary reward," said Senior Counsel Charles Baldis. ​
+“I thank the whistleblowers for bringing these allegations to OSC and [recommend](../../~assets/documents/osc-monetary-policy-re-whistleblowers-5.20.25.pdf) that the USDA recognize their contributions to improve government efficiency and the safety of BARC workers and consider issuing a monetary reward," said Senior Counsel Charles Baldis. ​

@@ -26,6 +26,6 @@ Ms. Garneau-Harvey was reassigned to another division at the Bedford VA hospital
   
 The whistleblower, Kevin Cornellier, a tool and parts attendant, persisted for years in the face of rejection of his disclosures by local authorities before he came to OSC. “Mr. Cornellier persevered and was ultimately successful in stopping serious procurement fraud,” Kerner  wrote. “He should be commended for his efforts.”  
   
-Kerner sent a copy of the [letter](../../~assets/documents/DI-14-4602-and-DI-17-3402-Letter-to-President.pdf) to the President, redacted versions of the agency reports, and the whistleblower’s comments to the Chairmen and Ranking Members of the Senate and House Committees on Veterans’ Affairs. He also filed redacted copies of these documents in OSC’s public file at [www.osc.gov](https://www.osc.gov/).   
+Kerner sent a copy of the [letter](../../~assets/documents/di-14-4602-and-di-17-3402-letter-to-president.pdf) to the President, redacted versions of the agency reports, and the whistleblower’s comments to the Chairmen and Ranking Members of the Senate and House Committees on Veterans’ Affairs. He also filed redacted copies of these documents in OSC’s public file at [www.osc.gov](https://www.osc.gov/).   
 
 ​\*\*\*

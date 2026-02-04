@@ -9,7 +9,7 @@ Safety inspectors at FAA have improperly approved aircraft for commercial operat
 
 Page Content
 
-The U.S. Office of Special Counsel (OSC) today sent [letters](../../~assets/documents/DI-17-1298-Letter-to-President.pdf) to the President and Congress disclosing that safety inspectors at the Federal Aviation Administration (FAA) have improperly approved aircraft for commercial operations without first reviewing critical safety information that in some cases would have prohibited their operation. Moreover, due to lapses in oversight at FAA’s Civil Aviation Registry, aircraft have operated in the National Airspace System without a valid registration or air worthiness certificate.  
+The U.S. Office of Special Counsel (OSC) today sent [letters](../../~assets/documents/di-17-1298-letter-to-president.pdf) to the President and Congress disclosing that safety inspectors at the Federal Aviation Administration (FAA) have improperly approved aircraft for commercial operations without first reviewing critical safety information that in some cases would have prohibited their operation. Moreover, due to lapses in oversight at FAA’s Civil Aviation Registry, aircraft have operated in the National Airspace System without a valid registration or air worthiness certificate.  
 
   
 

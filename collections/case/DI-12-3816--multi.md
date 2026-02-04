@@ -15,5 +15,5 @@ results:
 date: 2013-09-17
 files:
 - label: Letter to the President
-  href: /~assets/documents/DI-12-3816-and-DI-13-1713-Letter-to-President.pdf
+  href: /~assets/documents/di-12-3816-and-di-13-1713-letter-to-president.pdf
 ---

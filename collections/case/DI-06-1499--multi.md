@@ -15,15 +15,15 @@ results:
 date: 2008-11-13
 files:
 - label: Letter to the President
-  href: /~assets/documents/DI-06-1499-Letter-to-President.pdf
+  href: /~assets/documents/di-06-1499-letter-to-president.pdf
 - label: Agency Report
-  href: /~assets/documents/DI-06-1499-Supplemental-report.pdf
+  href: /~assets/documents/di-06-1499-supplemental-report.pdf
 - label: Agency Report
-  href: /~assets/documents/DI-06-1499-Agency-Report.pdf
+  href: /~assets/documents/di-06-1499-agency-report.pdf
 - label: Whistleblower Comments
-  href: /~assets/documents/DI-06-1499-Supplemental-Whistleblower-Comments.pdf
+  href: /~assets/documents/di-06-1499-supplemental-whistleblower-comments.pdf
 - label: Whistleblower Comments
-  href: /~assets/documents/DI-06-1499-Whistleblower-Comments.pdf
+  href: /~assets/documents/di-06-1499-whistleblower-comments.pdf
 - label: Analysis
-  href: /~assets/documents/DI-06-1499-Analysis.pdf
+  href: /~assets/documents/di-06-1499-analysis.pdf
 ---

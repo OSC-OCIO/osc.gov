@@ -52,7 +52,7 @@ The following posters are required to be posted throughout your agency and made
 
 The following materials, though not requi​red to obtain certification, are also highly recommended:
 
-- [The Hatch Act: Permitted and Prohibited Activities for Most Federal Employees (poster)](../../~assets/documents/The-Hatch-Act-and-Most-Federal-Employees-Poster.pdf): Lists permitted and prohibited activities for employees who may engage in partisan activity.
+- [The Hatch Act: Permitted and Prohibited Activities for Most Federal Employees (poster)](../../~assets/documents/the-hatch-act-and-most-federal-employees-poster.pdf): Lists permitted and prohibited activities for employees who may engage in partisan activity.
 
 **2. Provide information about the applicable PPPs and whistleblower disclosures to new employees as part of the orientation process​​**
 

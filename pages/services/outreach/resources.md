@@ -49,11 +49,11 @@ eleventyNavigation:
 
 ## Posters
 
-[The Hatch Act and Further Restricted Employees Poster](../../~assets/documents/The-Hatch-Act-and-Further-Restricted-Employees-Poster.pdf)
+[The Hatch Act and Further Restricted Employees Poster](../../~assets/documents/the-hatch-act-and-further-restricted-employees-poster.pdf)
 
-[The Hatch Act and State, D.C., and Local Employees Poster](../../~assets/documents/The-Hatch-Act-and-State,-D.C.,-and-Local-Employees-Poster.pdf)
+[The Hatch Act and State, D.C., and Local Employees Poster](../../~assets/documents/the-hatch-act-and-state,-d.c.,-and-local-employees-poster.pdf)
 
-[Hatch Act social media handout](../../~assets/documents/Hatch-Act-social-media-handout.pdf)
+[Hatch Act social media handout](../../~assets/documents/hatch-act-social-media-handout.pdf)
 
 [Disclosures of Wrongdoing Poster (v2024)](<../../~assets/documents/disclosures-of-wrongdoing-poster-(v2024).pdf>)
 
@@ -61,7 +61,7 @@ eleventyNavigation:
 
 [Prohibited Personnel Practices Poster for Government Corporation (v2024)](<../../~assets/documents/prohibited-personnel-practices-poster-for-government-corporation-(v2024).pdf>)
 
-[The Hatch Act and Most Federal Employees Poster](../../~assets/documents/The-Hatch-Act-and-Most-Federal-Employees-Poster.pdf)
+[The Hatch Act and Most Federal Employees Poster](../../~assets/documents/the-hatch-act-and-most-federal-employees-poster.pdf)
 
 [Whistleblower Retaliation Poster (v2024)](<../../~assets/documents/whistleblower-retaliation-poster-(v2024).pdf>)
 
@@ -69,19 +69,19 @@ eleventyNavigation:
 
 ## Training Materials
 
-[The Unique Role of OSC in Protecting LGBT Rights in the Federal Workplace](../../~assets/documents/The-Unique-Role-of-OSC-in-Protecting-LGBT-Rights-in-the-Federal-Workplace.pdf)
+[The Unique Role of OSC in Protecting LGBT Rights in the Federal Workplace](../../~assets/documents/the-unique-role-of-osc-in-protecting-lgbt-rights-in-the-federal-workplace.pdf)
 
-[FY25 Agency Conducted Annual Supervisory Training](../../~assets/documents/FY25-Agency-Conducted-Annual-Supervisory-Training.pdf)
+[FY25 Agency Conducted Annual Supervisory Training](../../~assets/documents/fy25-agency-conducted-annual-supervisory-training.pdf)
 
 ## Equal Employment Opportunity Resources
 
-[No FEAR Act Quarterly Data Q3 2025](../../~assets/documents/No-FEAR-Act-Quarterly-Data-Q3-2025.pdf)
+[No FEAR Act Quarterly Data Q3 2025](../../~assets/documents/no-fear-act-quarterly-data-q3-2025.pdf)
 
-[\_Federal Protections for Lesbian, Gay, Bisexual, and Transgender (LGBT) Individuals\_\_ \_](../../~assets/documents/þderal-Protections-for-Lesbian,-Gay,-Bisexual,-and-Transgender-(LGB-51da6d07.pdf)
+[\_Federal Protections for Lesbian, Gay, Bisexual, and Transgender (LGBT) Individuals\_\_ \_](../../~assets/documents/þderal-protections-for-lesbian,-gay,-bisexual,-and-transgender-(lgb-51da6d07.pdf)
 
-[No FEAR Act Powerpoint Presentation](../../~assets/documents/No-FEAR-Act-Powerpoint-Presentation.ppt)
+[No FEAR Act Powerpoint Presentation](../../~assets/documents/no-fear-act-powerpoint-presentation.ppt)
 
-[OSC's Plan for Improving Access for Persons with Limited English Proficiency](../../~assets/documents/OSC's-Plan-for-Improving-Access-for-Persons-with-Limited-English-Proficiency.pdf)
+[OSC's Plan for Improving Access for Persons with Limited English Proficiency](../../~assets/documents/osc's-plan-for-improving-access-for-persons-with-limited-english-proficiency.pdf)
 
 [MD715 AAP Report (FY24)](<../../~assets/documents/md715-aap-report-(fy24).pdf>)
 

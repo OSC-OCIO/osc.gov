@@ -14,11 +14,11 @@ results:
 date: 2018-05-15
 files:
 - label: Letter to the President
-  href: /~assets/documents/DI-14-3461-and-DI-14-3589-Letter-to-President-(redacted).pdf
+  href: /~assets/documents/di-14-3461-and-di-14-3589-letter-to-president-(redacted).pdf
 - label: Agency Report
-  href: /~assets/documents/DI-14-3461-and-DI-14-3589-Agency-Report.pdf
+  href: /~assets/documents/di-14-3461-and-di-14-3589-agency-report.pdf
 - label: Whistleblower Comments
-  href: /~assets/documents/DI-14-3589-Whistleblower-Comments-(redacted).pdf
+  href: /~assets/documents/di-14-3589-whistleblower-comments-(redacted).pdf
 - label: Referral Letter
-  href: /~assets/documents/DI-14-3461-and-DI-14-3589-Referral-Letter-(Redacted).pdf
+  href: /~assets/documents/di-14-3461-and-di-14-3589-referral-letter-(redacted).pdf
 ---
