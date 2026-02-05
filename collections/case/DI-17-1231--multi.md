@@ -14,9 +14,9 @@ results:
 date: 2018-04-30
 files:
 - label: Letter to the President
-  href: /~assets/documents/di-17-1231-and-di-17-1256-letter-to-president.pdf
+  href: /~assets/cases/di-17-1231-and-di-17-1256-letter-to-president.pdf
 - label: Agency Report
-  href: /~assets/documents/di-17-1231-and-di-17-1256-agency-report-redacted.pdf
+  href: /~assets/cases/di-17-1231-and-di-17-1256-agency-report-redacted.pdf
 - label: Referral Letter
-  href: /~assets/documents/di-17-1231-and-di-17-1256-referral-letter-redacted.pdf
+  href: /~assets/cases/di-17-1231-and-di-17-1256-referral-letter-redacted.pdf
 ---

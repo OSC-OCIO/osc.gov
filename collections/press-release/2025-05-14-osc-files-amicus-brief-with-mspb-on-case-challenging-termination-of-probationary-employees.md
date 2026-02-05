@@ -9,7 +9,7 @@ OSC Files Amicus Brief with MSPB on Case Challenging Termination of Probationary
 
 Page Content
 
-Today, the U.S. Office of Special Counsel (OSC) filed an amicus curiae or “friend of the court” [brief](../../~assets/documents/osc-amicus-brief-cb-1205-25-0021-u-1-et-al_.pdf)​ in Interested Terminated Probationary Employee—Commerce v. U.S. Office of Personnel Management (OPM) and related cases which are now before the Merit Systems Protection Board (MSPB). OSC opposes the probationary employees’ petition to have the MSPB review the “mass termination” of probationary employees. 
+Today, the U.S. Office of Special Counsel (OSC) filed an amicus curiae or “friend of the court” [brief](../../~assets/docs/osc-amicus-brief-cb-1205-25-0021-u-1-et-al_.pdf)​ in Interested Terminated Probationary Employee—Commerce v. U.S. Office of Personnel Management (OPM) and related cases which are now before the Merit Systems Protection Board (MSPB). OSC opposes the probationary employees’ petition to have the MSPB review the “mass termination” of probationary employees. 
 
 The probationary employees argue that the firings violated OPM regulations, thereby resulting in a prohibited personnel practice (PPP). OSC, an independent federal agency charged with safeguarding the merit system by investigating and seeking corrective and disciplinary action for prohibited personnel practices, has already evaluated the bases for the “mass” firings and determined that they do not constitute PPPs.  ​
 

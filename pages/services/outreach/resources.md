@@ -11,79 +11,79 @@ eleventyNavigation:
 
 ## Handouts
 
-[Sample Memo for Annual Notification (FAA)](<../../~assets/documents/sample-memo-for-annual-notification-faa.docx>)
+[Sample Memo for Annual Notification (FAA)](<../../~assets/docs/sample-memo-for-annual-notification-faa.docx>)
 
-[Your Rights as a Whistleblower for a Government Corporation (v2024)](<../../~assets/documents/your-rights-as-a-whistleblower-for-a-government-corporation-v2024.pdf>)
+[Your Rights as a Whistleblower for a Government Corporation (v2024)](<../../~assets/docs/your-rights-as-a-whistleblower-for-a-government-corporation-v2024.pdf>)
 
-[Your Rights as an Employee of a Government Corporation (v2024)](<../../~assets/documents/your-rights-as-an-employee-of-a-government-corporation-v2024.pdf>)
+[Your Rights as an Employee of a Government Corporation (v2024)](<../../~assets/docs/your-rights-as-an-employee-of-a-government-corporation-v2024.pdf>)
 
-[Your Rights as a Federal Employee (v2024)](<../../~assets/documents/your-rights-as-a-federal-employee-v2024.pdf>)
+[Your Rights as a Federal Employee (v2024)](<../../~assets/docs/your-rights-as-a-federal-employee-v2024.pdf>)
 
-[Discrimination Fact Sheet (b)(1)](<../../~assets/documents/discrimination-fact-sheet-b1.pdf>)
+[Discrimination Fact Sheet (b)(1)](<../../~assets/docs/discrimination-fact-sheet-b1.pdf>)
 
-[Discrimination Fact Sheet (b)(10)](<../../~assets/documents/discrimination-fact-sheet-b10.pdf>)
+[Discrimination Fact Sheet (b)(10)](<../../~assets/docs/discrimination-fact-sheet-b10.pdf>)
 
-[Hiring Offense Fact Sheet (b)(2) - Improper Recommendation](<../../~assets/documents/hiring-offense-fact-sheet-b2-improper-recommendation.pdf>)
+[Hiring Offense Fact Sheet (b)(2) - Improper Recommendation](<../../~assets/docs/hiring-offense-fact-sheet-b2-improper-recommendation.pdf>)
 
-[Hiring Offense Fact Sheet (b)(4) - Obstruction of Competition](<../../~assets/documents/hiring-offense-fact-sheet-b4-obstruction-of-competition.pdf>)
+[Hiring Offense Fact Sheet (b)(4) - Obstruction of Competition](<../../~assets/docs/hiring-offense-fact-sheet-b4-obstruction-of-competition.pdf>)
 
-[Hiring Offense Fact Sheet (b)(5) - Influencing Withdrawal](<../../~assets/documents/hiring-offense-fact-sheet-b5-influencing-withdrawal.pdf>)
+[Hiring Offense Fact Sheet (b)(5) - Influencing Withdrawal](<../../~assets/docs/hiring-offense-fact-sheet-b5-influencing-withdrawal.pdf>)
 
-[Hiring Offense Fact Sheet (b)(6) - Unauthorized Preference](<../../~assets/documents/hiring-offense-fact-sheet-b6-unauthorized-preference.pdf>)
+[Hiring Offense Fact Sheet (b)(6) - Unauthorized Preference](<../../~assets/docs/hiring-offense-fact-sheet-b6-unauthorized-preference.pdf>)
 
-[Hiring Offense Fact Sheet (b)(7) - Nepotism](<../../~assets/documents/hiring-offense-fact-sheet-b7-nepotism.pdf>)
+[Hiring Offense Fact Sheet (b)(7) - Nepotism](<../../~assets/docs/hiring-offense-fact-sheet-b7-nepotism.pdf>)
 
-[Hiring Offense Fact Sheet (b)(11) - Violating Veterans Preference](<../../~assets/documents/hiring-offense-fact-sheet-b11-violating-veterans-preference.pdf>)
+[Hiring Offense Fact Sheet (b)(11) - Violating Veterans Preference](<../../~assets/docs/hiring-offense-fact-sheet-b11-violating-veterans-preference.pdf>)
 
-[Potpourri Fact Sheet (b)(13) - Nondisclosure Forms, Policies, and Agreements](<../../~assets/documents/potpourri-fact-sheet-b13-nondisclosure-forms-policies-and-agreements.pdf>)
+[Potpourri Fact Sheet (b)(13) - Nondisclosure Forms, Policies, and Agreements](<../../~assets/docs/potpourri-fact-sheet-b13-nondisclosure-forms-policies-and-agreements.pdf>)
 
-[Potpourri Fact Sheet (b)(12) - Violating Merit System Principles](<../../~assets/documents/potpourri-fact-sheet-b12-violating-merit-system-principles.pdf>)
+[Potpourri Fact Sheet (b)(12) - Violating Merit System Principles](<../../~assets/docs/potpourri-fact-sheet-b12-violating-merit-system-principles.pdf>)
 
-[Potpourri Fact Sheet (b)(3) - Coercing Political Activity](<../../~assets/documents/potpourri-fact-sheet-b3-coercing-political-activity.pdf>)
+[Potpourri Fact Sheet (b)(3) - Coercing Political Activity](<../../~assets/docs/potpourri-fact-sheet-b3-coercing-political-activity.pdf>)
 
-[Potpourri Fact Sheet (b)(14) - Accessing Medical Records](<../../~assets/documents/potpourri-fact-sheet-b14-accessing-medical-records.pdf>)
+[Potpourri Fact Sheet (b)(14) - Accessing Medical Records](<../../~assets/docs/potpourri-fact-sheet-b14-accessing-medical-records.pdf>)
 
-[Retaliation Fact Sheet (b)(9) - Protected Activity](<../../~assets/documents/retaliation-fact-sheet-b9-protected-activity.pdf>)
+[Retaliation Fact Sheet (b)(9) - Protected Activity](<../../~assets/docs/retaliation-fact-sheet-b9-protected-activity.pdf>)
 
-[Retaliation Fact Sheet (b)(8) - Protected Disclosure](<../../~assets/documents/retaliation-fact-sheet-b8-protected-disclosure.pdf>)
+[Retaliation Fact Sheet (b)(8) - Protected Disclosure](<../../~assets/docs/retaliation-fact-sheet-b8-protected-disclosure.pdf>)
 
 ## Posters
 
-[The Hatch Act and Further Restricted Employees Poster](../../~assets/documents/the-hatch-act-and-further-restricted-employees-poster.pdf)
+[The Hatch Act and Further Restricted Employees Poster](../../~assets/docs/the-hatch-act-and-further-restricted-employees-poster.pdf)
 
-[The Hatch Act and State, D.C., and Local Employees Poster](../../~assets/documents/the-hatch-act-and-state-dc-and-local-employees-poster.pdf)
+[The Hatch Act and State, D.C., and Local Employees Poster](../../~assets/docs/the-hatch-act-and-state-dc-and-local-employees-poster.pdf)
 
-[Hatch Act social media handout](../../~assets/documents/hatch-act-social-media-handout.pdf)
+[Hatch Act social media handout](../../~assets/docs/hatch-act-social-media-handout.pdf)
 
-[Disclosures of Wrongdoing Poster (v2024)](<../../~assets/documents/disclosures-of-wrongdoing-poster-v2024.pdf>)
+[Disclosures of Wrongdoing Poster (v2024)](<../../~assets/docs/disclosures-of-wrongdoing-poster-v2024.pdf>)
 
-[Prohibited Personnel Practices Poster (v2024)](<../../~assets/documents/prohibited-personnel-practices-poster-v2024.pdf>)
+[Prohibited Personnel Practices Poster (v2024)](<../../~assets/docs/prohibited-personnel-practices-poster-v2024.pdf>)
 
-[Prohibited Personnel Practices Poster for Government Corporation (v2024)](<../../~assets/documents/prohibited-personnel-practices-poster-for-government-corporation-v2024.pdf>)
+[Prohibited Personnel Practices Poster for Government Corporation (v2024)](<../../~assets/docs/prohibited-personnel-practices-poster-for-government-corporation-v2024.pdf>)
 
-[The Hatch Act and Most Federal Employees Poster](../../~assets/documents/the-hatch-act-and-most-federal-employees-poster.pdf)
+[The Hatch Act and Most Federal Employees Poster](../../~assets/docs/the-hatch-act-and-most-federal-employees-poster.pdf)
 
-[Whistleblower Retaliation Poster (v2024)](<../../~assets/documents/whistleblower-retaliation-poster-v2024.pdf>)
+[Whistleblower Retaliation Poster (v2024)](<../../~assets/docs/whistleblower-retaliation-poster-v2024.pdf>)
 
-[2025 OSC EEO Poster (Letter Format)](<../../~assets/documents/2025-osc-eeo-poster-letter-format.pdf>)
+[2025 OSC EEO Poster (Letter Format)](<../../~assets/docs/2025-osc-eeo-poster-letter-format.pdf>)
 
 ## Training Materials
 
-[The Unique Role of OSC in Protecting LGBT Rights in the Federal Workplace](../../~assets/documents/the-unique-role-of-osc-in-protecting-lgbt-rights-in-the-federal-workplace.pdf)
+[The Unique Role of OSC in Protecting LGBT Rights in the Federal Workplace](../../~assets/docs/the-unique-role-of-osc-in-protecting-lgbt-rights-in-the-federal-workplace.pdf)
 
-[FY25 Agency Conducted Annual Supervisory Training](../../~assets/documents/fy25-agency-conducted-annual-supervisory-training.pdf)
+[FY25 Agency Conducted Annual Supervisory Training](../../~assets/docs/fy25-agency-conducted-annual-supervisory-training.pdf)
 
 ## Equal Employment Opportunity Resources
 
-[No FEAR Act Quarterly Data Q3 2025](../../~assets/documents/no-fear-act-quarterly-data-q3-2025.pdf)
+[No FEAR Act Quarterly Data Q3 2025](../../~assets/docs/no-fear-act-quarterly-data-q3-2025.pdf)
 
-[\_Federal Protections for Lesbian, Gay, Bisexual, and Transgender (LGBT) Individuals\_\_ \_](../../~assets/documents/deral-protections-for-lesbian-gay-bisexual-and-transgender-lgb-51da6d07.pdf)
+[\_Federal Protections for Lesbian, Gay, Bisexual, and Transgender (LGBT) Individuals\_\_ \_](../../~assets/docs/deral-protections-for-lesbian-gay-bisexual-and-transgender-lgb-51da6d07.pdf)
 
-[No FEAR Act Powerpoint Presentation](../../~assets/documents/no-fear-act-powerpoint-presentation.ppt)
+[No FEAR Act Powerpoint Presentation](../../~assets/docs/no-fear-act-powerpoint-presentation.ppt)
 
-[OSC's Plan for Improving Access for Persons with Limited English Proficiency](../../~assets/documents/oscs-plan-for-improving-access-for-persons-with-limited-english-proficiency.pdf)
+[OSC's Plan for Improving Access for Persons with Limited English Proficiency](../../~assets/docs/oscs-plan-for-improving-access-for-persons-with-limited-english-proficiency.pdf)
 
-[MD715 AAP Report (FY24)](<../../~assets/documents/md715-aap-report-fy24.pdf>)
+[MD715 AAP Report (FY24)](<../../~assets/docs/md715-aap-report-fy24.pdf>)
 
 ## Accordion Control
 

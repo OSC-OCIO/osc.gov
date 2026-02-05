@@ -14,17 +14,17 @@ results:
 date: 2010-09-07
 files:
 - label: Letter to the President
-  href: /~assets/documents/di-07-2471-and-di-08-1015-letter-to-president.pdf
+  href: /~assets/cases/di-07-2471-and-di-08-1015-letter-to-president.pdf
 - label: Agency Report
-  href: /~assets/documents/di-07-2471-and-di-08-1015-agency-report.pdf
+  href: /~assets/cases/di-07-2471-and-di-08-1015-agency-report.pdf
 - label: Agency Report
-  href: /~assets/documents/di-07-2471-and-di-08-1015-upplemental-report.pdf
+  href: /~assets/cases/di-07-2471-and-di-08-1015-upplemental-report.pdf
 - label: Whistleblower Comments
-  href: /~assets/documents/di-07-2471-and-di-08-1015-whistleblower-1-comments-part-1.pdf
+  href: /~assets/cases/di-07-2471-and-di-08-1015-whistleblower-1-comments-part-1.pdf
 - label: Whistleblower Comments
-  href: /~assets/documents/di-07-2471-and-di-08-1015-whistleblower-1-comments-part-2.pdf
+  href: /~assets/cases/di-07-2471-and-di-08-1015-whistleblower-1-comments-part-2.pdf
 - label: Whistleblower Comments
-  href: /~assets/documents/di-07-2471-and-di-08-1015-whistleblower-2-comments-part-1.pdf
+  href: /~assets/cases/di-07-2471-and-di-08-1015-whistleblower-2-comments-part-1.pdf
 - label: Whistleblower Comments
-  href: /~assets/documents/di-07-2471-and-di-08-1015-whistleblower-2-comments-part-2.pdf
+  href: /~assets/cases/di-07-2471-and-di-08-1015-whistleblower-2-comments-part-2.pdf
 ---

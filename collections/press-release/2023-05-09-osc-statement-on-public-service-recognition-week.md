@@ -9,7 +9,7 @@ This week is Public Service Recognition Week, a time each year when we reflect o
 
 Page Content
 
-This week is Public Service Recognition Week, a time each year when we reflect on the contributions of public servants across the government who provide invaluable services to the American public. This year, OSC is one of the 74 federal agencies to sign onto the Public Service Recognition Week [co-chair letter​](../../~assets/documents/psrw23_cochairletter.pdf).  
+This week is Public Service Recognition Week, a time each year when we reflect on the contributions of public servants across the government who provide invaluable services to the American public. This year, OSC is one of the 74 federal agencies to sign onto the Public Service Recognition Week [co-chair letter​](../../~assets/docs/psrw23_cochairletter.pdf).  
 
 I would like to take this opportunity to thank OSC's hardworking public servants who are truly committed to our agency's mission. This includes protecting whistleblowers and federal employment rights, improving worker safety, upholding merit system principles, and keeping federal workspaces free from partisan politics. Our mission helps ensure the federal government is more effective, efficient, and accountable to those it serves.
 
@@ -21,4 +21,4 @@ Based on the 2022 FEVS report, OSC has once again placed in the top-3 of best pl
 
 The President of the Partnership for Public Service, Max Stier, said that one of the most important FEVS question is whether employees believe that the survey results will be used to improve their agencies. Government-wide, that question last year produced a score of 42.9, the lowest on the survey. OSC, on the other hand, scored 74.2 on that question, showing that our employees truly believe that their feedback is valued and will be used to make OSC a better place.  
 
-The full 2022 FEVS report can be [**found here**](../../~assets/documents/2022-governmentwide-management-report.pdf).
+The full 2022 FEVS report can be [**found here**](../../~assets/docs/2022-governmentwide-management-report.pdf).

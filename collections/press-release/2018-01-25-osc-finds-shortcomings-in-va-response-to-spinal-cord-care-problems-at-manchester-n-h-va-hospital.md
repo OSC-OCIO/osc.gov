@@ -29,6 +29,6 @@ Kerner described the VA's initial   sluggish response to the allegations, such
 
 Given that potentially lengthy chart reviews of patients involved in these matters are  ongoing, OSC will request updates on the progress of this analysis as well as findings when the reviews are completed. OSC will request an update in writing every six months regarding the disposition of these reviews and the expected timeline for completion.  
 
-OSC sent a copy of the [letter](../../~assets/documents/di-16-5687-di-16-5688-di-16-5689-and-di-16-5690-letter-to-president.pdf) to the President, unredacted versions of the agency reports, and the whistleblowers’ comments to the Chairmen and Ranking Members of the Senate and House Committees on Veterans’ Affairs. OSC also filed the letter to the President, the whistleblowers’ comments, and redacted copies of the agency reports in its [public file](../../documents/public%20files.md)​ at www.osc.gov.  
+OSC sent a copy of the [letter](../../~assets/docs/di-16-5687-di-16-5688-di-16-5689-and-di-16-5690-letter-to-president.pdf) to the President, unredacted versions of the agency reports, and the whistleblowers’ comments to the Chairmen and Ranking Members of the Senate and House Committees on Veterans’ Affairs. OSC also filed the letter to the President, the whistleblowers’ comments, and redacted copies of the agency reports in its [public file](../../documents/public%20files.md)​ at www.osc.gov.  
 
 \*\*\*

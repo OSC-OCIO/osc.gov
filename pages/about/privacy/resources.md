@@ -12,7 +12,7 @@ eleventyNavigation:
 
 [Conditions of Disclosure to Third Parties under the Privacy Act](https://www.justice.gov/opcl/conditions-disclosure-third-parties)
 
-[Office of Management and Budget Circular A-130](../~assets/documents/a130revised.pdf)
+[Office of Management and Budget Circular A-130](../~assets/docs/a130revised.pdf)
 
 [Office of Management and Budget Circular A-108](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/circulars/A108/omb_circular_a-108.pdf)
 
@@ -21,14 +21,14 @@ eleventyNavigation:
 **Comments to 2022 Regulations  
 **
 
-[![](../~assets/images/icpdf.png)Ravnitsky FY2022 Proposed Reg Comments.pdf](../~assets/documents/ravnitsky-fy2022-proposed-reg-comments.pdf)
+[![](../~assets/images/icpdf.png)Ravnitsky FY2022 Proposed Reg Comments.pdf](../~assets/docs/ravnitsky-fy2022-proposed-reg-comments.pdf)
 
-[![](../~assets/images/icpdf.png)OSC Privacy Act Comment.pdf](../~assets/documents/osc-privacy-act-comment.pdf)
+[![](../~assets/images/icpdf.png)OSC Privacy Act Comment.pdf](../~assets/docs/osc-privacy-act-comment.pdf)
 
-[![](../~assets/images/icpdf.png)GAP.POGO.WOA comments on proposed OSC regulation.pdf](../~assets/documents/gappogowoa-comments-on-proposed-osc-regulation.pdf)
+[![](../~assets/images/icpdf.png)GAP.POGO.WOA comments on proposed OSC regulation.pdf](../~assets/docs/gappogowoa-comments-on-proposed-osc-regulation.pdf)
 
-[![](../~assets/images/icpdf.png)Amended GAP.POGO.Public Citizen.WOA comments on proposed OSC regulation.pdf](../~assets/documents/amended-gappogopublic-citizenwoa-comments-on-proposed-osc-regulation.pdf)
+[![](../~assets/images/icpdf.png)Amended GAP.POGO.Public Citizen.WOA comments on proposed OSC regulation.pdf](../~assets/docs/amended-gappogopublic-citizenwoa-comments-on-proposed-osc-regulation.pdf)
 
-[![](../~assets/images/icpdf.png)OSC Comments 3.3.2022 Public_Citizen.pdf](../~assets/documents/osc-comments-332022-public_citizen.pdf)
+[![](../~assets/images/icpdf.png)OSC Comments 3.3.2022 Public_Citizen.pdf](../~assets/docs/osc-comments-332022-public_citizen.pdf)
 
-[![](../~assets/images/icpdf.png)comments-osc-proposed-regs-3-1-22.pdf](../~assets/documents/comments-osc-proposed-regs-3-1-22.pdf)
+[![](../~assets/images/icpdf.png)comments-osc-proposed-regs-3-1-22.pdf](../~assets/docs/comments-osc-proposed-regs-3-1-22.pdf)

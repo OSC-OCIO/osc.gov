@@ -6,8 +6,8 @@ eleventyNavigation:
 
 OSC is dedicated to enhancing understanding of the laws that our office enforces through comprehensive training. Browse our training catalog below to discover the perfect program for your agency's training session or event and email us at [**certification@osc.gov**](mailto:certification@osc.gov) to reserve your spot. When emailing [**certification@osc.gov**](mailto:certification@osc.gov), you can include the details of your training session or event in the body of your email or utilize the speaker request form provided below. Separate forms are available for requests from federal agencies and for requests from non-federal entities.​​
 
-[Speaker Request Form](../../~assets/documents/osc-speaker-request-form-non-federal-requester.pdf) (Non-Federal Requester)  
-[Speaker Request Form](../../~assets/documents/osc-speaker-request-form-federal-agency-requester.pdf)​ (Federal Requester)
+[Speaker Request Form](../../~assets/docs/osc-speaker-request-form-non-federal-requester.pdf) (Non-Federal Requester)  
+[Speaker Request Form](../../~assets/docs/osc-speaker-request-form-federal-agency-requester.pdf)​ (Federal Requester)
 
 **Training Catalog** 
 
@@ -21,5 +21,5 @@ OSC is dedicated to enhancing understanding of the laws that our office enforces
 
 **Tailored Training. ​**(length varies). OSC can develop tailored trainings based on agency need. You can email [**certification@osc.gov**](mailto:certification@osc.gov) to discuss developing a tailored training for your agency.​
 
-[Speaker Request Form](../../~assets/documents/osc-speaker-request-form-non-federal-requester.pdf) (Non-Federal Requester)  
-[Speaker Request Form](../../~assets/documents/osc-speaker-request-form-federal-agency-requester.pdf)​ (Federal Requester)
+[Speaker Request Form](../../~assets/docs/osc-speaker-request-form-non-federal-requester.pdf) (Non-Federal Requester)  
+[Speaker Request Form](../../~assets/docs/osc-speaker-request-form-federal-agency-requester.pdf)​ (Federal Requester)

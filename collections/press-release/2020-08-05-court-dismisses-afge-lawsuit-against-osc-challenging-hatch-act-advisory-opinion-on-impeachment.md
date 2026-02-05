@@ -9,7 +9,7 @@ The U.S. District Court for the District of Maryland has dismissed a lawsuit fil
 
 Page Content
 
-​The U.S. District Court for the District of Maryland has dismissed a lawsuit filed against the U.S. Office of Special Counsel (OSC) by the American Federation of Government Employees (AFGE) seeking to compel OSC to rescind a Hatch Act [advisory opinion](../../~assets/documents/advocating-resistance-and-impeachment-at-work.pdf) addressing speech relating to impeachment and “#Resist."  AFGE alleged that the advisory opinion unlawfully limits First Amendment rights of government employees. The Court dismissed the lawsuit for lack of jurisdiction, concluding that the plaintiffs' claims were not ripe for judicial review. 
+​The U.S. District Court for the District of Maryland has dismissed a lawsuit filed against the U.S. Office of Special Counsel (OSC) by the American Federation of Government Employees (AFGE) seeking to compel OSC to rescind a Hatch Act [advisory opinion](../../~assets/docs/advocating-resistance-and-impeachment-at-work.pdf) addressing speech relating to impeachment and “#Resist."  AFGE alleged that the advisory opinion unlawfully limits First Amendment rights of government employees. The Court dismissed the lawsuit for lack of jurisdiction, concluding that the plaintiffs' claims were not ripe for judicial review. 
 
 **Special Counsel Henry J. Kerner** released the following statement:
 

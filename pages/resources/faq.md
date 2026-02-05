@@ -77,7 +77,7 @@ An amicus curiae brief is a legal argument provided to a court by a person or gr
 
 ## How can I disclose fraud, waste, and abuse?
 
-If you choose to make a disclosure at OSC, please submit it through our online system (under "[file a complaint](pages/file-complaint.md)") or by printing form [OSC-14](~assets/documents/osc-form-14.pdf) and emailing it to [info@osc.gov​](mailto:info@osc.gov).
+If you choose to make a disclosure at OSC, please submit it through our online system (under "[file a complaint](pages/file-complaint.md)") or by printing form [OSC-14](~assets/docs/osc-form-14.pdf) and emailing it to [info@osc.gov​](mailto:info@osc.gov).
 
 ## What is the difference between filing a PPP complaint with OSC and making a whistleblower disclosure to OSC?
 
@@ -230,7 +230,7 @@ Maybe. OSC has limited jurisdiction over complaints from U.S. Postal Service em
 
 ## I am a government contractor or employee of a government contractor. Can I file a PPP complaint at OSC?
 
-No. OSC's jurisdiction is limited to complaints from federal employees. OSC does not have jurisdiction over government contractors or employees of government contractors. This is true even for contractors who work directly for federal agencies. Employees of contractors can bring a whistleblower retaliation complaint with the Office of Inspector General at the agency for whom the employee performed work under a government contract. Employee of contractors may also be eligible to file qui tam actions under the False Claims Act. More information about the False Claims Act is available [here​](~assets/documents/c-fraudsua_primer.pdf). ​​​​​
+No. OSC's jurisdiction is limited to complaints from federal employees. OSC does not have jurisdiction over government contractors or employees of government contractors. This is true even for contractors who work directly for federal agencies. Employees of contractors can bring a whistleblower retaliation complaint with the Office of Inspector General at the agency for whom the employee performed work under a government contract. Employee of contractors may also be eligible to file qui tam actions under the False Claims Act. More information about the False Claims Act is available [here​](~assets/docs/c-fraudsua_primer.pdf). ​​​​​
 
 ## I am a uniformed officer of the military. Can I file a PPP complaint at OSC?
 
@@ -725,13 +725,13 @@ and subject to the Act’s restrictions on political activity.​​
 
 ​Generally, federal employees may not be candidates in partisan elections. However, the Office of Personnel Management (OPM) has promulgated a federal regulation designating ​specific localities where federal employees residing there may be independent candidates in local partisan elections. The localiti​es listed in the regulation are those where the majority of voters are federal employees or where special circumstances exist such that it is in the domestic interest to permit federal employees to run for local partisan political office. OPM’s list of designated localities can be found at 5 C.F.R. § 733.107.​
 
-Employees who live in a designated locality must ensure that they maintain an independent candidacy when running for local partisan political office in that designated locality.  See OSC’s advisory opinion [here](~assets/documents/maintaining-an-independent-candidacy-when-running-in-a-designated-locality.pdf) for additional information.​
+Employees who live in a designated locality must ensure that they maintain an independent candidacy when running for local partisan political office in that designated locality.  See OSC’s advisory opinion [here](~assets/docs/maintaining-an-independent-candidacy-when-running-in-a-designated-locality.pdf) for additional information.​
 
 ## May I run as an independent candidate in a partisan election?
 
 ​Generally, federal employees may not be candidates in partisan elections, even if they run as political independents. Only those federal employees, including further restricted employees, residing in localities specifically designated by the Office of Personnel Management (OPM) may run as independents in local elections that are otherwise partisan. OPM’s list of designated localities can be found at 5 C.F.R. § 733.107.​
 
-Employees who live in a designated locality must ensure that they maintain an independent candidacy when running for local partisan political office in that designated locality.  See OSC’s advisory opinion [here](~assets/documents/maintaining-an-independent-candidacy-when-running-in-a-designated-locality.pdf) for additional information.​
+Employees who live in a designated locality must ensure that they maintain an independent candidacy when running for local partisan political office in that designated locality.  See OSC’s advisory opinion [here](~assets/docs/maintaining-an-independent-candidacy-when-running-in-a-designated-locality.pdf) for additional information.​
 
 ## I live in a designated locality and I want to run as an independent candidate for State Senate. May I do so?
 

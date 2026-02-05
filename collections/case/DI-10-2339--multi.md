@@ -13,9 +13,9 @@ results:
 date: 2011-06-09
 files:
 - label: Letter to the President
-  href: /~assets/documents/di-10-2339-and-di-10-2396-letter-to-president.pdf
+  href: /~assets/cases/di-10-2339-and-di-10-2396-letter-to-president.pdf
 - label: Agency Report
-  href: /~assets/documents/di-10-2339-and-di-10-2396-agency-report.pdf
+  href: /~assets/cases/di-10-2339-and-di-10-2396-agency-report.pdf
 - label: Whistleblower Comments
-  href: /~assets/documents/di-10-2339-and-di-10-2396-whistleblower-comments.pdf
+  href: /~assets/cases/di-10-2339-and-di-10-2396-whistleblower-comments.pdf
 ---

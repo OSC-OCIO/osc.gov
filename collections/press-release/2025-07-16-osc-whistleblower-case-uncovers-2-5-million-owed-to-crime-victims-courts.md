@@ -9,7 +9,7 @@ OSC Whistleblower Case Uncovers $2.5 Million Owed to Crime Victims, Courts 
 
 Page Content
 
-​​​Today, the U.S. Office of Special Counsel (OSC) [notified](../../~assets/documents/di-24-001399-president-letter_redacted.pdf) ​the President and Congress that the Department of Justice’s (DOJ’s) findings in response to a whistleblower disclosure at the Bureau of Prisons (BOP), Federal Correctional Institution Three Rivers in Live Oak, County Texas, appears reasonable. ​
+​​​Today, the U.S. Office of Special Counsel (OSC) [notified](../../~assets/docs/di-24-001399-president-letter_redacted.pdf) ​the President and Congress that the Department of Justice’s (DOJ’s) findings in response to a whistleblower disclosure at the Bureau of Prisons (BOP), Federal Correctional Institution Three Rivers in Live Oak, County Texas, appears reasonable. ​
 
 The DOJ’s investigation into the whistleblower’s disclosure found that BOP officials failed to update relevant inmate records and collect nearly $2.5 million in court-ordered financial obligations to crime victims and the courts. Also identified was nearly $70,000 owed by inmates that were no longer collectable due to time limits.  
 

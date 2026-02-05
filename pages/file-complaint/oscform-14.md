@@ -12,13 +12,13 @@ While we encourage you to use the [Online Filing Portal](https://oscportal.power
 
 To file a USERRA complaint about discrimination or reemployment as a member  of the uniformed services, please visit the [Department of Labor](https://webapps.dol.gov/elaws/vets/vetpref/1010.htm) to complete a USERRA complaint form. ​
 
-[OSC Form-14 Prohibited Personnel Practice Form](../~assets/documents/osc-form-14-prohibited-personnel-practice-form.pdf)
+[OSC Form-14 Prohibited Personnel Practice Form](../~assets/docs/osc-form-14-prohibited-personnel-practice-form.pdf)
 
-[OSC Form-14 Disclosure Form](../~assets/documents/osc-form-14-disclosure-form.pdf)
+[OSC Form-14 Disclosure Form](../~assets/docs/osc-form-14-disclosure-form.pdf)
 
-[OSC Form-14 Federal Hatch Act Complaint Form](../~assets/documents/osc-form-14-state-hatch-act-complaint-form.pdf)
+[OSC Form-14 Federal Hatch Act Complaint Form](../~assets/docs/osc-form-14-state-hatch-act-complaint-form.pdf)
 
-[OSC Form-14 State/Local/Nonprofit​ Hatch Act Complaint Form](../~assets/documents/osc-form-14-state-hatch-act-complaint-form.pdf)
+[OSC Form-14 State/Local/Nonprofit​ Hatch Act Complaint Form](../~assets/docs/osc-form-14-state-hatch-act-complaint-form.pdf)
 
 ## Please see "**Useful Tips**​" below if you experience difficulty opening this file.​
 
@@ -35,7 +35,7 @@ How to use OSC Form-14
 
 As all computers are set up differently, you may experience opening Form-14 in different ways.
 
-- See: how to set Adobe Reader DC or Acrobat DC as the [Default PDF Program](../~assets/documents/set-adobe-as-the-defualt-pdf-program.pdf "Instructions to set Adobe as defualt") ​or download the free [Adobe Acrobat Reader](https://get.adobe.com/reader/ "Link to download Adobe").
+- See: how to set Adobe Reader DC or Acrobat DC as the [Default PDF Program](../~assets/docs/set-adobe-as-the-defualt-pdf-program.pdf "Instructions to set Adobe as defualt") ​or download the free [Adobe Acrobat Reader](https://get.adobe.com/reader/ "Link to download Adobe").
 - Tablets, smartphones, and government issued computers may experience difficulty. If you have difficulty submitting from these devices, please try to submit from a personal computer.​​​​
 - If you receive a “Please wait…” message, please right click on the Form-14 link and select “Save Link As” or “Save Target As”.  From your downloads select the downloaded Form 14 PDF to open in Adobe.
 - If you have trouble in one Internet browser, try another.

@@ -15,9 +15,9 @@ results:
 date: 2019-04-10
 files:
 - label: Letter to the President
-  href: /~assets/documents/di-18-0169-di-18-0225-and-di-18-0226-letter-to-president-redacted.pdf
+  href: /~assets/cases/di-18-0169-di-18-0225-and-di-18-0226-letter-to-president-redacted.pdf
 - label: Agency Report
-  href: /~assets/documents/di-18-0169-di-18-0225-and-di-18-0226-agency-report-redacted.pdf
+  href: /~assets/cases/di-18-0169-di-18-0225-and-di-18-0226-agency-report-redacted.pdf
 - label: Referral Letter
-  href: /~assets/documents/di-18-0169-di-18-0225-and-di-18-0226-referral-letter-redacted.pdf
+  href: /~assets/cases/di-18-0169-di-18-0225-and-di-18-0226-referral-letter-redacted.pdf
 ---

@@ -33,6 +33,6 @@ It is critical that OSC work with agencies to ensure they receive robust trainin
 
 **Additional 2018 accomplishments**  
 
-Read more about OSC’s accomplishments in our annual [Performance and Accountability Report](../../~assets/documents/fy-2018-performance-and-accountability-report.pdf)​ to Congress.
+Read more about OSC’s accomplishments in our annual [Performance and Accountability Report](../../~assets/docs/fy-2018-performance-and-accountability-report.pdf)​ to Congress.
 
 \*\*\*​

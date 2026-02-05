@@ -21,6 +21,6 @@ According to the 2020 FEVS report, released by the Office of Personnel Managemen
 
 “OSC saw a marked improvement in its FEVS score last year, outperforming the federal government in nearly every recorded category," **Special Counsel Kerner** added.  “Not only has OSC increased its efficiency reaching more favorable outcomes for stakeholders, but its employees now report higher job satisfaction. I am extremely proud and humbled to lead an agency of dedicated public servants who care so deeply about the work they do."
 
-The full 2020 FEVS report can be [found here](../../~assets/documents/2020-governmentwide-management-report.pdf).  
+The full 2020 FEVS report can be [found here](../../~assets/docs/2020-governmentwide-management-report.pdf).  
 
 \*\*\*

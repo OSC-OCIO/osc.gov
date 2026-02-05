@@ -13,13 +13,13 @@ results:
 date: 2015-05-18
 files:
 - label: Letter to the President
-  href: /~assets/documents/di-14-2556-di-14-4627-and-di-15-0001-letter-to-president.pdf
+  href: /~assets/cases/di-14-2556-di-14-4627-and-di-15-0001-letter-to-president.pdf
 - label: Agency Report
-  href: /~assets/documents/di-14-2558-di-14-4627-and-di-15-0001-agency-report.pdf
+  href: /~assets/cases/di-14-2558-di-14-4627-and-di-15-0001-agency-report.pdf
 - label: Agency Report
-  href: /~assets/documents/di-14-2558-di-14-4627-and-di-15-0001-supplemental-report.pdf
+  href: /~assets/cases/di-14-2558-di-14-4627-and-di-15-0001-supplemental-report.pdf
 - label: Whistleblower Comments
-  href: /~assets/documents/di-14-2558-di-14-4627-and-di-15-0001-whistleblower-_1-comments.pdf
+  href: /~assets/cases/di-14-2558-di-14-4627-and-di-15-0001-whistleblower-_1-comments.pdf
 - label: Whistleblower Comments
-  href: /~assets/documents/di-14-2558-di-14-4627-and-di-15-0001-whistleblower-_2-comments.pdf
+  href: /~assets/cases/di-14-2558-di-14-4627-and-di-15-0001-whistleblower-_2-comments.pdf
 ---
