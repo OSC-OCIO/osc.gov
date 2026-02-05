@@ -30,11 +30,11 @@ footer_navigation:
   - name: Open Government
     url: "/resources/opengov"
   - name: Freedom of Information Act (FOIA)
-    url: "/about/foia/index"
+    url: "/about/foia"
   - name: Artificial Intelligence (AI)
     url: "/resources/ai"
   - name: Privacy Program
-    url: "/about/privacy/index"
+    url: "/about/privacy"
   - name: No FEAR Act/EEO Reports
     url: "/resources/reports"
   - name: USA.gov
@@ -45,7 +45,6 @@ footer_navigation:
     url: "/about/opportunities"
   - name: Para Información En Español
     url: "/about/policies/espanol"
-
 
 # Search.gov configuration
 #
