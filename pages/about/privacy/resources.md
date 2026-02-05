@@ -21,14 +21,14 @@ eleventyNavigation:
 **Comments to 2022 Regulations  
 **
 
-[![](../~assets/images/icpdf.png)Ravnitsky FY2022 Proposed Reg Comments.pdf](../~assets/documents/Ravnitsky-FY2022-Proposed-Reg-Comments.pdf)
+[![](../~assets/images/icpdf.png)Ravnitsky FY2022 Proposed Reg Comments.pdf](../~assets/documents/ravnitsky-fy2022-proposed-reg-comments.pdf)
 
-[![](../~assets/images/icpdf.png)OSC Privacy Act Comment.pdf](../~assets/documents/OSC-Privacy-Act-Comment.pdf)
+[![](../~assets/images/icpdf.png)OSC Privacy Act Comment.pdf](../~assets/documents/osc-privacy-act-comment.pdf)
 
-[![](../~assets/images/icpdf.png)GAP.POGO.WOA comments on proposed OSC regulation.pdf](../~assets/documents/GAP.POGO.WOA-comments-on-proposed-OSC-regulation.pdf)
+[![](../~assets/images/icpdf.png)GAP.POGO.WOA comments on proposed OSC regulation.pdf](../~assets/documents/gappogowoa-comments-on-proposed-osc-regulation.pdf)
 
-[![](../~assets/images/icpdf.png)Amended GAP.POGO.Public Citizen.WOA comments on proposed OSC regulation.pdf](../~assets/documents/Amended-GAP.POGO.Public-Citizen.WOA-comments-on-proposed-OSC-regulation.pdf)
+[![](../~assets/images/icpdf.png)Amended GAP.POGO.Public Citizen.WOA comments on proposed OSC regulation.pdf](../~assets/documents/amended-gappogopublic-citizenwoa-comments-on-proposed-osc-regulation.pdf)
 
-[![](../~assets/images/icpdf.png)OSC Comments 3.3.2022 Public_Citizen.pdf](../~assets/documents/OSC-Comments-3.3.2022-Public_Citizen.pdf)
+[![](../~assets/images/icpdf.png)OSC Comments 3.3.2022 Public_Citizen.pdf](../~assets/documents/osc-comments-332022-public_citizen.pdf)
 
 [![](../~assets/images/icpdf.png)comments-osc-proposed-regs-3-1-22.pdf](../~assets/documents/comments-osc-proposed-regs-3-1-22.pdf)

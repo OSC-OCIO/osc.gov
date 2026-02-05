@@ -14,7 +14,7 @@ results:
 date: 2012-05-08
 files:
 - label: Agency Report
-  href: /~assets/documents/DI-08-2954-and-DI-11-0747-Agency-Report.PDF
+  href: /~assets/documents/di-08-2954-and-di-11-0747-agency-report.pdf
 - label: Analysis
-  href: /~assets/documents/DI-08-2954-and-DI-11-0747-Analysis.pdf
+  href: /~assets/documents/di-08-2954-and-di-11-0747-analysis.pdf
 ---

@@ -9,7 +9,7 @@ This week is Public Service Recognition Week, a time each year when we reflect o
 
 Page Content
 
-This week is Public Service Recognition Week, a time each year when we reflect on the contributions of public servants across the government who provide invaluable services to the American public. This year, OSC is one of the 74 federal agencies to sign onto the Public Service Recognition Week [co-chair letter​](../../~assets/documents/PSRW23_CoChairLetter.pdf).  
+This week is Public Service Recognition Week, a time each year when we reflect on the contributions of public servants across the government who provide invaluable services to the American public. This year, OSC is one of the 74 federal agencies to sign onto the Public Service Recognition Week [co-chair letter​](../../~assets/documents/psrw23_cochairletter.pdf).  
 
 I would like to take this opportunity to thank OSC's hardworking public servants who are truly committed to our agency's mission. This includes protecting whistleblowers and federal employment rights, improving worker safety, upholding merit system principles, and keeping federal workspaces free from partisan politics. Our mission helps ensure the federal government is more effective, efficient, and accountable to those it serves.
 

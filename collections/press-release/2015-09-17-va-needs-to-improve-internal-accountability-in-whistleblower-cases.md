@@ -9,7 +9,7 @@ In a letter to the White House and Congress, OSC reported that the VA failed to 
 
 Page Content
 
-In [a letter](../../~assets/documents/DI-14-2754-Letter-to-President.pdf) to the White House and Congress today, the U.S. Office of Special Counsel (OSC) reported that the Department of Veterans Affairs (VA) failed to adequately discipline employees for endangering the health and safety of veterans and other wrongdoing.  
+In [a letter](../../~assets/documents/di-14-2754-letter-to-president.pdf) to the White House and Congress today, the U.S. Office of Special Counsel (OSC) reported that the Department of Veterans Affairs (VA) failed to adequately discipline employees for endangering the health and safety of veterans and other wrongdoing.  
 
   
 
@@ -17,7 +17,7 @@ In [a letter](../../~assets/documents/DI-14-2754-Letter-to-President.pdf) to the
 
   
 
-OSC’s letter closes the whistleblower disclosure case of Katherine Mitchell, a VA doctor who blew the whistle on numerous problems at the Carl T. Hayden VA Medical Center (VAMC) in Phoenix, Arizona. Among the problems highlighted by Dr. Mitchell, the VA [confirmed](../../~assets/documents/DI-14-2754-Agency-Report.pdf) that the Phoenix VAMC had no nurses in its Emergency Department appropriately trained in medical triage. Phoenix VAMC nursing supervisors required untrained nurses to triage Emergency Department patients, resulting in at least 110 cases where patients experienced dangerous delays in care. In one case, a patient with a history of strokes waited almost eight hours for treatment after arriving in the Phoenix VAMC’s Emergency Department with low blood pressure.
+OSC’s letter closes the whistleblower disclosure case of Katherine Mitchell, a VA doctor who blew the whistle on numerous problems at the Carl T. Hayden VA Medical Center (VAMC) in Phoenix, Arizona. Among the problems highlighted by Dr. Mitchell, the VA [confirmed](../../~assets/documents/di-14-2754-agency-report.pdf) that the Phoenix VAMC had no nurses in its Emergency Department appropriately trained in medical triage. Phoenix VAMC nursing supervisors required untrained nurses to triage Emergency Department patients, resulting in at least 110 cases where patients experienced dangerous delays in care. In one case, a patient with a history of strokes waited almost eight hours for treatment after arriving in the Phoenix VAMC’s Emergency Department with low blood pressure.
 
   
 
@@ -29,7 +29,7 @@ Distinct from her disclosure case, Dr. Mitchell settled her whistleblower repris
 
   
 
-In addition, today, OSC also closed [the case](../../~assets/documents/DI-14-3337-Letter-to-President.pdf) of Jonathan Wicks, a former clinical social worker at the Vet Center in Federal Way, Washington. Mr. Wicks disclosed that the manager of a VA clinic intentionally falsified government records, repeatedly overstating the amount of time she spent in face-to-face counseling sessions with veterans. The VA’s OMI [substantiated](../../~assets/documents/DI-14-3337-Agency-Report.pdf)​ Mr. Wicks’ disclosures. Before OMI’s investigation, regional leaders were aware of the manager’s misconduct due to earlier reviews, yet failed to take action to address it at the time. After OMI substantiated Mr. Wicks’ allegations, the manager and regional leaders received only a reprimand, the lowest form of discipline.
+In addition, today, OSC also closed [the case](../../~assets/documents/di-14-3337-letter-to-president.pdf) of Jonathan Wicks, a former clinical social worker at the Vet Center in Federal Way, Washington. Mr. Wicks disclosed that the manager of a VA clinic intentionally falsified government records, repeatedly overstating the amount of time she spent in face-to-face counseling sessions with veterans. The VA’s OMI [substantiated](../../~assets/documents/di-14-3337-agency-report.pdf)​ Mr. Wicks’ disclosures. Before OMI’s investigation, regional leaders were aware of the manager’s misconduct due to earlier reviews, yet failed to take action to address it at the time. After OMI substantiated Mr. Wicks’ allegations, the manager and regional leaders received only a reprimand, the lowest form of discipline.
 
   
 

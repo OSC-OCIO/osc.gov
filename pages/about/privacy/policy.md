@@ -62,6 +62,6 @@ We use this information for statistical purposes (e.g., to determine the number 
 
 ## Privacy Program Reports
 
-[OSC’s Privacy Regulations – October 2007](../~assets/documents/OSC’s-Privacy-Regulations-–-October-2007.pdf)
+[OSC’s Privacy Regulations – October 2007](../~assets/documents/oscs-privacy-regulations-october-2007.pdf)
 
-​[![](../~assets/images/icpdf.png)OSC's Privacy Regulation - October 2022.pdf](../~assets/documents/OSC's-Privacy-Regulation---October-2022.pdf)
+​[![](../~assets/images/icpdf.png)OSC's Privacy Regulation - October 2022.pdf](../~assets/documents/oscs-privacy-regulation-october-2022.pdf)

@@ -20,13 +20,13 @@ results:
 date: 2013-06-13
 files:
 - label: Letter to the President
-  href: /~assets/documents/DI-10-3763-Letter-to-President.pdf
+  href: /~assets/documents/di-10-3763-letter-to-president.pdf
 - label: Agency Report
-  href: /~assets/documents/DI-10-3763-Agency-Report.pdf
+  href: /~assets/documents/di-10-3763-agency-report.pdf
 - label: Agency Report
-  href: /~assets/documents/DI-10-3763-Supplemental-Report-_2.pdf
+  href: /~assets/documents/di-10-3763-supplemental-report-_2.pdf
 - label: Agency Report
-  href: /~assets/documents/DI-10-3763-Supplemental-Report.pdf
+  href: /~assets/documents/di-10-3763-supplemental-report.pdf
 - label: Whistleblower Comments
-  href: /~assets/documents/DI-10-3763-Whistleblower-Comments.pdf
+  href: /~assets/documents/di-10-3763-whistleblower-comments.pdf
 ---

@@ -11,12 +11,12 @@ eleventyNavigation:
 \_\*\*Have you been impacted by a Reduction in Force (RIF)?  
 Are you considering your RIF appeal options?
 
-If so, please read [OSC's RIF Fact Sheet​](../~assets/documents/OSC-RIF-Fact-Sheet.pdf) to help you decide which appeals process is right for you.**\_  
+If so, please read [OSC's RIF Fact Sheet​](../~assets/documents/osc-rif-fact-sheet.pdf) to help you decide which appeals process is right for you.**\_  
 \_**​\*\*\_
 
 [​​​​​​](mailto:info@osc.gov.%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B)​
 
-**[![Online_FilingPortal_Btns.png](../~assets/images/Online_FilingPortal_Btns.png)](https://oscportal.powerappsportals.us/)​​​**
+**[![Online_FilingPortal_Btns.png](../~assets/images/online_filingportal_btnspnghttpsoscportalpowerappsportals.us/)​​​**
 
 **Pr​ohibited personnel practices** (PPPs) are employment-related activities that are banned in the federal workf​​orce because they violate the merit system through some form of retaliation, improper hiring practices, or failure to adhere to laws, rules, or regulations that directly concern the merit system principles. The Office of Special Counsel (OSC) is authorized to investigate and prosecute claims that a PPP occurred in the federal workplace.  Click [HERE ​](../services/pages/ppp.md)for more information on PPPs. 
 

@@ -14,19 +14,19 @@ results:
 date: 2009-12-28
 files:
 - label: Letter to the President
-  href: /~assets/documents/DI-07-2793-Letter-to-President.pdf
+  href: /~assets/documents/di-07-2793-letter-to-president.pdf
 - label: Agency Report
-  href: /~assets/documents/DI-07-2793-Agency-Report-(Part-1).pdf
+  href: /~assets/documents/di-07-2793-agency-report-part-1.pdf
 - label: Agency Report
-  href: /~assets/documents/DI-07-2793-Agency-Report-(Part-2)-REDACTED.pdf
+  href: /~assets/documents/di-07-2793-agency-report-part-2-redacted.pdf
 - label: Agency Report
-  href: /~assets/documents/DI-07-2793-Agency-Report-(Part-3).pdf
+  href: /~assets/documents/di-07-2793-agency-report-part-3.pdf
 - label: Agency Report
-  href: /~assets/documents/DI-07-2793-Agency-Report-(Part-4)-REDACTED.pdf
+  href: /~assets/documents/di-07-2793-agency-report-part-4-redacted.pdf
 - label: Whistleblower Comments
-  href: /~assets/documents/DI-07-2793-Whistleblower-Comments-(Part-1)-REDACTED.pdf
+  href: /~assets/documents/di-07-2793-whistleblower-comments-part-1-redacted.pdf
 - label: Whistleblower Comments
-  href: /~assets/documents/DI-07-2793-Whistleblower-Comments-(Part-2)-REDACTED.pdf
+  href: /~assets/documents/di-07-2793-whistleblower-comments-part-2-redacted.pdf
 - label: Analysis
-  href: /~assets/documents/DI-07-2793-Analysis.pdf
+  href: /~assets/documents/di-07-2793-analysis.pdf
 ---

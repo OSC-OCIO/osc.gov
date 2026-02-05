@@ -49,7 +49,7 @@ OSC’s CUI Program is a new program that intends to standardize the way we hand
 
 [Executive Order 13526](~assets/documents/2010-28360.pdf)
 
-[32 CFR Part 2002](~assets/documents/CFR-2018-title32-vol6-part2002.pdf)​​
+[32 CFR Part 2002](~assets/documents/cfr-2018-title32-vol6-part2002.pdf)​​
 
 [CU​​​I Notices and Regulations](https://www.archives.gov/cui/registry/policy-guidance#directives)
 

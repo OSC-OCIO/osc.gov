@@ -9,7 +9,7 @@ Eric Bachman, deputy special counsel for litigation and legal affairs, testified
 
 Page Content
 
-​This [afternoon](https://oversight.house.gov/hearing/five-years-later-review-whistleblower-protection-enhancement-act/), Eric Bachman, deputy special counsel for litigation and legal affairs, [testified](../../~assets/documents/Testimony-of-Deputy-Special-Counsel-Eric-Bachman-on-“Five-Years-Lat-8687d1c9.pdf) before the House
+​This [afternoon](https://oversight.house.gov/hearing/five-years-later-review-whistleblower-protection-enhancement-act/), Eric Bachman, deputy special counsel for litigation and legal affairs, [testified](../../~assets/documents/testimony-of-deputy-special-counsel-eric-bachman-on-five-years-lat-8687d1c9.pdf) before the House
 
 Oversight and Government Reform Subcommittee on Government Operations on the U.S. Office of Special Counsel’s (OSC) enforcement efforts since the enactment of the Whistleblower Protection Enhancement Act (WPEA) of 2012. Mr. Bachman testified that the WPEA “has significantly enhanced OSC’s ability to protect federal employees from retaliation.” He provided examples of federal employees who would have fallen through the cracks before the WPEA passed but that OSC was now able to assist due to strengthened whistleblower protections in the law. Mr. Bachman also outlined several proposals for further improving federal whistleblower protections. OSC, an agency with around 140 employees, has jurisdiction to investigate claims of whistleblower retaliation made by most of the federal government’s 2 million civilian employees (the major exceptions are the Federal Bureau of Investigation and the intelligence community).  
 

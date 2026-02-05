@@ -19,6 +19,6 @@ Nonetheless, in response to the investigation’s findings, USDA implemented sev
 
 “This whistleblower deserves praise for working to protect the health and safety of horses and their handlers performing government duties,” Special Counsel Henry J. Kerner said. “I also commend  Secretary Perdue’s prompt and thorough response to the matter and his recognition that agencies must work together to protect public safety.”  
 
-Kerner conveyed OSC’s conclusions in a [letter](../../~assets/documents/DI-17-3584-Letter-to-President.pdf)  to President Trump and also sent the agency report to the chairman and ranking member of the Senate Committee on Agriculture, Nutrition, and Forestry  and the chairman and ranking member of the House Committee on Agriculture. The letter and the  redacted agency [report](../../~assets/documents/di-17-3584-agency-report-\(redacted\).pdf) are available in OSC’s public file, available at [www.osc.gov​](https://www.osc.gov/). 
+Kerner conveyed OSC’s conclusions in a [letter](../../~assets/documents/di-17-3584-letter-to-president.pdf)  to President Trump and also sent the agency report to the chairman and ranking member of the Senate Committee on Agriculture, Nutrition, and Forestry  and the chairman and ranking member of the House Committee on Agriculture. The letter and the  redacted agency [report](../../~assets/documents/di-17-3584-agency-report-redacted.pdf) are available in OSC’s public file, available at [www.osc.gov​](https://www.osc.gov/). 
 
 \*\*\*

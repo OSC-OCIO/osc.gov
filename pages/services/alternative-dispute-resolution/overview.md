@@ -13,6 +13,6 @@ Mediation is an informal and flexible process in which a neutral third party - t
 
 Mediation is a free, voluntary, and confidential dispute resolution process that provides an alternative avenue for resolving OSC complaints.  It gives both parties an opportunity to discuss the issues raised in the complaint outside of a formal hearing context.  In mediation, the parties have a guided forum within which to understand each other's needs and concerns and explore creative options for settlement beyond the formal remedies OSC can obtain through litigation.  Mediation helps identify areas of agreement and ultimately incorporate those areas into a final resolution of the complaint.​
 
-For more information, please see our [Fact Sheet on How OSC's Mediation Program Works](../../~assets/documents/Fact-Sheet_How-OSC's-Mediation-Program-Works.pdf)​​​​​
+For more information, please see our [Fact Sheet on How OSC's Mediation Program Works](../../~assets/documents/fact-sheet_how-oscs-mediation-program-works.pdf)​​​​​
 
 ## OSC Alternative Dispute Resolution Overview- Video

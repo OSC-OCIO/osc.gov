@@ -18,11 +18,11 @@ results:
 date: 2019-08-14
 files:
 - label: Letter to the President
-  href: /~assets/documents/OSC-Letter-to-President-8-14-19.pdf
+  href: /~assets/documents/osc-letter-to-president-8-14-19.pdf
 - label: Agency Report
-  href: /~assets/documents/Navy-Redacted-Report-11-20-18_Redacted.pdf
+  href: /~assets/documents/navy-redacted-report-11-20-18_redacted.pdf
 - label: Whistleblower Comments
-  href: /~assets/documents/WB-Comments-OSC-DI-15-4963.pdf
+  href: /~assets/documents/wb-comments-osc-di-15-4963.pdf
 - label: Referral Letter
-  href: /~assets/documents/OSC-Disclosure-Referral-Navy-2-23-18_Redacted.pdf
+  href: /~assets/documents/osc-disclosure-referral-navy-2-23-18_redacted.pdf
 ---

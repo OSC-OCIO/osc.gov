@@ -9,7 +9,7 @@ Safety inspectors at FAA have improperly approved aircraft for commercial operat
 
 Page Content
 
-The U.S. Office of Special Counsel (OSC) today sent [letters](../../~assets/documents/DI-17-1298-Letter-to-President.pdf) to the President and Congress disclosing that safety inspectors at the Federal Aviation Administration (FAA) have improperly approved aircraft for commercial operations without first reviewing critical safety information that in some cases would have prohibited their operation. Moreover, due to lapses in oversight at FAA’s Civil Aviation Registry, aircraft have operated in the National Airspace System without a valid registration or air worthiness certificate.  
+The U.S. Office of Special Counsel (OSC) today sent [letters](../../~assets/documents/di-17-1298-letter-to-president.pdf) to the President and Congress disclosing that safety inspectors at the Federal Aviation Administration (FAA) have improperly approved aircraft for commercial operations without first reviewing critical safety information that in some cases would have prohibited their operation. Moreover, due to lapses in oversight at FAA’s Civil Aviation Registry, aircraft have operated in the National Airspace System without a valid registration or air worthiness certificate.  
 
   
 
@@ -17,7 +17,7 @@ The U.S. Office of Special Counsel (OSC) today sent [letters](../../~assets/docu
 
   
 
-After a whistleblower disclosed problems with FAA’s aircraft oversight, OSC referred the case to the U.S. Department of Transportation (DOT) to investigate. The agency [substantiated](../../~assets/documents/di-17-1298-agency-report-\(redacted\).pdf)​ the whistleblower’s allegations and concluded that many Aviation Safety Inspectors at FAA are not sufficiently familiar with the requirement that all aircraft exemptions must be reviewed before the aircraft is cleared to fly. The report also found that FAA’s guidance on inspection requirements is inadequate.
+After a whistleblower disclosed problems with FAA’s aircraft oversight, OSC referred the case to the U.S. Department of Transportation (DOT) to investigate. The agency [substantiated](../../~assets/documents/di-17-1298-agency-report-redacted.pdf)​ the whistleblower’s allegations and concluded that many Aviation Safety Inspectors at FAA are not sufficiently familiar with the requirement that all aircraft exemptions must be reviewed before the aircraft is cleared to fly. The report also found that FAA’s guidance on inspection requirements is inadequate.
 
   
 

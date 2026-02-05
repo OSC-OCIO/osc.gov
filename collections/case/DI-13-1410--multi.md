@@ -12,7 +12,7 @@ results:
 date: 2016-04-29
 files:
 - label: Letter to the President
-  href: /~assets/documents/DI-13-1410-and-DI-13-1472-Letter-to-President.pdf
+  href: /~assets/documents/di-13-1410-and-di-13-1472-letter-to-president.pdf
 - label: Agency Report
-  href: /~assets/documents/DI-13-1410-and-DI-13-1472-Agency-Report.pdf
+  href: /~assets/documents/di-13-1410-and-di-13-1472-agency-report.pdf
 ---

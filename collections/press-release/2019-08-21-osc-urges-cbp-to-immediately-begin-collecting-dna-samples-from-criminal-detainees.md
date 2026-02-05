@@ -9,7 +9,7 @@ OSC has alerted the President and Congress that the U.S. Customs and Border Prot
 
 Page Content
 
-The U.S Office of Special Counsel (OSC) today [alerted](../../~assets/documents/Redacted-DI-18-3920,-DI-18-3924,-DI-18-3931-Letter-to-the-President.pdf) the President and Congress that the U.S. Customs and Border Protection (CBP) has for years failed to comply with a law mandating collection of DNA samples from detained criminal subjects. Whistleblowers notified OSC that CBP has evaded this law over the last decade citing a temporary Obama-era exception. The failure to collect DNA has allowed subjects accused of violent crimes, including homicide and sexual assault, to avoid detection even when they have been detained multiple times by CBP or by Immigration and Customs Enforcement.  
+The U.S Office of Special Counsel (OSC) today [alerted](../../~assets/documents/redacted-di-18-3920-di-18-3924-di-18-3931-letter-to-the-president.pdf) the President and Congress that the U.S. Customs and Border Protection (CBP) has for years failed to comply with a law mandating collection of DNA samples from detained criminal subjects. Whistleblowers notified OSC that CBP has evaded this law over the last decade citing a temporary Obama-era exception. The failure to collect DNA has allowed subjects accused of violent crimes, including homicide and sexual assault, to avoid detection even when they have been detained multiple times by CBP or by Immigration and Customs Enforcement.  
   
 “CBP's noncompliance with the law has allowed criminal detainees to walk free. Given the significant public safety and law enforcement implications at issue, I urge CBP to immediately reconsider its position and initiate DNA collection from criminal detainees," said **Special Counsel Henry J. Kerner**. “I also commend the brave whistleblowers for bringing this issue to our attention and for their public service."  
   
@@ -17,7 +17,7 @@ Under the DNA Fingerprint Act of 2005, federal law enforcement agencies are requ
   
 The whistleblowers asserted that pursuant to these memoranda and based on the language of Secretary Napolitano's request and Attorney General Holder's approval, DHS operated with the assumption that it had one year to initiate the collection of DNA from criminal subjects. The whistleblowers alleged that after the one-year period lapsed, CBP did not start collecting DNA samples from detainees, and that this failure allowed individuals with serious criminal offenses to avoid prosecution.  
   
-In letters to the President and Congress, Special Counsel Kerner found CBP's [investigation](../../~assets/documents/Supplemental-Agency-report-DI-18-3920,-3924,-3391.pdf) and findings to be unreasonable. He also recommended the Department of Justice review the applicability of the 2010 memorandum CBP continues to use as a basis for its inaction.  
+In letters to the President and Congress, Special Counsel Kerner found CBP's [investigation](../../~assets/documents/supplemental-agency-report-di-18-3920-3924-3391.pdf) and findings to be unreasonable. He also recommended the Department of Justice review the applicability of the 2010 memorandum CBP continues to use as a basis for its inaction.  
   
 
 \*\*\*​

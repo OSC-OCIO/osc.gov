@@ -13,9 +13,9 @@ results:
 date: 2019-10-10
 files:
 - label: Letter to the President
-  href: /~assets/documents/DI-17-4065-and-DI-17-4247-Letter-to-the-President.pdf
+  href: /~assets/documents/di-17-4065-and-di-17-4247-letter-to-the-president.pdf
 - label: Agency Report
-  href: /~assets/documents/Agency-Report-DI-17-4065-and-DI-17-4247.pdf
+  href: /~assets/documents/agency-report-di-17-4065-and-di-17-4247.pdf
 - label: Referral Letter
-  href: /~assets/documents/DI-17-4065-and-DI-17-4247-Referral.pdf
+  href: /~assets/documents/di-17-4065-and-di-17-4247-referral.pdf
 ---

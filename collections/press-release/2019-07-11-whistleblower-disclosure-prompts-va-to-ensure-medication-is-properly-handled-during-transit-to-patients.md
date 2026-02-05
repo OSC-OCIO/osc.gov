@@ -9,12 +9,12 @@ OSC today alerted the President and Congress that a VA medical center in Philade
 
 Page Content
 
-The U.S Office of Special Counsel (OSC) [today alerted](../../~assets/documents/DI-18-2504-Redacted-President's-Letter.pdf) the President and Congress that a U.S Department of Veterans Affairs (VA) medical center in Philadelphia, Pennsylvania, failed to ensure that medications were stored at appropriate temperatures during transit to home-based patients.
+The U.S Office of Special Counsel (OSC) [today alerted](../../~assets/documents/di-18-2504-redacted-presidents-letter.pdf) the President and Congress that a U.S Department of Veterans Affairs (VA) medical center in Philadelphia, Pennsylvania, failed to ensure that medications were stored at appropriate temperatures during transit to home-based patients.
 
   
  
 
-A whistleblower disclosed the problem to OSC, which then referred the allegation to the VA for investigation. The VA [substantiated](../../~assets/documents/OSC-File-No.-DI-18-2504-Report.pdf) the whistleblower’s allegation, finding that the Philadelphia medical center failed to comply with a VA directive requiring the development of local policies to ensure that medications are stored at appropriate temperatures during transit. Moreover, the report found that nationwide, nearly 40 percent of the VA facilities surveyed were noncompliant with the VA directive.
+A whistleblower disclosed the problem to OSC, which then referred the allegation to the VA for investigation. The VA [substantiated](../../~assets/documents/osc-file-no-di-18-2504-report.pdf) the whistleblower’s allegation, finding that the Philadelphia medical center failed to comply with a VA directive requiring the development of local policies to ensure that medications are stored at appropriate temperatures during transit. Moreover, the report found that nationwide, nearly 40 percent of the VA facilities surveyed were noncompliant with the VA directive.
 
 The report recommended that the Philadelphia medical center establish the local policies, conduct a competency assessment for the transportation of temperature-sensitive medications, and train staff members on the requirements. In response to the report, the Philadelphia VA medical center has already fully implemented the recommendations. With respect to the nationwide problem, the VA is providing assistance to noncompliant facilities to develop the required local policies, will take steps to ensure proper training, and will monitor compliance.
 

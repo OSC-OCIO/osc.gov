@@ -15,19 +15,19 @@ results:
 date: 2015-03-11
 files:
 - label: Letter to the President
-  href: /~assets/documents/AUO---Letter-to-the-President-4.pdf
+  href: /~assets/documents/auo-letter-to-the-president-4.pdf
 - label: Agency Report
-  href: /~assets/documents/DI-13-2853-and-DI-13-3516-Agency-Report.pdf
+  href: /~assets/documents/di-13-2853-and-di-13-3516-agency-report.pdf
 - label: Agency Report
-  href: /~assets/documents/DI-13-2853-and-DI-13-3516-Supplemental-Report.pdf
+  href: /~assets/documents/di-13-2853-and-di-13-3516-supplemental-report.pdf
 - label: Whistleblower Comments
-  href: /~assets/documents/DI-13-2853-and-DI-13-3516-Whistleblower-Comments.pdf
+  href: /~assets/documents/di-13-2853-and-di-13-3516-whistleblower-comments.pdf
 - label: Whistleblower Comments
-  href: /~assets/documents/DI-13-2853-and-DI-13-3516-Whistleblower-_1-Supplemental-Comments.pdf
+  href: /~assets/documents/di-13-2853-and-di-13-3516-whistleblower-_1-supplemental-comments.pdf
 - label: Whistleblower Comments
-  href: /~assets/documents/DI-13-2853-and-DI-13-3516-Whistleblower-_2-Comments.pdf
+  href: /~assets/documents/di-13-2853-and-di-13-3516-whistleblower-_2-comments.pdf
 - label: Whistleblower Comments
-  href: /~assets/documents/DI-13-2853-and-DI-13-3516-Whistleblower-_2-Supplemental-Comments.pdf
+  href: /~assets/documents/di-13-2853-and-di-13-3516-whistleblower-_2-supplemental-comments.pdf
 - label: Analysis
-  href: /~assets/documents/DI-13-2853-and-DI-13-3516-Case-Summary.pdf
+  href: /~assets/documents/di-13-2853-and-di-13-3516-case-summary.pdf
 ---

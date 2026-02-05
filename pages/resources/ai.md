@@ -14,7 +14,7 @@ Page Content
 
 The AI in Government Act of 2020 and Office of Management and Budget (OMB) Memorandum M-25-21, Accelerating Federal Use of AI through Innovation, Governance, and Public Trust, directed each agency to submit to OMB and post publicly on the agency's website either a plan to achieve consistency with OMB M-25-21, or a written determination that the agency does not use and does not anticipate using covered AI. Below is OSC's compliance plan for M-25-21
 
-****COMPLIANCE PLAN : [![](../../~assets/images/icpdf.png)OSC Compliance Plan for OMB M-25-21.pdf](../../~assets/documents/OSC-Compliance-Plan-for-OMB-M-25-21.pdf)****
+****COMPLIANCE PLAN : [![](../../~assets/images/icpdf.png)OSC Compliance Plan for OMB M-25-21.pdf](../../~assets/documents/osc-compliance-plan-for-omb-m-25-21.pdf)****
 
 \*\*\*  
 

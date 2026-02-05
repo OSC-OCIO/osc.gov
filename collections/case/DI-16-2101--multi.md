@@ -13,7 +13,7 @@ results:
 date: 2017-06-22
 files:
 - label: Letter to the President
-  href: /~assets/documents/DI-16-2101-and-DI-16-2552-Letter-to-President.pdf
+  href: /~assets/documents/di-16-2101-and-di-16-2552-letter-to-president.pdf
 - label: Agency Report
-  href: /~assets/documents/DI-16-2101-and-DI-16-2552-Agency-Report-(redacted).pdf
+  href: /~assets/documents/di-16-2101-and-di-16-2552-agency-report-redacted.pdf
 ---

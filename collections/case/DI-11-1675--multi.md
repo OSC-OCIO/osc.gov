@@ -14,9 +14,9 @@ results:
 date: 2012-05-08
 files:
 - label: Agency Report
-  href: /~assets/documents/DI-11-1675-and-DI-11-1677-Agency-Report.pdf
+  href: /~assets/documents/di-11-1675-and-di-11-1677-agency-report.pdf
 - label: Whistleblower Comments
-  href: /~assets/documents/DI-11-1675-and-DI-11-1677-Whistleblower-_1-Supplemental-Comments.pdf
+  href: /~assets/documents/di-11-1675-and-di-11-1677-whistleblower-_1-supplemental-comments.pdf
 - label: Analysis
-  href: /~assets/documents/DI-11-1675-and-DI-11-1677-Analysis.pdf
+  href: /~assets/documents/di-11-1675-and-di-11-1677-analysis.pdf
 ---

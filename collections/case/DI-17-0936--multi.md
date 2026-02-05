@@ -16,17 +16,17 @@ results:
 date: 2020-09-03
 files:
 - label: Letter to the President
-  href: /~assets/documents/CSOSA-President-Letter_Redacted.pdf
+  href: /~assets/documents/csosa-president-letter_redacted.pdf
 - label: Agency Report
-  href: /~assets/documents/CSOSA-Full-Report-(003)_Redacted.pdf
+  href: /~assets/documents/csosa-full-report-003_redacted.pdf
 - label: Whistleblower Comments
-  href: /~assets/documents/DI-17-1029-Whistleblower-Comments-Redacted.pdf
+  href: /~assets/documents/di-17-1029-whistleblower-comments-redacted.pdf
 - label: Whistleblower Comments
-  href: /~assets/documents/DI-18-1627-Whistleblower-Comments-Redacted.pdf
+  href: /~assets/documents/di-18-1627-whistleblower-comments-redacted.pdf
 - label: Whistleblower Comments
-  href: /~assets/documents/DI-18-2809-Whistleblower-Comments-Redacted.pdf
+  href: /~assets/documents/di-18-2809-whistleblower-comments-redacted.pdf
 - label: Whistleblower Comments
-  href: /~assets/documents/Binder1-(combined).pdf
+  href: /~assets/documents/binder1-combined.pdf
 - label: Referral Letter
-  href: /~assets/documents/CSOSA-Referral-Letter_Redacted.pdf
+  href: /~assets/documents/csosa-referral-letter_redacted.pdf
 ---

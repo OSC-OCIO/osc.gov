@@ -14,9 +14,9 @@ results:
 date: 2016-02-22
 files:
 - label: Letter to the President
-  href: /~assets/documents/DI-14-3650-DI-13-4570-Letter-to-President.pdf
+  href: /~assets/documents/di-14-3650-di-13-4570-letter-to-president.pdf
 - label: Agency Report
-  href: /~assets/documents/DI-14-3650-and-DI-13-4570-Agency-Report.pdf
+  href: /~assets/documents/di-14-3650-and-di-13-4570-agency-report.pdf
 - label: Whistleblower Comments
-  href: /~assets/documents/DI-14-3650-and-DI-13-4570-Whistleblower-Comments.pdf
+  href: /~assets/documents/di-14-3650-and-di-13-4570-whistleblower-comments.pdf
 ---

@@ -15,11 +15,11 @@ results:
 date: 2014-04-21
 files:
 - label: Letter to the President
-  href: /~assets/documents/DI-12-0428,-DI-12-0354,-and-DI-12-1819-Letter-to-President.pdf
+  href: /~assets/documents/di-12-0428-di-12-0354-and-di-12-1819-letter-to-president.pdf
 - label: Agency Report
-  href: /~assets/documents/DI-12-0428,-DI-12-0354,-and-DI-12-1819-Supplemental-Report.pdf
+  href: /~assets/documents/di-12-0428-di-12-0354-and-di-12-1819-supplemental-report.pdf
 - label: Agency Report
-  href: /~assets/documents/DI-12-0428,-DI-12-0354,-and-DI-12-1819-Agency-Report.pdf
+  href: /~assets/documents/di-12-0428-di-12-0354-and-di-12-1819-agency-report.pdf
 - label: Whistleblower Comments
-  href: /~assets/documents/DI-12-0428,-DI-12-0354,-and-DI-12-1819-Whistleblower-Comments.pdf
+  href: /~assets/documents/di-12-0428-di-12-0354-and-di-12-1819-whistleblower-comments.pdf
 ---

@@ -25,7 +25,7 @@ After reviewing the VA’s reports, OSC determined that the VA’s findings did 
 
   
 
-As required by statute, OSC sent a copy of its letter, an unredacted version of the agency reports, and whistleblower comments to the Chairmen and Ranking Members of the Senate and House Committees on Veterans’ Affairs. OSC also filed a copy of the [letter to the President](../../~assets/documents/DI-14-2519-Letter-to-President.pdf)​, redacted reports, and whistleblower comments in its public file. This matter is now closed.
+As required by statute, OSC sent a copy of its letter, an unredacted version of the agency reports, and whistleblower comments to the Chairmen and Ranking Members of the Senate and House Committees on Veterans’ Affairs. OSC also filed a copy of the [letter to the President](../../~assets/documents/di-14-2519-letter-to-president.pdf)​, redacted reports, and whistleblower comments in its public file. This matter is now closed.
 
   
 

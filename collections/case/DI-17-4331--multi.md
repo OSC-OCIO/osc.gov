@@ -15,11 +15,11 @@ results:
 date: 2019-08-08
 files:
 - label: Letter to the President
-  href: /~assets/documents/DI-17-4331-and-DI-17-4242---Letter-to-the-President.pdf
+  href: /~assets/documents/di-17-4331-and-di-17-4242-letter-to-the-president.pdf
 - label: Agency Report
-  href: /~assets/documents/DI-17-4331-and-DI-17-4242---Agency-Report.pdf
+  href: /~assets/documents/di-17-4331-and-di-17-4242-agency-report.pdf
 - label: Whistleblower Comments
-  href: /~assets/documents/DI-17-4242---WB-Comments.pdf
+  href: /~assets/documents/di-17-4242-wb-comments.pdf
 - label: Referral Letter
-  href: /~assets/documents/DI-17-4331-and-DI-17-4242---Referral-Letter.pdf
+  href: /~assets/documents/di-17-4331-and-di-17-4242-referral-letter.pdf
 ---

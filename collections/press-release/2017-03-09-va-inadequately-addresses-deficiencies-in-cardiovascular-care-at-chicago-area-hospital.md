@@ -9,7 +9,7 @@ The VA failed to adequately address a whistleblower’s disclosures of deficienc
 
 Page Content
 
-​In a letter to the White House and Congress today, the U.S. Office of Special Counsel (OSC) [reported](../../~assets/documents/DI-14-3705-Letter-to-President.pdf)​ that the Department of Veterans Affairs (VA) failed to adequately address a whistleblower’s disclosures of deficiencies in cardiovascular care at Edward Hines, Jr. VA Hospital (Hines), in Hines, Illinois.  
+​In a letter to the White House and Congress today, the U.S. Office of Special Counsel (OSC) [reported](../../~assets/documents/di-14-3705-letter-to-president.pdf)​ that the Department of Veterans Affairs (VA) failed to adequately address a whistleblower’s disclosures of deficiencies in cardiovascular care at Edward Hines, Jr. VA Hospital (Hines), in Hines, Illinois.  
 
   
 

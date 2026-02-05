@@ -37,7 +37,7 @@ manageable. The agency noted that the suicide prevention team is currently succe
 
   
 
-The special counsel sent a copy of his letter, the unredacted agency reports, and the whistleblower comments to the chairmen and ranking members of the Senate and House Committees on Veterans Affairs. He also filed copies of the [letter](../../~assets/documents/di-15-4906-letter-to-president-\(redacted\).pdf)​, the redacted agency reports, and the whistleblower comments in OSC’s public file, available at [www.osc.gov​](https://www.osc.gov/).
+The special counsel sent a copy of his letter, the unredacted agency reports, and the whistleblower comments to the chairmen and ranking members of the Senate and House Committees on Veterans Affairs. He also filed copies of the [letter](../../~assets/documents/di-15-4906-letter-to-president-redacted.pdf)​, the redacted agency reports, and the whistleblower comments in OSC’s public file, available at [www.osc.gov​](https://www.osc.gov/).
 
   
 

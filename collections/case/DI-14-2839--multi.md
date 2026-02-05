@@ -13,7 +13,7 @@ results:
 date: 2019-06-01
 files:
 - label: Letter to the President
-  href: /~assets/documents/DI-14-2839-and-DI-14-2975-Letter-to-President.pdf
+  href: /~assets/documents/di-14-2839-and-di-14-2975-letter-to-president.pdf
 - label: Agency Report
-  href: /~assets/documents/DI-14-2839-and-DI-14-2975-Agency-Report.pdf
+  href: /~assets/documents/di-14-2839-and-di-14-2975-agency-report.pdf
 ---

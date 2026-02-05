@@ -21,7 +21,7 @@ The VA’s conclusions were disputed by a recent VA Office of Inspector General 
 
   
 
-Special Counsel Carolyn Lerner found the VA’s report unreasonable. In her [letter](../../~assets/documents/DI-16-3273-and-DI-16-3277-Letter-to-President.pdf)​, she noted that employees responsible for providing services to vulnerable veterans experiencing acute mental health crises should be held to the highest professional standards, and urged further review of VCL management and improvements to training and quality assurance.  
+Special Counsel Carolyn Lerner found the VA’s report unreasonable. In her [letter](../../~assets/documents/di-16-3273-and-di-16-3277-letter-to-president.pdf)​, she noted that employees responsible for providing services to vulnerable veterans experiencing acute mental health crises should be held to the highest professional standards, and urged further review of VCL management and improvements to training and quality assurance.  
 
   
 
