@@ -10,11 +10,11 @@ title: Forms
 
 [OSC Form-14](../../~assets/documents/osc-form-14.pdf)
 
-[Registration Form (v2025)](../../~assets/documents/registration-form-\(v2025\).pdf)
+[Registration Form (v2025)](../../~assets/documents/registration-form-v2025.pdf)
 
-[Compliance Form (v2025)](../../~assets/documents/compliance-form-\(v2025\).pdf)
+[Compliance Form (v2025)](../../~assets/documents/compliance-form-v2025.pdf)
 
-[Annual Certification Checklist (v2025)](../../~assets/documents/annual-certification-checklist-\(v2025\).pdf)
+[Annual Certification Checklist (v2025)](../../~assets/documents/annual-certification-checklist-v2025.pdf)
 
 [Survey Samples 2017](../../~assets/documents/survey-samples-2017.pdf)
 

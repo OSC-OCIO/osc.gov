@@ -18,7 +18,7 @@ files:
 - label: Letter to the President
   href: /~assets/documents/csosa-president-letter_redacted.pdf
 - label: Agency Report
-  href: /~assets/documents/csosa-full-report-(003)_Redacted.pdf
+  href: /~assets/documents/csosa-full-report-003_redacted.pdf
 - label: Whistleblower Comments
   href: /~assets/documents/di-17-1029-whistleblower-comments-redacted.pdf
 - label: Whistleblower Comments
@@ -26,7 +26,7 @@ files:
 - label: Whistleblower Comments
   href: /~assets/documents/di-18-2809-whistleblower-comments-redacted.pdf
 - label: Whistleblower Comments
-  href: /~assets/documents/binder1-(combined).pdf
+  href: /~assets/documents/binder1-combined.pdf
 - label: Referral Letter
   href: /~assets/documents/csosa-referral-letter_redacted.pdf
 ---

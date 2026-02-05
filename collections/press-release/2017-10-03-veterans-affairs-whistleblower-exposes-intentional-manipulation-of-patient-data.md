@@ -13,7 +13,7 @@ In a [letter](../../~assets/documents/di-16-3638-letter-to-president.pdf) sent t
 
   
 
-According to the VA investigative [report](../../~assets/documents/di-16-3638-agency-report-\(redacted\).pdf)​, over the last seven years a manager at the Clarksburg, West Virginia facility attempted to influence nursing staff to place emergency patients in two unofficial clinics, rather than record their emergency department encounter. The decision to create these clinics within the emergency department violated VA Directives and prevented an accurate analysis of staff workload. It also gave the false impression that the Primary Care clinic had a greater workload and demand for services.
+According to the VA investigative [report](../../~assets/documents/di-16-3638-agency-report-redacted.pdf)​, over the last seven years a manager at the Clarksburg, West Virginia facility attempted to influence nursing staff to place emergency patients in two unofficial clinics, rather than record their emergency department encounter. The decision to create these clinics within the emergency department violated VA Directives and prevented an accurate analysis of staff workload. It also gave the false impression that the Primary Care clinic had a greater workload and demand for services.
 
   
 

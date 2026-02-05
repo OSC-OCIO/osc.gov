@@ -17,7 +17,7 @@ The U.S. Office of Special Counsel (OSC) today sent [letters](../../~assets/docu
 
   
 
-After a whistleblower disclosed problems with FAA’s aircraft oversight, OSC referred the case to the U.S. Department of Transportation (DOT) to investigate. The agency [substantiated](../../~assets/documents/di-17-1298-agency-report-\(redacted\).pdf)​ the whistleblower’s allegations and concluded that many Aviation Safety Inspectors at FAA are not sufficiently familiar with the requirement that all aircraft exemptions must be reviewed before the aircraft is cleared to fly. The report also found that FAA’s guidance on inspection requirements is inadequate.
+After a whistleblower disclosed problems with FAA’s aircraft oversight, OSC referred the case to the U.S. Department of Transportation (DOT) to investigate. The agency [substantiated](../../~assets/documents/di-17-1298-agency-report-redacted.pdf)​ the whistleblower’s allegations and concluded that many Aviation Safety Inspectors at FAA are not sufficiently familiar with the requirement that all aircraft exemptions must be reviewed before the aircraft is cleared to fly. The report also found that FAA’s guidance on inspection requirements is inadequate.
 
   
 

@@ -16,17 +16,17 @@ files:
 - label: Letter to the President
   href: /~assets/documents/di-07-2793-letter-to-president.pdf
 - label: Agency Report
-  href: /~assets/documents/di-07-2793-agency-report-(part-1).pdf
+  href: /~assets/documents/di-07-2793-agency-report-part-1.pdf
 - label: Agency Report
-  href: /~assets/documents/di-07-2793-agency-report-(part-2)-REDACTED.pdf
+  href: /~assets/documents/di-07-2793-agency-report-part-2-redacted.pdf
 - label: Agency Report
-  href: /~assets/documents/di-07-2793-agency-report-(part-3).pdf
+  href: /~assets/documents/di-07-2793-agency-report-part-3.pdf
 - label: Agency Report
-  href: /~assets/documents/di-07-2793-agency-report-(part-4)-REDACTED.pdf
+  href: /~assets/documents/di-07-2793-agency-report-part-4-redacted.pdf
 - label: Whistleblower Comments
-  href: /~assets/documents/di-07-2793-whistleblower-comments-(part-1)-REDACTED.pdf
+  href: /~assets/documents/di-07-2793-whistleblower-comments-part-1-redacted.pdf
 - label: Whistleblower Comments
-  href: /~assets/documents/di-07-2793-whistleblower-comments-(part-2)-REDACTED.pdf
+  href: /~assets/documents/di-07-2793-whistleblower-comments-part-2-redacted.pdf
 - label: Analysis
   href: /~assets/documents/di-07-2793-analysis.pdf
 ---

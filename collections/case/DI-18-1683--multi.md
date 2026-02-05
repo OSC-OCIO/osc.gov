@@ -15,7 +15,7 @@ files:
 - label: Letter to the President
   href: /~assets/documents/di-18-1683-and-di-18-1827-letter-to-president.pdf
 - label: Agency Report
-  href: /~assets/documents/di-18-1683-and-di-18-1827-agency-report-(redacted).pdf
+  href: /~assets/documents/di-18-1683-and-di-18-1827-agency-report-redacted.pdf
 - label: Referral Letter
-  href: /~assets/documents/di-18-1683-and-di-18-1827-referral-letter-(redacted).pdf
+  href: /~assets/documents/di-18-1683-and-di-18-1827-referral-letter-redacted.pdf
 ---

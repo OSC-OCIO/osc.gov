@@ -5,30 +5,30 @@ title: Resources
 - [COVID-19 Workplace Safety Plan final 10 12 23](~assets/documents/covid-19-workplace-safety-plan-final-10-12-23.pdf)
   OSC’s Mission: The dedication of OSC’s employees 1 enabled OSC to continue to successfully fulfill its mission when the Special Counsel instituted precautionary, mandatory
 
-- [Compliance Form (v2025)](<~assets/documents/compliance-form-(v2025).pdf>)
+- [Compliance Form (v2025)](<~assets/documents/compliance-form-v2025.pdf>)
   Please provide the contact information for the official responsible for implementing OSC's Certification Program (the individual’s name and phone number will be placed on OSC’s
 
 - [The Role of OSC in Protecting LGBTQIA+ Rights](~assets/documents/the-unique-role-of-osc-in-protecting-lgbt-rights-in-the-federal-workplace.pdf)
   The Unique Role of the U.S. Office of Special Counsel in Protecting the Rights of Lesbian, Gay, Bisexual, and Transgender Employees in the Federal WorkplaceAddressing Sexual
 
-- [Federal Protections for Lesbian, Gay, Bisexual, and Transgen](<~assets/documents/federal-protections-for-lesbian,-gay,-bisexual,-and-transgender-(lg-1b14b3a8.pdf)>)
+- [Federal Protections for Lesbian, Gay, Bisexual, and Transgen](<~assets/documents/federal-protections-for-lesbian-gay-bisexual-and-transgender-lg-1b14b3a8.pdf)>)
   The U.S. Office of Special Counsel (OSC) is an independent federal investigative and prosecutorial agency charged with safeguarding the merit system by protecting federal
 
 - [OSC Excepted Employee List (2021)](~assets/documents/osc-excepted-employee-list-24-september-2021.pdf)
   • Special Counsel – Henry Kerner (lapse does not apply to PAS) • Principal Deputy Special Counsel – Ellen Epstein • IOSC – Thomas Fuller • IOSC – Travis Millsaps • IOSC – Daniel
 
-- [Speaker Request (Federal)](~assets/documents/osc-speaker-request-form---federal-agency-requester.pdf)
+- [Speaker Request (Federal)](~assets/documents/osc-speaker-request-form-federal-agency-requester.pdf)
   U.S. OFFICE OF SPECIAL COUNSEL 1730 M Street, N.W., Suite 218 Washington, D.C. 20036 0TU 2302c@osc.govU0T SPEAKER REQUEST FORM (Federal agency requester) 1. General Event
 
-- [2025 OSC EEO Poster (Letter Format)](<~assets/documents/2025-osc-eeo-poster-(letter-format).pdf>)
+- [2025 OSC EEO Poster (Letter Format)](<~assets/documents/2025-osc-eeo-poster-letter-format.pdf>)
   Equal Employment Opportunity at OSC It is the policy of the United States government to provide equal opportunity in employment for all persons, to prohibit discrimination
 
-- [Annual Certification Checklist (v2025)](<~assets/documents/annual-certification-checklist-(v2025).pdf>)
+- [Annual Certification Checklist (v2025)](<~assets/documents/annual-certification-checklist-v2025.pdf>)
   The U.S. Office of Special Counsel’s (OSC) Certification Program allows federal agencies to meet the statutory obligations of 5 U.S.C. § 2302(c), the Dr. Chris Kirkpatrick
 
 - [2025 EEO Policy Statement](~assets/documents/2025-eeo-policy-statement.pdf)
 
-- [OSC Speaker Request Form - Non-Federal Requester](~assets/documents/osc-speaker-request-form---non-federal-requester.pdf)
+- [OSC Speaker Request Form - Non-Federal Requester](~assets/documents/osc-speaker-request-form-non-federal-requester.pdf)
   U.S. OFFICE OF SPECIAL COUNSEL 1730 M Street, N.W., Suite 218 Washington, D.C. 20036-4505 certification@osc.govU0T SPEAKER REQUEST FORM Questions about completing this form may be
 
 - [GAO](~assets/documents/gao-04-36-20050517-osc-letter.pdf)
@@ -68,33 +68,33 @@ title: Resources
 - [nofear_notice](~assets/documents/nofear_notice.pdf)
   No Fear Act Notice On May 15, 2002, Congress enacted the “Notification and Federal Employee Antidiscrimination and Retaliation Act of 2002,” which is now known as the No FEAR
 
-- [Notice - Service Contract Inventory Availability](~assets/documents/notice---service-contract-inventory-availability.pdf)
+- [Notice - Service Contract Inventory Availability](~assets/documents/notice-service-contract-inventory-availability.pdf)
   \[FR Doc. 2012–9245 Filed 4–17–12; 8:45 am\] BILLING CODE 4510–43–P NATIONAL FOUNDATION ON THE ARTS AND THE HUMANITIES National Endowment for the Arts Submission for OMB Review
 
-- [Notice of System of Records (Sept 5 2007)](<~assets/documents/notice-of-system-of-records-(sept-5-2007).pdf>)
+- [Notice of System of Records (Sept 5 2007)](<~assets/documents/notice-of-system-of-records-sept-5-2007.pdf>)
   The purpose of the meeting is to discuss the district’s FY 2008 goals, update on new initiatives and other matters that may be presented by members and staff of the U.S. Small
 
-- [OSC-GOVT-1 (July 12 2001)](<~assets/documents/osc-govt-1-(july-12-2001).pdf>)
+- [OSC-GOVT-1 (July 12 2001)](<~assets/documents/osc-govt-1-july-12-2001.pdf>)
   The matching program will provide information confirming the accuracy of tenantreported income Administrators of HUD programs rely upon the accuracy of tenant-reported income to
 
-- [OSC-GOVT-1 correction (Feb 9 2000)](<~assets/documents/osc-govt-1-correction-(feb-9-2000).pdf>)
+- [OSC-GOVT-1 correction (Feb 9 2000)](<~assets/documents/osc-govt-1-correction-feb-9-2000.pdf>)
   Compare United States v. Figaro, 935 F.2d 4 (1st Cir Technical and Conforming Amendments The Commission expects to consider several minor technical or conforming amendments
 
-- [OSC-GOVT-1 correction (Oct 5 2001)](<~assets/documents/osc-govt-1-correction-(oct-5-2001).pdf>)
+- [OSC-GOVT-1 correction (Oct 5 2001)](<~assets/documents/osc-govt-1-correction-oct-5-2001.pdf>)
   This section of the FEDERAL REGISTER contains editorial corrections of previously published Presidential, Rule, Proposed Rule, and Notice documents
 
-- [Final Agency Guidelines - Information Quality](~assets/documents/20021002-final-agency-guidelines---information-quality.pdf)
+- [Final Agency Guidelines - Information Quality](~assets/documents/20021002-final-agency-guidelines-information-quality.pdf)
   Commission, and all written communications relating to the proposed rule change between the Commission and any person, other than those that may be withheld from the public in
 
 - [Comey HA-17-0515 Complaints and Response Letters_2](~assets/documents/james-comey-records-2.pdf)
 
-- [Testimony of Special Counsel Carolyn Lerner on "Whistle](~assets/documents/testimony-of-special-counsel-carolyn-lerner-on-'whistleblower-repri-de28ebd7.pdf)
+- [Testimony of Special Counsel Carolyn Lerner on "Whistle](~assets/documents/testimony-of-special-counsel-carolyn-lerner-on-whistleblower-repri-de28ebd7.pdf)
   Testimony of the Honorable Carolyn N. Lerner, Special Counsel U.S. Office of Special Counsel U.S. House of Representatives Committee on Oversight and Government Reform
 
-- [Testimony of Special Counsel Carolyn Lerner on “Improving VA](~assets/documents/testimony-of-special-counsel-carolyn-lerner-on-'improving-va-accoun-81674046.pdf)
+- [Testimony of Special Counsel Carolyn Lerner on “Improving VA](~assets/documents/testimony-of-special-counsel-carolyn-lerner-on-improving-va-accoun-81674046.pdf)
   Committee on Homeland Security and Governmental Affairs Chairman Johnson, Ranking Member Carper, and Members of the Committee Thank you for the opportunity to testify today about
 
-- [Testimony of Special Counsel Carolyn Lerner on pending heath](~assets/documents/testimony-of-special-counsel-carolyn-lerner-on-pending-health-care--5794f29c.pdf)
+- [Testimony of Special Counsel Carolyn Lerner on pending heath](~assets/documents/testimony-of-special-counsel-carolyn-lerner-on-pending-health-care-5794f29c.pdf)
   Written Testimony of Special Counsel Carolyn N. Lerner United States Office of Special Counsel Senate Committee on Veterans’ Affairs Hearing on Pending Health Care and Benefits
 
 - [Annual OSC FOIA Report FY2017](~assets/documents/annual-foia-report-fiscal-year-2017.pdf)
@@ -105,19 +105,19 @@ title: Resources
 - [Testimony of Carolyn Lerner, Special Counsel and Eric Bachma](~assets/documents/testimony-of-special-counsel-carolyn-lerner-and-deputy-special-coun-3bd41176.pdf)
   Testimony of Carolyn Lerner, Special Counsel and Eric Bachman, Deputy Special Counsel U.S. Office of Special Counsel U.S. House of Representatives Committee on Veterans’ Affairs
 
-- [Testimony of Special Counsel Carolyn Lerner on “Examining th](~assets/documents/testimony-of-special-counsel-carolyn-lerner-on-“examining-the-admin-3ba76dfc.pdf)
+- [Testimony of Special Counsel Carolyn Lerner on “Examining th](~assets/documents/testimony-of-special-counsel-carolyn-lerner-on-examining-the-admin-3ba76dfc.pdf)
   Testimony of the Honorable Carolyn N. Lerner, Special Counsel U.S. House of Representatives Committee on Oversight and Government Reform Thank you for inviting me to testify today
 
-- [Carolyn Lerner's Testimony Before House Committee on Ove](~assets/documents/testimony-of-special-counsel-carolyn-lerner-on-'abuse-of-overtime-a-1af78263.pdf)
+- [Carolyn Lerner's Testimony Before House Committee on Ove](~assets/documents/testimony-of-special-counsel-carolyn-lerner-on-abuse-of-overtime-a-1af78263.pdf)
   Testimony of the Honorable Carolyn N. Lerner, Special Counsel U.S. Office of Special Counsel U.S. House of Representatives Committee on Oversight and Government Reform
 
-- [Testimony of Special Counsel Carolyn Lerner on "Account](~assets/documents/testimony-of-special-counsel-carolyn-lerner-on-'accountability-and--23907926.pdf)
+- [Testimony of Special Counsel Carolyn Lerner on "Account](~assets/documents/testimony-of-special-counsel-carolyn-lerner-on-accountability-and-23907926.pdf)
   Testimony of Carolyn Lerner, Special Counsel U.S. Office of Special Counsel U.S. Senate Committee on the Judiciary Accountability and Oversight of Juvenile Justice Grants
 
-- [Testimony of Special Counsel Carolyn Lerner on "Examini](~assets/documents/testimony-of-special-counsel-carolyn-lerner-on-'examining-the-use-a-cd435f8f.pdf)
+- [Testimony of Special Counsel Carolyn Lerner on "Examini](~assets/documents/testimony-of-special-counsel-carolyn-lerner-on-examining-the-use-a-cd435f8f.pdf)
   Testimony of the Honorable Carolyn N. Lerner, Special Counsel U.S. Office of Special Counsel U.S. Senate Committee on Homeland Security and Governmental Affairs Subcommittee on
 
-- [Lerner Testimony 1-28-2014](~assets/documents/testimony-of-special-counsel-carolyn-lerner-on-'examining-the-use-a-a2ddf56e.pdf)
+- [Lerner Testimony 1-28-2014](~assets/documents/testimony-of-special-counsel-carolyn-lerner-on-examining-the-use-a-a2ddf56e.pdf)
   Testimony of the Honorable Carolyn N. Lerner, Special Counsel U.S. Office of Special Counsel U.S. Senate Committee on Homeland Security and Governmental Affairs Subcommittee on
 
 - [foia_2010](~assets/documents/annual-foia-report-fiscal-year-2010.pdf)
@@ -219,7 +219,7 @@ title: Resources
 - [FY2008-2014 FOIA Logs](~assets/documents/foia-log-fiscal-years-2008-2014.pdf)
   All redactions pursuant to FOIA Exemptions 6 and 7(C) U.S. Office of Special Counsel FOIA Log for FY2008 Page 1 of 4 Requester Name Request ID Original Received Date Request
 
-- [5 Years after the WPEA testimony](~assets/documents/testimony-of-deputy-special-counsel-eric-bachman-on-“five-years-lat-8687d1c9.pdf)
+- [5 Years after the WPEA testimony](~assets/documents/testimony-of-deputy-special-counsel-eric-bachman-on-five-years-lat-8687d1c9.pdf)
   Testimony of Deputy Special Counsel Eric Bachman U.S. Office of Special Counsel U.S. House of Representatives Committee on Oversight and Government Reform Subcommittee on
 
 - [FISCAL YEAR 2015 CONGRESSIONAL BUDGET JUSTIFICATION AND PERF](~assets/documents/fy-2015-congressional-budget-justification.pdf)
@@ -230,7 +230,7 @@ title: Resources
 
 - [Comey HA-17-0515 Complaints and Response Letters_1](~assets/documents/james-comey-records-1.pdf)
 
-- [Confirmation Hearing of Henry Kerner, June 28, 2017](~assets/documents/confirmation-hearing-of-henry-kerner,-june-28,-2017.pdf)
+- [Confirmation Hearing of Henry Kerner, June 28, 2017](~assets/documents/confirmation-hearing-of-henry-kerner-june-28-2017.pdf)
   U.S. GOVERNMENT PUBLISHING OFFICE WASHINGTON : 27–018PDF 2017 S. Hrg NOMINATIONS OF CLAIRE M. GRADY AND HENRY KERNER WEDNESDAY, JUNE 28, 2017 U.S. SENATE, COMMITTEE ON HOMELAND
 
 - [ar-2003](~assets/documents/fy-2003-annual-report-to-congress.pdf)
@@ -264,7 +264,7 @@ title: Resources
 - [OSC Annual Report to Congress FY 2013](~assets/documents/fy-2013-annual-report-to-congress.pdf)
   The Honorable Joseph R. Biden, Jr Speaker of the House of Representatives Dear Mr. President and Mr. Speaker I respectfully submit the Report to Congress for fiscal year 2013 from
 
-- [Final Rule - FOIA Touhy Regulations](~assets/documents/20161024-final-rule---foia-touhy-regulations.pdf)
+- [Final Rule - FOIA Touhy Regulations](~assets/documents/20161024-final-rule-foia-touhy-regulations.pdf)
   This section of the FEDERAL REGISTER contains regulatory documents having general applicability and legal effect, most of which are keyed to and codified in the Code of Federal
 
 - [FAIR Act Inventory Data FY 2024](~assets/documents/fair-act-inventory-2024.pdf)
@@ -275,10 +275,10 @@ title: Resources
 - [FAIR Act Inventory Data FY 2019](~assets/documents/fair-act-inventory-data-fy-2019.pdf)
   Function Code Product or Service Code\* Policy Letter 1101\* Total FTE Reason Codes Country State City Y105 - Management HeadquartersDefense Direction and Policy Integration N/A N/A
 
-- [Testimony of Special Counsel Carolyn Lerner on “Addressing C](~assets/documents/testimony-of-special-counsel-carolyn-lerner-on-“addressing-continue-a631c878.pdf)
+- [Testimony of Special Counsel Carolyn Lerner on “Addressing C](~assets/documents/testimony-of-special-counsel-carolyn-lerner-on-addressing-continue-a631c878.pdf)
   Committee on Veterans’ Affairs Subcommittee on Oversight and Investigations Chairman Coffman, Ranking Member Kuster, and Members of the Subcommittee Thank you for the opportunity to
 
-- [Notice and Comment - Modification of Annual Survey](~assets/documents/20190829-notice-and-comment---modification-of-annual-survey.pdf)
+- [Notice and Comment - Modification of Annual Survey](~assets/documents/20190829-notice-and-comment-modification-of-annual-survey.pdf)
   NRC’s Agencywide Documents Access and Management System (ADAMS): You may obtain publicly- available documents online in the ADAMS Public Documents collection at
 
 - [Annual FOIA Report FY 2015](~assets/documents/annual-foia-report-fiscal-year-2015.pdf)
@@ -302,7 +302,7 @@ title: Resources
 - [FAIR Act Inventory](~assets/documents/fair-act-inventory-data-fy-2016.pdf)
   Y105 - Management Headquarters-Defense Direction and Policy Integration Y510 - Budget and Financial Program Management Y199 - Other Force Management and General Support Activities
 
-- [Testimony of Special Counsel Henry Kerner, on 'Violation](~assets/documents/testimony-of-special-counsel-henry-kerner,-on-'violations-of-the-ha-514a605a.pdf)
+- [Testimony of Special Counsel Henry Kerner, on 'Violation](~assets/documents/testimony-of-special-counsel-henry-kerner-on-violations-of-the-ha-514a605a.pdf)
   Written Statement of Henry J. Kerner Chairman Cummings and Ranking Member Jordan, I thank you for the opportunity to appear before this committee to discuss the important work done
 
 - [fair_ar05](~assets/documents/fair-act-inventory-data-fy-2005.pdf)
@@ -311,7 +311,7 @@ title: Resources
 - [Testimony on the Hatch Act](~assets/documents/testimony-of-special-counsel-carolyn-lerner-and-ana-galindo-marrone-a07258dc.pdf)
   With me today is Ana Galindo-Marrone, the Chief of OSC’s Hatch Act Unit It has been nearly 20 years since the last major revision of the Hatch Act, and reform is again needed
 
-- [Testimony of SC Henry Kerner, VA Committee Hearing 6-25-19](~assets/documents/testimony-of-special-counsel-henry-j.-kerner,-on-'learning-from-whi-25f30a11.pdf)
+- [Testimony of SC Henry Kerner, VA Committee Hearing 6-25-19](~assets/documents/testimony-of-special-counsel-henry-j-kerner-on-learning-from-whi-25f30a11.pdf)
   TESTIMONY OF HENRY J. KERNER SPECIAL COUNSEL UNITED STATES OFFICE OF SPECIAL COUNSEL BEFORE THE HOUSE COMMITTEE ON VETERANS AFFAIRS SUBCOMMITTEE ON OVERSIGHT AND INVESTIGATIONS
 
 - [Chief FOIA Officer Report Fiscal Year 2020](~assets/documents/chief-foia-officer-report-fiscal-year-2020.pdf)
@@ -323,24 +323,24 @@ title: Resources
 - [Annual FOIA Report Fiscal Year 2023](~assets/documents/annual-foia-report-fiscal-year-2023.pdf)
   MSPB FOIA ANNUAL REPORT FOR OCTOBER 1, 2022-SEPTEMBER 30, 2023 The following Annual Freedom of Information Act report covers the Period 10/01/2022, through 09/30/2023, as
 
-- [OSC Form 14 Notice](~assets/documents/20203101-notice-and-comment-–-form-14.pdf)
+- [OSC Form 14 Notice](~assets/documents/20203101-notice-and-comment-form-14.pdf)
   The OMB is particularly interested in comments that Evaluate whether the proposed collection of information is necessary for the proper performance of the functions of the agency
 
-- [OSC's Reasonable Accommodations - December 2021](~assets/documents/osc's-reasonable-accommodations---december-2021.pdf)
+- [OSC's Reasonable Accommodations - December 2021](~assets/documents/oscs-reasonable-accommodations-december-2021.pdf)
   NRC’s Agencywide Documents Access and Management System (ADAMS): You may obtain publicly available documents online in the ADAMS Public Documents collection at
 
-- [Technical Amendment - Change of Address](~assets/documents/20001226-technical-amendment---change-of-address.pdf)
+- [Technical Amendment - Change of Address](~assets/documents/20001226-technical-amendment-change-of-address.pdf)
   This section of the FEDERAL REGISTER contains regulatory documents having general applicability and legal effect, most of which are keyed to and codified in the Code of Federal
 
 - [ar-2010](~assets/documents/fy-2010-annual-report-to-congress.pdf)
   REPORT TO CONGRESS FOR FISCAL YEAR 2010 U.S. OFFICE OF SPECIAL COUNSEL www.osc.gov 2 U.S. Office of Special Counsel Fiscal Year 2010 Annual Report
 
-- [Information Quality (July 8 2002)](<~assets/documents/information-quality-(july-8-2002).pdf>)
+- [Information Quality (July 8 2002)](<~assets/documents/information-quality-july-8-2002.pdf>)
   This rate is a weighted average cost of money to the government for maturities similar to the average SBA direct loan This rate may be used as a base rate for guaranteed
 
 - [Proposed OSC Disclosure unit 2021 ANNUAL SURVEY QUESTIONS](~assets/documents/proposed-osc-disclosure-unit-2021-annual-survey-questions.pdf)
 
-- [Testimony of Special Counsel Carolyn Lerner on "Transpa](~assets/documents/testimony-of-special-counsel-carolyn-lerner-on-'transparency-at-tsa-9c2224cd.pdf)
+- [Testimony of Special Counsel Carolyn Lerner on "Transpa](~assets/documents/testimony-of-special-counsel-carolyn-lerner-on-transparency-at-tsa-9c2224cd.pdf)
   Testimony of Special Counsel Carolyn N. Lerner U.S. Office of Special Counsel   U.S. House of Representatives Committee on Oversight and Government Reform   “Transparency at TSA
 
 - [ANNUAL REPORT TO CONGRESS for FISCAL YEAR 2014](~assets/documents/fy-2014-annual-report-to-congress.pdf)
@@ -364,7 +364,7 @@ title: Resources
 - [2016 FEVS Results](~assets/documents/2016-fevs-results.pdf)
   Core Survey Response Type Item Item Text Percent Positive % Strongly Agree/ Very Good/ Very Satisfied % Agree/ Good/ Satisfied % Neither Agree nor Disagree/ Fair/ Neither
 
-- [Final Rule - Complaint Filing Requirements and Options](~assets/documents/20031128-final-rule---complaint-filing-requirements-and-options.pdf)
+- [Final Rule - Complaint Filing Requirements and Options](~assets/documents/20031128-final-rule-complaint-filing-requirements-and-options.pdf)
   This section of the FEDERAL REGISTER contains regulatory documents having general applicability and legal effect, most of which are keyed to and codified in the Code of Federal
 
 - [Survey Samples 2017](~assets/documents/survey-samples-2017.pdf)
@@ -375,13 +375,13 @@ title: Resources
 
 - [2017 raw data foia](~assets/documents/chief-foia-officer-report-fiscal-year-2018.pdf)
 
-- [Testimony of Special Counsel Carolyn Lerner on Renomination,](~assets/documents/testimony-of-special-counsel-carolyn-lerner-on-renomination,-januar-ae23a844.pdf)
+- [Testimony of Special Counsel Carolyn Lerner on Renomination,](~assets/documents/testimony-of-special-counsel-carolyn-lerner-on-renomination-januar-ae23a844.pdf)
   Testimony of the Honorable Carolyn N. Lerner to be Special Counsel U.S. Office of Special Counsel U.S. Senate Committee on Homeland Security & Governmental Affairs
 
 - [Annual Report of the Chief FOIA Officer.FINAL (3-11-13)](~assets/documents/chief-foia-officer-report-fiscal-year-2013.pdf)
   U.S. Office of Special Counsel 2013 ChiefFOIA Officer Report After review by the Office of Information Policy at the Department of Justice, this report will be posted to OSC's
 
-- [Testimony of Special Counsel Carolyn N. Lerner U.S. Office o](~assets/documents/testimony-of-special-counsel-carolyn-lerner-on-'reauthorization-of--cdd3e309.pdf)
+- [Testimony of Special Counsel Carolyn N. Lerner U.S. Office o](~assets/documents/testimony-of-special-counsel-carolyn-lerner-on-reauthorization-of-cdd3e309.pdf)
   Testimony of Special Counsel Carolyn N. Lerner U.S. Office of Special Counsel U.S. House of Representatives Committee on Oversight and Government Reform Subcommittee on
 
 - [Fiscal Year 2013](~assets/documents/annual-foia-report-fiscal-year-2013.pdf)
@@ -393,7 +393,7 @@ title: Resources
 
 - [Annual FOIA Report Fiscal Year 2020 Raw Data](~assets/documents/annual-foia-report-fiscal-year-2020-raw-data.xml)
 
-- [Final Rule - FOIA Implementation](~assets/documents/20070725-final-rule---foia-implementation.pdf)
+- [Final Rule - FOIA Implementation](~assets/documents/20070725-final-rule-foia-implementation.pdf)
   This section of the FEDERAL REGISTER contains regulatory documents having general applicability and legal effect, most of which are keyed to and codified in the Code of Federal
 
 - [2015 Chief FOIA Officer’s Report](~assets/documents/chief-foia-officer-report-fiscal-year-2015.pdf)
@@ -433,17 +433,17 @@ title: Resources
 - [Annual Report of Chief FOIA Officer (March 27, 2014)](~assets/documents/chief-foia-officer-report-fiscal-year-2014.pdf)
   In accordance with Department of Justice guidelines, the Chief FOIA Officer for the U.S. Office of Special Counsel (OSC) hereby submits the 2014 Chief FOIA Officer Report
 
-- [Annual FOIA Report Fiscal Report 2021 - Raw Data](~assets/documents/annual-foia-report-fiscal-report-2021---raw-data.xml)
+- [Annual FOIA Report Fiscal Report 2021 - Raw Data](~assets/documents/annual-foia-report-fiscal-report-2021-raw-data.xml)
 
 - [annual report 1994](~assets/documents/fy-1994-annual-report-to-congress.pdf)
 
 - [ar-1999](~assets/documents/fy-1999-annual-report-to-congress.pdf)
   BIOGRAPHY OF ELAINE KAPLAN SPECIAL COUNSEL On May 8, 1998, Elaine Kaplan was sworn in to serve a five-year term as Special Counsel of the U.S. Office of Special Counsel (OSC
 
-- [Congressional testimony - “An Examination of VA’s Misuse of ](~assets/documents/testimony-of-deputy-special-counsel-eric-bachman-on-“an-examination-7cbc5adb.pdf)
+- [Congressional testimony - “An Examination of VA’s Misuse of ](~assets/documents/testimony-of-deputy-special-counsel-eric-bachman-on-an-examination-7cbc5adb.pdf)
   Testimony of Eric Bachman, Deputy Special Counsel U.S. Office of Special Counsel Chairman Miller, Ranking Member Takano, and Members of the Committee Since 2014, OSC has seen a
 
-- [Testimony of Adam Miles 6-9-2014](~assets/documents/testimony-of-adam-miles,-deputy-special-counsel-for-policy-and-cong-22bab784.pdf)
+- [Testimony of Adam Miles 6-9-2014](~assets/documents/testimony-of-adam-miles-deputy-special-counsel-for-policy-and-cong-22bab784.pdf)
   Testimony of Adam Miles Deputy Special Counsel, Policy and Congressional Affairs U.S. Office of Special Counsel U.S. Senate Committee on Homeland Security and Governmental
 
 - [Chief FOIA Officer Report Fiscal Year 2021](~assets/documents/chief-foia-officer-report-fiscal-year-2021.pdf)
@@ -452,13 +452,13 @@ title: Resources
 - [fair_ar07](~assets/documents/fair-act-inventory-data-fy-2007.pdf)
   FEDERAL ACTIVITIES INVENTORY REFORM (FAIR) ACT: REPORT OF THE U.S. OFFICE OF SPECIAL COUNSEL FOR FISCAL YEAR 2007 Background The Office of Special Counsel (OSC) is a small
 
-- [Notice - Dallas Office Change of Address](~assets/documents/20021217-notice---dallas-office-change-of-address.pdf)
+- [Notice - Dallas Office Change of Address](~assets/documents/20021217-notice-dallas-office-change-of-address.pdf)
   See PCXE Rule 7.31(k). 4 The current $0.02 per share credit that is provided to any market maker that executes against an odd-lot order in the Odd Lot Tracking Order Process will
 
 - [FAIR Act Inventory Data FY 2021](~assets/documents/fair-act-inventory-data-fy-2021.pdf)
   Function Code Product or Service Code\* Policy Letter 1101\* FY21 Total FTE Reason Codes Country State City Y105 - Management HeadquartersDefense Direction and Policy Integration N
 
-- [Final Rule - Filing Complaints and Disclosures](~assets/documents/20001031-final-rule---filing-complaints-and-disclosures.pdf)
+- [Final Rule - Filing Complaints and Disclosures](~assets/documents/20001031-final-rule-filing-complaints-and-disclosures.pdf)
   This section of the FEDERAL REGISTER contains regulatory documents having general applicability and legal effect, most of which are keyed to and codified in the Code of Federal
 
 - [ar-2009](~assets/documents/fy-2009-annual-report-to-congress.pdf)
@@ -467,7 +467,7 @@ title: Resources
 - [ar-2007](~assets/documents/fy-2007-annual-report-to-congress.pdf)
   REPORT TO CONGRESS U.S. OFFICE OF SPECIAL COUNSEL FISCAL YEAR 2007 www.osc.gov2 U.S. Ofﬁ ce of Special Counsel Fiscal Year 2007 Annual Report U.S. Ofﬁ ce of Special
 
-- [Technical Amendment - Correct Citation](~assets/documents/20021224-technical-amendment---correct-citation.pdf)
+- [Technical Amendment - Correct Citation](~assets/documents/20021224-technical-amendment-correct-citation.pdf)
   This section of the FEDERAL REGISTER contains regulatory documents having general applicability and legal effect, most of which are keyed to and codified in the Code of Federal
 
 - [OSC-2024-Q4](~assets/documents/osc-2024-q4.pdf)
@@ -491,10 +491,10 @@ G  C A C $ C \` 4 3 1 b 4 0 7c 4 3 E 5 2 9 6 2
 - [FY 2015 FOIA LOG](~assets/documents/foia-log-fiscal-year-2015.pdf)
   Select non-agency records from a criminal case in PA Any records about the requester held by OSC Select agency records on Travel/Purchase cards and policies
 
-- [Affirmative Action Report](<~assets/documents/md715-aap-report-(fy24).pdf>)
+- [Affirmative Action Report](<~assets/documents/md715-aap-report-fy24.pdf>)
   Affirmative Action Plan for the Recruitment, Hiring, Advancement, and Retention of Persons with Disabilities To capture agencies’ affirmative action plan for persons with
 
-- [Special Counsel Carolyn Lerner Testimony - “Review of Whistl](~assets/documents/testimony-of-special-counsel-carolyn-lerner-on-“review-of-whistlebl-afe03145.pdf)
+- [Special Counsel Carolyn Lerner Testimony - “Review of Whistl](~assets/documents/testimony-of-special-counsel-carolyn-lerner-on-review-of-whistlebl-afe03145.pdf)
   Testimony of Carolyn Lerner, Special Counsel U.S. Office of Special Counsel U.S. Senate Committee on Appropriations Subcommittee on Military Construction, Veterans Affairs, and
 
 - [annual report 1992](~assets/documents/fy-1992-annual-report-to-congress.pdf)
@@ -511,10 +511,10 @@ G  C A C $ C \` 4 3 1 b 4 0 7c 4 3 E 5 2 9 6 2
 - [Annual FOIA Report Fiscal Year 2019](~assets/documents/annual-foia-report-fiscal-year-2019.pdf)
   Number of Times Relied upon by Agency / Component Confidential financial disclosure report pertaining to certain government employees Meyerhoff v. EPA, 958 F.2d 1498, 1500-02 (9th
 
-- [Testimony of Acting Special Counsel Adam Miles on "The ](~assets/documents/testimony-of-acting-special-counsel-adam-miles-on-'the-postal-servi-695b6f54.pdf)
+- [Testimony of Acting Special Counsel Adam Miles on "The ](~assets/documents/testimony-of-acting-special-counsel-adam-miles-on-the-postal-servi-695b6f54.pdf)
   Testimony of Acting Special Counsel Adam Miles U.S. Office of Special Counsel U.S. Senate Committee on Homeland Security and Governmental Affairs “The Postal Service’s Actions
 
-- [11-18-15 Lerner Testimony](~assets/documents/testimony-of-special-counsel-carolyn-lerner-on-pending-legislation,-5e6a36fb.pdf)
+- [11-18-15 Lerner Testimony](~assets/documents/testimony-of-special-counsel-carolyn-lerner-on-pending-legislation-5e6a36fb.pdf)
   Written Testimony of Special Counsel Carolyn N. Lerner United States Office of Special Counsel Senate Committee on Veterans’ Affairs Hearing on Pending Legislation
 
 - [ar-2000](~assets/documents/fy-2000-annual-report-to-congress.pdf)
@@ -583,7 +583,7 @@ G  C A C $ C \` 4 3 1 b 4 0 7c 4 3 E 5 2 9 6 2
 - [OSC Service Contract Inventory FY2012](~assets/documents/osc-service-contract-inventory-fy2012.pdf)
   Product or Service Code (PSC) Description IT AND TELECOM- FACILITY OPERATION AND MAINTENANCE MAINT/REPAIR/REBUILD OF EQUIPMENT- ADP EQUIPMENT/SOFTWARE/ SUPPLIES/SUPPORT EQUIPMENT
 
-- [osc_d17](~assets/documents/oscÑ7-osc-guidelines-on-info-quality.pdf)
+- [osc_d17](~assets/documents/oscn7-osc-guidelines-on-info-quality.pdf)
   GUIDELINES FOR ENSURING AND MAXIMIZING THE QUALITY, OBJECTIVITY, UTILITY, AND INTEGRITY OF INFORMATION DISSEMINATED BY THE ) I. AUTHORITY Treasury and General Government
 
 - [Buy America Act Report FY 2008](~assets/documents/buy-america-act-report-fy-2008.pdf)
@@ -607,17 +607,17 @@ G  C A C $ C \` 4 3 1 b 4 0 7c 4 3 E 5 2 9 6 2
 - [Testimony of Special Counsel Carolyn Lerner on pending benef](~assets/documents/testimony-of-special-counsel-carolyn-lerner-on-pending-benefits-leg-debd8a62.pdf)
   Written Testimony of Special Counsel Carolyn N. Lerner United States Office of Special Counsel Senate Committee on Veterans’ Affairs Hearing on Pending Benefits Legislation
 
-- [Lerner Testimony on Rules and Effectiveness of Federal Overs](~assets/documents/testimony-of-special-counsel-carolyn-lerner-on-'strengthening-gover-6b582279.pdf)
+- [Lerner Testimony on Rules and Effectiveness of Federal Overs](~assets/documents/testimony-of-special-counsel-carolyn-lerner-on-strengthening-gover-6b582279.pdf)
   Testimony of the Honorable Carolyn N. Lerner, Special Counsel U.S. Office of Special Counsel U.S. Senate Committee on Homeland Security and Governmental Affairs Subcommittee on
 
 - [Annual FOIA Report Fiscal Year 2019 Raw Data](~assets/documents/annual-foia-report-fiscal-year-2019-raw-data.txt)
 
 - [Annual FOIA Report Fiscal Year 2020 Raw Data](~assets/documents/annual-foia-report-fiscal-year-2020-raw-data.txt)
 
-- [FINAL_OSC_Lerner_Testimony_BIO_OGM_03 20](~assets/documents/special-counsel-carolyn-lerner-testifies-before-senator-akaka’s-ove-4057ba4d.pdf)
+- [FINAL_OSC_Lerner_Testimony_BIO_OGM_03 20](~assets/documents/special-counsel-carolyn-lerner-testifies-before-senator-akakas-ove-4057ba4d.pdf)
   Chairman Akaka, Ranking Member Johnson, and Members of the Subcommittee I am delighted to be here today to testify about the U.S. Office of Special Counsel, the OSC
 
-- [Annual FOIA Report Fiscal Report 2021 - Raw Data](~assets/documents/annual-foia-report-fiscal-report-2021---raw-data.txt)
+- [Annual FOIA Report Fiscal Report 2021 - Raw Data](~assets/documents/annual-foia-report-fiscal-report-2021-raw-data.txt)
 
 - [foia_06](~assets/documents/annual-foia-report-fiscal-year-2006.pdf)
   ANNUAL REPORT OF THE U.S. OFFICE OF SPECIAL COUNSEL (OSC) ON FREEDOM OF INFORMATION ACT (FOIA) ACTIVITIES FOR FISCAL YEAR (FY) 2006 I. B ASIC INFORMATION ABOUT THIS REPORT
@@ -625,7 +625,7 @@ G  C A C $ C \` 4 3 1 b 4 0 7c 4 3 E 5 2 9 6 2
 - [foia_07](~assets/documents/annual-foia-report-fiscal-year-2007.pdf)
   ANNUAL REPORT OF THE U.S. OFFICE OF SPECIAL COUNSEL (OSC) ON FREEDOM OF INFORMATION ACT (FOIA) ACTIVITIES FOR FISCAL YEAR (FY) 2007 I. BASIC INFORMATION ABOUT THIS REPORT
 
-- [Confirmation Hearing of Carolyn Lerner](~assets/documents/confirmation-hearing-of-carolyn-lerner,-march-10,-2011.pdf)
+- [Confirmation Hearing of Carolyn Lerner](~assets/documents/confirmation-hearing-of-carolyn-lerner-march-10-2011.pdf)
   U.S. GOVERNMENT PRINTING OFFICE WASHINGTON : For sale by the Superintendent of Documents, U.S. Government Printing Office Internet: bookstore.gpo.gov Phone: toll free (866
 
 - [annual report 1995](~assets/documents/fy-1995-annual-report-to-congress.pdf)
@@ -706,7 +706,7 @@ G  C A C $ C \` 4 3 1 b 4 0 7c 4 3 E 5 2 9 6 2
 - [Fiscal Year 2013 Performance and Accountability Report](~assets/documents/fy-2013-performance-and-accountability-report.pdf)
   FY 2013 Performance and Accountability Report U.S. OFFICE OF SPECIAL COUNSEL 1730 M Street, N.W., Suite 300 Washington, D.C. 20036-4505 (www.osc.gov) TABLE OF
 
-- [gprafy00](<~assets/documents/osc-annual-performance-report-(fy-2000).pdf>)
+- [gprafy00](<~assets/documents/osc-annual-performance-report-fy-2000.pdf>)
   ANNUAL PERFORMANCE REPORT OF THE U.S. OFFICE OF SPECIAL COUNSEL FOR FISCAL YEAR 2000 Introduction The Office of the Special Counsel was first established on January 1, 1979
 
 - [Strategic Plan FY 2017-2022](~assets/documents/strategic-plan-fy2017-2022.pdf)
@@ -745,16 +745,16 @@ G  C A C $ C \` 4 3 1 b 4 0 7c 4 3 E 5 2 9 6 2
 - [SPFI FY2010](~assets/documents/fy-2010-summary-of-performance-and-financial-information.pdf)
   FY2010 Summary of Performance and Financial Information This Report summarizes the Office of Special Counsel’s (OSC’s) FY 2010 Performance and Accountability Report and is
 
-- [prfpln02](<~assets/documents/osc-annual-performance-plan-(fy-2002).pdf>)
+- [prfpln02](<~assets/documents/osc-annual-performance-plan-fy-2002.pdf>)
   U.S. OFFICE OF SPECIAL COUNSEL (OSC) ANNUAL PERFORMANCE PLAN (FY 2002) INTRODUCTION Mission Statement Under the Civil Service Reform Act (CSRA) and the Whistleblower Protection
 
-- [gprafy99](<~assets/documents/osc-annual-performance-report-(fy-1999).pdf>)
+- [gprafy99](<~assets/documents/osc-annual-performance-report-fy-1999.pdf>)
   U.S. Office of Special Counsel FY 1999 Annual Performance Report Page 2 FY 1999 PERFORMANCE GOALS In furtherance of the goals set forth in OSC's Strategic Plan for FY 1999, the
 
-- [rpt-01](<~assets/documents/osc-annual-performance-report-(fy-2001).pdf>)
+- [rpt-01](<~assets/documents/osc-annual-performance-report-fy-2001.pdf>)
   ANNUAL PERFORMANCE REPORT OF THE U.S. OFFICE OF SPECIAL COUNSEL FOR FISCAL YEAR 2001 U.S. OFFICE OF SPECIAL COUNSEL 1730 M STREET, NW (SUITE 201) WASHINGTON, DC 20036-4505
 
-- [rpt-02](<~assets/documents/osc-annual-performance-report-(fy-2002).pdf>)
+- [rpt-02](<~assets/documents/osc-annual-performance-report-fy-2002.pdf>)
   ANNUAL PERFORMANCE REPORT OF THE U.S. OFFICE OF SPECIAL COUNSEL FOR FISCAL YEAR 2002 Introduction The U.S. Office of Special Counsel (OSC) is an independent federal
 
 - [OSC 2017 NO FEAR ACT TRAINING](~assets/documents/no-fear-act-powerpoint-presentation.ppt)
@@ -799,43 +799,43 @@ G  C A C $ C \` 4 3 1 b 4 0 7c 4 3 E 5 2 9 6 2
 - [2018 FEVS Results](~assets/documents/2018-fevs-results.xlsx)
   Name type Resp Samp RR Strengths Challenges Engagement LeadersLead Supervisors Intrinsic FieldPeriod U.S. Office of Special Counsel CENSUS 90 123 43 3 May 8 - June 19, 2018 Item
 
-- [FY09 IQ Report Template - Nov 2009](~assets/documents/fy09-information-quality-report-template---nov-2009.xls)
+- [FY09 IQ Report Template - Nov 2009](~assets/documents/fy09-information-quality-report-template-nov-2009.xls)
   Instructions: Attached is the FY09 IQ reporting template for you to use to compile your DRAFT agency reports Please fill out your draft template using this Excel workbook
 
-- [Annual FOIA Report Fiscal Year 2019 - DOJ Format](~assets/documents/annual-foia-report-fiscal-year-2019---doj-format.xml)
+- [Annual FOIA Report Fiscal Year 2019 - DOJ Format](~assets/documents/annual-foia-report-fiscal-year-2019-doj-format.xml)
   FOIA Annual Report Workbook 2020-02-20 FOIA Annual Report OSC Office of Special Counsel 2019 5 U.S.C. app. 4 § 107(a)(2) Confidential financial disclosure report
 
-- [Annual FOIA Report FY 2014.xml](~assets/documents/annual-foia-report-fiscal-year-2014---doj-format.xml)
+- [Annual FOIA Report FY 2014.xml](~assets/documents/annual-foia-report-fiscal-year-2014-doj-format.xml)
   FOIA Annual Report Workbook 2015-01-28 FOIA Annual Report OSC U.S. Office of Special Counsel 2014 N/A N/A N/A 0 132 168 91 209 16 17 9 NoRecords 7 Withdrawn 10
 
 - [Annual FOIA Report Fiscal Year 2024](~assets/documents/annual-foia-report-fiscal-year-2024.xml)
   FOIA Annual Report Workbook 2025-02-03 FOIA Annual Report OSC Office of Special Counsel 2024 N/A N/A N/A 0 0 26 243 170 99 10 61 15 NoRecords 47 Referred
 
-- [OSC FY16 Annual FOIA Report.xml](~assets/documents/annual-foia-report-fiscal-year-2016---doj-format.xml)
+- [OSC FY16 Annual FOIA Report.xml](~assets/documents/annual-foia-report-fiscal-year-2016-doj-format.xml)
   FOIA Annual Report Workbook 2016-12-07 FOIA Annual Report OSC U.S. Office of Special Counsel 2016 N/A N/A N/A 0 238 143 184 197 OSC reported having 239 pending requests at
 
-- [Annual FOIA Report Fiscal Year 2020 - DOJ Format](~assets/documents/annual-foia-report-fiscal-year-2020---doj-format.xml)
+- [Annual FOIA Report Fiscal Year 2020 - DOJ Format](~assets/documents/annual-foia-report-fiscal-year-2020-doj-format.xml)
   FOIA Annual Report Workbook 2021-01-28 FOIA Annual Report OSC Office of Special Counsel 2020 5 U.S.C. § 1213(h) Identities of employees, former employees, or
 
-- [Annual FOIA Report FY 2015.xml](~assets/documents/annual-foia-report-fiscal-year-2015---doj-format.xml)
+- [Annual FOIA Report FY 2015.xml](~assets/documents/annual-foia-report-fiscal-year-2015-doj-format.xml)
   FOIA Annual Report Workbook 2016-01-14 FOIA Annual Report OSC U.S. Office of Special Counsel 2015 5 U.S.C. app. Â§ 107(a) (Ethics in Government Act of 1978) Financial disclosure
 
-- [OSC FY18 (Final).xml](~assets/documents/annual-foia-report-fiscal-year-2018---doj-format.xml)
+- [OSC FY18 (Final).xml](~assets/documents/annual-foia-report-fiscal-year-2018-doj-format.xml)
   FOIA Annual Report Workbook 2018-11-19 FOIA Annual Report OSC U.S. Office of Special Counsel 2018 N/A N/A N/A 0 222 189 282 129 After reviewings its database, OSC updated
 
-- [FoiaAnnualReportFY10.xml](~assets/documents/annual-foia-report-fiscal-year-2010---doj-format.xml)
+- [FoiaAnnualReportFY10.xml](~assets/documents/annual-foia-report-fiscal-year-2010-doj-format.xml)
   FOIA Annual Report Workbook 2010-12-17 FOIA Annual Report OSC U.S. Office of Special Counsel 2010 18 U.S.C. 208(d)(1) Ethics waiver n/a 1 23 120 138 5 The FY09 Annual
 
-- [FoiaAnnualReportFY11.xml](~assets/documents/annual-foia-report-fiscal-year-2011---doj-format.xml)
+- [FoiaAnnualReportFY11.xml](~assets/documents/annual-foia-report-fiscal-year-2011-doj-format.xml)
   FOIA Annual Report Workbook 2011-12-02 FOIA Annual Report OSC U.S Office of Special Counsel 2011 N/A N/A N/A 0 6 132 87 51 The FY10 Annual Report shows five requests
 
-- [Annual FOIA Report Fiscal Report 2021 - DOJ Format](~assets/documents/annual-foia-report-fiscal-report-2021---doj-format.xml)
+- [Annual FOIA Report Fiscal Report 2021 - DOJ Format](~assets/documents/annual-foia-report-fiscal-report-2021-doj-format.xml)
   FOIA Annual Report Workbook 2022-02-24 FOIA Annual Report OSC Office of Special Counsel 2021 5 U.S.C. § 1213(h) Identities of employees, former employees, or
 
 - [Annual FOIA Report Fiscal Year 2022 Raw Data](~assets/documents/annual-foia-report-fiscal-year-2022-raw-data.xml)
   FOIA Annual Report Workbook 2023-01-18 FOIA Annual Report OSC Office of Special Counsel 2022 5 U.S.C. § 574(j) Dispute resolution communications N/A 1 1
 
-- [Annual FOIA Report Fiscal Year 2023 - DOJ Format](~assets/documents/annual-foia-report-fiscal-year-2023---doj-format.csv)
+- [Annual FOIA Report Fiscal Year 2023 - DOJ Format](~assets/documents/annual-foia-report-fiscal-year-2023-doj-format.csv)
   ns3:DocumentApplicationName,ns3:applicationVersionText,ns3:Date,ns3:DocumentDescriptionText,ns2:id,ns3:OrganizationAbbreviationText,ns3:OrganizationName,ns5:DocumentFiscalYearDate
 
 - [Annual FOIA Report Fiscal 2024 Raw Data](~assets/documents/annual-foia-report-fiscal-2024-raw-data.csv)
@@ -858,13 +858,13 @@ G  C A C $ C \` 4 3 1 b 4 0 7c 4 3 E 5 2 9 6 2
 - [OSC Lapse Plan September 2025](~assets/documents/osc-lapse-plan-september-2025.pdf)
   AGENCY OPERATIONS IN THE ABSENCE OF Estimated time (to nearest half day) required to complete shutdown activities Total number of agency employees expected to be on board before
 
-- [Registration Form (v2025)](<~assets/documents/registration-form-(v2025).pdf>)
+- [Registration Form (v2025)](<~assets/documents/registration-form-v2025.pdf>)
   U.S. Office of Special Counsel’s Certification Program Registration Form In addition to the existing requirements of the program, these statutes require agency heads to ensure that
 
-- [EO13166](~assets/documents/osc's-plan-for-improving-access-for-persons-with-limited-english-proficiency.pdf)
+- [EO13166](~assets/documents/oscs-plan-for-improving-access-for-persons-with-limited-english-proficiency.pdf)
   PLAN OF THE U.S. OFFICE OF SPECIAL COUNSEL FOR COMPLIANCE WITH EXECUTIVE ORDER NO. 13166 (IMPROVING ACCESS TO SERVICES FOR PERSONS WITH LIMITED ENGLISH PROFICIENCY) Summary
 
-- [Privacy Act (final) (Oct 4 2007)](<~assets/documents/privacy-act-(final)-(Oct-4-2007).pdf>)
+- [Privacy Act (final) (Oct 4 2007)](<~assets/documents/privacy-act-final-oct-4-2007.pdf>)
   This section of the FEDERAL REGISTER contains regulatory documents having general applicability and legal effect, most of which are keyed to and codified in the Code of Federal
 
 - [osc49q](~assets/documents/policy-statement-on-disclosure-of-information-from-osc-program-file-9b09a60a.pdf)

@@ -136,9 +136,9 @@ title: Reports
 
 ## Information Quality Reports
 
-[Information Quality (Oct 2 2002)](<~assets/documents/information-quality-(oct-2-2002).pdf>)
+[Information Quality (Oct 2 2002)](<~assets/documents/information-quality-oct-2-2002.pdf>)
 
-[Information Quality (July 8 2002)](<~assets/documents/information-quality-(july-8-2002).pdf>)
+[Information Quality (July 8 2002)](<~assets/documents/information-quality-july-8-2002.pdf>)
 
 ## No FEAR Act Reports/EEO Reports
 
@@ -206,15 +206,15 @@ title: Reports
 
 [FY 2004 Performance and Accountability Report](~assets/documents/fy-2004-performance-and-accountability-report.pdf)
 
-[OSC Annual Performance Plan (FY 2002)](<~assets/documents/osc-annual-performance-plan-(fy-2002).pdf>)
+[OSC Annual Performance Plan (FY 2002)](<~assets/documents/osc-annual-performance-plan-fy-2002.pdf>)
 
-[OSC Annual Performance Report (FY 2002)](<~assets/documents/osc-annual-performance-report-(fy-2002).pdf>)
+[OSC Annual Performance Report (FY 2002)](<~assets/documents/osc-annual-performance-report-fy-2002.pdf>)
 
-[OSC Annual Performance Report (FY 2001)](<~assets/documents/osc-annual-performance-report-(fy-2001).pdf>)
+[OSC Annual Performance Report (FY 2001)](<~assets/documents/osc-annual-performance-report-fy-2001.pdf>)
 
-[OSC Annual Performance Report (FY 2000)](<~assets/documents/osc-annual-performance-report-(fy-2000).pdf>)
+[OSC Annual Performance Report (FY 2000)](<~assets/documents/osc-annual-performance-report-fy-2000.pdf>)
 
-[OSC Annual Performance Report (FY 1999)](<~assets/documents/osc-annual-performance-report-(fy-1999).pdf>)
+[OSC Annual Performance Report (FY 1999)](<~assets/documents/osc-annual-performance-report-fy-1999.pdf>)
 
 [Strategic Plan FY2012-2016](~assets/documents/strategic-plan-fy2012-2016.pdf)
 

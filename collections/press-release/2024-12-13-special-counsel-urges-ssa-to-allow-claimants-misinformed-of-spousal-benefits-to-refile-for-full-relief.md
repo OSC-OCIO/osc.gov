@@ -9,11 +9,11 @@ OSC alerted the President that claimants seeking spousal benefits have filed dis
 
 Page Content
 
-The U.S. Office of Special Counsel (OSC) today [alerted​](../../~assets/documents/redacted-president-letter---di-24-000154.pdf) the President and Congress that claimants seeking social security spousal benefits have filed disadvantageous claims, even though claims examiners at the Social Security Administration (SSA) are required to provide information to help filers maximize their benefits.
+The U.S. Office of Special Counsel (OSC) today [alerted​](../../~assets/documents/redacted-president-letter-di-24-000154.pdf) the President and Congress that claimants seeking social security spousal benefits have filed disadvantageous claims, even though claims examiners at the Social Security Administration (SSA) are required to provide information to help filers maximize their benefits.
 
 SSA internal rules require claims examiners to explain advantages and disadvantages of waiting to file for benefits until full retirement age and to document these discussions. The whistleblower, SSA Claims Specialist John McAdams, alleged claims examiners are failing to inform claimants of this critical information, often to the recipients' financial detriment.
 
-OSC [referred](../../~assets/documents/redacted-referral---di-24-000154.pdf) the allegations, and the SSA Office of Inspector General (OIG) [confirmed​](../../~assets/documents/agency-report--osc-file-no.-di-24-000154.pdf) that claimants have missed out on substantial benefits due to filing too early and could not establish that claimants had been properly advised.  The OIG indicated it plans to conduct a full audit to determine how many claimants may have been impacted.
+OSC [referred](../../~assets/documents/redacted-referral-di-24-000154.pdf) the allegations, and the SSA Office of Inspector General (OIG) [confirmed​](../../~assets/documents/agency-report-osc-file-no-di-24-000154.pdf) that claimants have missed out on substantial benefits due to filing too early and could not establish that claimants had been properly advised.  The OIG indicated it plans to conduct a full audit to determine how many claimants may have been impacted.
 
 Special Counsel Hampton Dellinger determined the agency's findings appear reasonable “but only if the agency continues its review in order to provide a meaningful remedy to affected claimants."
 

@@ -20,7 +20,7 @@ files:
 - label: DI-16-2537 Referral Letter
   href: /~assets/documents/di-16-2537-referral-letter.pdf
 - label: DI-18-3345 Agency Report
-  href: /~assets/documents/di-18-3345-agency-report-.pdf
+  href: /~assets/documents/di-18-3345-agency-report.pdf
 - label: DI-18-3345 Referral Letter
   href: /~assets/documents/di-18-3345-referral-letter.pdf
 ---

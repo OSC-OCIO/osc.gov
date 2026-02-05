@@ -68,19 +68,19 @@ Associated Press
 
 ![](~assets/images/spcommon.png)
 
-[Publication](javascript:  "Publication, Click to sort by Publication")![](~assets/images/spcommon.png)![](~assets/images/spcommon.png)
+[Publication](javascript:  "Publication, Click to sort by Publication")![](~assets/images/spcommonpngassetsimagesspcommon.png)
 
 [![Open Publication sort and filter menu](~assets/images/ecbarw.png)](javascript:; "Open Publication sort and filter menu")
 
-[Name/URL of News Story](javascript:  "Name/URL of News Story, Click to sort by Name/URL of News Story")![](~assets/images/spcommon.png)![](~assets/images/spcommon.png)
+[Name/URL of News Story](javascript:  "Name/URL of News Story, Click to sort by Name/URL of News Story")![](~assets/images/spcommonpngassetsimagesspcommon.png)
 
 [![Open Name/URL of News Story sort and filter menu](~assets/images/ecbarw.png)](javascript:; "Open Name/URL of News Story sort and filter menu")
 
-[Publication Date](javascript:  "Publication Date, Click to sort by Publication Date")![](~assets/images/spcommon.png)![](~assets/images/spcommon.png)
+[Publication Date](javascript:  "Publication Date, Click to sort by Publication Date")![](~assets/images/spcommonpngassetsimagesspcommon.png)
 
 [![Open Publication Date sort and filter menu](~assets/images/ecbarw.png)](javascript:; "Open Publication Date sort and filter menu")
 
-[Publication Year](javascript:  "Publication Year, Click to sort by Publication Year")![](~assets/images/spcommon.png)![](~assets/images/spcommon.png)
+[Publication Year](javascript:  "Publication Year, Click to sort by Publication Year")![](~assets/images/spcommonpngassetsimagesspcommon.png)
 
 [![Open Publication Year sort and filter menu](~assets/images/ecbarw.png)](javascript:; "Open Publication Year sort and filter menu")
 
@@ -388,19 +388,19 @@ Government Executive
 
 ![](~assets/images/spcommon.png)
 
-[Publication](javascript:  "Publication, Click to sort by Publication")![](~assets/images/spcommon.png)![](~assets/images/spcommon.png)
+[Publication](javascript:  "Publication, Click to sort by Publication")![](~assets/images/spcommonpngassetsimagesspcommon.png)
 
 [![Open Publication sort and filter menu](~assets/images/ecbarw.png)](javascript:; "Open Publication sort and filter menu")
 
-[Name/URL of News Story](javascript:  "Name/URL of News Story, Click to sort by Name/URL of News Story")![](~assets/images/spcommon.png)![](~assets/images/spcommon.png)
+[Name/URL of News Story](javascript:  "Name/URL of News Story, Click to sort by Name/URL of News Story")![](~assets/images/spcommonpngassetsimagesspcommon.png)
 
 [![Open Name/URL of News Story sort and filter menu](~assets/images/ecbarw.png)](javascript:; "Open Name/URL of News Story sort and filter menu")
 
-[Publication Date](javascript:  "Publication Date, Click to sort by Publication Date")![](~assets/images/spcommon.png)![](~assets/images/spcommon.png)
+[Publication Date](javascript:  "Publication Date, Click to sort by Publication Date")![](~assets/images/spcommonpngassetsimagesspcommon.png)
 
 [![Open Publication Date sort and filter menu](~assets/images/ecbarw.png)](javascript:; "Open Publication Date sort and filter menu")
 
-[Publication Year](javascript:  "Publication Year, Click to sort by Publication Year")![](~assets/images/spcommon.png)![](~assets/images/spcommon.png)
+[Publication Year](javascript:  "Publication Year, Click to sort by Publication Year")![](~assets/images/spcommonpngassetsimagesspcommon.png)
 
 [![Open Publication Year sort and filter menu](~assets/images/ecbarw.png)](javascript:; "Open Publication Year sort and filter menu")
 
@@ -542,19 +542,19 @@ Blue Ridge Leader
 
 ![](~assets/images/spcommon.png)
 
-[Publication](javascript:  "Publication, Click to sort by Publication")![](~assets/images/spcommon.png)![](~assets/images/spcommon.png)
+[Publication](javascript:  "Publication, Click to sort by Publication")![](~assets/images/spcommonpngassetsimagesspcommon.png)
 
 [![Open Publication sort and filter menu](~assets/images/ecbarw.png)](javascript:; "Open Publication sort and filter menu")
 
-[Name/URL of News Story](javascript:  "Name/URL of News Story, Click to sort by Name/URL of News Story")![](~assets/images/spcommon.png)![](~assets/images/spcommon.png)
+[Name/URL of News Story](javascript:  "Name/URL of News Story, Click to sort by Name/URL of News Story")![](~assets/images/spcommonpngassetsimagesspcommon.png)
 
 [![Open Name/URL of News Story sort and filter menu](~assets/images/ecbarw.png)](javascript:; "Open Name/URL of News Story sort and filter menu")
 
-[Publication Date](javascript:  "Publication Date, Click to sort by Publication Date")![](~assets/images/spcommon.png)![](~assets/images/spcommon.png)
+[Publication Date](javascript:  "Publication Date, Click to sort by Publication Date")![](~assets/images/spcommonpngassetsimagesspcommon.png)
 
 [![Open Publication Date sort and filter menu](~assets/images/ecbarw.png)](javascript:; "Open Publication Date sort and filter menu")
 
-[Publication Year](javascript:  "Publication Year, Click to sort by Publication Year")![](~assets/images/spcommon.png)![](~assets/images/spcommon.png)
+[Publication Year](javascript:  "Publication Year, Click to sort by Publication Year")![](~assets/images/spcommonpngassetsimagesspcommon.png)
 
 [![Open Publication Year sort and filter menu](~assets/images/ecbarw.png)](javascript:; "Open Publication Year sort and filter menu")
 
@@ -702,19 +702,19 @@ FEDWeek
 
 ![](~assets/images/spcommon.png)
 
-[Publication](javascript:  "Publication, Click to sort by Publication")![](~assets/images/spcommon.png)![](~assets/images/spcommon.png)
+[Publication](javascript:  "Publication, Click to sort by Publication")![](~assets/images/spcommonpngassetsimagesspcommon.png)
 
 [![Open Publication sort and filter menu](~assets/images/ecbarw.png)](javascript:; "Open Publication sort and filter menu")
 
-[Name/URL of News Story](javascript:  "Name/URL of News Story, Click to sort by Name/URL of News Story")![](~assets/images/spcommon.png)![](~assets/images/spcommon.png)
+[Name/URL of News Story](javascript:  "Name/URL of News Story, Click to sort by Name/URL of News Story")![](~assets/images/spcommonpngassetsimagesspcommon.png)
 
 [![Open Name/URL of News Story sort and filter menu](~assets/images/ecbarw.png)](javascript:; "Open Name/URL of News Story sort and filter menu")
 
-[Publication Date](javascript:  "Publication Date, Click to sort by Publication Date")![](~assets/images/spcommon.png)![](~assets/images/spcommon.png)
+[Publication Date](javascript:  "Publication Date, Click to sort by Publication Date")![](~assets/images/spcommonpngassetsimagesspcommon.png)
 
 [![Open Publication Date sort and filter menu](~assets/images/ecbarw.png)](javascript:; "Open Publication Date sort and filter menu")
 
-[Publication Year](javascript:  "Publication Year, Click to sort by Publication Year")![](~assets/images/spcommon.png)![](~assets/images/spcommon.png)
+[Publication Year](javascript:  "Publication Year, Click to sort by Publication Year")![](~assets/images/spcommonpngassetsimagesspcommon.png)
 
 [![Open Publication Year sort and filter menu](~assets/images/ecbarw.png)](javascript:; "Open Publication Year sort and filter menu")
 
@@ -932,19 +932,19 @@ New York Times
 
 ![](~assets/images/spcommon.png)
 
-[Publication](javascript:  "Publication, Click to sort by Publication")![](~assets/images/spcommon.png)![](~assets/images/spcommon.png)
+[Publication](javascript:  "Publication, Click to sort by Publication")![](~assets/images/spcommonpngassetsimagesspcommon.png)
 
 [![Open Publication sort and filter menu](~assets/images/ecbarw.png)](javascript:; "Open Publication sort and filter menu")
 
-[Name/URL of News Story](javascript:  "Name/URL of News Story, Click to sort by Name/URL of News Story")![](~assets/images/spcommon.png)![](~assets/images/spcommon.png)
+[Name/URL of News Story](javascript:  "Name/URL of News Story, Click to sort by Name/URL of News Story")![](~assets/images/spcommonpngassetsimagesspcommon.png)
 
 [![Open Name/URL of News Story sort and filter menu](~assets/images/ecbarw.png)](javascript:; "Open Name/URL of News Story sort and filter menu")
 
-[Publication Date](javascript:  "Publication Date, Click to sort by Publication Date")![](~assets/images/spcommon.png)![](~assets/images/spcommon.png)
+[Publication Date](javascript:  "Publication Date, Click to sort by Publication Date")![](~assets/images/spcommonpngassetsimagesspcommon.png)
 
 [![Open Publication Date sort and filter menu](~assets/images/ecbarw.png)](javascript:; "Open Publication Date sort and filter menu")
 
-[Publication Year](javascript:  "Publication Year, Click to sort by Publication Year")![](~assets/images/spcommon.png)![](~assets/images/spcommon.png)
+[Publication Year](javascript:  "Publication Year, Click to sort by Publication Year")![](~assets/images/spcommonpngassetsimagesspcommon.png)
 
 [![Open Publication Year sort and filter menu](~assets/images/ecbarw.png)](javascript:; "Open Publication Year sort and filter menu")
 
@@ -1162,19 +1162,19 @@ Military Times
 
 ![](~assets/images/spcommon.png)
 
-[Publication](javascript:  "Publication, Click to sort by Publication")![](~assets/images/spcommon.png)![](~assets/images/spcommon.png)
+[Publication](javascript:  "Publication, Click to sort by Publication")![](~assets/images/spcommonpngassetsimagesspcommon.png)
 
 [![Open Publication sort and filter menu](~assets/images/ecbarw.png)](javascript:; "Open Publication sort and filter menu")
 
-[Name/URL of News Story](javascript:  "Name/URL of News Story, Click to sort by Name/URL of News Story")![](~assets/images/spcommon.png)![](~assets/images/spcommon.png)
+[Name/URL of News Story](javascript:  "Name/URL of News Story, Click to sort by Name/URL of News Story")![](~assets/images/spcommonpngassetsimagesspcommon.png)
 
 [![Open Name/URL of News Story sort and filter menu](~assets/images/ecbarw.png)](javascript:; "Open Name/URL of News Story sort and filter menu")
 
-[Publication Date](javascript:  "Publication Date, Click to sort by Publication Date")![](~assets/images/spcommon.png)![](~assets/images/spcommon.png)
+[Publication Date](javascript:  "Publication Date, Click to sort by Publication Date")![](~assets/images/spcommonpngassetsimagesspcommon.png)
 
 [![Open Publication Date sort and filter menu](~assets/images/ecbarw.png)](javascript:; "Open Publication Date sort and filter menu")
 
-[Publication Year](javascript:  "Publication Year, Click to sort by Publication Year")![](~assets/images/spcommon.png)![](~assets/images/spcommon.png)
+[Publication Year](javascript:  "Publication Year, Click to sort by Publication Year")![](~assets/images/spcommonpngassetsimagesspcommon.png)
 
 [![Open Publication Year sort and filter menu](~assets/images/ecbarw.png)](javascript:; "Open Publication Year sort and filter menu")
 
@@ -1472,19 +1472,19 @@ Full Measure w Sharyl Attkisson
 
 ![](~assets/images/spcommon.png)
 
-[Publication](javascript:  "Publication, Click to sort by Publication")![](~assets/images/spcommon.png)![](~assets/images/spcommon.png)
+[Publication](javascript:  "Publication, Click to sort by Publication")![](~assets/images/spcommonpngassetsimagesspcommon.png)
 
 [![Open Publication sort and filter menu](~assets/images/ecbarw.png)](javascript:; "Open Publication sort and filter menu")
 
-[Name/URL of News Story](javascript:  "Name/URL of News Story, Click to sort by Name/URL of News Story")![](~assets/images/spcommon.png)![](~assets/images/spcommon.png)
+[Name/URL of News Story](javascript:  "Name/URL of News Story, Click to sort by Name/URL of News Story")![](~assets/images/spcommonpngassetsimagesspcommon.png)
 
 [![Open Name/URL of News Story sort and filter menu](~assets/images/ecbarw.png)](javascript:; "Open Name/URL of News Story sort and filter menu")
 
-[Publication Date](javascript:  "Publication Date, Click to sort by Publication Date")![](~assets/images/spcommon.png)![](~assets/images/spcommon.png)
+[Publication Date](javascript:  "Publication Date, Click to sort by Publication Date")![](~assets/images/spcommonpngassetsimagesspcommon.png)
 
 [![Open Publication Date sort and filter menu](~assets/images/ecbarw.png)](javascript:; "Open Publication Date sort and filter menu")
 
-[Publication Year](javascript:  "Publication Year, Click to sort by Publication Year")![](~assets/images/spcommon.png)![](~assets/images/spcommon.png)
+[Publication Year](javascript:  "Publication Year, Click to sort by Publication Year")![](~assets/images/spcommonpngassetsimagesspcommon.png)
 
 [![Open Publication Year sort and filter menu](~assets/images/ecbarw.png)](javascript:; "Open Publication Year sort and filter menu")
 
@@ -1732,19 +1732,19 @@ Washington Post
 
 ![](~assets/images/spcommon.png)
 
-[Publication](javascript:  "Publication, Click to sort by Publication")![](~assets/images/spcommon.png)![](~assets/images/spcommon.png)
+[Publication](javascript:  "Publication, Click to sort by Publication")![](~assets/images/spcommonpngassetsimagesspcommon.png)
 
 [![Open Publication sort and filter menu](~assets/images/ecbarw.png)](javascript:; "Open Publication sort and filter menu")
 
-[Name/URL of News Story](javascript:  "Name/URL of News Story, Click to sort by Name/URL of News Story")![](~assets/images/spcommon.png)![](~assets/images/spcommon.png)
+[Name/URL of News Story](javascript:  "Name/URL of News Story, Click to sort by Name/URL of News Story")![](~assets/images/spcommonpngassetsimagesspcommon.png)
 
 [![Open Name/URL of News Story sort and filter menu](~assets/images/ecbarw.png)](javascript:; "Open Name/URL of News Story sort and filter menu")
 
-[Publication Date](javascript:  "Publication Date, Click to sort by Publication Date")![](~assets/images/spcommon.png)![](~assets/images/spcommon.png)
+[Publication Date](javascript:  "Publication Date, Click to sort by Publication Date")![](~assets/images/spcommonpngassetsimagesspcommon.png)
 
 [![Open Publication Date sort and filter menu](~assets/images/ecbarw.png)](javascript:; "Open Publication Date sort and filter menu")
 
-[Publication Year](javascript:  "Publication Year, Click to sort by Publication Year")![](~assets/images/spcommon.png)![](~assets/images/spcommon.png)
+[Publication Year](javascript:  "Publication Year, Click to sort by Publication Year")![](~assets/images/spcommonpngassetsimagesspcommon.png)
 
 [![Open Publication Year sort and filter menu](~assets/images/ecbarw.png)](javascript:; "Open Publication Year sort and filter menu")
 
@@ -1762,19 +1762,19 @@ Stars and Stripes
 
 ![](~assets/images/spcommon.png)
 
-[Publication](javascript:  "Publication, Click to sort by Publication")![](~assets/images/spcommon.png)![](~assets/images/spcommon.png)
+[Publication](javascript:  "Publication, Click to sort by Publication")![](~assets/images/spcommonpngassetsimagesspcommon.png)
 
 [![Open Publication sort and filter menu](~assets/images/ecbarw.png)](javascript:; "Open Publication sort and filter menu")
 
-[Name/URL of News Story](javascript:  "Name/URL of News Story, Click to sort by Name/URL of News Story")![](~assets/images/spcommon.png)![](~assets/images/spcommon.png)
+[Name/URL of News Story](javascript:  "Name/URL of News Story, Click to sort by Name/URL of News Story")![](~assets/images/spcommonpngassetsimagesspcommon.png)
 
 [![Open Name/URL of News Story sort and filter menu](~assets/images/ecbarw.png)](javascript:; "Open Name/URL of News Story sort and filter menu")
 
-[Publication Date](javascript:  "Publication Date, Click to sort by Publication Date")![](~assets/images/spcommon.png)![](~assets/images/spcommon.png)
+[Publication Date](javascript:  "Publication Date, Click to sort by Publication Date")![](~assets/images/spcommonpngassetsimagesspcommon.png)
 
 [![Open Publication Date sort and filter menu](~assets/images/ecbarw.png)](javascript:; "Open Publication Date sort and filter menu")
 
-[Publication Year](javascript:  "Publication Year, Click to sort by Publication Year")![](~assets/images/spcommon.png)![](~assets/images/spcommon.png)
+[Publication Year](javascript:  "Publication Year, Click to sort by Publication Year")![](~assets/images/spcommonpngassetsimagesspcommon.png)
 
 [![Open Publication Year sort and filter menu](~assets/images/ecbarw.png)](javascript:; "Open Publication Year sort and filter menu")
 
@@ -2032,19 +2032,19 @@ New York Times
 
 ![](~assets/images/spcommon.png)
 
-[Publication](javascript:  "Publication, Click to sort by Publication")![](~assets/images/spcommon.png)![](~assets/images/spcommon.png)
+[Publication](javascript:  "Publication, Click to sort by Publication")![](~assets/images/spcommonpngassetsimagesspcommon.png)
 
 [![Open Publication sort and filter menu](~assets/images/ecbarw.png)](javascript:; "Open Publication sort and filter menu")
 
-[Name/URL of News Story](javascript:  "Name/URL of News Story, Click to sort by Name/URL of News Story")![](~assets/images/spcommon.png)![](~assets/images/spcommon.png)
+[Name/URL of News Story](javascript:  "Name/URL of News Story, Click to sort by Name/URL of News Story")![](~assets/images/spcommonpngassetsimagesspcommon.png)
 
 [![Open Name/URL of News Story sort and filter menu](~assets/images/ecbarw.png)](javascript:; "Open Name/URL of News Story sort and filter menu")
 
-[Publication Date](javascript:  "Publication Date, Click to sort by Publication Date")![](~assets/images/spcommon.png)![](~assets/images/spcommon.png)
+[Publication Date](javascript:  "Publication Date, Click to sort by Publication Date")![](~assets/images/spcommonpngassetsimagesspcommon.png)
 
 [![Open Publication Date sort and filter menu](~assets/images/ecbarw.png)](javascript:; "Open Publication Date sort and filter menu")
 
-[Publication Year](javascript:  "Publication Year, Click to sort by Publication Year")![](~assets/images/spcommon.png)![](~assets/images/spcommon.png)
+[Publication Year](javascript:  "Publication Year, Click to sort by Publication Year")![](~assets/images/spcommonpngassetsimagesspcommon.png)
 
 [![Open Publication Year sort and filter menu](~assets/images/ecbarw.png)](javascript:; "Open Publication Year sort and filter menu")
 
@@ -2262,19 +2262,19 @@ Today
 
 ![](~assets/images/spcommon.png)
 
-[Publication](javascript:  "Publication, Click to sort by Publication")![](~assets/images/spcommon.png)![](~assets/images/spcommon.png)
+[Publication](javascript:  "Publication, Click to sort by Publication")![](~assets/images/spcommonpngassetsimagesspcommon.png)
 
 [![Open Publication sort and filter menu](~assets/images/ecbarw.png)](javascript:; "Open Publication sort and filter menu")
 
-[Name/URL of News Story](javascript:  "Name/URL of News Story, Click to sort by Name/URL of News Story")![](~assets/images/spcommon.png)![](~assets/images/spcommon.png)
+[Name/URL of News Story](javascript:  "Name/URL of News Story, Click to sort by Name/URL of News Story")![](~assets/images/spcommonpngassetsimagesspcommon.png)
 
 [![Open Name/URL of News Story sort and filter menu](~assets/images/ecbarw.png)](javascript:; "Open Name/URL of News Story sort and filter menu")
 
-[Publication Date](javascript:  "Publication Date, Click to sort by Publication Date")![](~assets/images/spcommon.png)![](~assets/images/spcommon.png)
+[Publication Date](javascript:  "Publication Date, Click to sort by Publication Date")![](~assets/images/spcommonpngassetsimagesspcommon.png)
 
 [![Open Publication Date sort and filter menu](~assets/images/ecbarw.png)](javascript:; "Open Publication Date sort and filter menu")
 
-[Publication Year](javascript:  "Publication Year, Click to sort by Publication Year")![](~assets/images/spcommon.png)![](~assets/images/spcommon.png)
+[Publication Year](javascript:  "Publication Year, Click to sort by Publication Year")![](~assets/images/spcommonpngassetsimagesspcommon.png)
 
 [![Open Publication Year sort and filter menu](~assets/images/ecbarw.png)](javascript:; "Open Publication Year sort and filter menu")
 

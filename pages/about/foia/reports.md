@@ -14,23 +14,23 @@ eleventyNavigation:
 
 [Annual FOIA Report Fiscal Year 2023](../../../~assets/docs/annual-foia-report-fiscal-year-2023.pdf)
 
-[Annual FOIA Report Fiscal Year 2023 - DOJ Format](../../../~assets/docs/annual-foia-report-fiscal-year-2023---doj-format.csv)
+[Annual FOIA Report Fiscal Year 2023 - DOJ Format](../../../~assets/docs/annual-foia-report-fiscal-year-2023-doj-format.csv)
 
 [Annual FOIA Report Fiscal Year 2022 Raw Data](../../../~assets/docs/annual-foia-report-fiscal-year-2022-raw-data.xml)
 
 [Annual FOIA Report Fiscal Year 2022](../../../~assets/docs/annual-foia-report-fiscal-year-2022.pdf)
 
-[Annual FOIA Report Fiscal Report 2021 - DOJ Format](../../../~assets/docs/annual-foia-report-fiscal-report-2021---doj-format.xml)
+[Annual FOIA Report Fiscal Report 2021 - DOJ Format](../../../~assets/docs/annual-foia-report-fiscal-report-2021-doj-format.xml)
 
-[Annual FOIA Report Fiscal Report 2021 - Raw Data](../../../~assets/docs/annual-foia-report-fiscal-report-2021---raw-data.xml)
+[Annual FOIA Report Fiscal Report 2021 - Raw Data](../../../~assets/docs/annual-foia-report-fiscal-report-2021-raw-data.xml)
 
-[Annual FOIA Report Fiscal Report 2021 - Raw Data (txt)](../../../~assets/docs/annual-foia-report-fiscal-report-2021---raw-data.txt)
+[Annual FOIA Report Fiscal Report 2021 - Raw Data (txt)](../../../~assets/docs/annual-foia-report-fiscal-report-2021-raw-data.txt)
 
 [Annual FOIA Report Fiscal Year 2020 Raw Data](../../../~assets/docs/annual-foia-report-fiscal-year-2020-raw-data.xml)
 
 [Annual FOIA Report Fiscal Year 2020 Raw Data (txt)](../../../~assets/docs/annual-foia-report-fiscal-year-2020-raw-data.txt)
 
-[Annual FOIA Report Fiscal Year 2020 - DOJ Format](../../../~assets/docs/annual-foia-report-fiscal-year-2020---doj-format.xml)
+[Annual FOIA Report Fiscal Year 2020 - DOJ Format](../../../~assets/docs/annual-foia-report-fiscal-year-2020-doj-format.xml)
 
 [Annual FOIA Report Fiscal Year 2020](../../../~assets/docs/annual-foia-report-fiscal-year-2020.docx)
 
@@ -38,11 +38,11 @@ eleventyNavigation:
 
 [Annual FOIA Report Fiscal Year 2019 Raw Data (txt)](../../../~assets/docs/annual-foia-report-fiscal-year-2019-raw-data.txt)
 
-[Annual FOIA Report Fiscal Year 2019 - DOJ Format](../../../~assets/docs/annual-foia-report-fiscal-year-2019---doj-format.xml)
+[Annual FOIA Report Fiscal Year 2019 - DOJ Format](../../../~assets/docs/annual-foia-report-fiscal-year-2019-doj-format.xml)
 
 [Annual FOIA Report Fiscal Year 2019](../../../~assets/docs/annual-foia-report-fiscal-year-2019.pdf)
 
-[Annual FOIA Report Fiscal Year 2018 - DOJ Format](../../../~assets/docs/annual-foia-report-fiscal-year-2018---doj-format.xml)
+[Annual FOIA Report Fiscal Year 2018 - DOJ Format](../../../~assets/docs/annual-foia-report-fiscal-year-2018-doj-format.xml)
 
 [Annual FOIA Report Fiscal Year 2018 Raw Data](../../../~assets/docs/annual-foia-report-fiscal-year-2018-raw-data.xlsx)
 
@@ -52,25 +52,25 @@ eleventyNavigation:
 
 [Annual FOIA Report Fiscal Year 2017](../../../~assets/docs/annual-foia-report-fiscal-year-2017.pdf)
 
-[Annual FOIA Report Fiscal Year 2016 - DOJ Format](../../../~assets/docs/annual-foia-report-fiscal-year-2016---doj-format.xml)
+[Annual FOIA Report Fiscal Year 2016 - DOJ Format](../../../~assets/docs/annual-foia-report-fiscal-year-2016-doj-format.xml)
 
 [Annual FOIA Report Fiscal Year 2016 Raw Data](../../../~assets/docs/annual-foia-report-fiscal-year-2016-raw-data.xlsx)
 
-[Annual FOIA Report Fiscal Year 2015 - DOJ Format](../../../~assets/docs/annual-foia-report-fiscal-year-2015---doj-format.xml)
+[Annual FOIA Report Fiscal Year 2015 - DOJ Format](../../../~assets/docs/annual-foia-report-fiscal-year-2015-doj-format.xml)
 
 [Annual FOIA Report Fiscal Year 2015](../../../~assets/docs/annual-foia-report-fiscal-year-2015.pdf)
 
-[Annual FOIA Report Fiscal Year 2014 - DOJ Format](../../../~assets/docs/annual-foia-report-fiscal-year-2014---doj-format.xml)
+[Annual FOIA Report Fiscal Year 2014 - DOJ Format](../../../~assets/docs/annual-foia-report-fiscal-year-2014-doj-format.xml)
 
 [Annual FOIA Report Fiscal Year 2013](../../../~assets/docs/annual-foia-report-fiscal-year-2013.pdf)
 
 [Annual FOIA Report Fiscal Year 2012](../../../~assets/docs/annual-foia-report-fiscal-year-2012.pdf)
 
-[Annual FOIA Report Fiscal Year 2011 - DOJ Format](../../../~assets/docs/annual-foia-report-fiscal-year-2011---doj-format.xml)
+[Annual FOIA Report Fiscal Year 2011 - DOJ Format](../../../~assets/docs/annual-foia-report-fiscal-year-2011-doj-format.xml)
 
 [Annual FOIA Report Fiscal Year 2011](../../../~assets/docs/annual-foia-report-fiscal-year-2011.pdf)
 
-[Annual FOIA Report Fiscal Year 2010 - DOJ Format](../../../~assets/docs/annual-foia-report-fiscal-year-2010---doj-format.xml)
+[Annual FOIA Report Fiscal Year 2010 - DOJ Format](../../../~assets/docs/annual-foia-report-fiscal-year-2010-doj-format.xml)
 
 [Annual FOIA Report Fiscal Year 2010](../../../~assets/docs/annual-foia-report-fiscal-year-2010.pdf)
 

@@ -230,7 +230,7 @@ Maybe. OSC has limited jurisdiction over complaints from U.S. Postal Service em
 
 ## I am a government contractor or employee of a government contractor. Can I file a PPP complaint at OSC?
 
-No. OSC's jurisdiction is limited to complaints from federal employees. OSC does not have jurisdiction over government contractors or employees of government contractors. This is true even for contractors who work directly for federal agencies. Employees of contractors can bring a whistleblower retaliation complaint with the Office of Inspector General at the agency for whom the employee performed work under a government contract. Employee of contractors may also be eligible to file qui tam actions under the False Claims Act. More information about the False Claims Act is available [here​](~assets/documents/c-fraudsüa_primer.pdf). ​​​​​
+No. OSC's jurisdiction is limited to complaints from federal employees. OSC does not have jurisdiction over government contractors or employees of government contractors. This is true even for contractors who work directly for federal agencies. Employees of contractors can bring a whistleblower retaliation complaint with the Office of Inspector General at the agency for whom the employee performed work under a government contract. Employee of contractors may also be eligible to file qui tam actions under the False Claims Act. More information about the False Claims Act is available [here​](~assets/documents/c-fraudsua_primer.pdf). ​​​​​
 
 ## I am a uniformed officer of the military. Can I file a PPP complaint at OSC?
 

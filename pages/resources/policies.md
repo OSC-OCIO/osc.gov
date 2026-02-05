@@ -12,7 +12,7 @@ title: Policies
 
 [Memorandum of Understanding Between OSC and the Transportation Security Administration Regarding Whistleblower Protections for TSA Security Screeners](../../~assets/documents/memorandum-of-understanding-between-osc-and-the-transportation-secu-1c244b2e.pdf)
 
-[Agency Monitoring Policies and Whistleblower Disclosures, February 1, 2018](../../~assets/documents/agency-monitoring-policies-and-whistleblower-disclosures,-february-1,-2018.pdf)
+[Agency Monitoring Policies and Whistleblower Disclosures, February 1, 2018](../../~assets/documents/agency-monitoring-policies-and-whistleblower-disclosures-february-1-2018.pdf)
 
 [2025 EEO Policy Statement](../../~assets/documents/2025-eeo-policy-statement.pdf)
 
@@ -20,8 +20,8 @@ title: Policies
 
 [IPv6 Policy](../../~assets/documents/ipv6-policy.pdf)
 
-[Frequently Asked Questions, OSC Access to Privileged Material](../../~assets/documents/frequently-asked-questions,-osc-access-to-privileged-material.pdf)
+[Frequently Asked Questions, OSC Access to Privileged Material](../../~assets/documents/frequently-asked-questions-osc-access-to-privileged-material.pdf)
 
 [Policy Statement on Disclosure of Information from OSC Program Files October 2023](../../~assets/documents/policy-statement-on-disclosure-of-information-from-osc-program-file-9b09a60a.pdf)
 
-[OSC Monetary Policy re Whistleblowers 5.20.25](../../~assets/documents/osc-monetary-policy-re-whistleblowers-5.20.25.pdf)
+[OSC Monetary Policy re Whistleblowers 5.20.25](../../~assets/documents/osc-monetary-policy-re-whistleblowers-52025.pdf)

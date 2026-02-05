@@ -9,9 +9,9 @@ OSC today sent letters to the President alerting him that the EEO Director at Hi
 
 Page Content
 
-The U.S. Office of Special Counsel (OSC) today sent [letters](../../~assets/documents/osc-letter-to-the-president,-dec.-22,-2020_redacted.pdf) to the President and Congress alerting them that the Director of the Equal Opportunity Office (EEO) at Hill Air Force Base (AFB) in northern Utah has been [removed](../../~assets/documents/af-response-to-osc---8-sep-2020---redacted_redacted.pdf) from her position for improperly and unlawfully handling complaints involving sexual harassment and discrimination.  
+The U.S. Office of Special Counsel (OSC) today sent [letters](../../~assets/documents/osc-letter-to-the-president-dec-22-2020_redacted.pdf) to the President and Congress alerting them that the Director of the Equal Opportunity Office (EEO) at Hill Air Force Base (AFB) in northern Utah has been [removed](../../~assets/documents/af-response-to-osc-8-sep-2020-redacted_redacted.pdf) from her position for improperly and unlawfully handling complaints involving sexual harassment and discrimination.  
 
-After three whistleblowers disclosed to OSC that the EEO Director had improperly handled their complaints, an investigation was conducted by USAF's Material Command Office of Inspector General. The investigation [substantiated](../../~assets/documents/usaf-report-and-report-cover-letter-to-osc---hill-afb_redacted.pdf) the whistleblowers' allegations, finding that the EEO Director had: 
+After three whistleblowers disclosed to OSC that the EEO Director had improperly handled their complaints, an investigation was conducted by USAF's Material Command Office of Inspector General. The investigation [substantiated](../../~assets/documents/usaf-report-and-report-cover-letter-to-osc-hill-afb_redacted.pdf) the whistleblowers' allegations, finding that the EEO Director had: 
 
 *   Actively discouraged employees from filing EEO complaints, including telling one whistleblower that her (later substantiated) sexual harassment claims against her supervisor “wouldn't carry weight" and “wouldn't go anywhere" when the whistleblower tried to file a complaint;
 *   Illegally modified and rejected EEO complaints and allegations; 

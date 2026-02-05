@@ -27,5 +27,5 @@ files:
 - label: Whistleblower Comments
   href: /~assets/documents/di-14-0838-and-di-14-1959-whistleblower-_2-comments.pdf
 - label: Whistleblower Comments
-  href: /~assets/documents/di-14-0838-and-di-14-1959-whistleblower-_3-comments-.pdf
+  href: /~assets/documents/di-14-0838-and-di-14-1959-whistleblower-_3-comments.pdf
 ---

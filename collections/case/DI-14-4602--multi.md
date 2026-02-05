@@ -23,5 +23,5 @@ files:
 - label: Whistleblower Comments
   href: /~assets/documents/di-17-3402-whistleblower-comments.pdf
 - label: Referral Letter
-  href: /~assets/documents/di-14-4602-referral-letter-(redacted).pdf
+  href: /~assets/documents/di-14-4602-referral-letter-redacted.pdf
 ---

@@ -21,7 +21,7 @@ The Board further held that Karl’s prior OSC complaint was not protected activ
 
   
 
-This is the third amicus curiae brief filed by OSC this year regarding the Board’s interpretation of the administrative exhaustion issue. OSC’s [first brief](../../~assets/documents/osc-amicus-curiae-brief-in-johnen-v.-department-of-the-army-\(9th-ci-a110c1cd.pdf) was filed in April 2017 with the Court of Appeals for the Ninth Circuit in Johnen v. Merit Systems Protection Board. The [second brief](/documents/ppp/amicus%20curiae%20briefs/osc%20amicus%20curiae%20brief%20in%20chambers%20v.%20department%20of%20homeland%20security%20\(mspb\)%20filed%20June%208,%202017.pdf)​ was filed in June 2017 with the Board in Chambers v. Department of Homeland Security.
+This is the third amicus curiae brief filed by OSC this year regarding the Board’s interpretation of the administrative exhaustion issue. OSC’s [first brief](../../~assets/documents/osc-amicus-curiae-brief-in-johnen-v-department-of-the-army-9th-ci-a110c1cd.pdf) was filed in April 2017 with the Court of Appeals for the Ninth Circuit in Johnen v. Merit Systems Protection Board. The [second brief](/documents/ppp/amicus%20curiae%20briefs/osc%20amicus%20curiae%20brief%20in%20chambers%20v.%20department%20of%20homeland%20security%20\(mspb\)%20filed%20June%208,%202017.pdf)​ was filed in June 2017 with the Board in Chambers v. Department of Homeland Security.
 
   
 

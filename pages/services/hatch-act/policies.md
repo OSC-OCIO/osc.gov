@@ -41,5 +41,5 @@ OSC is authorized by law to investigate and seek appropriate corrective and disc
 ####  More Information:​​
 
 - [Policy Statement on Disclosure of Information in OSC Program Files](/Documents/PPP/Policy%20Statements/Policy%20Statement%20on%20Disclosure%20of%20Information%20from%20OSC%20Program%20Files.pdf)
-- [Policy Statement on Designated Agency Liaisons](../../~assets/documents/designated-agency-liaisons-memo-.pdf)
+- [Policy Statement on Designated Agency Liaisons](../../~assets/documents/designated-agency-liaisons-memo.pdf)
 - [Policy Statement on Continuing or Closing a Hatch Act Case when the Subject Official Leaves Federal Government Service ​](../../~assets/documents/policy-when-the-subject-official-leaves-government-service.pdf)​​

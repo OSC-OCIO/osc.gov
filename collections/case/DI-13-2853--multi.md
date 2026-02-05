@@ -15,7 +15,7 @@ results:
 date: 2015-03-11
 files:
 - label: Letter to the President
-  href: /~assets/documents/auo---letter-to-the-president-4.pdf
+  href: /~assets/documents/auo-letter-to-the-president-4.pdf
 - label: Agency Report
   href: /~assets/documents/di-13-2853-and-di-13-3516-agency-report.pdf
 - label: Agency Report
