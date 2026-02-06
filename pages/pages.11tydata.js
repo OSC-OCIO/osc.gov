@@ -54,6 +54,8 @@ module.exports = {
       // Skip non-routing pages or explicit opt-out.
       if (data.permalink === false) return false;
       if (data.eleventyNavigation === false) return false;
+      // Only include pages that explicitly opt-in to navigation.
+      if (data.eleventyNavigation == null) return false;
 
       // Build navigation purely from file structure (not from permalinks).
       const segments = toSegments(splitParts(data.page.inputPath));
@@ -75,14 +77,14 @@ module.exports = {
       if (data.order !== undefined) baseNav.order = data.order;
 
       // Merge in explicit settings (e.g., order) without losing key/title.
-      if (
-        data.eleventyNavigation &&
-        typeof data.eleventyNavigation === "object"
-      ) {
+      if (typeof data.eleventyNavigation === "object") {
         return { ...baseNav, ...data.eleventyNavigation };
       }
 
-      return baseNav;
+      // Allow boolean opt-in to use defaults.
+      if (data.eleventyNavigation === true) return baseNav;
+
+      return false;
     },
   },
 };
