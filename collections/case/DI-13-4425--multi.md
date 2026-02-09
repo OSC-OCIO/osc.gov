@@ -15,13 +15,13 @@ results:
 date: 2015-07-28
 files:
 - label: Letter to the President
-  href: /~assets/documents/di-13-4425-and-di-14-3017-letter-to-president.pdf
+  href: /~assets/cases/di-13-4425-and-di-14-3017-letter-to-president.pdf
 - label: Agency Report
-  href: /~assets/documents/di-13-4425-agency-report.pdf
+  href: /~assets/cases/di-13-4425-agency-report.pdf
 - label: Agency Report
-  href: /~assets/documents/di-13-4425-and-di-14-3017-second-supplemental-report.pdf
+  href: /~assets/cases/di-13-4425-and-di-14-3017-second-supplemental-report.pdf
 - label: Agency Report
-  href: /~assets/documents/di-13-4425-supplemental-report.pdf
+  href: /~assets/cases/di-13-4425-supplemental-report.pdf
 - label: Whistleblower Comments
-  href: /~assets/documents/di-13-4425-and-di-14-3017-whistleblower-comments.pdf
+  href: /~assets/cases/di-13-4425-and-di-14-3017-whistleblower-comments.pdf
 ---

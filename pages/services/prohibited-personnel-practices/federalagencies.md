@@ -36,4 +36,4 @@ The exception to this rule is when OSC has dealt directly with a federal agency
 
 #### What should an agency liaison know when working w​ith OSC? 
 
-Federal agencies usually designate an agency liaison to facilitate their agency's cooperation with OSC investigations by ensuring the agency timely responds to OSC's requests for information and by making sure agency employees are available to provide testimony.  OSC has developed an [information sheet](../../~assets/documents/agency-liaison-information-sheet.pdf)​​ that liaisons can use in OSC investigations. ​​​
+Federal agencies usually designate an agency liaison to facilitate their agency's cooperation with OSC investigations by ensuring the agency timely responds to OSC's requests for information and by making sure agency employees are available to provide testimony.  OSC has developed an [information sheet](../../~assets/docs/agency-liaison-information-sheet.pdf)​​ that liaisons can use in OSC investigations. ​​​

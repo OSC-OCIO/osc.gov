@@ -10,8 +10,8 @@ The Online Filing Portal includes a section where filers can indicate that they 
 
 Filers can also complete a Hatch Act complaint form by hand after printing one of the following forms:
 
-- For complaints against federal employees, please fill out the [Federal Hatch Act Complaint Form](../../~assets/documents/federal-hatch-act-complaint-form.pdf)
-- For complaints against state, local, or nonprofit employees, please fill out the [State, Local and Nonprofit Complaint Form](../../~assets/documents/state-local-and-nonprofit-complaint-form.pdf)​.  ​
+- For complaints against federal employees, please fill out the [Federal Hatch Act Complaint Form](../../~assets/docs/federal-hatch-act-complaint-form.pdf)
+- For complaints against state, local, or nonprofit employees, please fill out the [State, Local and Nonprofit Complaint Form](../../~assets/docs/state-local-and-nonprofit-complaint-form.pdf)​.  ​
 
 Once the appropriate form is completed, it should be mailed to OSC. Please also include any evidence supporting your allegations (for example, documents, newspaper articles, photographs, etc.).
 

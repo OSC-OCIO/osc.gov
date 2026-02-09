@@ -14,11 +14,11 @@ results:
 date: 2012-05-15
 files:
 - label: Letter to the President
-  href: /~assets/documents/di-11-2109-and-di-11-2110-letter-to-president.pdf
+  href: /~assets/cases/di-11-2109-and-di-11-2110-letter-to-president.pdf
 - label: Agency Report
-  href: /~assets/documents/di-11-2109-and-di-11-2110-agency-report.pdf
+  href: /~assets/cases/di-11-2109-and-di-11-2110-agency-report.pdf
 - label: Whistleblower Comments
-  href: /~assets/documents/di-11-2109-and-di-11-2110-whistlblower-_2-comments.pdf
+  href: /~assets/cases/di-11-2109-and-di-11-2110-whistlblower-_2-comments.pdf
 - label: Whistleblower Comments
-  href: /~assets/documents/di-11-2109-and-di-11-2110-whistleblower-_1-comments.pdf
+  href: /~assets/cases/di-11-2109-and-di-11-2110-whistleblower-_1-comments.pdf
 ---

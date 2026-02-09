@@ -17,6 +17,6 @@ After disclosing to his agency's Inspector General that DOI employed an abnormal
 
 The settlement provides the whistleblower with reinstatement to his environmental protection specialist position at DOI, backpay with benefits, a retroactive promotion, placement in a modified chain-of-command, restored annual and sick leave, a time-off award, increases in past performance ratings, two-year priority consideration for any qualified vacancy at DOI, $180,000 in compensatory damages, and attorney's fees.
 
-OSC's redacted _Report of Prohibited Personnel Practices_ can be [found here](../../~assets/documents/prohibited-personnel-practices-report-5-usc-2302b8-and-9-281a35e9.pdf).
+OSC's redacted _Report of Prohibited Personnel Practices_ can be [found here](../../~assets/docs/prohibited-personnel-practices-report-5-usc-2302b8-and-9-281a35e9.pdf).
 
 \*\*\*

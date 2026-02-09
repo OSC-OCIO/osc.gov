@@ -35,13 +35,13 @@ include the Department of Homeland Security, the Department of Justice, the Depa
 
 of Treasury, the Social Security Administration, and the Securities and Exchange Commission. The number of certified
 
-agencies has doubled since [February 2016](16-02-osc-urges-agencies-to-become-2302\(c\)-Certified-.md) – the last time OSC issued a [reminder](../../~assets/documents/2302c-letter-2-3-2016.pdf).  
+agencies has doubled since [February 2016](16-02-osc-urges-agencies-to-become-2302\(c\)-Certified-.md) – the last time OSC issued a [reminder](../../~assets/docs/2302c-letter-2-3-2016.pdf).  
 
   
 
 While not required under OSC’s 2302(c) program, OSC highly recommends the dissemination of information
 
-regarding [prohibited and permitted political activities](../../~assets/documents/the-hatch-act-and-most-federal-employees-poster.pdf) under the [Hatch Act​](../../services/pages/hatchact-federal.md). OSC staff are also available to provide
+regarding [prohibited and permitted political activities](../../~assets/docs/the-hatch-act-and-most-federal-employees-poster.pdf) under the [Hatch Act​](../../services/pages/hatchact-federal.md). OSC staff are also available to provide
 
 Hatch Act training.  
 

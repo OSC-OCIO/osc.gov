@@ -24,7 +24,7 @@ dap:
 # Site Navigation
 secondary_navigation:
   - name: Contact us
-    url: "/contact/"
+    url: "/contact"
 
 footer_navigation:
   - name: Open Government

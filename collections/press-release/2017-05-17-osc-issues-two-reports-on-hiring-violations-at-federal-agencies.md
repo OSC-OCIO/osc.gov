@@ -13,7 +13,7 @@ The U.S. Office of Special Counsel (OSC) recently issued two reports concerning 
 
   
 
-In one [report](../../~assets/documents/prohibited-personnel-practices-report-5-usc-2302b5-b6-2692676d.pdf), OSC found hiring violations for two positions at DOJ where officials sought to encourage preference eligible veterans to withdraw their applications. DOJ wanted to hire a non-veteran candidate. When the veterans declined to withdraw, DOJ selected the non-veteran candidate, despite rules mandating that veterans receive priority in hiring over non-veterans in certain circumstances. After DOJ human resources staff refused to process the selection of the non-veteran, DOJ re-announced the positions with new qualification requirements that effectively excluded all veterans who applied. During the course of its investigation, OSC sought and obtained a stay from the U.S. Merit Systems Protection Board to ensure that DOJ did not fill the positions while OSC investigated.
+In one [report](../../~assets/docs/prohibited-personnel-practices-report-5-usc-2302b5-b6-2692676d.pdf), OSC found hiring violations for two positions at DOJ where officials sought to encourage preference eligible veterans to withdraw their applications. DOJ wanted to hire a non-veteran candidate. When the veterans declined to withdraw, DOJ selected the non-veteran candidate, despite rules mandating that veterans receive priority in hiring over non-veterans in certain circumstances. After DOJ human resources staff refused to process the selection of the non-veteran, DOJ re-announced the positions with new qualification requirements that effectively excluded all veterans who applied. During the course of its investigation, OSC sought and obtained a stay from the U.S. Merit Systems Protection Board to ensure that DOJ did not fill the positions while OSC investigated.
 
   
 
@@ -21,7 +21,7 @@ OSC found that DOJ attempted to influence the veterans to withdraw from competit
 
   
 
-In a separate PPP [report](../../~assets/documents/prohibited-personnel-practices-report-5-usc-2302b4-and-12-8383c90f.pdf)​, OSC found hiring violations at the Treasury Department’s Financial Crimes Enforcement Network (FinCEN). A joint audit conducted by the Treasury Department and OPM determined that FinCEN required attorney experience and prior federal service for a series of GS-1801 investigator positions, although neither requirement was listed in the corresponding vacancy announcements. The matter was referred to OSC to determine whether the resulting appointments were prohibited personnel practices.
+In a separate PPP [report](../../~assets/docs/prohibited-personnel-practices-report-5-usc-2302b4-and-12-8383c90f.pdf)​, OSC found hiring violations at the Treasury Department’s Financial Crimes Enforcement Network (FinCEN). A joint audit conducted by the Treasury Department and OPM determined that FinCEN required attorney experience and prior federal service for a series of GS-1801 investigator positions, although neither requirement was listed in the corresponding vacancy announcements. The matter was referred to OSC to determine whether the resulting appointments were prohibited personnel practices.
 
   
 

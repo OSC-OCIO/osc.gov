@@ -9,11 +9,11 @@ OSC reported that a VA Medical Center intentionally manipulated patient data to 
 
 Page Content
 
-In a [letter](../../~assets/documents/di-16-3638-letter-to-president.pdf) sent to the White House and Congress on Friday, the U.S. Office of Special Counsel (OSC) reported that the Louis A. Johnson Veterans Affairs (VA) Medical Center intentionally manipulated patient data to artificially reduce reported wait times and the volume of patient visits. A confidential whistleblower came to OSC with the disclosures of data manipulation, prompting an investigation.  
+In a [letter](../../~assets/docs/di-16-3638-letter-to-president.pdf) sent to the White House and Congress on Friday, the U.S. Office of Special Counsel (OSC) reported that the Louis A. Johnson Veterans Affairs (VA) Medical Center intentionally manipulated patient data to artificially reduce reported wait times and the volume of patient visits. A confidential whistleblower came to OSC with the disclosures of data manipulation, prompting an investigation.  
 
   
 
-According to the VA investigative [report](../../~assets/documents/di-16-3638-agency-report-redacted.pdf)​, over the last seven years a manager at the Clarksburg, West Virginia facility attempted to influence nursing staff to place emergency patients in two unofficial clinics, rather than record their emergency department encounter. The decision to create these clinics within the emergency department violated VA Directives and prevented an accurate analysis of staff workload. It also gave the false impression that the Primary Care clinic had a greater workload and demand for services.
+According to the VA investigative [report](../../~assets/docs/di-16-3638-agency-report-redacted.pdf)​, over the last seven years a manager at the Clarksburg, West Virginia facility attempted to influence nursing staff to place emergency patients in two unofficial clinics, rather than record their emergency department encounter. The decision to create these clinics within the emergency department violated VA Directives and prevented an accurate analysis of staff workload. It also gave the false impression that the Primary Care clinic had a greater workload and demand for services.
 
   
 

@@ -9,7 +9,7 @@ OSC today released investigative findings that shed new light on a 2011 tragedy 
 
 Page Content
 
-​The U.S. Office of Special Counsel (OSC) today released [investigative findings](../../~assets/documents/di-19-0071-agency-report-with-cover-letter-redacted.pdf) that shed new light on a 2011 tragedy involving two Immigration and Customs Enforcement (ICE), Homeland Security Investigations (HSI) agents who were ambushed along a dangerous stretch of highway in Mexico by the Los Zetas drug cartel. Special Agent Victor Avila was severely wounded but survived the ambush, while his partner, Special Agent Jaime Zapata, lost his life. Agent Avila later disclosed to OSC that ICE failed to provide adequate training or the necessary equipment for such a dangerous mission. Agent Avila alleged that officials at the ICE Office of the Attaché in Mexico City engaged in gross mismanagement when they sent him and Agent Zapata on assignment, without suitable support or training, through areas controlled or monitored by the drug cartel. 
+​The U.S. Office of Special Counsel (OSC) today released [investigative findings](../../~assets/docs/di-19-0071-agency-report-with-cover-letter-redacted.pdf) that shed new light on a 2011 tragedy involving two Immigration and Customs Enforcement (ICE), Homeland Security Investigations (HSI) agents who were ambushed along a dangerous stretch of highway in Mexico by the Los Zetas drug cartel. Special Agent Victor Avila was severely wounded but survived the ambush, while his partner, Special Agent Jaime Zapata, lost his life. Agent Avila later disclosed to OSC that ICE failed to provide adequate training or the necessary equipment for such a dangerous mission. Agent Avila alleged that officials at the ICE Office of the Attaché in Mexico City engaged in gross mismanagement when they sent him and Agent Zapata on assignment, without suitable support or training, through areas controlled or monitored by the drug cartel. 
 
 “Having met personally with Agent Avila, I am honored to provide more clarity to the missteps and 'managerial complacency' immediately preceding this deadly confrontation," said **Special Counsel Henry J. Kerner**. “Agents Avila and Zapata were put in harm's way while serving their country, without adequate support. We owe it to those who continue to put their lives on the line to ensure our agents have the resources they need when assigned to dangerous missions."
 
@@ -26,6 +26,6 @@ In the aftermath of the tragedy, ICE took strong steps to address this mismanage
 *   Mandating armored vehicle training for all personnel in Mexico; and
 *   Disabling the automatic unlocking mechanism in (HSI) armored vehicles.
 
-The findings were [provided](../../~assets/documents/di-19-0071-osc-letter-to-the-president-april-22-2020-redacted.pdf) to the President and Congress and forwarded to HSI Executive Leadership to consider disciplinary action.
+The findings were [provided](../../~assets/docs/di-19-0071-osc-letter-to-the-president-april-22-2020-redacted.pdf) to the President and Congress and forwarded to HSI Executive Leadership to consider disciplinary action.
 
 \*\*\*

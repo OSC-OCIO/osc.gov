@@ -41,7 +41,7 @@ for Transplanted Organs and Recovery Act of 2017 (VICTOR Act), amending the Choi
 
 veterans’ access to transplant care in the community. The bill is now pending in the Senate.
 
-OSC sent a copy of the [letter](../../~assets/documents/di-14-3637-letter-to-president.pdf) to the President, an unredacted version of the agency reports, and the whistleblower comments to the Chairmen and Ranking Members of the Senate and House  Committees on Veterans’ Affairs.
+OSC sent a copy of the [letter](../../~assets/docs/di-14-3637-letter-to-president.pdf) to the President, an unredacted version of the agency reports, and the whistleblower comments to the Chairmen and Ranking Members of the Senate and House  Committees on Veterans’ Affairs.
 
 OSC also filed a copy of the letter to the President, redacted reports, and whistleblower comments in its
 

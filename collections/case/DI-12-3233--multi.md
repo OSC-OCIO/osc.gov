@@ -12,5 +12,5 @@ results:
 date: 2015-10-30
 files:
 - label: Whistleblower Comments
-  href: /~assets/documents/di-12-3233-and-di-13-4055-supplementalwhistleblower-_2-comments.pdf
+  href: /~assets/cases/di-12-3233-and-di-13-4055-supplementalwhistleblower-_2-comments.pdf
 ---

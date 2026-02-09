@@ -12,11 +12,11 @@ results:
 date: 2019-03-28
 files:
 - label: Letter to the President
-  href: /~assets/documents/di-16-5834-and-di-17-0045-letter-to-president.pdf
+  href: /~assets/cases/di-16-5834-and-di-17-0045-letter-to-president.pdf
 - label: Agency Report
-  href: /~assets/documents/di-16-5834-and-di-17-0045-agency-report-redacted.pdf
+  href: /~assets/cases/di-16-5834-and-di-17-0045-agency-report-redacted.pdf
 - label: Whistleblower Comments
-  href: /~assets/documents/_di-17-0045-whistleblower-comments-redacted.pdf
+  href: /~assets/cases/_di-17-0045-whistleblower-comments-redacted.pdf
 - label: Referral Letter
-  href: /~assets/documents/di-16-5834-and-di-17-0045-referral-letter-redacted.pdf
+  href: /~assets/cases/di-16-5834-and-di-17-0045-referral-letter-redacted.pdf
 ---

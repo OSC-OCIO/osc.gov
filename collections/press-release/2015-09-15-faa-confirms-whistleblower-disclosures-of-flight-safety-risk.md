@@ -9,7 +9,7 @@ OSC sent findings to the White House and Congress regarding a safety risk in the
 
 Page Content
 
-Today, the U.S. Office of Special Counsel (OSC) sent [findings](../../~assets/documents/di-13-4206-letter-to-president.pdf) to the White House and Congress regarding a safety risk in the nation’s air traffic control system. Federal Aviation Administration (FAA) whistleblowers in Detroit disclosed the concerns to OSC, which were subsequently confirmed by the FAA. The whistleblowers are air traffic controllers Vincent Sugent, John Overman, Corinna Morris, Michael Redies, and Lewis M. Bird.  
+Today, the U.S. Office of Special Counsel (OSC) sent [findings](../../~assets/docs/di-13-4206-letter-to-president.pdf) to the White House and Congress regarding a safety risk in the nation’s air traffic control system. Federal Aviation Administration (FAA) whistleblowers in Detroit disclosed the concerns to OSC, which were subsequently confirmed by the FAA. The whistleblowers are air traffic controllers Vincent Sugent, John Overman, Corinna Morris, Michael Redies, and Lewis M. Bird.  
 
   
 
@@ -17,11 +17,11 @@ The whistleblowers raised concerns about the FAA’s failure to adequately addre
 
   
 
-In response to the whistleblower’s confirmed disclosures, in December 2014, the FAA alerted flight crews and controllers to the risk, stating that it is seeing an “[increasing trend](../../~assets/documents/di-13-4206-fourth-supplemental-report.pdf)” of multiple flight plans nationwide. If air traffic controllers are unaware of the most current flight plan, this could lead to situations where there is a “loss of separation” between aircraft—i.e., the safe distance that reduces the risk of collision or accidents due to wake turbulence. Multiple flight plans also add to controller and pilot workloads as they reconcile conflicting information.
+In response to the whistleblower’s confirmed disclosures, in December 2014, the FAA alerted flight crews and controllers to the risk, stating that it is seeing an “[increasing trend](../../~assets/docs/di-13-4206-fourth-supplemental-report.pdf)” of multiple flight plans nationwide. If air traffic controllers are unaware of the most current flight plan, this could lead to situations where there is a “loss of separation” between aircraft—i.e., the safe distance that reduces the risk of collision or accidents due to wake turbulence. Multiple flight plans also add to controller and pilot workloads as they reconcile conflicting information.
 
   
 
-The FAA’s [investigation](../../~assets/documents/di-13-4206-agency-report.pdf)​ found that multiple flight plans are entered into the National Airspace System because the “FAA does not have statutory requirements or enforcement mechanisms in place to ensure flight plans are filed using established protocols.” The FAA’s system does not automatically identify multiple flight plans and notify the controller. As a consequence, controllers have to review flight plans, call pilots, and search through paper flight progress strips to compare and contrast prior plans against new information displayed in the system. The work of combing through this information can create delays. The FAA also found that some airline dispatchers are not following proper protocols for entering new data on flight plans.
+The FAA’s [investigation](../../~assets/docs/di-13-4206-agency-report.pdf)​ found that multiple flight plans are entered into the National Airspace System because the “FAA does not have statutory requirements or enforcement mechanisms in place to ensure flight plans are filed using established protocols.” The FAA’s system does not automatically identify multiple flight plans and notify the controller. As a consequence, controllers have to review flight plans, call pilots, and search through paper flight progress strips to compare and contrast prior plans against new information displayed in the system. The work of combing through this information can create delays. The FAA also found that some airline dispatchers are not following proper protocols for entering new data on flight plans.
 
   
 

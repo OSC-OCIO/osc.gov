@@ -12,7 +12,7 @@ Page Content
 ####                               _​​After informing ​Ms. Rollins of the report's public release, she announced her intent to resign._
 
 ​  
-The U.S. Office of Special Counsel (OSC) today sent a [report](../../~assets/documents/report-of-prohibited-political-activity-rachael-rollins-ha-22-000173.pdf) to President Joseph R. Biden detailing how Rachael Rollins, U.S. Attorney for the District of Massachusetts, willfully violated the Hatch Act on multiple occasions, thereby exhibiting an extraordinary abuse of her power as U.S. Attorney. OSC determined that the violations warrant disciplinary action. Ms. Rollins was provided a copy of the report on April 25, giving her an opportunity to comment. Yesterday, OSC informed Ms. Rollins that this report would be released publicly today. Shortly thereafter, it was reported that Ms. Rollins intends to resign by the end of this week.
+The U.S. Office of Special Counsel (OSC) today sent a [report](../../~assets/docs/report-of-prohibited-political-activity-rachael-rollins-ha-22-000173.pdf) to President Joseph R. Biden detailing how Rachael Rollins, U.S. Attorney for the District of Massachusetts, willfully violated the Hatch Act on multiple occasions, thereby exhibiting an extraordinary abuse of her power as U.S. Attorney. OSC determined that the violations warrant disciplinary action. Ms. Rollins was provided a copy of the report on April 25, giving her an opportunity to comment. Yesterday, OSC informed Ms. Rollins that this report would be released publicly today. Shortly thereafter, it was reported that Ms. Rollins intends to resign by the end of this week.
 
 Ms. Rollins's first violation arose in July 2022 when, in disregard of legal advice from her own agency, and in violation of the Hatch Act, she attended a political party fundraiser in her official capacity. 
 
@@ -28,6 +28,6 @@ If the Special Counsel determines that disciplinary action should be taken again
 
 In a cover letter to the President, Special Counsel Henry J. Kerner wrote: “Even if Ms. Rollins resigns, which would foreclose the possibility of any disciplinary action, I hope that this report provides an opportunity for you to emphasize to all federal employees the importance of serving the public in a professional and nonpartisan manner.  The American people deserve nothing less."
 
-The full report can be [found here](../../~assets/documents/report-of-prohibited-political-activity-rachael-rollins-ha-22-000173.pdf).
+The full report can be [found here](../../~assets/docs/report-of-prohibited-political-activity-rachael-rollins-ha-22-000173.pdf).
 
 \*\*\*

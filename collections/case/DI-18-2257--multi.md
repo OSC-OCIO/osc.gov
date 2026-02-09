@@ -21,23 +21,23 @@ results:
 date: 2020-03-16
 files:
 - label: Letter to the President
-  href: /~assets/documents/letter-to-president-loma-linda.pdf
+  href: /~assets/cases/letter-to-president-loma-linda.pdf
 - label: Agency Report
-  href: /~assets/documents/initial-agency-reportdi-18-2257_redacted.pdf
+  href: /~assets/cases/initial-agency-reportdi-18-2257_redacted.pdf
 - label: Supplemental Agency Report
-  href: /~assets/documents/supplemental-reportdi-18-2257-redacted.pdf
+  href: /~assets/cases/supplemental-reportdi-18-2257-redacted.pdf
 - label: Referral Letter
-  href: /~assets/documents/di-18-2257referral_redacted.pdf
+  href: /~assets/cases/di-18-2257referral_redacted.pdf
 - label: DI-18-2257 Whistleblower Comments
-  href: /~assets/documents/di-18-2257-whistleblower-comments.pdf
+  href: /~assets/cases/di-18-2257-whistleblower-comments.pdf
 - label: DI-18-2258 Whistleblower Comments Part 1
-  href: /~assets/documents/di-18-2258-whistleblower-comments-part-1.pdf
+  href: /~assets/cases/di-18-2258-whistleblower-comments-part-1.pdf
 - label: DI-18-2258 Whistleblower Comments Part 2
-  href: /~assets/documents/di-18-2258-whistleblower-comments-part-2.pdf
+  href: /~assets/cases/di-18-2258-whistleblower-comments-part-2.pdf
 - label: DI-18-2947 Whistleblower Comments
-  href: /~assets/documents/di-18-2947-whistleblower-comments.pdf
+  href: /~assets/cases/di-18-2947-whistleblower-comments.pdf
 - label: DI-18-2947, 2949, 2950 Whistleblower Comments
-  href: /~assets/documents/di-18-2947-2949-2950-whistleblower-comments.pdf
+  href: /~assets/cases/di-18-2947-2949-2950-whistleblower-comments.pdf
 - label: DI-18-2949 Whistleblower Comments
-  href: /~assets/documents/di-18-2949-whistleblower-comments.pdf
+  href: /~assets/cases/di-18-2949-whistleblower-comments.pdf
 ---

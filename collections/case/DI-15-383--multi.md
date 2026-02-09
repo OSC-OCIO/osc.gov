@@ -13,11 +13,11 @@ results:
 date: 2017-08-08
 files:
 - label: Letter to the President
-  href: /~assets/documents/di-15-2383-and-di-15-2452-letter-to-president.pdf
+  href: /~assets/cases/di-15-2383-and-di-15-2452-letter-to-president.pdf
 - label: Agency Report
-  href: /~assets/documents/di-15-2383-and-di-15-2452-supplemental-report.pdf
+  href: /~assets/cases/di-15-2383-and-di-15-2452-supplemental-report.pdf
 - label: Agency Report
-  href: /~assets/documents/di-15-2383-and-di-15-2452-agency-report.pdf
+  href: /~assets/cases/di-15-2383-and-di-15-2452-agency-report.pdf
 - label: Whistleblower Comments
-  href: /~assets/documents/di-15-2383-and-di-15-2452-supplemental-comments.pdf
+  href: /~assets/cases/di-15-2383-and-di-15-2452-supplemental-comments.pdf
 ---

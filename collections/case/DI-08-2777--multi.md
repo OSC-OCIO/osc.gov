@@ -14,23 +14,23 @@ results:
 date: 2010-08-09
 files:
 - label: Letter to the President
-  href: /~assets/documents/di-08-2777-and-di-08-3157-letter-to-president.pdf
+  href: /~assets/cases/di-08-2777-and-di-08-3157-letter-to-president.pdf
 - label: Agency Report
-  href: /~assets/documents/di-08-2777-and-di-08-3157-supplemental-report-_2.pdf
+  href: /~assets/cases/di-08-2777-and-di-08-3157-supplemental-report-_2.pdf
 - label: Agency Report
-  href: /~assets/documents/di-08-2777-and-di-08-3157-supplemental-report.pdf
+  href: /~assets/cases/di-08-2777-and-di-08-3157-supplemental-report.pdf
 - label: Agency Report
-  href: /~assets/documents/di-08-2777-and-di-08-3157-agency-report.pdf
+  href: /~assets/cases/di-08-2777-and-di-08-3157-agency-report.pdf
 - label: Whistleblower Comments
-  href: /~assets/documents/di-08-2777-and-di-08-3157-whistleblower-2-supplemental-comments.pdf
+  href: /~assets/cases/di-08-2777-and-di-08-3157-whistleblower-2-supplemental-comments.pdf
 - label: Whistleblower Comments
-  href: /~assets/documents/di-08-2777-and-di-08-3157-whistleblower-1-comments.pdf
+  href: /~assets/cases/di-08-2777-and-di-08-3157-whistleblower-1-comments.pdf
 - label: Whistleblower Comments
-  href: /~assets/documents/di-08-2777-and-di-08-3157-whistleblower-1-second-supplemental-comments.pdf
+  href: /~assets/cases/di-08-2777-and-di-08-3157-whistleblower-1-second-supplemental-comments.pdf
 - label: Whistleblower Comments
-  href: /~assets/documents/di-08-2777-and-di-08-3157-whistleblower-1-supplemental-comments.pdf
+  href: /~assets/cases/di-08-2777-and-di-08-3157-whistleblower-1-supplemental-comments.pdf
 - label: Whistleblower Comments
-  href: /~assets/documents/di-08-2777-and-di-08-3157-whistleblower-2-comments.pdf
+  href: /~assets/cases/di-08-2777-and-di-08-3157-whistleblower-2-comments.pdf
 - label: Whistleblower Comments
-  href: /~assets/documents/di-08-2777-and-di-08-3157-whistleblower-2-second-supplemental-comments.pdf
+  href: /~assets/cases/di-08-2777-and-di-08-3157-whistleblower-2-second-supplemental-comments.pdf
 ---

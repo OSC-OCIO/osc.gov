@@ -14,9 +14,9 @@ results:
 date: 2019-08-21
 files:
 - label: Letter to the President
-  href: /~assets/documents/redacted-di-18-3920-di-18-3924-di-18-3931-letter-to-the-president.pdf
+  href: /~assets/cases/redacted-di-18-3920-di-18-3924-di-18-3931-letter-to-the-president.pdf
 - label: Agency Report
-  href: /~assets/documents/supplemental-agency-report-di-18-3920-3924-3391.pdf
+  href: /~assets/cases/supplemental-agency-report-di-18-3920-3924-3391.pdf
 - label: Whistleblower Comments
-  href: /~assets/documents/supplemental-wb-comments-di-18-3920-di-18-3924-di-18-3931_redacted.pdf
+  href: /~assets/cases/supplemental-wb-comments-di-18-3920-di-18-3924-di-18-3931_redacted.pdf
 ---

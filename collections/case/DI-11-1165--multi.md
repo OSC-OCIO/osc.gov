@@ -15,15 +15,15 @@ results:
 date: 2013-04-17
 files:
 - label: Letter to the President
-  href: /~assets/documents/di-11-1165-and-di-11-1677-letter-to-president.pdf
+  href: /~assets/cases/di-11-1165-and-di-11-1677-letter-to-president.pdf
 - label: Agency Report
-  href: /~assets/documents/di-11-1165-and-di-11-1677-agency-report-_2.pdf
+  href: /~assets/cases/di-11-1165-and-di-11-1677-agency-report-_2.pdf
 - label: Agency Report
-  href: /~assets/documents/di-11-1165-and-di-11-1677-agency-report.pdf
+  href: /~assets/cases/di-11-1165-and-di-11-1677-agency-report.pdf
 - label: Whistleblower Comments
-  href: /~assets/documents/di-11-1165-and-di-11-1677-whistleblower-comments.pdf
+  href: /~assets/cases/di-11-1165-and-di-11-1677-whistleblower-comments.pdf
 - label: Whistleblower Comments
-  href: /~assets/documents/di-11-1165-and-di-11-1677-supplemental-whistleblower-comments-_2.pdf
+  href: /~assets/cases/di-11-1165-and-di-11-1677-supplemental-whistleblower-comments-_2.pdf
 - label: Whistleblower Comments
-  href: /~assets/documents/di-11-1165-and-di-11-1677-supplemental-whistleblower-comments.pdf
+  href: /~assets/cases/di-11-1165-and-di-11-1677-supplemental-whistleblower-comments.pdf
 ---
