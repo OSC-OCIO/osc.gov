@@ -1,5 +1,7 @@
 ---
 title: Hatch Act Overview
+redirect_from:
+  - /Services/Pages/HatchAct.aspx
 eleventyNavigation:
   order: 0
 ---
