@@ -1,42 +1,63 @@
+{%- assign case_link_title = link_title -%}
+{%- if case_link_title == nil -%}
+  {%- assign case_link_title = true -%}
+{%- endif -%}
+
+{%- assign case_url = post.url | default: page.url -%}
+{%- assign case_title = post.data.title | default: title -%}
+{%- assign case_locations = post.data.locations | default: locations -%}
+{%- assign case_location_primary = case_locations[0] -%}
+{%- assign case_agency = post.data.source.agency | default: source.agency -%}
+{%- assign case_subagency = post.data.source.subagency | default: source.subagency -%}
+{%- assign case_results = post.data.results | default: results -%}
+{%- assign case_files = post.data.files | default: files -%}
+{%- assign case_date = post.date | default: date -%}
+
 <li class="usa-collection__item">
   <div class="usa-collection__body">
     <h3 class="usa-collection__heading">
-      <a class="usa-link" href="{{ post.url }}">{{- post.data.title -}}</a>
+      {%- if case_link_title -%}
+        <a class="usa-link" href="{{ case_url }}">{{- case_title -}}</a>
+      {%- else -%}
+        {{- case_title -}}
+      {%- endif -%}
     </h3>
     <ul class="usa-collection__meta" aria-label="More information">
-      <li class="usa-collection__meta-item">{{- post.data.locations[0] -}}</li>
+      {%- if case_location_primary -%}
+        <li class="usa-collection__meta-item">{{- case_location_primary -}}</li>
+      {%- endif -%}
       <li class="usa-collection__meta-item">
-        {{- post.data.source.agency -}}
-        {%- if post.data.source.subagency -%}
+        {{- case_agency -}}
+        {%- if case_subagency -%}
           ,{{ ' ' }}
-          {{- post.data.source.subagency -}}
+          {{- case_subagency -}}
         {%- endif -%}
       </li>
       <li class="usa-collection__meta-item">
-        <time datetime="{{ post.date | date: '%Y-%m-%dT12:00:00+01:00' }}">
-          {{- post.date | date: '%B %d, %Y' -}}
+        <time datetime="{{ case_date | date: '%Y-%m-%dT12:00:00+01:00' }}">
+          {{- case_date | date: '%B %d, %Y' -}}
         </time>
       </li>
     </ul>
-    <p class="usa-collection__description">
-      {%- if post.data.results -%}
+    <div class="usa-collection__description">
+      {%- if case_results -%}
         <h4>Results:</h4>
         <ul>
-          {%- for result in post.data.results -%}
+          {%- for result in case_results -%}
             <li>{{ result }}</li>
           {%- endfor -%}
         </ul>
       {%- endif -%}
-      {%- if post.data.files -%}
+      {%- if case_files -%}
         <h4>Associated files:</h4>
         <ul>
-          {%- for file in post.data.files -%}
+          {%- for file in case_files -%}
             <li>
-              <a href="{{file.href }}">{{ file.label }}</a>
+              <a href="{{ file.href }}">{{ file.label }}</a>
             </li>
           {%- endfor -%}
         </ul>
       {%- endif -%}
-    </p>
+    </div>
   </div>
 </li>
