@@ -1,5 +1,4 @@
 ---
-title: DI-07-2471 and DI-08-1015
 source:
   agency: Transportation
   subagency: Federal Aviation Administration

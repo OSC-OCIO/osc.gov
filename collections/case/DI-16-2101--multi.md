@@ -1,5 +1,4 @@
 ---
-title: DI-16-2101 and DI-16-2552
 source:
   agency: Agriculture
 cases:

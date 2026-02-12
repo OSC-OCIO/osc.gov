@@ -1,5 +1,4 @@
 ---
-title: DI-10-0454, DI-13-0405, and DI-13-2292
 source:
   agency: Commerce
 cases:

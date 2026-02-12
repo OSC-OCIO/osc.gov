@@ -1,5 +1,4 @@
 ---
-title: DI-14-4661, DI-14-4662, and DI-14-4656
 source:
   agency: Veterans Affairs
 cases:

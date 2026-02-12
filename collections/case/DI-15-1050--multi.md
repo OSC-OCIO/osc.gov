@@ -1,5 +1,4 @@
 ---
-title: DI-15-1050, DI-15-1055, and DI-15-1056
 source:
   agency: Veterans Affairs
 cases:

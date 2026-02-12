@@ -1,5 +1,4 @@
 ---
-title: DI-12-0428, DI-12-0354, and DI-12-1819
 source:
   agency: U.S. Navy
 cases:

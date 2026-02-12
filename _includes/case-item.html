@@ -1,42 +1,76 @@
-<li class="usa-collection__item">
-  <div class="usa-collection__body">
-    <h3 class="usa-collection__heading">
-      <a class="usa-link" href="{{ post.url }}">{{- post.data.title -}}</a>
-    </h3>
-    <ul class="usa-collection__meta" aria-label="More information">
-      <li class="usa-collection__meta-item">{{- post.data.locations[0] -}}</li>
-      <li class="usa-collection__meta-item">
-        {{- post.data.source.agency -}}
-        {%- if post.data.source.subagency -%}
-          ,{{ ' ' }}
-          {{- post.data.source.subagency -}}
+{%- assign case_url = post.url | default: page.url -%}
+{%- assign case_title = post.data.title | default: title -%}
+{%- assign case_locations = post.data.locations | default: locations -%}
+{%- assign case_location_primary = case_locations[0] -%}
+{%- assign case_agency = post.data.source.agency | default: source.agency -%}
+{%- assign case_subagency = post.data.source.subagency | default: source.subagency -%}
+{%- assign case_results = post.data.results | default: results -%}
+{%- assign case_files = post.data.files | default: files -%}
+{%- assign case_numbers = post.data.cases | default: cases -%}
+{%- assign case_date = post.date | default: date -%}
+{%- assign case_year = case_date | date: '%Y' -%}
+{%- assign case_date_iso = case_date | date: '%Y-%m-%d' -%}
+{%- assign case_pagefind_ignore = pagefind_ignore | default: false -%}
+
+<li
+  class="tablet:grid-col-6 usa-card"
+  data-pagefind-body
+  {% if case_pagefind_ignore %}
+    data-pagefind-ignore
+  {% endif %}
+>
+  <div class="usa-card__container">
+    <header class="usa-card__header">
+      <h3 class="usa-card__heading">
+        <span data-pagefind-meta="title">{{- case_title -}}</span>
+      </h3>
+    </header>
+    <div class="usa-card__body">
+      <ul class="usa-list usa-list--unstyled margin-top-0 margin-bottom-2" aria-label="More information">
+        {%- if case_location_primary -%}
+          <li class="margin-bottom-1">{{- case_location_primary -}}</li>
         {%- endif -%}
-      </li>
-      <li class="usa-collection__meta-item">
-        <time datetime="{{ post.date | date: '%Y-%m-%dT12:00:00+01:00' }}">
-          {{- post.date | date: '%B %d, %Y' -}}
-        </time>
-      </li>
-    </ul>
-    <p class="usa-collection__description">
-      {%- if post.data.results -%}
-        <h4>Results:</h4>
+        <li class="margin-bottom-1">
+          <span data-pagefind-meta="agency" data-pagefind-filter="agency">{{- case_agency -}}</span>
+          {%- if case_subagency -%}
+            ,{{ ' ' }}
+            <span data-pagefind-meta="subagency">{{- case_subagency -}}</span>
+          {%- endif -%}
+        </li>
+        {%- for case_number in case_numbers -%}
+          <li class="margin-bottom-1">{{- case_number -}}</li>
+        {%- endfor -%}
+        <li class="margin-bottom-2">
+          <time
+            datetime="{{ case_date_iso }}"
+            data-year="{{ case_year }}"
+            data-pagefind-meta="date"
+            data-pagefind-sort="date"
+            data-pagefind-filter="year[data-year]"
+          >
+            {{- case_date | date: '%B %d, %Y' -}}
+          </time>
+        </li>
+      </ul>
+
+      {%- if case_results -%}
+        <h4 class="margin-top-0 margin-bottom-1">Results:</h4>
         <ul>
-          {%- for result in post.data.results -%}
+          {%- for result in case_results -%}
             <li>{{ result }}</li>
           {%- endfor -%}
         </ul>
       {%- endif -%}
-      {%- if post.data.files -%}
-        <h4>Associated files:</h4>
+      {%- if case_files -%}
+        <h4 class="margin-bottom-1">Associated files:</h4>
         <ul>
-          {%- for file in post.data.files -%}
+          {%- for file in case_files -%}
             <li>
-              <a href="{{file.href }}">{{ file.label }}</a>
+              <a href="{{ file.href }}">{{ file.label }}</a>
             </li>
           {%- endfor -%}
         </ul>
       {%- endif -%}
-    </p>
+    </div>
   </div>
 </li>

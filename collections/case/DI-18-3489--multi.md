@@ -1,5 +1,4 @@
 ---
-title: DI-18-3489, DI-18-5903, and DI-19-0056
 source:
   agency: Veterans Affairs
 cases:

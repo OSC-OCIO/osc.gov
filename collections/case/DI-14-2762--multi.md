@@ -1,5 +1,4 @@
 ---
-title: DI-14-2762 and DI-14-3657
 source:
   agency: Veterans Affairs
 cases:

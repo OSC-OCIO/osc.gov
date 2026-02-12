@@ -1,5 +1,4 @@
 ---
-title: DI-11-2109 and DI-11-2110
 source:
   agency: Justice
   subagency: Bureau of Prisons/Federal Prison System

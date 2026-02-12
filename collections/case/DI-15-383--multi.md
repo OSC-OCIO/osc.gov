@@ -1,5 +1,4 @@
 ---
-title: DI-15-383 and DI-15-2452
 source:
   agency: Interior
 cases:
