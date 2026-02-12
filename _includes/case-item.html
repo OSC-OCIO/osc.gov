@@ -1,5 +1,5 @@
 {%- assign case_link_title = link_title -%}
-{%- if case_link_title == nil -%}
+{%- if case_link_title == null -%}
   {%- assign case_link_title = true -%}
 {%- endif -%}
 
@@ -11,30 +11,49 @@
 {%- assign case_subagency = post.data.source.subagency | default: source.subagency -%}
 {%- assign case_results = post.data.results | default: results -%}
 {%- assign case_files = post.data.files | default: files -%}
+{%- assign case_numbers = post.data.cases | default: cases -%}
 {%- assign case_date = post.date | default: date -%}
+{%- assign case_year = case_date | date: '%Y' -%}
+{%- assign case_date_iso = case_date | date: '%Y-%m-%d' -%}
+{%- assign case_pagefind_ignore = pagefind_ignore | default: false -%}
 
-<li class="usa-collection__item">
+<li
+  class="usa-collection__item"
+  data-pagefind-body
+  {%- if case_pagefind_ignore -%}
+    data-pagefind-ignore
+  {%- endif -%}
+>
   <div class="usa-collection__body">
     <h3 class="usa-collection__heading">
       {%- if case_link_title -%}
-        <a class="usa-link" href="{{ case_url }}">{{- case_title -}}</a>
+        <a class="usa-link" href="{{ case_url }}" data-pagefind-meta="title">{{- case_title -}}</a>
       {%- else -%}
-        {{- case_title -}}
+        <span data-pagefind-meta="title">{{- case_title -}}</span>
       {%- endif -%}
     </h3>
     <ul class="usa-collection__meta" aria-label="More information">
-      {%- if case_location_primary -%}
-        <li class="usa-collection__meta-item">{{- case_location_primary -}}</li>
-      {%- endif -%}
+      {%- for location in case_locations -%}
+        <li class="usa-collection__meta-item">{{- location -}}</li>
+      {%- endfor -%}
       <li class="usa-collection__meta-item">
-        {{- case_agency -}}
+        <span data-pagefind-meta="agency" data-pagefind-filter="agency">{{- case_agency -}}</span>
         {%- if case_subagency -%}
           ,{{ ' ' }}
-          {{- case_subagency -}}
+          <span data-pagefind-meta="subagency">{{- case_subagency -}}</span>
         {%- endif -%}
       </li>
+      {%- for case_number in case_numbers -%}
+        <li class="usa-collection__meta-item">{{- case_number -}}</li>
+      {%- endfor -%}
       <li class="usa-collection__meta-item">
-        <time datetime="{{ case_date | date: '%Y-%m-%dT12:00:00+01:00' }}">
+        <time
+          datetime="{{ case_date_iso }}"
+          data-year="{{ case_year }}"
+          data-pagefind-meta="date"
+          data-pagefind-sort="date"
+          data-pagefind-filter="year[data-year]"
+        >
           {{- case_date | date: '%B %d, %Y' -}}
         </time>
       </li>
