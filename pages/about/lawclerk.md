@@ -13,7 +13,6 @@ terms:
     hours: "35"
     deadline: "Deadline: February 15"
     program: "May-August"
-
 ---
 
 ## Law Clerk Opportunities
@@ -32,7 +31,7 @@ Law clerk duties include assisting front office staff with research projects, dr
 
 Law clerk duties include assisting in the screening of new allegations to ensure that disclosures and PPP complaints within OSC's jurisdiction are directed to the appropriate program units for further action.
 
-**Investigation and Prosecution Division (IPD).** The IPD is responsible for investigating allegations of PPPs in the Federal workforce, particularly allegations of whistleblower reprisal. The IPD engages in both informal resolution of complaints and prosecution before the U.S. Merit Systems Protection Board (MSPB) to seek corrective and/or disciplinary action. 
+**Investigation and Prosecution Division (IPD).** The IPD is responsible for investigating allegations of PPPs in the Federal workforce, particularly allegations of whistleblower reprisal. The IPD engages in both informal resolution of complaints and prosecution before the U.S. Merit Systems Protection Board (MSPB) to seek corrective and/or disciplinary action.
 
 Law clerk duties include conducting initial review of complaints to identify the legal issues involved; drafting letters and memoranda explaining legal conclusions; assisting attorneys in the investigation and litigation of cases, including developing case strategy, reviewing documentary evidence, and interviewing witnesses; and conducting legal research involving the interpretation or application of court opinions, executive orders, regulations, rules, and administrative decisions.
 
@@ -54,9 +53,9 @@ Law clerks are involved in all stages of mediation, from determining whether cas
 
 **Uniformed Services Employment and Reemployment Rights Act (USERRA) Unit.** The USERRA Unit is responsible for enforcing USERRA, which protects veterans and service members from employment discrimination and provides for their job reinstatement following military duty. OSC reviews USERRA complaints against Federal executive agencies referred from the U.S. Department of Labor (DOL) to determine whether to pursue corrective action on a veteran's or service member's behalf before the MSPB.
 
-Law clerk duties include reviewing DOL investigative files to determine if there is sufficient evidence to seek corrective action; obtaining and analyzing additional information from agencies, complainants, or third parties to assist in making those determinations; conducting legal research and analysis of novel issues of law;  making recommendations to senior attorneys and OSC leadership about individual cases; assisting with litigation before the MSPB; participating in settlement negotiations; and providing training and technical assistance to Congress, the public, and other stakeholders.
+Law clerk duties include reviewing DOL investigative files to determine if there is sufficient evidence to seek corrective action; obtaining and analyzing additional information from agencies, complainants, or third parties to assist in making those determinations; conducting legal research and analysis of novel issues of law; making recommendations to senior attorneys and OSC leadership about individual cases; assisting with litigation before the MSPB; participating in settlement negotiations; and providing training and technical assistance to Congress, the public, and other stakeholders.
 
-**Outreach, Training & Compliance Unit (OTC).** OTC plays a central role in advancing awareness and compliance with federal personnel law through its comprehensive outreach and training programs. It is responsible for overseeing OSC's Equal Employment Opportunity (EEO) program, ensuring compliance with federal antidiscrimination laws. Additionally, OTC manages the 2302(c) Certification Program that educates federal employees on their workplace protections, including whistleblower rights. 
+**Outreach, Training & Compliance Unit (OTC).** OTC plays a central role in advancing awareness and compliance with federal personnel law through its comprehensive outreach and training programs. It is responsible for overseeing OSC's Equal Employment Opportunity (EEO) program, ensuring compliance with federal antidiscrimination laws. Additionally, OTC manages the 2302(c) Certification Program that educates federal employees on their workplace protections, including whistleblower rights.
 
 Law clerk duties include assisting with nationwide training, responding to questions about agency training requirements and the 2302(c) Certification Program, devising innovative methods to educate the largest number of federal employees possible, and drafting educational materials for public use. Law clerks may also assist with updating internal documents in compliance with EEO laws, rules, and regulations.
 
@@ -68,9 +67,28 @@ Full-time and part-time law students who have completed at least two full semest
 
 **<u>Timeline</u>**
 
-{%- include 'table.html' -%}
- <strong>**If you missed the deadline, you may still submit your application for consideration.</strong> 
+<table>
+  <thead>
+    <tr>
+      <th scope="col">Term</th>
+      <th scope="col">Min Hours</th>
+      <th scope="col">Applications Accepted</th>
+      <th scope="col">Program Begins/Ends</th>
+    </tr>
+  </thead>
+  <tbody>
+    {%- for term in terms -%}
+      <tr>
+        <td>{{ term.season }}</td>
+        <td>{{ term.hours }}</td>
+        <td>{{ term.deadline }}</td>
+        <td>{{ term.program }}</td>
+      </tr>
+    {%- endfor -%}
+  </tbody>
+</table>
+<strong>**If you missed the deadline, you may still submit your application for consideration.</strong>
 
-**HOW TO APPLY:** 
+**HOW TO APPLY:**
 
-OSC accepts applications on a rolling basis. To be considered, please apply via USAJobs​.
+OSC accepts applications on a rolling basis. To be considered, please apply via [USAJobs](https://www.usajobs.gov/job/794209200)​.

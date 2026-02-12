@@ -78,77 +78,7 @@ units:
 
 <ul class="usa-card-group padding-top-4">
   {%- for unit in units -%}  
-  <li class="usa-card tablet-lg:grid-col-6 widescreen:grid-col-4">
-    <div class="usa-card__container bg-base-lightest shadow-3 border-base-lightest">
-      <div class="usa-card__header">      
-        <div class="usa-card__heading font-body-s text-bold">{{ unit.name }}</div>
-      </div>
-      <div class="usa-card__body">
-      {%- for contact in unit.contacts -%}
-        {%- if contact.phone1 -%}
-        <div class="margin-0">
-            <div class="display-flex flex-align-center margin-0">
-                <svg class="usa-icon margin-rght-1" aria-hidden="true" focusable="false" role="img">
-                    <use href="/assets/img/sprite.svg#phone"></use>
-                </svg>
-                <span class="font-body-xs">{{ contact.phone1 }}</span>
-            </div>  
-        </div>      
-        {%- endif -%}
-        {%- if contact.phone2 -%}
-        <div class="margin-0">
-            <div class="display-flex flex-align-center margin-0">
-                <svg class="usa-icon margin-rght-1" aria-hidden="true" focusable="false" role="img">
-                    <use href="/assets/img/sprite.svg#phone"></use>
-                </svg>
-                <span class="font-body-xs">{{ contact.phone2 }}</span>
-            </div>  
-        </div>      
-        {%- endif -%}
-        {%- if contact.phone3 -%}
-        <div class="margin-0">
-            <div class="display-flex flex-align-center margin-0">
-                <svg class="usa-icon margin-rght-1" aria-hidden="true" focusable="false" role="img">
-                    <use href="/assets/img/sprite.svg#phone"></use>
-                </svg>
-                <span class="font-body-xs">{{ contact.phone3 }}</span>
-            </div>  
-        </div>      
-        {%- endif -%}
-        {%- if contact.fax -%}
-        <div class="margin-0">
-            <div class="display-flex flex-align-center margin-0">
-                <svg class="usa-icon margin-rght-1" aria-hidden="true" focusable="false" role="img">
-                    <use href="/assets/img/sprite.svg#fax"></use>
-                </svg>
-                <span class="font-body-xs">{{ contact.fax }}</span>
-            </div>  
-        </div>      
-        {%- endif -%}
-        {%- if contact.email -%}
-        <div class="margin-0">
-            <div class="display-flex flex-align-center margin-0">
-                <svg class="usa-icon margin-rght-1" aria-hidden="true" focusable="false" role="img">
-                    <use href="/assets/img/sprite.svg#mail"></use>
-                </svg>
-                <span class="font-body-xs">{{ contact.email }}</span>
-            </div>  
-        </div>      
-        {%- endif -%}
-        {%- if contact.address -%}
-        <div class="margin-0">
-            <div class="display-flex flex-align-center margin-0">
-                <svg class="usa-icon margin-rght-1" aria-hidden="true" focusable="false" role="img">
-                    <use href="/assets/img/sprite.svg#location_on"></use>
-                </svg>
-                <span class="font-body-xs">{{ contact.address }}</span>
-            </div>  
-        </div>      
-        {%- endif -%}                            
-      {%- endfor -%}  
-      </div>
-    </div>
-  </li>
+  {%- include 'contactcard.html' -%}
   {%- endfor -%}
 </ul>  
 
