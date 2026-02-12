@@ -127,9 +127,9 @@ function buildCaseTemplateLookup() {
     return map;
   }
 
-  const items = bank.querySelectorAll('li.usa-collection__item');
+  const items = bank.querySelectorAll('li');
   for (const item of items) {
-    const link = item.querySelector('.usa-collection__heading a.usa-link');
+    const link = item.querySelector('a.usa-link');
     if (!link || !link.getAttribute('href')) {
       continue;
     }
@@ -260,7 +260,7 @@ async function initializeCaseSearch() {
   const form = document.querySelector('#case-search-form');
   const clearButton = document.querySelector('#case-search-clear');
   const status = document.querySelector('#case-search-status');
-  const listContainer = document.querySelector('#case-results .usa-collection');
+  const listContainer = document.querySelector('#case-results .usa-card-group, #case-results .usa-collection');
   const pagination = document.querySelector('.usa-pagination');
   const searchPagination = document.querySelector('#case-search-pagination');
   const templateLookup = buildCaseTemplateLookup();

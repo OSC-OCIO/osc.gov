@@ -56,35 +56,4 @@
       <p>No navigation found for this section.</p>
     {%- endif -%}
   </nav>
-
-  {% if page.url contains '/resources/cases/' %}
-    <section id="case-search" class="margin-top-4">
-      <form id="case-search-form" class="usa-form maxw-none" role="search">
-        <label class="usa-label margin-top-0" for="case-search-query">Search public files</label>
-        <input
-          class="usa-input"
-          id="case-search-query"
-          name="query"
-          type="search"
-          placeholder="Case number, agency, location, result..."
-          autocomplete="off"
-        >
-
-        <label class="usa-label" for="case-filter-agency">Agency</label>
-        <select class="usa-select" id="case-filter-agency" name="agency">
-          <option value="">All agencies</option>
-        </select>
-
-        <label class="usa-label" for="case-filter-year">Year</label>
-        <select class="usa-select" id="case-filter-year" name="year">
-          <option value="">All years</option>
-        </select>
-
-        <button type="button" class="usa-button usa-button--outline margin-top-2 width-full" id="case-search-clear">
-          Clear
-        </button>
-      </form>
-
-    </section>
-  {% endif %}
 </aside>
