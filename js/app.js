@@ -248,7 +248,8 @@ async function initializeCaseSearch() {
   let pagefind;
   try {
     pagefind = await waitForPagefind();
-    await pagefind.options({ basePath: '/pagefind/' });
+    const basePath = window.casePagefindBasePath || '/pagefind/';
+    await pagefind.options({ basePath });
   } catch (error) {
     status.textContent = 'Search is temporarily unavailable.';
     return;

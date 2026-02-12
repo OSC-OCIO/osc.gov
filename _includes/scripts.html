@@ -39,9 +39,10 @@
 
 {% if page.url contains '/resources/cases/' %}
   <script type="module">
-    import * as pagefind from '/pagefind/pagefind.js';
+    import * as pagefind from '{{ "/pagefind/pagefind.js" | url }}';
 
     window.casePagefind = pagefind;
+    window.casePagefindBasePath = '{{ "/pagefind/" | url }}';
     window.dispatchEvent(new CustomEvent('casePagefindReady'));
   </script>
 {% endif %}
