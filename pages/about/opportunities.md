@@ -10,7 +10,7 @@ OSC is seeking current, Federal Attorneys experienced in various aspects of Fede
 
 ### ​Volunteer Law Clerk Opportunities:
 
-#### **For more in​formation** [CLICK HERE](law-clerk-opportunites.md)
+#### **For more in​formation** [CLICK HERE](/about/lawclerk)
 
 ### ​General Employment Info: 
 
