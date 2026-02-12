@@ -1,7 +1,6 @@
 ---
 layout: layouts/case-index
 title: Public Files
-sidenav: false
 permalink: "/resources/cases{% if pagination.pageNumber > 0 %}/page/{{ pagination.pageNumber }}{% endif %}/index.html"
 pagination:
   data: collections.case
@@ -21,7 +20,6 @@ lead: ​OSC receives and reviews [disclosures of wrongdoing](/Services/Pages/DU
           id="case-search-query"
           name="query"
           placeholder="Case number, agency, keyword..."
-          autocomplete="off"
         >
       </div>
       <div class="tablet:grid-col-3">

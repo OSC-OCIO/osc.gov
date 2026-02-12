@@ -6,25 +6,6 @@ const FILTER_LABELS = {
   agency: 'All agencies',
   year: 'All years',
 };
-const CASE_DEBUG = (function () {
-  try {
-    const params = new URLSearchParams(window.location.search);
-    if (params.get('caseDebug') === '1') {
-      return true;
-    }
-    return window.localStorage.getItem('caseDebug') === '1';
-  } catch (error) {
-    return false;
-  }
-})();
-
-function debugLog() {
-  if (!CASE_DEBUG) {
-    return;
-  }
-  // eslint-disable-next-line no-console
-  console.log('[case-search]', ...arguments);
-}
 
 function waitForPagefind() {
   if (window.casePagefind) {
@@ -64,12 +45,10 @@ function populateFilterSelect(select, filterName, values, selectedValue) {
   select.appendChild(defaultOption);
 
   const options = sortFilterEntries(filterName, values);
-  let skippedEmpty = 0;
   for (const optionEntry of options) {
     const value = (optionEntry[0] || '').trim();
     const count = optionEntry[1];
     if (!value) {
-      skippedEmpty += 1;
       continue;
     }
 
@@ -81,15 +60,6 @@ function populateFilterSelect(select, filterName, values, selectedValue) {
     }
     select.appendChild(option);
   }
-  debugLog('populateFilterSelect', {
-    filterName: filterName,
-    inputOptions: options.length,
-    renderedOptions: Math.max(select.options.length - 1, 0),
-    skippedEmpty: skippedEmpty,
-    sampleValues: options.slice(0, 5).map(function (entry) {
-      return entry[0];
-    }),
-  });
 }
 
 function activeFilters(selects) {
@@ -127,6 +97,7 @@ function buildCaseTemplateLookup() {
     return map;
   }
 
+  // Reuse server-rendered case cards so JS controls behavior, not presentation.
   const items = bank.querySelectorAll('li');
   for (const item of items) {
     const link = item.querySelector('a.usa-link');
@@ -152,6 +123,7 @@ function renderCaseList(container, docs, templateLookup) {
 }
 
 function pageSequence(totalPages, currentPage) {
+  // Mirror the condensed first/last + ellipsis pagination pattern.
   if (totalPages <= 5) {
     return Array.from({ length: totalPages }, function (_, idx) {
       return idx + 1;
@@ -264,28 +236,21 @@ async function initializeCaseSearch() {
   const pagination = document.querySelector('.usa-pagination');
   const searchPagination = document.querySelector('#case-search-pagination');
   const templateLookup = buildCaseTemplateLookup();
+  if (!listContainer || !queryInput || !form || !clearButton || !status) {
+    return;
+  }
 
   const selects = {
     agency: document.querySelector('#case-filter-agency'),
     year: document.querySelector('#case-filter-year'),
   };
-  debugLog('initializeCaseSearch', {
-    hasRoot: Boolean(root),
-    hasListContainer: Boolean(listContainer),
-    selectKeys: Object.keys(selects),
-  });
 
   let pagefind;
   try {
     pagefind = await waitForPagefind();
     await pagefind.options({ basePath: '/pagefind/' });
-    debugLog('pagefind ready', {
-      hasSearch: typeof pagefind.search === 'function',
-      hasFilters: typeof pagefind.filters === 'function',
-    });
   } catch (error) {
     status.textContent = 'Search is temporarily unavailable.';
-    debugLog('pagefind init error', error);
     return;
   }
 
@@ -293,10 +258,8 @@ async function initializeCaseSearch() {
     let filters = {};
     try {
       filters = await pagefind.filters();
-      debugLog('pagefind.filters()', filters);
     } catch (error) {
       filters = {};
-      debugLog('pagefind.filters() error', error);
     }
 
     const hasAnyFilters = Object.keys(FILTER_LABELS).some(function (key) {
@@ -308,12 +271,9 @@ async function initializeCaseSearch() {
         const bootstrapResponse = await pagefind.search(DEFAULT_CASES_QUERY, {
           sort: { date: 'desc' },
         });
-        debugLog('bootstrap search raw response', bootstrapResponse);
         filters = responseFilters(bootstrapResponse);
-        debugLog('bootstrap responseFilters()', filters);
       } catch (error) {
         filters = {};
-        debugLog('bootstrap search error', error);
       }
     }
 
@@ -329,6 +289,7 @@ async function initializeCaseSearch() {
   let currentPage = 1;
 
   const renderCurrentPage = function () {
+    // Client-side pagination over current Pagefind results.
     const total = currentDocs.length;
     const totalPages = Math.max(Math.ceil(total / CASES_PER_PAGE), 1);
     currentPage = Math.min(Math.max(currentPage, 1), totalPages);
@@ -359,7 +320,6 @@ async function initializeCaseSearch() {
 
     const query = queryInput.value.trim() || DEFAULT_CASES_QUERY;
     const filters = activeFilters(selects);
-    debugLog('runSearch start', { query: query, filters: filters });
 
     status.textContent = 'Searching...';
     if (pagination) {
@@ -375,13 +335,11 @@ async function initializeCaseSearch() {
         filters: filters,
         sort: { date: 'desc' },
       });
-      debugLog('runSearch raw response', response);
     } catch (error) {
       if (thisRequest !== requestId) {
         return;
       }
       status.textContent = 'Search is temporarily unavailable.';
-      debugLog('runSearch error', error);
       return;
     }
 
@@ -390,7 +348,6 @@ async function initializeCaseSearch() {
     }
 
     const filterValues = responseFilters(response);
-    debugLog('runSearch responseFilters()', filterValues);
     for (const key of Object.keys(selects)) {
       populateFilterSelect(selects[key], key, filterValues[key], selects[key].value);
     }
@@ -400,16 +357,6 @@ async function initializeCaseSearch() {
         return result.data();
       }),
     );
-    debugLog('docs resolved', {
-      count: docs.length,
-      firstDoc: docs[0]
-        ? {
-            url: docs[0].url,
-            meta: docs[0].meta,
-            filters: docs[0].filters,
-          }
-        : null,
-    });
 
     currentDocs = docs;
     currentPage = 1;

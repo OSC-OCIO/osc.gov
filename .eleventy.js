@@ -1,5 +1,4 @@
 const { DateTime } = require("luxon");
-const path = require("path");
 const { execFile } = require("node:child_process");
 const { promisify } = require("node:util");
 const pluginRss = require("@11ty/eleventy-plugin-rss");
@@ -114,6 +113,7 @@ module.exports = async function (config) {
     }
 
     if (pagefindIndexing) {
+      // Coalesce rapid watch rebuilds into one follow-up index pass.
       pagefindQueued = true;
       return;
     }
