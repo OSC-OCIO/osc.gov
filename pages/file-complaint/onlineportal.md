@@ -11,7 +11,7 @@ eleventyNavigation:
 \_\*\*Have you been impacted by a Reduction in Force (RIF)?  
 Are you considering your RIF appeal options?
 
-If so, please read [OSC's RIF Fact Sheet​](../~assets/documents/osc-rif-fact-sheet.pdf) to help you decide which appeals process is right for you.**\_  
+If so, please read [OSC's RIF Fact Sheet​](../~assets/docs/osc-rif-fact-sheet.pdf) to help you decide which appeals process is right for you.**\_  
 \_**​\*\*\_
 
 [​​​​​​](mailto:info@osc.gov.%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B)​

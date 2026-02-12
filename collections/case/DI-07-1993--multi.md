@@ -12,15 +12,15 @@ results:
 date: 2008-11-03
 files:
 - label: Letter to the President
-  href: /~assets/documents/di-07-1993-letter-to-president.pdf
+  href: /~assets/cases/di-07-1993-letter-to-president.pdf
 - label: Agency Report
-  href: /~assets/documents/di-07-1993-agency-report.pdf
+  href: /~assets/cases/di-07-1993-agency-report.pdf
 - label: Agency Report
-  href: /~assets/documents/di-07-1993-supplemental-report.pdf
+  href: /~assets/cases/di-07-1993-supplemental-report.pdf
 - label: Whistleblower Comments
-  href: /~assets/documents/di-07-1993-whistleblower-comments.pdf
+  href: /~assets/cases/di-07-1993-whistleblower-comments.pdf
 - label: Whistleblower Comments
-  href: /~assets/documents/di-07-2225-whistleblower-comments-_2.pdf
+  href: /~assets/cases/di-07-2225-whistleblower-comments-_2.pdf
 - label: Analysis
-  href: /~assets/documents/di-07-1993-analysis.pdf
+  href: /~assets/cases/di-07-1993-analysis.pdf
 ---

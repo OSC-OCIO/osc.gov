@@ -14,5 +14,5 @@ results:
 date: 2012-05-08
 files:
 - label: Analysis
-  href: /~assets/documents/di-11-2238-and-di-11-2709-analysis.pdf
+  href: /~assets/cases/di-11-2238-and-di-11-2709-analysis.pdf
 ---

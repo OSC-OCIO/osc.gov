@@ -9,7 +9,7 @@ OSC obtained settlements for several whistleblowers at the Energy Department’s
 
 Page Content
 
-The U.S. Office of Special Counsel (OSC) obtained settlements for several whistleblowers at the Energy Department’s Bonneville Power Administration (BPA), worked with BPA to discipline two supervisors engaged in hiring violations, and assisted a veteran who was disadvantaged by a hiring violation. The whistleblowers alleged retaliation for disclosing widespread hiring violations at BPA, which adversely impacted veterans and other applicants. The whistleblower disclosures sparked a congressional [hearing](http://oversight.house.gov/hearing/department-of-energys-bonneville-power-administration-discriminating-against-veterans-and-retaliating-against-whistleblowers/) and an Energy Department Office of Inspector General (OIG) [probe​](../../~assets/documents/ig-0895.pdf).  
+The U.S. Office of Special Counsel (OSC) obtained settlements for several whistleblowers at the Energy Department’s Bonneville Power Administration (BPA), worked with BPA to discipline two supervisors engaged in hiring violations, and assisted a veteran who was disadvantaged by a hiring violation. The whistleblowers alleged retaliation for disclosing widespread hiring violations at BPA, which adversely impacted veterans and other applicants. The whistleblower disclosures sparked a congressional [hearing](http://oversight.house.gov/hearing/department-of-energys-bonneville-power-administration-discriminating-against-veterans-and-retaliating-against-whistleblowers/) and an Energy Department Office of Inspector General (OIG) [probe​](../../~assets/docs/ig-0895.pdf).  
 
   
 

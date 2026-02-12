@@ -13,7 +13,7 @@ The U.S. Office of Special Counsel (OSC) is committed to protecting your privacy
 - [The Government Paperwork Elimination Act (GPEA)](http://www.archives.gov/records-mgmt/policy/electronic-signature-technology.html) (pdf)
 - [The E-Government Act of 2002](https://www.whitehouse.gov/omb/e-gov) (pdf)
 - [Department of Justice, Overview of the Privacy Act of 1974 (2015 Edition)](https://www.justice.gov/opcl/overview-privacy-act-1974-2015-edition)
-- [Federal Information Security Modernization Act (FISMA) of 2014 (PDF)](../~assets/documents/fisma-final.pdf)​
+- [Federal Information Security Modernization Act (FISMA) of 2014 (PDF)](../~assets/docs/fisma-final.pdf)​
 
 ### Matching Notices and Agreements​​​​​
 

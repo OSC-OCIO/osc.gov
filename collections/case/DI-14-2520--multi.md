@@ -16,5 +16,5 @@ results:
 date: 2016-04-26
 files:
 - label: DI-14-2520, DI-14-2763 and DI-14-2947 Letter to President
-  href: /~assets/documents/di-14-2520-di-14-2763-and-di-14-2947-letter-to-president.pdf
+  href: /~assets/cases/di-14-2520-di-14-2763-and-di-14-2947-letter-to-president.pdf
 ---

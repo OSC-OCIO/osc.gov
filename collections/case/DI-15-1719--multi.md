@@ -13,9 +13,9 @@ results:
 date: 2015-10-08
 files:
 - label: Letter to the President
-  href: /~assets/documents/di-15-1719-and-di-15-1780-letter-to-president.pdf
+  href: /~assets/cases/di-15-1719-and-di-15-1780-letter-to-president.pdf
 - label: Agency Report
-  href: /~assets/documents/di-15-1719-and-di-15-1780-agency-report.pdf
+  href: /~assets/cases/di-15-1719-and-di-15-1780-agency-report.pdf
 - label: Whistleblower Comments
-  href: /~assets/documents/di-15-1780-whistleblower-comments.pdf
+  href: /~assets/cases/di-15-1780-whistleblower-comments.pdf
 ---

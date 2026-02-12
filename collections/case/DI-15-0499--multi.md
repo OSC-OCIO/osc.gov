@@ -13,7 +13,7 @@ results:
 date: 2015-12-03
 files:
 - label: Letter to the President
-  href: /~assets/documents/di-15-0499-and-di-15-2813-letter-to-president.pdf
+  href: /~assets/cases/di-15-0499-and-di-15-2813-letter-to-president.pdf
 - label: Agency Report
-  href: /~assets/documents/di-15-0499-and-di-15-2813-agency-report.pdf
+  href: /~assets/cases/di-15-0499-and-di-15-2813-agency-report.pdf
 ---

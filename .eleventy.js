@@ -9,7 +9,8 @@ const svgSprite = require("eleventy-plugin-svg-sprite");
 const { eleventyImageTransformPlugin } = require("@11ty/eleventy-img");
 
 module.exports = async function (config) {
-  const { EleventyHtmlBasePlugin } = await import("@11ty/eleventy");
+  const { EleventyHtmlBasePlugin, InputPathToUrlTransformPlugin } =
+    await import("@11ty/eleventy");
 
   // Set pathPrefix for site
   let pathPrefix = "/";
@@ -23,6 +24,8 @@ module.exports = async function (config) {
   config.addPlugin(pluginRss);
   config.addPlugin(pluginNavigation);
   config.addPlugin(EleventyHtmlBasePlugin);
+  config.addPlugin(InputPathToUrlTransformPlugin);
+
   config.addPlugin(eleventyImageTransformPlugin, {
     failOnError: false,
     widths: ["auto", 600],
@@ -64,7 +67,9 @@ module.exports = async function (config) {
     linkify: true,
   }).use(markdownItNamedHeadings);
   config.setLibrary("md", markdownLibrary);
-  config.addFilter("markdownify", (value) => markdownLibrary.render(value || ""));
+  config.addFilter("markdownify", (value) =>
+    markdownLibrary.render(value || ""),
+  );
 
   // Set image shortcodes
   config.addLiquidShortcode("uswds_icon", function (name) {

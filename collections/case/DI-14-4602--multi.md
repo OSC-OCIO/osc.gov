@@ -17,11 +17,11 @@ results:
 date: 2018-01-25
 files:
 - label: Letter to the President
-  href: /~assets/documents/di-14-4602-and-di-17-3402-letter-to-president.pdf
+  href: /~assets/cases/di-14-4602-and-di-17-3402-letter-to-president.pdf
 - label: Whistleblower Comments
-  href: /~assets/documents/di-14-4602-whistleblower-comments.pdf
+  href: /~assets/cases/di-14-4602-whistleblower-comments.pdf
 - label: Whistleblower Comments
-  href: /~assets/documents/di-17-3402-whistleblower-comments.pdf
+  href: /~assets/cases/di-17-3402-whistleblower-comments.pdf
 - label: Referral Letter
-  href: /~assets/documents/di-14-4602-referral-letter-redacted.pdf
+  href: /~assets/cases/di-14-4602-referral-letter-redacted.pdf
 ---

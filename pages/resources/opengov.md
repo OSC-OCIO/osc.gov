@@ -47,13 +47,13 @@ OSC’s CUI Program is a new program that intends to standardize the way we hand
 
 #### Policy and Guidance
 
-[Executive Order 13526](~assets/documents/2010-28360.pdf)
+[Executive Order 13526](~assets/docs/2010-28360.pdf)
 
-[32 CFR Part 2002](~assets/documents/cfr-2018-title32-vol6-part2002.pdf)​​
+[32 CFR Part 2002](~assets/docs/cfr-2018-title32-vol6-part2002.pdf)​​
 
 [CU​​​I Notices and Regulations](https://www.archives.gov/cui/registry/policy-guidance#directives)
 
-[CUI Marking Handbook](~assets/documents/20161206-cui-marking-handbook-v1-1-20190524.pdf)​
+[CUI Marking Handbook](~assets/docs/20161206-cui-marking-handbook-v1-1-20190524.pdf)​
 
 #### Resources​
 

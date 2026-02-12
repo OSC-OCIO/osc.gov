@@ -17,6 +17,6 @@ For example, it is not political activity for an employee to say, “I support/o
 
 Even if the speech is political activity, the Hatch Act only prohibits employees from engaging in that speech while on duty or in the federal workplace, provided that employees otherwise comply with the Hatch Act.  The Hatch Act similarly does not prohibit employees from attending or participating in issue-based demonstrations, rallies, or other events.  Please note that this opinion addresses only the Hatch Act, and employees should consult with their agency ethics officials about any other laws, rules, or regulations that may apply.
 
-The full advisory opinion can be [found here​](../../~assets/documents/the-hatch-act-and-federal-employees-discussions-about-the-conflict-a9de2256.pdf).
+The full advisory opinion can be [found here​](../../~assets/docs/the-hatch-act-and-federal-employees-discussions-about-the-conflict-a9de2256.pdf).
 
 \*\*\*

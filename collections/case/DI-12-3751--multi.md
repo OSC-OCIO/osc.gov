@@ -12,9 +12,9 @@ results:
 date: 2015-09-30
 files:
 - label: Letter to the President
-  href: /~assets/documents/di-12-3751-and-di-12-3765-letter-to-president.pdf
+  href: /~assets/cases/di-12-3751-and-di-12-3765-letter-to-president.pdf
 - label: Agency Report
-  href: /~assets/documents/di-12-3751-and-di-12-3765-agency-report.pdf
+  href: /~assets/cases/di-12-3751-and-di-12-3765-agency-report.pdf
 - label: Whistleblower Comments
-  href: /~assets/documents/di-12-3751-and-di-12-3765-whistleblower-comments.pdf
+  href: /~assets/cases/di-12-3751-and-di-12-3765-whistleblower-comments.pdf
 ---

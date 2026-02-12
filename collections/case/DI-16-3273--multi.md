@@ -14,9 +14,9 @@ results:
 date: 2017-06-12
 files:
 - label: Letter to the President
-  href: /~assets/documents/di-16-3273-and-di-16-3277-letter-to-president.pdf
+  href: /~assets/cases/di-16-3273-and-di-16-3277-letter-to-president.pdf
 - label: Agency Report
-  href: /~assets/documents/di-16-3273-agency-report.pdf
+  href: /~assets/cases/di-16-3273-agency-report.pdf
 - label: Whistleblower Comments
-  href: /~assets/documents/di-16-3277-whistleblower-comments.pdf
+  href: /~assets/cases/di-16-3277-whistleblower-comments.pdf
 ---

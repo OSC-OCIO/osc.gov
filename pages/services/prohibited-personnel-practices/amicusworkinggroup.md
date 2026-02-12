@@ -27,55 +27,55 @@ Please note that the AWG cannot represent an employee in their appeal or provide
 
 ## Amicus Curiae Briefs
 
-[Remolona v Dept of Veterans Affairs](<../../~assets/documents/osc-amicus-brief-ny-1221-21-0127-w-2-remolona.pdf>)
+[Remolona v Dept of Veterans Affairs](<../../~assets/docs/osc-amicus-brief-ny-1221-21-0127-w-2-remolona.pdf>)
 
-[McCarthy v Social Security Administration](<../../~assets/documents/mccarthy-v-ssa-osc-amicus-brief.pdf>)
+[McCarthy v Social Security Administration](<../../~assets/docs/mccarthy-v-ssa-osc-amicus-brief.pdf>)
 
-[Reese v Dept of Navy](../../~assets/documents/24-05_osc_reese-_amicus_brief.pdf)
+[Reese v Dept of Navy](../../~assets/docs/24-05_osc_reese-_amicus_brief.pdf)
 
-[Milton v Dept of Veterans Affairs](../../~assets/documents/milton-v-va_osc-amicus-brief1523-s.pdf)
+[Milton v Dept of Veterans Affairs](../../~assets/docs/milton-v-va_osc-amicus-brief1523-s.pdf)
 
-[Jindal v Merit Systems Protection Board](<../../~assets/documents/jindal-v-mspb-osc-amicus-brief.pdf>)
+[Jindal v Merit Systems Protection Board](<../../~assets/docs/jindal-v-mspb-osc-amicus-brief.pdf>)
 
-[Morales v Dept of Veterans Affairs](../../~assets/documents/morales-v-va_osc-amicus-brief_62822.pdf)
+[Morales v Dept of Veterans Affairs](../../~assets/docs/morales-v-va_osc-amicus-brief_62822.pdf)
 
-[Mosley-Dawson v Dept of Army](../../~assets/documents/mosley-dawson-amicus-brief-final-6-28-22_redacted.pdf)
+[Mosley-Dawson v Dept of Army](../../~assets/docs/mosley-dawson-amicus-brief-final-6-28-22_redacted.pdf)
 
-[Besanceney v Dept of Homeland Security](<../../~assets/documents/besanceney-osc-amicus-brief.pdf>)
+[Besanceney v Dept of Homeland Security](<../../~assets/docs/besanceney-osc-amicus-brief.pdf>)
 
-[Salazar v Dept of Veterans Affairs](<../../~assets/documents/20210212-salazar-va-amicus-brief-final_redacted.pdf>)
+[Salazar v Dept of Veterans Affairs](<../../~assets/docs/20210212-salazar-va-amicus-brief-final_redacted.pdf>)
 
-[Tao v Merit Systems Protection Board](../../~assets/documents/osc-amicus-brief-tao-v-mspb-8112020.pdf)
+[Tao v Merit Systems Protection Board](../../~assets/docs/osc-amicus-brief-tao-v-mspb-8112020.pdf)
 
-[Considine v Dept of Treasury](<../../~assets/documents/considine_osc-amicus-brief-filed-05.pdf>)
+[Considine v Dept of Treasury](<../../~assets/docs/considine_osc-amicus-brief-filed-05.pdf>)
 
-[Karl v Merit Systems Protection Board](<../../~assets/documents/karl-v-mspb-osc-amicus-brief-10-2-17.pdf>)
+[Karl v Merit Systems Protection Board](<../../~assets/docs/karl-v-mspb-osc-amicus-brief-10-2-17.pdf>)
 
-[Ryan v Dept of Defense](<../../~assets/documents/osc-amicus-curiae-brief-in-ryan-v-department-of-defense-mspb-fil-b18335bc.pdf>)
+[Ryan v Dept of Defense](<../../~assets/docs/osc-amicus-curiae-brief-in-ryan-v-department-of-defense-mspb-fil-b18335bc.pdf>)
 
-[Johnen v Merit Systems Protection Board](../../~assets/documents/osc-amicus-curiae-brief-in-johnen-v-department-of-the-army-9th-ci-a110c1cd.pdf)
+[Johnen v Merit Systems Protection Board](../../~assets/docs/osc-amicus-curiae-brief-in-johnen-v-department-of-the-army-9th-ci-a110c1cd.pdf)
 
-[Salazar v Dept of Veterans Affairs](../../~assets/documents/osc-amicus-curiae-brief-in-salazar-v-department-of-veterans-affair-a4f2f4a4.pdf)
+[Salazar v Dept of Veterans Affairs](../../~assets/docs/osc-amicus-curiae-brief-in-salazar-v-department-of-veterans-affair-a4f2f4a4.pdf)
 
-[Benton-Flores v Dept of Defense](../../~assets/documents/osc-amicus-curiae-brief-in-benton-flores-v-department-of-defense-c2d2dfb8.pdf)
+[Benton-Flores v Dept of Defense](../../~assets/docs/osc-amicus-curiae-brief-in-benton-flores-v-department-of-defense-c2d2dfb8.pdf)
 
-[Acha v Dept of Agriculture](../../~assets/documents/osc-amicus-curiae-brief-filed-in-acha-v-department-of-agriculture-e52478ee.pdf)
+[Acha v Dept of Agriculture](../../~assets/docs/osc-amicus-curiae-brief-filed-in-acha-v-department-of-agriculture-e52478ee.pdf)
 
-[Abernathy v Dept of Army](<../../~assets/documents/osc-amicus-curiae-brief-in-abernathy-v-department-of-army-mspb-f-158d5c0f.pdf>)
+[Abernathy v Dept of Army](<../../~assets/docs/osc-amicus-curiae-brief-in-abernathy-v-department-of-army-mspb-f-158d5c0f.pdf>)
 
-[Dept of Homeland Security v MacLean](../../~assets/documents/osc-amicus-curiae-brief-in-department-of-homeland-security-v-rober-6729e5dd.pdf)
+[Dept of Homeland Security v MacLean](../../~assets/docs/osc-amicus-curiae-brief-in-department-of-homeland-security-v-rober-6729e5dd.pdf)
 
-[Clarke v Dept of Veterans Affairs](../../~assets/documents/osc-amicus-curiae-brief-in-clarke-v-department-of-veterans-affairs-cd81de8a.pdf)
+[Clarke v Dept of Veterans Affairs](../../~assets/docs/osc-amicus-curiae-brief-in-clarke-v-department-of-veterans-affairs-cd81de8a.pdf)
 
-[Kerr v Salazar](<../../~assets/documents/osc-amicus-curiae-brief-in-kerr-v-salazar-9th-cir-filed-may-13-4e4b94ee.pdf>)
+[Kerr v Salazar](<../../~assets/docs/osc-amicus-curiae-brief-in-kerr-v-salazar-9th-cir-filed-may-13-4e4b94ee.pdf>)
 
-[Berry v Conyers & Northover](<../../~assets/documents/osc-amicus-curiae-brief-in-berry-v-conyers-northover-fed-cir-398edc69.pdf>)
+[Berry v Conyers & Northover](<../../~assets/docs/osc-amicus-curiae-brief-in-berry-v-conyers-northover-fed-cir-398edc69.pdf>)
 
-[Day v Dept of Homeland Security](../../~assets/documents/osc-amicus-curiae-brief-in-day-v-department-of-homeland-security-87e4f4b1.pdf)
+[Day v Dept of Homeland Security](../../~assets/docs/osc-amicus-curiae-brief-in-day-v-department-of-homeland-security-87e4f4b1.pdf)
 
-[McGriff v Dept of Navy](<../../~assets/documents/osc-amicus-curiae-brief-in-mcgriff-v-department-of-the-navy-mspb-a0b6aa7d.pdf>)
+[McGriff v Dept of Navy](<../../~assets/docs/osc-amicus-curiae-brief-in-mcgriff-v-department-of-the-navy-mspb-a0b6aa7d.pdf>)
 
-[MacLean v Dept of Homeland Security](../../~assets/documents/osc-amicus-curiae-brief-in-maclean-v-department-of-homeland-securi-43b4dfb6.pdf)
+[MacLean v Dept of Homeland Security](../../~assets/docs/osc-amicus-curiae-brief-in-maclean-v-department-of-homeland-securi-43b4dfb6.pdf)
 
 ## Accordion Control
 

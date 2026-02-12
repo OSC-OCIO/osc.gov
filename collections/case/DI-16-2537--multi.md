@@ -14,13 +14,13 @@ results:
 date: 2020-05-04
 files:
 - label: Letter to the President
-  href: /~assets/documents/di-16-2537-and-di-18-3345-letter-to-the-president-redacted.pdf
+  href: /~assets/cases/di-16-2537-and-di-18-3345-letter-to-the-president-redacted.pdf
 - label: DI-16-2537 Agency Report
-  href: /~assets/documents/di-16-2537-agency-report.pdf
+  href: /~assets/cases/di-16-2537-agency-report.pdf
 - label: DI-16-2537 Referral Letter
-  href: /~assets/documents/di-16-2537-referral-letter.pdf
+  href: /~assets/cases/di-16-2537-referral-letter.pdf
 - label: DI-18-3345 Agency Report
-  href: /~assets/documents/di-18-3345-agency-report.pdf
+  href: /~assets/cases/di-18-3345-agency-report.pdf
 - label: DI-18-3345 Referral Letter
-  href: /~assets/documents/di-18-3345-referral-letter.pdf
+  href: /~assets/cases/di-18-3345-referral-letter.pdf
 ---

@@ -15,9 +15,9 @@ When individuals believe that they have been subjected to a prohibited personnel
 
 **​​​​Factsheets and Guides**
 
-[Federal Protections for Lesbian, Gay, Bisexual, and Transgender (LGBT) Individuals​​ ​(2014)](../../~assets/documents/federal-protections-for-lesbian-gay-bisexual-and-transgender-lg-1b14b3a8.pdf)​​​
+[Federal Protections for Lesbian, Gay, Bisexual, and Transgender (LGBT) Individuals​​ ​(2014)](../../~assets/docs/federal-protections-for-lesbian-gay-bisexual-and-transgender-lg-1b14b3a8.pdf)​​​
 
-[The Unique Role of the Office of Special Counsel in Protecting the Rights of Lesbian, Gay, Bisexual, and Transgender Employees in the Federal Workplace​ (PowerPoint presentation, 2014)​​](../../~assets/documents/the-unique-role-of-osc-in-protecting-lgbt-rights-in-the-federal-workplace.pdf)​​
+[The Unique Role of the Office of Special Counsel in Protecting the Rights of Lesbian, Gay, Bisexual, and Transgender Employees in the Federal Workplace​ (PowerPoint presentation, 2014)​​](../../~assets/docs/the-unique-role-of-osc-in-protecting-lgbt-rights-in-the-federal-workplace.pdf)​​
 
 **Policy Documents​**
 
@@ -25,7 +25,7 @@ When individuals believe that they have been subjected to a prohibited personnel
 
 **Prohibited​​ Personnel Practice Re​ports**
 
-[Report of Prohibited Personnel Practice, OSC File No. MA-11-3846 ("Jane Doe " - Tamara Lusardi), dated August 28, ​​2014​​​](<../../~assets/documents/prohibited-personnel-practices-report-5-usc-2302b1-and-10-fbddf1fb.pdf>)
+[Report of Prohibited Personnel Practice, OSC File No. MA-11-3846 ("Jane Doe " - Tamara Lusardi), dated August 28, ​​2014​​​](<../../~assets/docs/prohibited-personnel-practices-report-5-usc-2302b1-and-10-fbddf1fb.pdf>)
 
 **News Releases**
 
