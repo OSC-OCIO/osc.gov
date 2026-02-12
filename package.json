@@ -4,8 +4,8 @@
   "description": "A 11ty USWDS template.",
   "main": "index.js",
   "scripts": {
-    "build": "node ./buildAssets.js && npx @11ty/eleventy",
-    "dev": "sh -c 'node ./buildAssets.js --watch & ASSET_WATCH_PID=$!; trap \"kill $ASSET_WATCH_PID 2>/dev/null || true\" EXIT INT TERM; npx @11ty/eleventy --serve --watch'",
+    "build": "node ./buildAssets.js && npx @11ty/eleventy && npm run search:index",
+    "dev": "sh -c 'node ./buildAssets.js --watch & ASSET_WATCH_PID=$!; trap \"kill $ASSET_WATCH_PID 2>/dev/null || true\" EXIT INT TERM; npx @11ty/eleventy && npm run search:index && npx @11ty/eleventy --serve --watch --ignore-initial'",
     "pages": "ELEVENTY_ENV=production npm run build",
     "search:index": "npx pagefind --site _site --glob \"case/**/*.html\"",
     "start": "node ./buildAssets.js && npx @11ty/eleventy --serve"
@@ -25,6 +25,7 @@
     "luxon": "^3.7.2",
     "markdown-it": "^14.1.1",
     "markdown-it-named-headings": "^1.1.0",
+    "pagefind": "^1.4.0",
     "postcss": "^8.5.6",
     "prettier": "^3.8.1",
     "sass": "^1.97.3"
