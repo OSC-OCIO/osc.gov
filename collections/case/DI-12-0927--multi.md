@@ -1,5 +1,4 @@
 ---
-title: DI-12-0927 and DI-12-1933
 source:
   agency: Veterans Affairs
 cases:

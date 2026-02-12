@@ -1,5 +1,4 @@
 ---
-title: DI-13-2853 and DI-12-3516
 source:
   agency: Homeland Security
   subagency: Customs and Border Protection

@@ -1,5 +1,4 @@
 ---
-title: DI-10-2339 and DI-10-2396
 source:
   agency: Homeland Security
 cases:

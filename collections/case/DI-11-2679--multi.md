@@ -1,5 +1,4 @@
 ---
-title: DI-11-2679 and DI-11-2798
 source:
   agency: Veterans Affairs
 cases:

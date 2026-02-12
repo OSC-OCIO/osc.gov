@@ -1,5 +1,4 @@
 ---
-title: DI-11-3779, DI-11-3872, and DI-11-3894
 source:
   agency: U.S. Navy
 cases:

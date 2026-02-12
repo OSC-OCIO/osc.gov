@@ -1,5 +1,4 @@
 ---
-title: DI-08-2143 and DI-09-0033
 source:
   agency: Agriculture
 cases:

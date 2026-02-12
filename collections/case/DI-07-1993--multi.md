@@ -1,5 +1,4 @@
 ---
-title: DI-07-1993 and DI-07-2225
 source:
   agency: Interior
 cases:

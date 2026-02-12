@@ -1,8 +1,3 @@
-{%- assign case_link_title = link_title -%}
-{%- if case_link_title == nil -%}
-  {%- assign case_link_title = true -%}
-{%- endif -%}
-
 {%- assign case_url = post.url | default: page.url -%}
 {%- assign case_title = post.data.title | default: title -%}
 {%- assign case_locations = post.data.locations | default: locations -%}
@@ -17,15 +12,17 @@
 {%- assign case_date_iso = case_date | date: '%Y-%m-%d' -%}
 {%- assign case_pagefind_ignore = pagefind_ignore | default: false -%}
 
-<li class="tablet:grid-col-6 usa-card" data-pagefind-body {% if case_pagefind_ignore %}data-pagefind-ignore{% endif %}>
+<li
+  class="tablet:grid-col-6 usa-card"
+  data-pagefind-body
+  {% if case_pagefind_ignore %}
+    data-pagefind-ignore
+  {% endif %}
+>
   <div class="usa-card__container">
     <header class="usa-card__header">
       <h3 class="usa-card__heading">
-        {%- if case_link_title -%}
-          <a class="usa-link" href="{{ case_url }}" data-pagefind-meta="title">{{- case_title -}}</a>
-        {%- else -%}
-          <span data-pagefind-meta="title">{{- case_title -}}</span>
-        {%- endif -%}
+        <span data-pagefind-meta="title">{{- case_title -}}</span>
       </h3>
     </header>
     <div class="usa-card__body">

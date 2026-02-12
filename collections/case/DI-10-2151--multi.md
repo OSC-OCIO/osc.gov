@@ -1,5 +1,4 @@
 ---
-title: DI-10-2151, DI-10-2138, and DI-10-2734
 source:
   agency: U.S. Air Force
 cases:

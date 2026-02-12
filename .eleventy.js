@@ -1,6 +1,4 @@
 const { DateTime } = require("luxon");
-const { execFile } = require("node:child_process");
-const { promisify } = require("node:util");
 const pluginRss = require("@11ty/eleventy-plugin-rss");
 const pluginNavigation = require("@11ty/eleventy-navigation");
 const markdownIt = require("markdown-it");
@@ -8,8 +6,6 @@ const markdownItNamedHeadings = require("markdown-it-named-headings");
 const yaml = require("js-yaml");
 const svgSprite = require("eleventy-plugin-svg-sprite");
 const { eleventyImageTransformPlugin } = require("@11ty/eleventy-img");
-
-const execFileAsync = promisify(execFile);
 
 module.exports = async function (config) {
   const { EleventyHtmlBasePlugin, InputPathToUrlTransformPlugin } =
@@ -102,44 +98,6 @@ module.exports = async function (config) {
     }, []);
 
     return postsByYear;
-  });
-
-  let pagefindIndexing = false;
-  let pagefindQueued = false;
-
-  const runPagefindIndex = async (outputPath = "_site") => {
-    if (process.env.DISABLE_PAGEFIND_INDEXING === "1") {
-      return;
-    }
-
-    if (pagefindIndexing) {
-      // Coalesce rapid watch rebuilds into one follow-up index pass.
-      pagefindQueued = true;
-      return;
-    }
-
-    pagefindIndexing = true;
-    try {
-      await execFileAsync("npx", [
-        "pagefind",
-        "--site",
-        outputPath,
-        "--glob",
-        "case/**/*.html",
-      ]);
-    } catch (error) {
-      console.error("Pagefind indexing failed:", error.stderr || error.message);
-    } finally {
-      pagefindIndexing = false;
-      if (pagefindQueued) {
-        pagefindQueued = false;
-        await runPagefindIndex(outputPath);
-      }
-    }
-  };
-
-  config.on("eleventy.after", async ({ dir } = {}) => {
-    await runPagefindIndex(dir?.output || "_site");
   });
 
   // If BASEURL env variable exists, update pathPrefix to the BASEURL

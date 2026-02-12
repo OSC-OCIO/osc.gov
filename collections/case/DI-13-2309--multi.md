@@ -1,5 +1,4 @@
 ---
-title: DI-13-2309 and DI-13-2348
 source:
   agency: U.S. Navy
 cases:

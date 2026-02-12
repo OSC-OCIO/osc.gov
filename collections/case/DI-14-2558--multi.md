@@ -1,5 +1,4 @@
 ---
-title: DI-14-2558, DI-14-4626, and DI-15-0001
 source:
   agency: Agriculture
 cases:

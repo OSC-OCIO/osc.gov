@@ -1,6 +1,4 @@
 ---
-title: DI-15-1475, DI-15-4963, DI-15-4996, DI-15-5026, DI-15-5426, DI-15-5684, and
-  DI-15-6201
 source:
   agency: U.S. Navy
 cases:

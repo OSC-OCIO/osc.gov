@@ -1,5 +1,4 @@
 ---
-title: DI-15-1267 and DI-15-2012
 source:
   agency: Veterans Affairs
 cases:

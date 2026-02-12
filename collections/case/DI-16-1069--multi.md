@@ -1,5 +1,4 @@
 ---
-title: DI-16-1069, DI-14-1070, and DI-14-1071
 source:
   agency: Homeland Security
 cases:

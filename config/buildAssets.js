@@ -13,7 +13,7 @@ async function getFontFiles(assetPath) {
         return item.name;
       }
       return null;
-    })
+    }),
   );
   return fonts
     .filter((item) => item !== null)
@@ -38,7 +38,7 @@ async function createAssetPaths() {
   const assetsFiles = await Promise.all(
     assetDirs.map(async (dir) => {
       const files = await fs.readdir(
-        path.join(__dirname, "../_site/assets", dir)
+        path.join(__dirname, "../_site/assets", dir),
       );
       return files.map((file) => {
         const { name, ext } = path.parse(file);
@@ -49,7 +49,7 @@ async function createAssetPaths() {
           [key]: `/assets/${dir}/${file}`,
         };
       });
-    })
+    }),
   );
   const assets = Object.assign({}, ...assetsFiles.flat(), ...fontFiles.flat());
   const outputData = path.join(__dirname, "../_data/assetPaths.json");
