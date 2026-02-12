@@ -19,6 +19,9 @@ module.exports = async function (config) {
   config.addPassthroughCopy("admin");
   config.addPassthroughCopy("uploads");
   config.addPassthroughCopy("favicon.ico");
+  config.addPassthroughCopy({
+    "node_modules/@uswds/uswds/dist/img/sprite.svg": "assets/img/sprite.svg",
+  });
 
   // Add plugins
   config.addPlugin(pluginRss);
