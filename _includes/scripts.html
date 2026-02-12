@@ -36,3 +36,12 @@
     <script async src="https://search.usa.gov/javascripts/remote.loader.js" type="text/javascript"></script>
   {% endif %}
 {% endif %}
+
+{% if page.url contains '/resources/cases/' %}
+  <script type="module">
+    import * as pagefind from '/pagefind/pagefind.js';
+
+    window.casePagefind = pagefind;
+    window.dispatchEvent(new CustomEvent('casePagefindReady'));
+  </script>
+{% endif %}
