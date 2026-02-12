@@ -1,0 +1,9 @@
+{%- assign list_id_attr = '' -%}
+{%- if list_id -%}
+  {%- assign list_id_attr = ' id="' | append: list_id | append: '"' -%}
+{%- endif -%}
+<ul class="usa-card-group"{{ list_id_attr }}>
+{%- for post in items -%}
+{%- include 'case-item.html', post: post, pagefind_ignore: pagefind_ignore -%}
+{%- endfor -%}
+</ul>

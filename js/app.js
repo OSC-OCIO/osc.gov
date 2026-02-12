@@ -83,11 +83,35 @@ function responseFilters(response) {
 function normalizePath(url) {
   try {
     const parsed = new URL(url, window.location.origin);
-    const pathname = parsed.pathname || '/';
+    let pathname = parsed.pathname || '/';
+    pathname = pathname.replace(/\/index\.html$/i, '/');
+    pathname = pathname.replace(/\/{2,}/g, '/');
     return pathname.endsWith('/') ? pathname : `${pathname}/`;
   } catch (error) {
-    return url;
+    return String(url || '');
   }
+}
+
+function pathVariants(url) {
+  const normalized = normalizePath(url);
+  if (!normalized) {
+    return [];
+  }
+
+  const variants = new Set([normalized, normalized.toLowerCase()]);
+
+  if (normalized.endsWith('/')) {
+    const withoutTrailingSlash = normalized.slice(0, -1);
+    variants.add(withoutTrailingSlash);
+    variants.add(withoutTrailingSlash.toLowerCase());
+    variants.add(`${withoutTrailingSlash}/index.html`);
+    variants.add(`${withoutTrailingSlash}/index.html`.toLowerCase());
+  } else {
+    variants.add(`${normalized}/`);
+    variants.add(`${normalized}/`.toLowerCase());
+  }
+
+  return Array.from(variants);
 }
 
 function buildCaseTemplateLookup() {
@@ -105,7 +129,11 @@ function buildCaseTemplateLookup() {
       continue;
     }
 
-    map.set(normalizePath(link.getAttribute('href')), item);
+    const href = link.getAttribute('href');
+    const variants = pathVariants(href);
+    for (const variant of variants) {
+      map.set(variant, item);
+    }
   }
 
   return map;
@@ -115,7 +143,14 @@ function renderCaseList(container, docs, templateLookup) {
   container.innerHTML = '';
 
   for (const doc of docs) {
-    const template = templateLookup.get(normalizePath(doc.url));
+    let template;
+    for (const variant of pathVariants(doc.url)) {
+      template = templateLookup.get(variant);
+      if (template) {
+        break;
+      }
+    }
+
     if (template) {
       container.appendChild(template.cloneNode(true));
     }
@@ -239,6 +274,8 @@ async function initializeCaseSearch() {
   if (!listContainer || !queryInput || !form || !clearButton || !status) {
     return;
   }
+  const initialListMarkup = listContainer.innerHTML;
+  const initialStatusText = status.textContent;
 
   const selects = {
     agency: document.querySelector('#case-filter-agency'),
@@ -288,6 +325,34 @@ async function initializeCaseSearch() {
   let requestId = 0;
   let currentDocs = [];
   let currentPage = 1;
+  let searchModeActive = false;
+
+  const hasSearchCriteria = function () {
+    const hasQuery = queryInput.value.trim().length > 0;
+    const hasFilters = Object.keys(activeFilters(selects)).length > 0;
+    return hasQuery || hasFilters;
+  };
+
+  const exitSearchMode = function () {
+    if (!searchModeActive) {
+      return;
+    }
+
+    searchModeActive = false;
+    requestId += 1;
+    listContainer.innerHTML = initialListMarkup;
+    status.textContent = initialStatusText;
+
+    if (pagination) {
+      pagination.classList.remove('display-none');
+    }
+    if (searchPagination) {
+      searchPagination.classList.add('display-none');
+      searchPagination.innerHTML = '';
+    }
+
+    hydrateFilters();
+  };
 
   const renderCurrentPage = function () {
     // Client-side pagination over current Pagefind results.
@@ -316,6 +381,12 @@ async function initializeCaseSearch() {
   };
 
   const runSearch = async function () {
+    if (!hasSearchCriteria()) {
+      exitSearchMode();
+      return;
+    }
+
+    searchModeActive = true;
     requestId += 1;
     const thisRequest = requestId;
 
@@ -380,10 +451,8 @@ async function initializeCaseSearch() {
     for (const key of Object.keys(selects)) {
       selects[key].value = '';
     }
-    runSearch();
+    exitSearchMode();
   });
-
-  runSearch();
 }
 
 document.addEventListener('DOMContentLoaded', function () {

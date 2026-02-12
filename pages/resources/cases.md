@@ -46,18 +46,10 @@ lead: ​OSC receives and reviews [disclosures of wrongdoing](/Services/Pages/DU
 <p id="case-search-status" class="margin-top-2 text-base-darkest" aria-live="polite"></p>
 
 <section id="case-results">
-  <ul class="usa-card-group">
-{%- for post in posts -%}
-{%- include 'case-item.html', post: post, pagefind_ignore: true -%}
-{%- endfor -%}
-  </ul>
+{%- include 'case-list.html', items: posts, pagefind_ignore: true -%}
 </section>
 <div id="case-search-pagination" class="display-none"></div>
 
 <section class="display-none" aria-hidden="true">
-  <ul id="case-template-bank" class="usa-card-group">
-{%- for post in collections.case -%}
-{%- include 'case-item.html', post: post, pagefind_ignore: true -%}
-{%- endfor -%}
-  </ul>
+{%- include 'case-list.html', items: collections.case, list_id: 'case-template-bank', pagefind_ignore: true -%}
 </section>
