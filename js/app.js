@@ -1,10 +1,9 @@
-require('@uswds/uswds');
+require("@uswds/uswds");
 
-const DEFAULT_CASES_QUERY = 'DI-';
 const CASES_PER_PAGE = 10;
 const FILTER_LABELS = {
-  agency: 'All agencies',
-  year: 'All years',
+  agency: "All agencies",
+  year: "All years",
 };
 
 function waitForPagefind() {
@@ -14,7 +13,7 @@ function waitForPagefind() {
 
   return new Promise(function (resolve) {
     window.addEventListener(
-      'casePagefindReady',
+      "casePagefindReady",
       function () {
         resolve(window.casePagefind);
       },
@@ -25,7 +24,7 @@ function waitForPagefind() {
 
 function sortFilterEntries(filterName, values) {
   const entries = Object.entries(values || {});
-  if (filterName === 'year') {
+  if (filterName === "year") {
     return entries.sort(function (a, b) {
       return Number(b[0]) - Number(a[0]);
     });
@@ -37,22 +36,22 @@ function sortFilterEntries(filterName, values) {
 }
 
 function populateFilterSelect(select, filterName, values, selectedValue) {
-  select.innerHTML = '';
+  select.innerHTML = "";
 
-  const defaultOption = document.createElement('option');
-  defaultOption.value = '';
+  const defaultOption = document.createElement("option");
+  defaultOption.value = "";
   defaultOption.textContent = FILTER_LABELS[filterName];
   select.appendChild(defaultOption);
 
   const options = sortFilterEntries(filterName, values);
   for (const optionEntry of options) {
-    const value = (optionEntry[0] || '').trim();
+    const value = (optionEntry[0] || "").trim();
     const count = optionEntry[1];
     if (!value) {
       continue;
     }
 
-    const option = document.createElement('option');
+    const option = document.createElement("option");
     option.value = value;
     option.textContent = `${value} (${count})`;
     if (selectedValue && selectedValue === value) {
@@ -83,12 +82,12 @@ function responseFilters(response) {
 function normalizePath(url) {
   try {
     const parsed = new URL(url, window.location.origin);
-    let pathname = parsed.pathname || '/';
-    pathname = pathname.replace(/\/index\.html$/i, '/');
-    pathname = pathname.replace(/\/{2,}/g, '/');
-    return pathname.endsWith('/') ? pathname : `${pathname}/`;
+    let pathname = parsed.pathname || "/";
+    pathname = pathname.replace(/\/index\.html$/i, "/");
+    pathname = pathname.replace(/\/{2,}/g, "/");
+    return pathname.endsWith("/") ? pathname : `${pathname}/`;
   } catch (error) {
-    return String(url || '');
+    return String(url || "");
   }
 }
 
@@ -100,7 +99,7 @@ function pathVariants(url) {
 
   const variants = new Set([normalized, normalized.toLowerCase()]);
 
-  if (normalized.endsWith('/')) {
+  if (normalized.endsWith("/")) {
     const withoutTrailingSlash = normalized.slice(0, -1);
     variants.add(withoutTrailingSlash);
     variants.add(withoutTrailingSlash.toLowerCase());
@@ -115,21 +114,21 @@ function pathVariants(url) {
 }
 
 function buildCaseTemplateLookup() {
-  const bank = document.querySelector('#case-template-bank');
+  const bank = document.querySelector("#case-template-bank");
   const map = new Map();
   if (!bank) {
     return map;
   }
 
   // Reuse server-rendered case cards so JS controls behavior, not presentation.
-  const items = bank.querySelectorAll('li');
+  const items = bank.querySelectorAll("li");
   for (const item of items) {
-    const link = item.querySelector('a.usa-link');
-    if (!link || !link.getAttribute('href')) {
+    const link = item.querySelector("a.usa-link");
+    if (!link || !link.getAttribute("href")) {
       continue;
     }
 
-    const href = link.getAttribute('href');
+    const href = link.getAttribute("href");
     const variants = pathVariants(href);
     for (const variant of variants) {
       map.set(variant, item);
@@ -140,7 +139,7 @@ function buildCaseTemplateLookup() {
 }
 
 function renderCaseList(container, docs, templateLookup) {
-  container.innerHTML = '';
+  container.innerHTML = "";
 
   for (const doc of docs) {
     let template;
@@ -166,43 +165,64 @@ function pageSequence(totalPages, currentPage) {
   }
 
   if (currentPage <= 3) {
-    return [1, 2, 3, 4, 'ellipsis', totalPages];
+    return [1, 2, 3, 4, "ellipsis", totalPages];
   }
 
   if (currentPage >= totalPages - 2) {
-    return [1, 'ellipsis', totalPages - 3, totalPages - 2, totalPages - 1, totalPages];
+    return [
+      1,
+      "ellipsis",
+      totalPages - 3,
+      totalPages - 2,
+      totalPages - 1,
+      totalPages,
+    ];
   }
 
-  return [1, 'ellipsis', currentPage - 1, currentPage, currentPage + 1, 'ellipsis', totalPages];
+  return [
+    1,
+    "ellipsis",
+    currentPage - 1,
+    currentPage,
+    currentPage + 1,
+    "ellipsis",
+    totalPages,
+  ];
 }
 
-function renderSearchPagination(container, totalItems, currentPage, onPageChange) {
-  container.innerHTML = '';
+function renderSearchPagination(
+  container,
+  totalItems,
+  currentPage,
+  onPageChange,
+) {
+  container.innerHTML = "";
   const totalPages = Math.ceil(totalItems / CASES_PER_PAGE);
 
   if (totalPages <= 1) {
-    container.classList.add('display-none');
+    container.classList.add("display-none");
     return;
   }
 
-  container.classList.remove('display-none');
+  container.classList.remove("display-none");
 
-  const nav = document.createElement('nav');
-  nav.className = 'usa-pagination padding-top-2';
-  nav.setAttribute('aria-label', 'Pagination');
+  const nav = document.createElement("nav");
+  nav.className = "usa-pagination padding-top-2";
+  nav.setAttribute("aria-label", "Pagination");
 
-  const list = document.createElement('ul');
-  list.className = 'usa-pagination__list';
+  const list = document.createElement("ul");
+  list.className = "usa-pagination__list";
 
   if (currentPage > 1) {
-    const prevItem = document.createElement('li');
-    prevItem.className = 'usa-pagination__item usa-pagination__arrow';
-    const prevLink = document.createElement('a');
-    prevLink.href = '#';
-    prevLink.className = 'usa-pagination__link usa-pagination__previous-page';
-    prevLink.setAttribute('aria-label', 'Previous page');
-    prevLink.innerHTML = '<span class="usa-pagination__link-text"> Previous </span>';
-    prevLink.addEventListener('click', function (event) {
+    const prevItem = document.createElement("li");
+    prevItem.className = "usa-pagination__item usa-pagination__arrow";
+    const prevLink = document.createElement("a");
+    prevLink.href = "#";
+    prevLink.className = "usa-pagination__link usa-pagination__previous-page";
+    prevLink.setAttribute("aria-label", "Previous page");
+    prevLink.innerHTML =
+      '<span class="usa-pagination__link-text"> Previous </span>';
+    prevLink.addEventListener("click", function (event) {
       event.preventDefault();
       onPageChange(currentPage - 1);
     });
@@ -211,24 +231,24 @@ function renderSearchPagination(container, totalItems, currentPage, onPageChange
   }
 
   for (const page of pageSequence(totalPages, currentPage)) {
-    if (page === 'ellipsis') {
-      const overflowItem = document.createElement('li');
-      overflowItem.className = 'usa-pagination__item usa-pagination__overflow';
-      overflowItem.setAttribute('role', 'presentation');
-      overflowItem.textContent = ' … ';
+    if (page === "ellipsis") {
+      const overflowItem = document.createElement("li");
+      overflowItem.className = "usa-pagination__item usa-pagination__overflow";
+      overflowItem.setAttribute("role", "presentation");
+      overflowItem.textContent = " … ";
       list.appendChild(overflowItem);
       continue;
     }
 
-    const pageItem = document.createElement('li');
-    pageItem.className = 'usa-pagination__item usa-pagination__page-no';
+    const pageItem = document.createElement("li");
+    pageItem.className = "usa-pagination__item usa-pagination__page-no";
 
-    const pageLink = document.createElement('a');
-    pageLink.href = '#';
-    pageLink.className = `usa-pagination__button${page === currentPage ? ' usa-current' : ''}`;
-    pageLink.setAttribute('aria-label', `Page ${page}`);
+    const pageLink = document.createElement("a");
+    pageLink.href = "#";
+    pageLink.className = `usa-pagination__button${page === currentPage ? " usa-current" : ""}`;
+    pageLink.setAttribute("aria-label", `Page ${page}`);
     pageLink.textContent = String(page);
-    pageLink.addEventListener('click', function (event) {
+    pageLink.addEventListener("click", function (event) {
       event.preventDefault();
       onPageChange(page);
     });
@@ -238,14 +258,15 @@ function renderSearchPagination(container, totalItems, currentPage, onPageChange
   }
 
   if (currentPage < totalPages) {
-    const nextItem = document.createElement('li');
-    nextItem.className = 'usa-pagination__item usa-pagination__arrow';
-    const nextLink = document.createElement('a');
-    nextLink.href = '#';
-    nextLink.className = 'usa-pagination__link usa-pagination__next-page';
-    nextLink.setAttribute('aria-label', 'Next page');
-    nextLink.innerHTML = '<span class="usa-pagination__link-text"> Next </span>';
-    nextLink.addEventListener('click', function (event) {
+    const nextItem = document.createElement("li");
+    nextItem.className = "usa-pagination__item usa-pagination__arrow";
+    const nextLink = document.createElement("a");
+    nextLink.href = "#";
+    nextLink.className = "usa-pagination__link usa-pagination__next-page";
+    nextLink.setAttribute("aria-label", "Next page");
+    nextLink.innerHTML =
+      '<span class="usa-pagination__link-text"> Next </span>';
+    nextLink.addEventListener("click", function (event) {
       event.preventDefault();
       onPageChange(currentPage + 1);
     });
@@ -258,18 +279,20 @@ function renderSearchPagination(container, totalItems, currentPage, onPageChange
 }
 
 async function initializeCaseSearch() {
-  const root = document.querySelector('#case-search');
+  const root = document.querySelector("#case-search");
   if (!root) {
     return;
   }
 
-  const queryInput = document.querySelector('#case-search-query');
-  const form = document.querySelector('#case-search-form');
-  const clearButton = document.querySelector('#case-search-clear');
-  const status = document.querySelector('#case-search-status');
-  const listContainer = document.querySelector('#case-results .usa-card-group, #case-results .usa-collection');
-  const pagination = document.querySelector('.usa-pagination');
-  const searchPagination = document.querySelector('#case-search-pagination');
+  const queryInput = document.querySelector("#case-search-query");
+  const form = document.querySelector("#case-search-form");
+  const clearButton = document.querySelector("#case-search-clear");
+  const status = document.querySelector("#case-search-status");
+  const listContainer = document.querySelector(
+    "#case-results .usa-card-group, #case-results .usa-collection",
+  );
+  const pagination = document.querySelector(".usa-pagination");
+  const searchPagination = document.querySelector("#case-search-pagination");
   const templateLookup = buildCaseTemplateLookup();
   if (!listContainer || !queryInput || !form || !clearButton || !status) {
     return;
@@ -278,17 +301,17 @@ async function initializeCaseSearch() {
   const initialStatusText = status.textContent;
 
   const selects = {
-    agency: document.querySelector('#case-filter-agency'),
-    year: document.querySelector('#case-filter-year'),
+    agency: document.querySelector("#case-filter-agency"),
+    year: document.querySelector("#case-filter-year"),
   };
 
   let pagefind;
   try {
     pagefind = await waitForPagefind();
-    const basePath = window.casePagefindBasePath || '/pagefind/';
+    const basePath = window.casePagefindBasePath || "/pagefind/";
     await pagefind.options({ basePath });
   } catch (error) {
-    status.textContent = 'Search is temporarily unavailable.';
+    status.textContent = "Search is temporarily unavailable.";
     return;
   }
 
@@ -306,8 +329,8 @@ async function initializeCaseSearch() {
 
     if (!hasAnyFilters) {
       try {
-        const bootstrapResponse = await pagefind.search(DEFAULT_CASES_QUERY, {
-          sort: { date: 'desc' },
+        const bootstrapResponse = await pagefind.search(null, {
+          sort: { date: "desc" },
         });
         filters = responseFilters(bootstrapResponse);
       } catch (error) {
@@ -344,11 +367,11 @@ async function initializeCaseSearch() {
     status.textContent = initialStatusText;
 
     if (pagination) {
-      pagination.classList.remove('display-none');
+      pagination.classList.remove("display-none");
     }
     if (searchPagination) {
-      searchPagination.classList.add('display-none');
-      searchPagination.innerHTML = '';
+      searchPagination.classList.add("display-none");
+      searchPagination.innerHTML = "";
     }
 
     hydrateFilters();
@@ -361,11 +384,14 @@ async function initializeCaseSearch() {
     currentPage = Math.min(Math.max(currentPage, 1), totalPages);
 
     const startIndex = (currentPage - 1) * CASES_PER_PAGE;
-    const visibleDocs = currentDocs.slice(startIndex, startIndex + CASES_PER_PAGE);
+    const visibleDocs = currentDocs.slice(
+      startIndex,
+      startIndex + CASES_PER_PAGE,
+    );
     renderCaseList(listContainer, visibleDocs, templateLookup);
 
     if (total === 0) {
-      status.textContent = 'No matching cases found.';
+      status.textContent = "No matching cases found.";
     } else if (totalPages > 1) {
       status.textContent = `Showing ${total} matching cases. Page ${currentPage} of ${totalPages}.`;
     } else {
@@ -373,10 +399,15 @@ async function initializeCaseSearch() {
     }
 
     if (searchPagination) {
-      renderSearchPagination(searchPagination, total, currentPage, function (nextPage) {
-        currentPage = nextPage;
-        renderCurrentPage();
-      });
+      renderSearchPagination(
+        searchPagination,
+        total,
+        currentPage,
+        function (nextPage) {
+          currentPage = nextPage;
+          renderCurrentPage();
+        },
+      );
     }
   };
 
@@ -390,28 +421,28 @@ async function initializeCaseSearch() {
     requestId += 1;
     const thisRequest = requestId;
 
-    const query = queryInput.value.trim() || DEFAULT_CASES_QUERY;
+    const query = queryInput.value.trim() || null;
     const filters = activeFilters(selects);
 
-    status.textContent = 'Searching...';
+    status.textContent = "Searching...";
     if (pagination) {
-      pagination.classList.add('display-none');
+      pagination.classList.add("display-none");
     }
     if (searchPagination) {
-      searchPagination.classList.add('display-none');
+      searchPagination.classList.add("display-none");
     }
 
     let response;
     try {
       response = await pagefind.search(query, {
         filters: filters,
-        sort: { date: 'desc' },
+        sort: { date: "desc" },
       });
     } catch (error) {
       if (thisRequest !== requestId) {
         return;
       }
-      status.textContent = 'Search is temporarily unavailable.';
+      status.textContent = "Search is temporarily unavailable.";
       return;
     }
 
@@ -421,7 +452,12 @@ async function initializeCaseSearch() {
 
     const filterValues = responseFilters(response);
     for (const key of Object.keys(selects)) {
-      populateFilterSelect(selects[key], key, filterValues[key], selects[key].value);
+      populateFilterSelect(
+        selects[key],
+        key,
+        filterValues[key],
+        selects[key].value,
+      );
     }
 
     const docs = await Promise.all(
@@ -440,21 +476,21 @@ async function initializeCaseSearch() {
     debouncedSearch.timer = window.setTimeout(runSearch, 200);
   };
 
-  queryInput.addEventListener('input', debouncedSearch);
-  form.addEventListener('submit', function (event) {
+  queryInput.addEventListener("input", debouncedSearch);
+  form.addEventListener("submit", function (event) {
     event.preventDefault();
     runSearch();
   });
-  form.addEventListener('change', runSearch);
-  clearButton.addEventListener('click', function () {
-    queryInput.value = '';
+  form.addEventListener("change", runSearch);
+  clearButton.addEventListener("click", function () {
+    queryInput.value = "";
     for (const key of Object.keys(selects)) {
-      selects[key].value = '';
+      selects[key].value = "";
     }
     exitSearchMode();
   });
 }
 
-document.addEventListener('DOMContentLoaded', function () {
+document.addEventListener("DOMContentLoaded", function () {
   initializeCaseSearch();
 });
