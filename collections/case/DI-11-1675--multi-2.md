@@ -1,5 +1,4 @@
 ---
-title: DI-11-1675 and DI-11-1677
 source:
   agency: Transportation
   subagency: Federal Aviation Administration

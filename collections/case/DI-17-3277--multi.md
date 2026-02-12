@@ -1,5 +1,4 @@
 ---
-title: DI-17-3277, DI-18-3883, and DI-18-1621
 source:
   agency: U.S. Air Force
 cases:

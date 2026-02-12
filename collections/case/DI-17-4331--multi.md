@@ -1,5 +1,4 @@
 ---
-title: DI-17-4331 and DI-17-4242
 source:
   agency: Veterans Affairs
 cases:

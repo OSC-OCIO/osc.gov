@@ -1,5 +1,4 @@
 ---
-title: DI-12-3751 and DI-12-3765
 source:
   agency: U.S. Navy
 cases:

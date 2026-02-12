@@ -1,5 +1,4 @@
 ---
-title: DI-18-3920, DI-18-3924, and DI-18-3931
 source:
   agency: Homeland Security
 cases:

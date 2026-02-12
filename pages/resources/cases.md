@@ -1,5 +1,5 @@
 ---
-layout: layouts/post-index
+layout: layouts/case-index
 title: Public Files
 permalink: "/resources/cases{% if pagination.pageNumber > 0 %}/page/{{ pagination.pageNumber }}{% endif %}/index.html"
 pagination:
@@ -7,12 +7,49 @@ pagination:
   size: 10
   alias: posts
   reverse: true
+lead: ​OSC receives and reviews [disclosures of wrongdoing](/Services/Pages/DU.aspx) from federal whistleblowers. OSC publishes the reports in cases referred for investigation under 5 U.S.C. 1213(c) in its public file. The redacted reports, whistleblower comments, and letter referring the allegations to the agency are posted in chronological order as they are transmitted to the President. ​
 ---
 
-## Whistleblower Cases
+<section id="case-search" class="margin-y-4">
+  <form id="case-search-form" class="usa-form maxw-none" role="search">
+    <div class="grid-row grid-gap">
+      <div class="tablet:grid-col-4">
+        <label class="usa-label margin-top-0" for="case-search-query">Search public files</label>
+        <input
+          class="usa-input"
+          id="case-search-query"
+          name="query"
+          placeholder="Case number, agency, keyword..."
+        >
+      </div>
+      <div class="tablet:grid-col-3">
+        <label class="usa-label margin-top-0" for="case-filter-agency">Agency</label>
+        <select class="usa-select" id="case-filter-agency" name="agency">
+          <option value="">All agencies</option>
+        </select>
+      </div>
+      <div class="tablet:grid-col-3">
+        <label class="usa-label margin-top-0" for="case-filter-year">Year</label>
+        <select class="usa-select" id="case-filter-year" name="year">
+          <option value="">All years</option>
+        </select>
+      </div>
+      <div class="tablet:grid-col-2 display-flex flex-align-end">
+        <button type="button" class="usa-button usa-button--outline width-full" id="case-search-clear">
+          Clear
+        </button>
+      </div>
+    </div>
+  </form>
+</section>
 
-​OSC receives and reviews [disclosures of wrongdoing](/Services/Pages/DU.aspx) from federal whistleblowers. OSC publishes the reports in cases referred for investigation under 5 U.S.C. 1213(c) in its public file. The redacted reports, whistleblower comments, and letter referring the allegations to the agency are posted in chronological order as they are transmitted to the President. ​
+<p id="case-search-status" class="margin-top-2 text-base-darkest" aria-live="polite"></p>
 
-{%- for post in posts -%}
-{%- include 'case-item.html', post: post -%}
-{%- endfor -%}
+<section id="case-results">
+{%- include 'case-list.html', items: posts, pagefind_ignore: true -%}
+</section>
+<div id="case-search-pagination" class="display-none"></div>
+
+<section class="display-none" aria-hidden="true">
+{%- include 'case-list.html', items: collections.case, list_id: 'case-template-bank', pagefind_ignore: true -%}
+</section>

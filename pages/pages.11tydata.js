@@ -39,7 +39,6 @@ module.exports = {
         data.permalink === false ||
         (typeof data.permalink === "string" && data.permalink !== "")
       ) {
-        console.log(data.permalink);
         return data.permalink;
       }
 

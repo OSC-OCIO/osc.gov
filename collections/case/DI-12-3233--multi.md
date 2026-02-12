@@ -1,5 +1,4 @@
 ---
-title: DI-12-3233 and DI-13-4055
 source:
   agency: General Services Administration
 cases:

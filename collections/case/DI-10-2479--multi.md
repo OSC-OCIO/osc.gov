@@ -1,5 +1,4 @@
 ---
-title: DI-10-2479 and DI-10-3213
 source:
   agency: U.S. Army
 cases:
