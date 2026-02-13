@@ -164,7 +164,7 @@ iframe.yt-shortcode {
   margin-bottom: -1px;
   display: flex;
   align-items: center;
-  gap: 0.5rem;
+  gap: 0.75rem;
 }
 
 .foia-report-list li:nth-child(odd) {
@@ -172,7 +172,13 @@ iframe.yt-shortcode {
 }
 
 .foia-report-list .usa-icon {
+  display: inline-flex;
   flex-shrink: 0;
+
+  svg {
+    width: 1.5rem;
+    height: 1.5rem;
+  }
 }
 
 .foia-report-list a {
@@ -181,13 +187,13 @@ iframe.yt-shortcode {
   text-decoration: none;
 }
 
-//   .usa-card__container {
-//   @include border-box-sizing;
-//   @include set-text-and-bg("base-lightest");
-//   @include u-border("transparent");
-//   @include u-display("flex");
-//   @include u-height("full");
-//   @include u-flex("column");
-//   @include u-position("relative");
-//   @include u-shadow(1)
+// .usa-card__container {
+// @include border-box-sizing;
+// @include set-text-and-bg("base-lightest");
+// @include u-border("transparent");
+// @include u-display("flex");
+// @include u-height("full");
+// @include u-flex("column");
+// @include u-position("relative");
+// @include u-shadow(1)
 // }
