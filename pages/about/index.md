@@ -1,6 +1,6 @@
 ---
 title: About OSC
-\eleventyNavigation:
+eleventyNavigation:
   order: 1
   url: /about/about
 ---

@@ -1,7 +1,6 @@
 ---
 title: File a Complaint
-redirect_to: /file-complaint/onlineportal
 eleventyNavigation:
   order: 5
+  url: /file-complaint/onlineportal
 ---
-
