@@ -41,3 +41,4 @@ topics:
 ---
 
 {% include 'hero.html', hero: hero %}
+{% include 'highlights.html', topics: topics %}
