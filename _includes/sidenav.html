@@ -3,7 +3,8 @@
 {% assign currentSection = false %}
 
 {%- for entry in navPages[0].children -%}
-  {%- if entry.url and currentUrl contains entry.url -%}
+  {%- assign entrySectionUrl = entry.key | default: entry.url -%}
+  {%- if entrySectionUrl and currentUrl contains entrySectionUrl -%}
     {%- assign currentSection = entry -%}
     {%- break -%}
   {%- endif -%}
@@ -18,14 +19,34 @@
     {%- if currentSection -%}
       <ul class="usa-sidenav">
         {%- for child in currentSection.children -%}
+          {%- assign childHref = child.url -%}
+          {%- if child.children.size > 0 -%}
+            {%- assign firstVisibleChildHref = "" -%}
+            {%- assign overviewChildHref = "" -%}
+            {%- for grandchild in child.children -%}
+              {%- unless grandchild.hideInSideNav -%}
+                {%- if firstVisibleChildHref == "" -%}
+                  {%- assign firstVisibleChildHref = grandchild.url -%}
+                {%- endif -%}
+                {%- if overviewChildHref == "" and grandchild.url contains "/overview/" -%}
+                  {%- assign overviewChildHref = grandchild.url -%}
+                {%- endif -%}
+              {%- endunless -%}
+            {%- endfor -%}
+            {%- if overviewChildHref != "" -%}
+              {%- assign childHref = overviewChildHref -%}
+            {%- elsif firstVisibleChildHref != "" -%}
+              {%- assign childHref = firstVisibleChildHref -%}
+            {%- endif -%}
+          {%- endif -%}
           {%- assign isCurrentChild = false -%}
           {%- if child.url and currentUrl contains child.url -%}
             {%- assign isCurrentChild = true -%}
           {%- endif -%}
           <li class="usa-sidenav__item">
             <a
-              href="{{ child.url }}"
-              {%- if child.url == currentUrl -%}
+              href="{{ childHref }}"
+              {%- if child.url == currentUrl or childHref == currentUrl -%}
                 class="usa-current"
               {%- endif -%}
             >

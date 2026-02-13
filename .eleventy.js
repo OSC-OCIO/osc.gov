@@ -18,6 +18,9 @@ module.exports = async function (config) {
   config.addPassthroughCopy("admin");
   config.addPassthroughCopy("uploads");
   config.addPassthroughCopy("favicon.ico");
+  // Keep legacy /img/* URLs working when eleventy-img transforms are disabled
+  // (e.g. in local development for faster rebuilds).
+  config.addPassthroughCopy("img");
 
   // Add plugins
   config.addPlugin(pluginRss);
