@@ -9,6 +9,7 @@ const { eleventyImageTransformPlugin } = require("@11ty/eleventy-img");
 
 module.exports = async function (config) {
   const { EleventyHtmlBasePlugin } = await import("@11ty/eleventy");
+  const isProduction = process.env.ELEVENTY_ENV === "production";
 
   // Set pathPrefix for site
   let pathPrefix = "/";
@@ -23,18 +24,20 @@ module.exports = async function (config) {
   config.addPlugin(pluginNavigation);
   config.addPlugin(EleventyHtmlBasePlugin);
 
-  config.addPlugin(eleventyImageTransformPlugin, {
-    failOnError: false,
-    widths: ["auto", 600],
-    htmlOptions: {
-      imgAttributes: {
-        loading: "lazy",
-        decoding: "async",
+  if (isProduction) {
+    config.addPlugin(eleventyImageTransformPlugin, {
+      failOnError: false,
+      widths: ["auto", 600],
+      htmlOptions: {
+        imgAttributes: {
+          loading: "lazy",
+          decoding: "async",
+        },
+        pictureAttributes: {},
+        fallback: "largest", // or "smallest"
       },
-      pictureAttributes: {},
-      fallback: "largest", // or "smallest"
-    },
-  });
+    });
+  }
 
   // SVG Sprite Plugin for USWDS icons
   config.addPlugin(svgSprite, {
