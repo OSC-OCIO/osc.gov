@@ -32,9 +32,6 @@ module.exports = {
   eleventyComputed: {
     permalink: (data) => {
       // If the page sets permalink (including false), respect it.
-      // if (Boolean(data.permalink)) {
-      //   return data.permalink;
-      // }
       if (
         data.permalink === false ||
         (typeof data.permalink === "string" && data.permalink !== "")

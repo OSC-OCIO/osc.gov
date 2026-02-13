@@ -1,7 +1,7 @@
 title: U.S. Office of Special Counsel
 email: info@osc.gov
 description: >-
-  My agency rocks!
+  The U.S. Office of Special Counsel (OSC) is an independent federal investigative and prosecutorial agency. OSC's statutory authority comes from four federal laws: the Civil Service Reform Act, the Whistleblower Protection Act, the Hatch Act, and the Uniformed Services Employment & Reemployment Rights Act (USERRA).
 
 alert:
   enabled: false
@@ -15,7 +15,7 @@ social-media:
     link: "https://www.youtube.com/channel/UCx5trnGvaEc-tuytqNwafpA"
 
 # Used to construct absolute URLs throughout the site
-url: "https://www.MyAgency.gov"
+url: "https://www.osc.gov"
 
 # Digital Analytics Program (DAP) configuration
 dap:

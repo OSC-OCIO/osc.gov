@@ -8,8 +8,7 @@ const svgSprite = require("eleventy-plugin-svg-sprite");
 const { eleventyImageTransformPlugin } = require("@11ty/eleventy-img");
 
 module.exports = async function (config) {
-  const { EleventyHtmlBasePlugin, InputPathToUrlTransformPlugin } =
-    await import("@11ty/eleventy");
+  const { EleventyHtmlBasePlugin } = await import("@11ty/eleventy");
 
   // Set pathPrefix for site
   let pathPrefix = "/";
@@ -23,7 +22,6 @@ module.exports = async function (config) {
   config.addPlugin(pluginRss);
   config.addPlugin(pluginNavigation);
   config.addPlugin(EleventyHtmlBasePlugin);
-  config.addPlugin(InputPathToUrlTransformPlugin);
 
   config.addPlugin(eleventyImageTransformPlugin, {
     failOnError: false,
