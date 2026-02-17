@@ -4,29 +4,31 @@ eleventyNavigation:
   order: 0
 ---
 
+{% youtube "https://www.youtube.com/watch?v=DFWPsuareiE" %}
+
+##
 
 ​​Prohibited personnel practices (PPPs) are employment-related activities that are banne​​d in the federal workforce because they violate the merit system through some form of employment discrimination, retaliation, improper hiring practices, or failure to adhere to laws, rules, or regulations that directly concern the merit system principles.
 
-OSC has the authority to investigate and prosecute violations of the 14 PPPs.​​
+OSC has the authority to investigate and prosecute violations of the 14 PPPs:
 
-- Discrimination
-- Considering Inappropriate Recommendations
-- Coercin​​​​​g Political Activity
-- Obstructing Competition
-- Influencing Withdrawal from Competition
-- Granting Unauthorized Advantage
-- Nepotism
-- Whistleblower Retaliation
-- Other Retaliation
-- Other Discrimination
-- Veterans Preference
-- Violating Rules That Implement a Merit System Principle
-- Imposing Nond​isclosure Agreement That Doesn't Allow Whistleblowin​g
-- ​Accessing Medical Records in Furtherance of Another PPP
+##
 
-## Discrimination
+<div class="usa-accordion usa-accordion--multiselectable" data-allow-multiple>
+  <h4 class="usa-accordion__heading">
+    <button
+      type="button"
+      class="usa-accordion__button"
+      aria-expanded="false"
+      aria-controls="m-a1"
+    >
+      Discrimination
+    </button>
+  </h4>
+  <div id="m-a1" class="usa-accordion__content usa-prose">
+    <p>
 
-​​​An agency official shall not discriminate against an employee or applicant based on race, color, religion, sex, national origin, age, disability (or handicapping condition), marital status, or political affiliation. [5 U.S.C. § 2302(b​)(1)](https://www.law.cornell.edu/uscode/text/5/2302)
+​​​An agency official shall not discriminate against an employee or applicant based on race, color, religion, sex, national origin, age, disability (or handicapping condition), marital status, or political affiliation. [5 U.S.C. § 2302(b​)(1)](https://www.law.cornell.edu/uscode/text/5/2302)
 
 This PPP wraps together a number of different laws that prohibit discrimination.​
 
@@ -38,11 +40,25 @@ For discrimination claims regarding marital status and political affiliation: OS
 
 For discrimination claims regarding sexual orientation and gender identity: These types of discrimination may be covered under this provision, but are also covered under the PPP referred to as “Other Discrimination,” or [5 U.S.C. § 2302(b)(10)](https://www.law.cornell.edu/uscode/text/5/2302). OSC investigates these claims and generally does not defer them to any other complaint processes. EEOC has stated that discrimination claims on these bases also may be brought under the EEO process.
 
-In January 2014, OSC and EEOC signed a new [memorandum of ​​​understanding](mou-osc-eeoc.md)​​​ on coordination in the enforcement of anti-discrimination laws in the federal workplace.​
+In January 2014, OSC and EEOC signed a new memorandum of ​​​understanding​​​ on coordination in the enforcement of anti-discrimination laws in the federal workplace.​
 
-**Discrimination** [**Video​**](https://youtu.be/b7AxzrnFrZY?t=25)**​**
+**Discrimination** [**Video​**](https://youtu.be/b7AxzrnFrZY?t=25)
 
-## Considering Inappropriate Recommendations
+</p>
+
+  </div>
+  <h4 class="usa-accordion__heading">
+    <button
+      type="button"
+      class="usa-accordion__button"
+      aria-expanded="false"
+      aria-controls="m-a2"
+    >
+      Considering Inappropriate Recommendations
+    </button>
+  </h4>
+  <div id="m-a2" class="usa-accordion__content usa-prose">
+    <p>
 
 ​An agency official shall not request or consider a recommendation based on political connections or influence. [5 U.S.C. § 2302(b)(2)](https://www.law.cornell.edu/uscode/text/5/2302)
 
@@ -50,15 +66,43 @@ This PPP prohibits requesting or considering recommendations about an employee o
 
 **Example**: A ​member of Congress contacts a federal official who is hiring an applicant and recommends that the official hire a constituent. That Congressman does not have personal knowledge of the constituent’s work performance or character. If the official acts upon that recommendation, the personnel action would fall within this prohibition. On the other hand, recommendations from colleagues or from other supervisors at the agency would not fall within this prohibition, unless there is an element of political interference. Likewise, a member of Congress may recommend someone for an open position, as long as the member has personal knowledge of the candidate's qualifica​​tions.​ 
 
-## Coercin​​​​​g Political Activity
+</p>
+
+  </div>
+  <h4 class="usa-accordion__heading">
+    <button
+      type="button"
+      class="usa-accordion__button"
+      aria-expanded="false"
+      aria-controls="m-a3"
+    >
+      Coercin​​​​​g Political Activity
+    </button>
+  </h4>
+  <div id="m-a3" class="usa-accordion__content usa-prose">
+    <p>
 
 ​An agency official shall not coerce the political activity of any person or retaliate against an employee for refusing to engage in political activity. [5 U.S.C. § 2302(b)(3)](https://www.law.cornell.edu/uscode/text/5/2302)
 
-This PPP is in p​​​lace to help keep partisan politics out of the federal workplace. An employee cannot be pressured into political activity by a superior. This section also prohibits retaliation against an employee for refusing to engage in political activity. Allegations of this kind should be filed with OSC's Hatch Act Unit by clicking [here](/Documents/Resources/Forms/osc13.pdf)​.
+This PPP is in p​​​lace to help keep partisan politics out of the federal workplace. An employee cannot be pressured into political activity by a superior. This section also prohibits retaliation against an employee for refusing to engage in political activity. Allegations of this kind should be filed with OSC's Hatch Act Unit by clicking [here](/~assets/docs/osc13.pdf)​.
 
 **​Example**: A subordinate employee declines to donate money to a candidate his supervisor fervently supports. After learning of this, the supervisor begins to deny that employee some privileges of employment. For instance, the supervisor removes the employee's teleworking conditions and denies him requested training.​
 
-## Obstructing Competition
+</p>
+
+  </div>
+  <h4 class="usa-accordion__heading">
+    <button
+      type="button"
+      class="usa-accordion__button"
+      aria-expanded="false"
+      aria-controls="m-a4"
+    >
+      Obstructing Competition
+    </button>
+  </h4>
+  <div id="m-a4" class="usa-accordion__content usa-prose">
+    <p>
 
 ​An agency official shall not intentionally deceive or obstruct anyone from competing for employment. [5 U.S.C. § 2302(b)(4)](https://www.law.cornell.edu/uscode/text/5/2302)
 
@@ -68,7 +112,21 @@ This PPP prohibits an agency official from willfully obstructing a person’s ri
 
 **Hiring** **Violations** [Video](https://youtu.be/MFCWXbXwvKI)​
 
-## Influencing Withdrawal from Competition
+</p>
+
+  </div>
+  <h4 class="usa-accordion__heading">
+    <button
+      type="button"
+      class="usa-accordion__button"
+      aria-expanded="false"
+      aria-controls="m-a5"
+    >
+      Influencing Withdrawal from Competition
+    </button>
+  </h4>
+  <div id="m-a5" class="usa-accordion__content usa-prose">
+    <p>
 
 ​An agency official shall not influence anyone to withdraw from competition in order to improve or injure the employment prospects of any person. [5 U.S.C. § 2302(b)(5)](https://www.law.cornell.edu/uscode/text/5/2302)
 
@@ -78,7 +136,21 @@ This PPP means that an agency o​fficial cannot try to persuade an applicant to
 
 **Hiring** **Violations** [Video](https://youtu.be/MFCWXbXwvKI)
 
-## Granting Unauthorized Advantage
+</p>
+
+  </div>
+    <h4 class="usa-accordion__heading">
+    <button
+      type="button"
+      class="usa-accordion__button"
+      aria-expanded="false"
+      aria-controls="m-a6"
+    >
+      Granting Unauthorized Advantage
+    </button>
+  </h4>
+  <div id="m-a6" class="usa-accordion__content usa-prose">
+    <p>
 
 ​​An agency official shall not give an unauthorized advantage in order to improve or injure the employment prospects of any person. [5 U.S.C. § 2302(b)(6)](https://www.law.cornell.edu/uscode/text/5/2302)
 
@@ -88,7 +160,21 @@ This PPP, which can be complex, prohibits agency officials from providing a wron
 
 **Hiring** **Violations** [Video​](https://youtu.be/MFCWXbXwvKI)​
 
-## Nepotism
+</p>
+
+  </div>
+  <h4 class="usa-accordion__heading">
+    <button
+      type="button"
+      class="usa-accordion__button"
+      aria-expanded="false"
+      aria-controls="m-a7"
+    >
+      Nepotism
+    </button>
+  </h4>
+  <div id="m-a7" class="usa-accordion__content usa-prose">
+    <p>
 
 ​A federal government employee shall not engage in nepotism (i.e., hire, promote, or advocate the hiring or promotion of relatives). [5 U.S.C. § 2302(b)(7)](https://www.law.cornell.edu/uscode/text/5/2302)
 
@@ -98,7 +184,21 @@ This PPP simply states that federal government employees cannot hire or promote 
 
 **​Example**: An official is in the chain of command of his spouse. He directs his employee, who directly supervises the spouse, to give the spouse a bonus.​ 
 
-## Whistleblower Retaliation
+</p>
+
+  </div>
+  <h4 class="usa-accordion__heading">
+    <button
+      type="button"
+      class="usa-accordion__button"
+      aria-expanded="false"
+      aria-controls="m-a8"
+    >
+      Whistleblower Retaliation
+    </button>
+  </h4>
+  <div id="m-a8" class="usa-accordion__content usa-prose">
+    <p>
 
 ​An agency official shall not retaliate against an employee for whistleblowing. [5 U.S.C. § 2302(b)(8)](https://www.law.cornell.edu/uscode/text/5/2302)
 
@@ -120,7 +220,21 @@ This PPP prohibits agency officials from taking, failing to take, or threatening
 
 \***\*Retaliation** ​for Whistleblowing** [**Video\*\*](https://youtu.be/p0O16LLCSmE?t=15)
 
-## Other Retaliation
+</p>
+
+  </div>
+  <h4 class="usa-accordion__heading">
+    <button
+      type="button"
+      class="usa-accordion__button"
+      aria-expanded="false"
+      aria-controls="m-a9"
+    >
+      Other Retaliation
+    </button>
+  </h4>
+  <div id="m-a9" class="usa-accordion__content usa-prose">
+    <p>
 
 ​An agency official shall not retaliate because an employee:
 
@@ -141,7 +255,21 @@ This PPP prohibits agency officials from taking, failing to take, or threatening
 
 \***\*Retaliation** ​for Whistleblowing** [**Video\*\*](https://youtu.be/p0O16LLCSmE?t=15)​
 
-## Other Discrimination
+</p>
+
+  </div>
+  <h4 class="usa-accordion__heading">
+    <button
+      type="button"
+      class="usa-accordion__button"
+      aria-expanded="false"
+      aria-controls="m-a10"
+    >
+      Other Discrimination
+    </button>
+  </h4>
+  <div id="m-a10" class="usa-accordion__content usa-prose">
+    <p>
 
 ​An agency official shall not discriminate due to conduct that does not adversely affect job performance. [5 U.S.C. § 2302(b)(10)](https://www.law.cornell.edu/uscode/text/5/2302)
 
@@ -149,9 +277,23 @@ This PPP prohibits agency officials from penalizing their employees for conduct 
 
 **Example**: A supervisor discovers that one of her subordinate employees is gay. Following the supervisor’s discovery, the gay employee is targeted for disparate treatment. For instance, the employee’s time and attendance is scrutinized daily and the employee is forced to take leave for as little as three minute absences, while other employees’ similar absences are ignored. The supervisor also changes the targeted employee’s schedule to night shift work and openly disparages the employee at staff meetings. To learn more, click [here](https://www.youtube.com/embed/b7AxzrnFrZY).
 
-**Discrimination** [**Video​**](https://youtu.be/b7AxzrnFrZY?t=25)**​**
+**Discrimination** [**Video​**](https://youtu.be/b7AxzrnFrZY?t=25)
 
-## Veterans Preference
+</p>
+
+  </div>
+  <h4 class="usa-accordion__heading">
+    <button
+      type="button"
+      class="usa-accordion__button"
+      aria-expanded="false"
+      aria-controls="m-a11"
+    >
+      Veterans Preference
+    </button>
+  </h4>
+  <div id="m-a11" class="usa-accordion__content usa-prose">
+    <p>
 
 ​​An agency official shall not take or fail to take, recommend, or approve a personnel action if the official knows that doing so would violate a veterans’ preference requirement. [5 U.S.C. § 2302(b)(11)](https://www.law.cornell.edu/uscode/text/5/2302)
 
@@ -159,7 +301,21 @@ This PPP ensures that the veterans’ preferences for federal government jobs ar
 
 **Example:** A veterans’ preference requirement may place a veteran at the top of a list of eligible candidates for a job. If a supervisor fails to observe a veterans’ preference requirement, such as not appropriately ranking a veteran in accordance with his military service, that could be an example of a veterans’ preference violation.​​
 
-## Violating Rules That Implement a Merit System Principle
+</p>
+
+  </div>
+  <h4 class="usa-accordion__heading">
+    <button
+      type="button"
+      class="usa-accordion__button"
+      aria-expanded="false"
+      aria-controls="m-a12"
+    >
+    Violating Rules That Implement a Merit System Principle
+    </button>
+  </h4>
+  <div id="m-a12" class="usa-accordion__content usa-prose">
+    <p>
 
 ​An agency official shall not take or fail to take a personnel action if doing so would violate a law, rule or regulation implementing or directly concerning the merit system principles. [5 U.S.C. § 2302(b)(12)](https://www.law.cornell.edu/uscode/text/5/2302)
 
@@ -171,7 +327,21 @@ There are numerous laws, rules, and regulations governing various aspects of fed
 
 **Merit System Principles** [**Video**](https://youtu.be/5mmuhxUmJsk?t=22)
 
-## Imposing Nond​isclosure Agreement That Doesn't Allow Whistleblowin​g
+</p>
+
+  </div>
+  <h4 class="usa-accordion__heading">
+    <button
+      type="button"
+      class="usa-accordion__button"
+      aria-expanded="false"
+      aria-controls="m-a13"
+    >
+    Imposing Nond​isclosure Agreement That Doesn't Allow Whistleblowin​g
+    </button>
+  </h4>
+  <div id="m-a13" class="usa-accordion__content usa-prose">
+    <p>
 
 ​An agency official shall not implement or enforce a non-disclosure policy, form or agreement if it does not contain a specific statement notifying employees of their rights, obligations, or liabilities relating to classified information, communications to Congress, whistleblowing to an Inspector General, or any other whistleblower protection. [5 U.S.C. § 2302(b)(13)](https://www.law.cornell.edu/uscode/text/5/2302)
 
@@ -181,7 +351,21 @@ This PPP, which was added in 2012 under the Whistleblower Protection Enhancement
 
 **Prohibitions on Non-Disclosure**  [**Video**](https://youtu.be/3b0h5XjIM4k?t=5)
 
-## ​Accessing Medical Records in Furtherance of Another PPP
+</p>
+
+  </div>
+  <h4 class="usa-accordion__heading">
+    <button
+      type="button"
+      class="usa-accordion__button"
+      aria-expanded="false"
+      aria-controls="m-a14"
+    >
+    ​Accessing Medical Records in Furtherance of Another PPP
+    </button>
+  </h4>
+  <div id="m-a14" class="usa-accordion__content usa-prose">
+    <p>
 
 ​​An agency official shall not access the medical record of another employee or applicant in furtherance of any conduct pro​​scribed by the 13 other PPPs. ​5 U.S.C. § 2302(b)(14)
 
@@ -191,34 +375,7 @@ This PPP, which was added as part of the Dr. Chris Kirkpatrick Whistleblower Pro
 
 **Example**: An employee is acknowledged as the leading candidate for promotion in an upcoming merit competition. One manager, however, favors a different candidate for non-merit reasons. In order to promote this candidate over the employee, the manager accesses the employee’s medical records in a search for medical information that might argue against the employee’s selection in the competition. Regardless of what the manager discovers, he has committed this PPP because he has accessed medical information in an effort to grant unauthorized preference to another candidate.​​
 
-## Accordion Control
+</p>
 
-"use strict"; var t = setInterval(function() { if(window.jQuery) { clearInterval(t); (function ($) { $(function(){ //are we in edit mode? if(!$('.ms-SPZoneLabel').length){ //iterate over each web part zone $('div.ms-webpart-zone').each(function(i){ //current web part zone var wpzone = $(this); //check if have tab script data-script-id if(wpzone.find('\[data-script-id="ResponsiveTabs"\]').length){ var ResponsiveTabsScript = wpzone.find('\[data-script-id="ResponsiveTabs"\]'); //if tab script exists in the current zone. if(ResponsiveTabsScript.length){ wpzone.find('div.ms-webpartzone-cell').addClass('tabZone'); var largestWidth = 0; //get tab "titles"; if any LI elements, the tab has been created // skip this tabGroup, hide the title content var tabTitles = wpzone.find('.resp-tabs-list'); if(tabTitles.find('li').length){ return; } //get tabs container and assign ID var tabs = wpzone.find('.tabs'); tabs.attr('id', 'tabGroup' + i) //get tab content container var tabContent = wpzone.find('.resp-tabs-container'); //get all web parts in zone and iterate var wparts = wpzone.find('.ms-webpartzone-cell'); wparts.each(function(i){ //if this is the tab script, skip this zone if($(this).find(ResponsiveTabsScript).length){ $(this).find('h2.ms-webpart-titleText').hide(); return; } //get web part title and content element var title = $(this).find('h2.ms-webpart-titleText').hide().text(); var bodyElement = $(this).find('\[webpartid\]'); $(this).find('.ms-webpart-chrome-title').hide(); largestWidth = bodyElement.width() > largestWidth ? bodyElement.width() : largestWidth; //if title is empty, assign a title if(title == '') title = 'No Title'; //create an LI element for the tab and append the web part content tabTitles.append($('<li>', {text: title})); //tabContent.append(bodyElement); tabContent.append($('<div>', { "class": "webpart-container"}).append(bodyElement)); }); tabs.find('li').each(function(index){ $(this).addClass('list-item-' + index); }); wpzone.prepend(tabs); //instantiate tabs tabs.easyResponsiveTabs({activate: function(){ var tabId = $(this).attr('aria-controls'); var tabContent = tabs.find('div\[aria-labelledby=' + tabId + '\]') if(tabContent.find('.ms-acal-header').length == 1) { var calendar = tabContent.find('.ms-acal-header'); //calendar.hide(); var parent = calendar.parents('\[webpartid\]:first'); var ctxid = parent.attr('id') ctxid = ctxid.substr(ctxid.indexOf('WebPart') + 7); if(parent.find('.ms-acal-month').length){ \_MoveToViewDate(null, 'month', ctxid); } else if(parent.find('.ms-acal-week-top').length){ \_MoveToViewDate(null, 'week', ctxid); } else if(parent.find('.ms-acal-day-top').length){ \_MoveToViewDate(null, 'day', ctxid); } } }}); } } }); $('.tabs').parent().wrapInner('<div class="tabWrap"/>'); $('.tabWrap').parent().css({display: "block"}); //unhide tabs if using #tabs to hide before wrapped $('#tabs').show(); //class on a header for tab groups $('h2.tab-group-header').parents('.ms-webpartzone-cell').addClass('tab-group-header-wrap'); // remove zero width unicode character $('h2.tab-group-header').each(function(){ var $el = $(this); $el.html($el.html().replace(/\\u200B/g,'')) }); // remove zero width unicode character from other elements $('.tabWrap,.tabs,.resp-tabs-container').each(function(){ var $wrap = $(this); $wrap.contents().filter(function(){ return this.nodeType === 3}) .each(function(){ var matches = this.nodeValue.match(/\\u200B/); if(matches && matches.length) { this.nodeValue = ''; } }) }); } }); })(jQuery); } },1);
-
-## Discrimination
-
-## Considering Inappropriate Recommendations
-
-## Coercin​​​​​g Political Activity
-
-## Obstructing Competition
-
-## Influencing Withdrawal from Competition
-
-## Granting Unauthorized Advantage
-
-## Nepotism
-
-## Whistleblower Retaliation
-
-## Other Retaliation
-
-## Other Discrimination
-
-## Veterans Preference
-
-## Violating Rules That Implement a Merit System Principle
-
-## Imposing Nond​isclosure Agreement That Doesn't Allow Whistleblowin​g
-
-## ​Accessing Medical Records in Furtherance of Another PPP
+  </div>
+</div>
