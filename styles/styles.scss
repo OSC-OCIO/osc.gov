@@ -61,6 +61,17 @@ img {
   height: auto;
 }
 
+.usa-icon {
+  display: inline-flex;
+  flex-shrink: 0;
+
+  svg {
+    width: 1.5rem;
+    height: 1.5rem;
+    fill: currentColor;
+  }
+}
+
 .logo-placeholder {
   background-color: #f2f2f2;
   border: 1px solid #dfe1e2;
@@ -159,6 +170,33 @@ iframe.yt-shortcode {
   max-height: 25rem;
   width: 100%;
 }
+
+.video-grid iframe.yt-shortcode {
+  aspect-ratio: 16 / 9;
+  max-height: none;
+  width: 100%;
+  height: auto;
+}
+
+.foia-report-list li {
+  border: 1px solid #dfe1e2;
+  padding: 0.75rem 1rem;
+  margin-bottom: -1px;
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+}
+
+.foia-report-list li:nth-child(odd) {
+  background-color: color("base-lightest");
+}
+
+.foia-report-list a {
+  font-weight: 700;
+  color: color("base-darkest");
+  text-decoration: none;
+}
+
 //   .usa-card__container {
 //   @include border-box-sizing;
 //   @include set-text-and-bg("base-lightest");
@@ -169,4 +207,3 @@ iframe.yt-shortcode {
 //   @include u-position("relative");
 //   @include u-shadow(1)
 // }
-// rekick build
