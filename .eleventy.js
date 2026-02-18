@@ -12,10 +12,11 @@ module.exports = async function (config) {
   const isProduction = process.env.ELEVENTY_ENV === "production";
 
   // Set pathPrefix for site
-  let pathPrefix = "/";
-  if (process.env.BASEURL) {
-    pathPrefix = process.env.BASEURL;
+  let pathPrefix = process.env.BASEURL || "/";
+  if (!pathPrefix.startsWith("/")) {
+    pathPrefix = `/${pathPrefix}`;
   }
+  pathPrefix = pathPrefix.replace(/\/+$/, "") || "/";
 
   // Copy the `admin` folders to the output
   config.addPassthroughCopy("admin");
@@ -28,7 +29,9 @@ module.exports = async function (config) {
   // Add plugins
   config.addPlugin(pluginRss);
   config.addPlugin(pluginNavigation);
-  config.addPlugin(EleventyHtmlBasePlugin);
+  config.addPlugin(EleventyHtmlBasePlugin, {
+    baseHref: pathPrefix,
+  });
 
   if (isProduction) {
     config.addPlugin(eleventyImageTransformPlugin, {
