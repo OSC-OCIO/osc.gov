@@ -8,8 +8,6 @@ eleventyNavigation:
 
 {% youtube "https://www.youtube.com/watch?v=BzPPQN4lv18&t=1s" %}
 
-##
-
 - [USERRA Statute](https://uscode.house.gov/view.xhtml?path=/prelim@title38/part3/chapter43&edition=prelim)
 - [USERRA Regulations - Federal Agencies](http://www.ecfr.gov/cgi-bin/text-idx?c=ecfr&tpl=/ecfrbrowse/Title05/5cfr353_main_02.tpl)
 - [USERRA Regulations - Private/State/Local Employees](http://www.ecfr.gov/cgi-bin/text-idx?c=ecfr&tpl=/ecfrbrowse/Title20/20cfr1002_main_02.tpl)​​

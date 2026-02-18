@@ -53,5 +53,3 @@ Since its inception, the AWG has strategically filed *amicus curiae* briefs wh
 
    
 Please note that the AWG cannot represent an employee in their appeal or provide legal advice. We do, however, make previous amicus curiae briefs public to further share OSC's position on a range of important legal issues.​​​​
-
-##
