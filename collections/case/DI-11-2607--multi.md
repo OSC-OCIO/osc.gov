@@ -1,5 +1,4 @@
 ---
-title: DI-11-2607, DI-15-0965, and DI-18-5445
 source:
   agency: Justice
   subagency: Office of the Inspector General

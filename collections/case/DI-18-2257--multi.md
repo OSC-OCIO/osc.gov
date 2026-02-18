@@ -1,6 +1,4 @@
 ---
-title: DI-18-2257, DI-18-2258, DI-18-2260, DI-18-2566, DI-18-2945, DI-18-2947, DI-18-2949,
-  and DI-18-2950
 source:
   agency: Veterans Affairs
 cases:

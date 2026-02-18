@@ -1,5 +1,4 @@
 ---
-title: DI-15-1719 and DI-15-1780
 source:
   agency: Homeland Security
   subagency: Customs and Border Protection

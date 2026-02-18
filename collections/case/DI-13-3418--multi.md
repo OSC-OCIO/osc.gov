@@ -1,5 +1,4 @@
 ---
-title: DI-13-3418 and DI-14-0666
 source:
   agency: Homeland Security
 cases:

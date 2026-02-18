@@ -1,5 +1,0 @@
-{
-  "permalink": "/case/{{ page.fileSlug }}/",
-  "layout": "layouts/post",
-  "tags": ["case"]
-}

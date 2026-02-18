@@ -1,5 +1,4 @@
 ---
-title: DI-17-0936, DI-17-1029, DI-18-1627, and DI-18-2809
 source:
   agency: Court Services and Offender Supervision Agency
 cases:

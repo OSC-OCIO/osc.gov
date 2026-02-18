@@ -1,34 +1,22 @@
 ---
-title: 'Privacy: Resources'
+title: "Privacy: Resources"
 eleventyNavigation:
   order: 6
 ---
 
-​[Office of Management and Budget Privacy Guidance](https://www.whitehouse.gov/omb/information-regulatory-affairs/privacy/)​
+- ​[Office of Management and Budget Privacy Guidance](https://www.whitehouse.gov/omb/information-regulatory-affairs/privacy/)​
+- [Department of Justice Guide to the Privacy Act](https://www.justice.gov/opcl/overview-privacy-act-1974-2015-edition)​
+- [E-Government Act of 2002](https://www.justice.gov/opcl/e-government-act-2002)
+- [Conditions of Disclosure to Third Parties under the Privacy Act](https://www.justice.gov/opcl/conditions-disclosure-third-parties)
+- [Office of Management and Budget Circular A-130](/~assets/docs/a130revised.pdf)
+- [Office of Management and Budget Circular A-108](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/circulars/A108/omb_circular_a-108.pdf)
+- ​[Privacy Act Statement](https://www.saferfederalworkforce.gov/downloads/VaccinationPAS4.pdf)
 
-[Department of Justice Guide to the Privacy Act](https://www.justice.gov/opcl/overview-privacy-act-1974-2015-edition)​
+## Comments to 2022 Regulations
 
-[E-Government Act of 2002](https://www.justice.gov/opcl/e-government-act-2002)
-
-[Conditions of Disclosure to Third Parties under the Privacy Act](https://www.justice.gov/opcl/conditions-disclosure-third-parties)
-
-[Office of Management and Budget Circular A-130](../~assets/docs/a130revised.pdf)
-
-[Office of Management and Budget Circular A-108](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/circulars/A108/omb_circular_a-108.pdf)
-
-​[Privacy Act Statement](https://www.saferfederalworkforce.gov/downloads/VaccinationPAS4.pdf)
-
-**Comments to 2022 Regulations  
-**
-
-[![](../~assets/images/icpdf.png)Ravnitsky FY2022 Proposed Reg Comments.pdf](../~assets/docs/ravnitsky-fy2022-proposed-reg-comments.pdf)
-
-[![](../~assets/images/icpdf.png)OSC Privacy Act Comment.pdf](../~assets/docs/osc-privacy-act-comment.pdf)
-
-[![](../~assets/images/icpdf.png)GAP.POGO.WOA comments on proposed OSC regulation.pdf](../~assets/docs/gappogowoa-comments-on-proposed-osc-regulation.pdf)
-
-[![](../~assets/images/icpdf.png)Amended GAP.POGO.Public Citizen.WOA comments on proposed OSC regulation.pdf](../~assets/docs/amended-gappogopublic-citizenwoa-comments-on-proposed-osc-regulation.pdf)
-
-[![](../~assets/images/icpdf.png)OSC Comments 3.3.2022 Public_Citizen.pdf](../~assets/docs/osc-comments-332022-public_citizen.pdf)
-
-[![](../~assets/images/icpdf.png)comments-osc-proposed-regs-3-1-22.pdf](../~assets/docs/comments-osc-proposed-regs-3-1-22.pdf)
+- [Ravnitsky FY2022 Proposed Reg Comments.pdf](/~assets/docs/ravnitsky-fy2022-proposed-reg-comments.pdf)
+- [OSC Privacy Act Comment.pdf](/~assets/docs/osc-privacy-act-comment.pdf)
+- [GAP.POGO.WOA comments on proposed OSC regulation.pdf](/~assets/docs/gappogowoa-comments-on-proposed-osc-regulation.pdf)
+- [Amended GAP.POGO.Public Citizen.WOA comments on proposed OSC regulation.pdf](/~assets/docs/amended-gappogopublic-citizenwoa-comments-on-proposed-osc-regulation.pdf)
+- [OSC Comments 3.3.2022 Public_Citizen.pdf](/~assets/docs/osc-comments-332022-public_citizen.pdf)
+- [comments-osc-proposed-regs-3-1-22.pdf](/~assets/docs/comments-osc-proposed-regs-3-1-22.pdf)

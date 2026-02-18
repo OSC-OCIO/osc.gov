@@ -2,32 +2,104 @@
 layout: layouts/default
 ---
 {% assign faq_items = faqs %}
-{% assign filter_tag = faqTag | default: "" %}
+{% assign filter_tags = faqTag | default: '' %}
+{% assign tags_list = '' %}
 
-{% if filter_tag != "" %}
-  {% assign faq_items = faq_items | where_exp: "item", "item.tags contains filter_tag" %}
+{% if filter_tags != '' %}
+  {% assign filter_tags_json = filter_tags | jsonify %}
+  {% if filter_tags_json contains '[' %}
+    {% assign tags_list = filter_tags %}
+  {% else %}
+    {% assign tags_list = filter_tags | split: ',' %}
+  {% endif %}
 {% endif %}
 
 {{ content }}
 
 {% if faq_items and faq_items.size > 0 %}
-  <div class="usa-accordion usa-accordion--multiselectable padding-top-6" data-allow-multiple>
-    {% for item in faq_items %}
-      {% assign accordion_id = page.fileSlug | append: "-faq-" | append: forloop.index %}
-      <h2 class="usa-accordion__heading">
-        <button
-          class="usa-accordion__button"
-          aria-expanded="false"
-          aria-controls="{{ accordion_id }}"
-        >
-          {{ item.question }}
-        </button>
-      </h2>
-      <div id="{{ accordion_id }}" class="usa-accordion__content usa-prose">
-        {{ item.answer | markdownify }}
-      </div>
+  {% if tags_list != '' and tags_list.size > 1 %}
+    <ul class="usa-list margin-top-2">
+      {% for tag in tags_list %}
+        {% assign clean_tag = tag | strip %}
+        {% assign tag_items = faq_items | where_exp: 'item', 'item.tags contains clean_tag' %}
+        {% if tag_items and tag_items.size > 0 %}
+          {% assign tag_parts = clean_tag | split: '_' %}
+          {% assign tag_label = '' %}
+          {% for part in tag_parts %}
+            {% if forloop.first == false %}
+              {% if tag_label != '' %}
+                {% assign tag_label = tag_label | append: ' ' %}
+              {% endif %}
+              {% assign tag_label = tag_label | append: part %}
+            {% endif %}
+          {% endfor %}
+          {% assign tag_label = tag_label | capitalize %}
+          {% assign tag_anchor = clean_tag | replace: '_', '-' %}
+          <li><a href="#{{ tag_anchor }}">{{ tag_label }}</a></li>
+        {% endif %}
+      {% endfor %}
+    </ul>
+
+    {% for tag in tags_list %}
+      {% assign clean_tag = tag | strip %}
+      {% assign tag_items = faq_items | where_exp: 'item', 'item.tags contains clean_tag' %}
+
+      {% if tag_items and tag_items.size > 0 %}
+        {% assign tag_parts = clean_tag | split: '_' %}
+        {% assign tag_label = '' %}
+        {% for part in tag_parts %}
+          {% if forloop.first == false %}
+            {% if tag_label != '' %}
+              {% assign tag_label = tag_label | append: ' ' %}
+            {% endif %}
+            {% assign tag_label = tag_label | append: part %}
+          {% endif %}
+        {% endfor %}
+        {% assign tag_label = tag_label | capitalize %}
+        {% assign tag_anchor = clean_tag | replace: '_', '-' %}
+
+        <h2 id="{{ tag_anchor }}" class="usa-prose margin-top-4 margin-bottom-2">{{ tag_label }}</h2>
+        <div class="usa-accordion usa-accordion--multiselectable padding-top-2" data-allow-multiple>
+          {% for item in tag_items %}
+            {% assign accordion_id = page.fileSlug | append: '-faq-' | append: clean_tag | append: '-' | append: forloop.index %}
+            <h2 class="usa-accordion__heading">
+              <button
+                class="usa-accordion__button"
+                aria-expanded="false"
+                aria-controls="{{ accordion_id }}"
+              >
+                {{ item.question }}
+              </button>
+            </h2>
+            <div id="{{ accordion_id }}" class="usa-accordion__content usa-prose">
+              {{ item.answer | markdownify }}
+            </div>
+          {% endfor %}
+        </div>
+      {% endif %}
     {% endfor %}
-  </div>
+  {% else %}
+    {% if tags_list != '' %}
+      {% assign faq_items = faq_items | where_exp: 'item', 'item.tags contains tags_list.first' %}
+    {% endif %}
+    <div class="usa-accordion usa-accordion--multiselectable padding-top-6" data-allow-multiple>
+      {% for item in faq_items %}
+        {% assign accordion_id = page.fileSlug | append: '-faq-' | append: forloop.index %}
+        <h2 class="usa-accordion__heading">
+          <button
+            class="usa-accordion__button"
+            aria-expanded="false"
+            aria-controls="{{ accordion_id }}"
+          >
+            {{ item.question }}
+          </button>
+        </h2>
+        <div id="{{ accordion_id }}" class="usa-accordion__content usa-prose">
+          {{ item.answer | markdownify }}
+        </div>
+      {% endfor %}
+    </div>
+  {% endif %}
 {% else %}
   <p class="usa-prose">No FAQs found.</p>
 {% endif %}

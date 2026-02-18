@@ -1,5 +1,4 @@
 ---
-title: DI-16-3273 and DI-16-3277
 source:
   agency: Veterans Affairs
 cases:

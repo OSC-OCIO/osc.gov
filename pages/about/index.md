@@ -1,6 +1,6 @@
 ---
 title: About OSC
-redirect_to: /about/about
 eleventyNavigation:
-  order: 0
+  order: 1
+  url: /about/about
 ---

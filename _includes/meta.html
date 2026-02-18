@@ -41,20 +41,43 @@
   <link rel="canonical" href="{{ pageUrl }}">
   <meta property="og:url" content="{{ pageUrl }}">
 
-  <script src="{{ assetPaths['uswds-init.js'] }}"></script>
+  <script src="/assets/js/uswds-init.js"></script>
   <!--
     CSS
     ==================================================
   -->
-  <link rel="stylesheet" href="{{ assetPaths['styles.css'] }}" type="text/css">
+  <link
+    rel="stylesheet"
+    href="/assets/styles/styles.css"
+    type="text/css"
+  >
 
   {% comment %}
-    Preload only the files that are needed for the content in the initial viewport. This
-    will likely include the fonts needed for the navigation, page heading, and the font needed for the
-    first paragraph of body copy. The `crossorigin` attribute may be required based on the type
-    of asset you wish to preload in order for the preload to work properly.
+    Preload only the files that are needed for the content in the
+    initial viewport. This will likely include the fonts needed for the
+    navigation, page heading, and the font needed for the first paragraph of body
+    copy. The `crossorigin` attribute may be required based on the type of asset
+    you wish to preload in order for the preload to work properly.
   {% endcomment %}
-  <link rel="preload" href="{{ assetPaths['PublicSans-Regular.woff2'] }}" as="font" type="font/woff2" crossorigin>
-  <link rel="preload" href="{{ assetPaths['PublicSans-Bold.woff2'] }}" as="font" type="font/woff2" crossorigin>
-  <link rel="preload" href="{{ assetPaths['Latin-Merriweather-Bold.woff2'] }}" as="font" type="font/woff2" crossorigin>
+  <link
+    rel="preload"
+    href="/assets/uswds/fonts/public-sans/PublicSans-Regular.woff2"
+    as="font"
+    type="font/woff2"
+    crossorigin
+  >
+  <link
+    rel="preload"
+    href="/assets/uswds/fonts/public-sans/PublicSans-Bold.woff2"
+    as="font"
+    type="font/woff2"
+    crossorigin
+  >
+  <link
+    rel="preload"
+    href="/assets/uswds/fonts/merriweather/Latin-Merriweather-Bold.woff2"
+    as="font"
+    type="font/woff2"
+    crossorigin
+  >
 </head>

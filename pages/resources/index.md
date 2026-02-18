@@ -1,7 +1,6 @@
 ---
 title: Resources
-redirect_to: /resources/resources
 eleventyNavigation:
-  order: 2
+  order: 3
+  url: /resources/overview/
 ---
-

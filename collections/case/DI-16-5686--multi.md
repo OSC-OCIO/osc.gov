@@ -1,5 +1,4 @@
 ---
-title: DI-16-5686, DI-16-5688, DI-16-5689, and DI-16-5690
 source:
   agency: Veterans Affairs
 cases:

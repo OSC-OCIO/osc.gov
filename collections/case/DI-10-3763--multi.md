@@ -1,6 +1,4 @@
 ---
-title: DI-10-3763, DI-10-3764, DI-10-3765, DI-10-3767, DI-10-3768, DI-10-3769, DI-10-3770,
-  DI-10-3771, and DI-10-3772
 source:
   agency: Veterans Affairs
 cases:

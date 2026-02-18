@@ -1,6 +1,6 @@
 ---
 title: OSC Services
-redirect_to: /services/oscservices
 eleventyNavigation:
-  order: 0
+  order: 2
+  url: /services/oscservices
 ---

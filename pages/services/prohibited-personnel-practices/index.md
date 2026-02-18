@@ -1,8 +1,8 @@
 ---
-title: Prohibited Personnel Practices Overview
-redirect_to: /prohibited-personnel-practices/overview
+title: Prohibited Personnel Practices
 eleventyNavigation:
   order: 1
+  url: /services/prohibited-personnel-practices/overview
 ---
 
-​  
+​

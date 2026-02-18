@@ -1,5 +1,4 @@
 ---
-title: DI-06-1645 and DI-06-1904
 source:
   agency: U.S. Army
 cases:
