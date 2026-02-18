@@ -15,18 +15,18 @@ When individuals believe that they have been subjected to a prohibited personnel
 
 **​​​​Factsheets and Guides**
 
-[Federal Protections for Lesbian, Gay, Bisexual, and Transgender (LGBT) Individuals​​ ​(2014)](../../~assets/docs/federal-protections-for-lesbian-gay-bisexual-and-transgender-lg-1b14b3a8.pdf)​​​
+[Federal Protections for Lesbian, Gay, Bisexual, and Transgender (LGBT) Individuals​​ ​(2014)](/~assets/docs/federal-protections-for-lesbian-gay-bisexual-and-transgender-lg-1b14b3a8.pdf)​​​
 
-[The Unique Role of the Office of Special Counsel in Protecting the Rights of Lesbian, Gay, Bisexual, and Transgender Employees in the Federal Workplace​ (PowerPoint presentation, 2014)​​](../../~assets/docs/the-unique-role-of-osc-in-protecting-lgbt-rights-in-the-federal-workplace.pdf)​​
+[The Unique Role of the Office of Special Counsel in Protecting the Rights of Lesbian, Gay, Bisexual, and Transgender Employees in the Federal Workplace​ (PowerPoint presentation, 2014)​​](/~assets/docs/the-unique-role-of-osc-in-protecting-lgbt-rights-in-the-federal-workplace.pdf)​​
 
 **Policy Documents​**
 
-​​[Memorandum of Understanding Between U.S. Office of Special Counsel And Equal Employment Opportunity Commission​ (January 2014​​](https://www.eeoc.gov/laws/mous/eeoc_osc.cfm))
+​​[Memorandum of Understanding Between U.S. Office of Special Counsel And Equal Employment Opportunity Commission​ (January 2014​​](https://www.eeoc.gov/laws/mous/eeoc_osc.cfm)
 
 **Prohibited​​ Personnel Practice Re​ports**
 
-[Report of Prohibited Personnel Practice, OSC File No. MA-11-3846 ("Jane Doe " - Tamara Lusardi), dated August 28, ​​2014​​​](<../../~assets/docs/prohibited-personnel-practices-report-5-usc-2302b1-and-10-fbddf1fb.pdf>)
+[Report of Prohibited Personnel Practice, OSC File No. MA-11-3846 ("Jane Doe " - Tamara Lusardi), dated August 28, ​​2014​​​](/~assets/docs/prohibited-personnel-practices-report-5-usc-2302b1-and-10-fbddf1fb.pdf)
 
 **News Releases**
 
-[​​OSC Seeks to Protect LGBTQI+ Employees in the Federal Workplace During Pride Month and Year Round ​](../../news24-22-osc-protect-lgbtq-pride.md)
+[​​OSC Seeks to Protect LGBTQI+ Employees in the Federal Workplace During Pride Month and Year Round​](/news/2024-06-14/osc-seeks-to-protect-lgbtqi-employees-in-the-federal-workplace-during-pride-month-and-year-round/)

@@ -4,14 +4,14 @@ eleventyNavigation:
   order: 2
 ---
 
-​​**At this time, OSC is unable to pro​cess paper filings. Plea​se file electronically.​**
+Prohibited personnel practices (PPPs) are employment-related activities that are banned in the federal workforce because they violate the merit system through some form of employment discrimination, retaliation, improper hiring practices, or failure to adhere to laws, rules, or regulations that directly concern the merit system principles.
 
-​Federal employees, former federal employees, and applicants for federal employment can file a claim of a prohibited personnel practice with OSC by completing Form 1​4​​​ by clicking the green “File a Complaint” button in the top right-hand corner of the screen or downloaded and faxed to 202-653-0015. Completed forms can also be mailed to: 
+OSC has the authority to investigate and prosecute violations of the 14 PPPs listed at 5 U.S.C. § 2302(b​). Former and current employees, and applicants for federal employment can file under this section.
 
-U.S. Office of Special Counsel​  
-1730 M St. N.W., Suite 218  
-Washington, D.C., 20036-4505​​​ 
+Persons wishing to file a PPP complaint can use OSC's Online Filing Portal by clicking the green File a Complaint button in the top right-hand corner of this screen.
 
-Some individuals may prefer to answer the questions on the Form 14 with a separate letter or document. This is acceptable, but it is important to include an​ otherwise blank but signed copy of the Form 14, because regulations state that OSC cannot consider a complaint without a copy of the Form 14.
+The Online Filing Portal includes a series of questions designed to elicit specific information regarding your PPP claim. Please answer each question as completely as possible. The Online Filing Portal also includes a section where filers can indicate whether they consent to the disclosure of their identity for any purpose. Please also attach any evidence supporting your PPP claim (for example, documents, newspaper articles, photographs, etc.) to your online form. Please be advised that if the form is not filled out completely or the allegations are insufficient, OSC may require the filer to provide additional information before it can proceed.
 
-If you wish to include docu​ments or attachments with your complaint, you can send them with your original complaint,​ or you may wait until an examiner contacts you in order to determine which documents will be most helpful. You should keep a copy of the Form 14 and any other documents you provide to OSC because you may need them in the event of an appeal. Due to laws regarding priv​acy, OSC cannot always return original documents to complainants, so you should keep any original documents that you may need and only provide copies to OSC.​
+The Online Filing Portal CANNOT be used to submit classified information. If you believe classified information is required to support your claim, please contact the attorney assigned to your case to discuss your options.
+
+OSC strongly encourages the use of the Online Filing Portal, as it improves both efficiency and accuracy. However, if you do not wish to file online, you can complete a PDF form and submit it via mail or email. The link to the PDF is on the File a Complaint information page. ​
