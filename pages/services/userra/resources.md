@@ -15,4 +15,4 @@ eleventyNavigation:
 - [U.S. Department of Labor, Veterans Employment and Training Service USERRA](https://www.dol.gov/agencies/vets/programs/userra)
 - [U.S. Department of Defense, Employer Support of the Guard and Reserve USERRA](https://www.esgr.mil/USERRA/What-is-USERRA)
 - [U.S. Department of Justice, Servicemembers and Veterans Initiative](https://www.justice.gov/servicemembers)
-- [](https://www.justice.gov/servicemembers)- [Feds Hire Vets](http://www.fedshirevets.gov/) is a U.S. Office of Personnel Management website to assist veterans who want to find a job in the federal government.​
+- [Feds Hire Vets](http://www.fedshirevets.gov/) is a U.S. Office of Personnel Management website to assist veterans who want to find a job in the federal government.​
