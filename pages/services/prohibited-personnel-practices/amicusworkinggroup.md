@@ -37,7 +37,7 @@ Please note that the AWG cannot represent an employee in their appeal or provide
     </button>
   </h4>
   <div id="m-a1" class="usa-accordion__content usa-prose">
-    <p>
+
 
 - [Remolona v Dept of Veterans Affairs](/~assets/docs/osc-amicus-brief-ny-1221-21-0127-w-2-remolona.pdf)
 - [McCarthy v Social Security Administration](/~assets/docs/mccarthy-v-ssa-osc-amicus-brief.pdf)
@@ -64,8 +64,6 @@ Please note that the AWG cannot represent an employee in their appeal or provide
 - [Day v Dept of Homeland Security](/~assets/docs/osc-amicus-curiae-brief-in-day-v-department-of-homeland-security-87e4f4b1.pdf)
 - [McGriff v Dept of Navy](/~assets/docs/osc-amicus-curiae-brief-in-mcgriff-v-department-of-the-navy-mspb-a0b6aa7d.pdf)
 - [MacLean v Dept of Homeland Security](/~assets/docs/osc-amicus-curiae-brief-in-maclean-v-department-of-homeland-securi-43b4dfb6.pdf)
-
-      </p>
 
     </div>
   </div>

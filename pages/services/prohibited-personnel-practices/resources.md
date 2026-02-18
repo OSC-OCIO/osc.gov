@@ -18,7 +18,7 @@ eleventyNavigation:
     </button>
   </h4>
   <div id="m-a1" class="usa-accordion__content usa-prose">
-    <p>
+
 
 - [OSC Amicus Brief NY-1221-21-0127-W-2 (Remolona)](/~assets/docs/osc-amicus-brief-ny-1221-21-0127-w-2-remolona.pdf)
 - [McCarthy v SSA (OSC Amicus Brief)](/~assets/docs/mccarthy-v-ssa-osc-amicus-brief.pdf)
@@ -46,8 +46,6 @@ eleventyNavigation:
 - [OSC Amicus Curiae Brief in McGriff v. Department of the Navy (MSPB) filed October 19, 2011](/~assets/docs/osc-amicus-curiae-brief-in-mcgriff-v-department-of-the-navy-mspb-a0b6aa7d.pdf)
 - [OSC Amicus Curiae Brief in MacLean v. Department of Homeland Security (MSPB) filed August 25, 2011](/~assets/docs/osc-amicus-curiae-brief-in-maclean-v-department-of-homeland-securi-43b4dfb6.pdf)
 
-</p>
-
   </div>
   <h4 class="usa-accordion__heading">
     <button
@@ -60,7 +58,7 @@ eleventyNavigation:
     </button>
   </h4>
   <div id="m-a2" class="usa-accordion__content usa-prose">
-    <p>
+
 
 - [Designation of Personal Legal Representation Form](/~assets/docs/designation-of-personal-legal-representation-form.pdf)
 - [Policy Statement on Legal Representation](/~assets/docs/policy-statement-on-legal-representation.pdf)
@@ -72,8 +70,6 @@ eleventyNavigation:
 - [Policy Statement on Disclosure of Information about Prohibited Personnel Practice Complaints](/~assets/docs/policy-statement-on-disclosure-of-information-about-prohibited-pers-dd397ae9.pdf)
 - [Policy Statement on Stays of Personnel Actions](/~assets/docs/policy-statement-on-stays-of-personnel-actions.pdf)
 - [Fact Sheet for Whistleblower Retaliation](/~assets/docs/fact-sheet-for-whistleblower-retaliation.pdf)
-
-</p>
 
   </div>
   <h4 class="usa-accordion__heading">
@@ -87,7 +83,7 @@ eleventyNavigation:
     </button>
   </h4>
   <div id="m-a3" class="usa-accordion__content usa-prose">
-    <p>
+
 
 - [Prohibited Personnel Practices Report, 5 U.S.C. 2302(b)(8), Corrective Action](/~assets/docs/prohibited-personnel-practices-report-5-usc-2302b8-correct-67d0d2c4.pdf)
 - [Prohibited Personnel Practices Report 5 U.S.C. 2302 (b)(8) Corrective Action](/~assets/docs/prohibited-personnel-practices-report-5-usc-2302-b8-corrective-action.pdf)
@@ -106,8 +102,6 @@ eleventyNavigation:
 - [Prohibited Personnel Practices Report, 5 U.S.C. 2302(b)(4) and (12), Corrective Action](/~assets/docs/prohibited-personnel-practices-report-5-usc-2302b4-and-12-8383c90f.pdf)
 - [Prohibited Personnel Practices Report, 5 U.S.C. 2302(b)(5), (b)(6) and (b)(11), Corrective and Disciplinary Action](/~assets/docs/prohibited-personnel-practices-report-5-usc-2302b5-b6-2692676d.pdf)
 
-</p>
-
   </div>
   <h4 class="usa-accordion__heading">
     <button
@@ -120,14 +114,12 @@ eleventyNavigation:
     </button>
   </h4>
   <div id="m-a4" class="usa-accordion__content usa-prose">
-    <p>
+
 
 - [Fact Sheet_How OSC's Mediation Program Works](/~assets/docs/fact-sheet_how-oscs-mediation-program-works.pdf)
 - [Your Role in an OSC Investigation](/~assets/docs/your-role-in-an-osc-investigation.pdf)
 - [How Complaints are Investigated and Prosecuted](/~assets/docs/how-complaints-are-investigated-and-prosecuted.pdf)
 - [How Complaints are Received and Processed](/~assets/docs/how-complaints-are-received-and-processed.pdf)
-
-</p>
 
   </div>
 </div>

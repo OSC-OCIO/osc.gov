@@ -26,7 +26,7 @@ OSC has the authority to investigate and prosecute violations of the 14 PPPs:
     </button>
   </h4>
   <div id="m-a1" class="usa-accordion__content usa-prose">
-    <p>
+
 
 ​​​An agency official shall not discriminate against an employee or applicant based on race, color, religion, sex, national origin, age, disability (or handicapping condition), marital status, or political affiliation. [5 U.S.C. § 2302(b​)(1)](https://www.law.cornell.edu/uscode/text/5/2302)
 
@@ -44,8 +44,6 @@ In January 2014, OSC and EEOC signed a new memorandum of ​​​understanding
 
 **Discrimination** [**Video​**](https://youtu.be/b7AxzrnFrZY?t=25)
 
-</p>
-
   </div>
   <h4 class="usa-accordion__heading">
     <button
@@ -58,15 +56,13 @@ In January 2014, OSC and EEOC signed a new memorandum of ​​​understanding
     </button>
   </h4>
   <div id="m-a2" class="usa-accordion__content usa-prose">
-    <p>
+
 
 ​An agency official shall not request or consider a recommendation based on political connections or influence. [5 U.S.C. § 2302(b)(2)](https://www.law.cornell.edu/uscode/text/5/2302)
 
 This PPP prohibits requesting or considering recommendations about an employee or applicant unless the recommendation is based on the personal knowledge of the employee or records of the person providing it. Put another way, this means that a recommendation to hire or promote someone in the federal workplace must be ignored unless the person making the recommendation has actual knowledge of the person’s abilities as they would apply to the position in question. Courts have ruled that the legislative intent of this PPP was to prevent the use of political influence to obtain a position or promotion. Thus, a person alleging this PPP must show that political influence was a factor in the recommendation at issue in their complaint.
 
 **Example**: A ​member of Congress contacts a federal official who is hiring an applicant and recommends that the official hire a constituent. That Congressman does not have personal knowledge of the constituent’s work performance or character. If the official acts upon that recommendation, the personnel action would fall within this prohibition. On the other hand, recommendations from colleagues or from other supervisors at the agency would not fall within this prohibition, unless there is an element of political interference. Likewise, a member of Congress may recommend someone for an open position, as long as the member has personal knowledge of the candidate's qualifica​​tions.​ 
-
-</p>
 
   </div>
   <h4 class="usa-accordion__heading">
@@ -80,15 +76,13 @@ This PPP prohibits requesting or considering recommendations about an employee o
     </button>
   </h4>
   <div id="m-a3" class="usa-accordion__content usa-prose">
-    <p>
+
 
 ​An agency official shall not coerce the political activity of any person or retaliate against an employee for refusing to engage in political activity. [5 U.S.C. § 2302(b)(3)](https://www.law.cornell.edu/uscode/text/5/2302)
 
 This PPP is in p​​​lace to help keep partisan politics out of the federal workplace. An employee cannot be pressured into political activity by a superior. This section also prohibits retaliation against an employee for refusing to engage in political activity. Allegations of this kind should be filed with OSC's Hatch Act Unit by clicking [here](/~assets/docs/osc13.pdf)​.
 
 **​Example**: A subordinate employee declines to donate money to a candidate his supervisor fervently supports. After learning of this, the supervisor begins to deny that employee some privileges of employment. For instance, the supervisor removes the employee's teleworking conditions and denies him requested training.​
-
-</p>
 
   </div>
   <h4 class="usa-accordion__heading">
@@ -102,7 +96,7 @@ This PPP is in p​​​lace to help keep partisan politics out of the federal 
     </button>
   </h4>
   <div id="m-a4" class="usa-accordion__content usa-prose">
-    <p>
+
 
 ​An agency official shall not intentionally deceive or obstruct anyone from competing for employment. [5 U.S.C. § 2302(b)(4)](https://www.law.cornell.edu/uscode/text/5/2302)
 
@@ -111,8 +105,6 @@ This PPP prohibits an agency official from willfully obstructing a person’s ri
 **Example**: A supervisor falsely rates a subordinate employee who is competing for a promotion as unsatisfactory because the supervisor knows that only employees rated satisfactory and above can obtain the promotion. To learn more, click [here](https://www.youtube.com/embed/MFCWXbXwvKI).​​
 
 **Hiring** **Violations** [Video](https://youtu.be/MFCWXbXwvKI)​
-
-</p>
 
   </div>
   <h4 class="usa-accordion__heading">
@@ -126,7 +118,7 @@ This PPP prohibits an agency official from willfully obstructing a person’s ri
     </button>
   </h4>
   <div id="m-a5" class="usa-accordion__content usa-prose">
-    <p>
+
 
 ​An agency official shall not influence anyone to withdraw from competition in order to improve or injure the employment prospects of any person. [5 U.S.C. § 2302(b)(5)](https://www.law.cornell.edu/uscode/text/5/2302)
 
@@ -135,8 +127,6 @@ This PPP means that an agency o​fficial cannot try to persuade an applicant to
 **Example**: A veteran is at the top of the list for hiring, which means that he is blocking other candidates from being selected for this particular position. The selecting official, hoping to hire another applicant lower on the list, encourages the veteran to apply for another vacancy instead. This would be an example of influencing a withdrawal from competition, and could also be a violation of a veterans’ preference requirements under 5 U.S.C. § 2302((b)(11)). To learn more, click [here](https://www.youtube.com/embed/MFCWXbXwvKI).​​
 
 **Hiring** **Violations** [Video](https://youtu.be/MFCWXbXwvKI)
-
-</p>
 
   </div>
     <h4 class="usa-accordion__heading">
@@ -150,7 +140,7 @@ This PPP means that an agency o​fficial cannot try to persuade an applicant to
     </button>
   </h4>
   <div id="m-a6" class="usa-accordion__content usa-prose">
-    <p>
+
 
 ​​An agency official shall not give an unauthorized advantage in order to improve or injure the employment prospects of any person. [5 U.S.C. § 2302(b)(6)](https://www.law.cornell.edu/uscode/text/5/2302)
 
@@ -159,8 +149,6 @@ This PPP, which can be complex, prohibits agency officials from providing a wron
 **Example**: A selecting official hopes to hire an attorney he has known for many years into an investigator position. When the announcement is issued for the investigator position, the attorney does not qualify for the position. The selecting official then has the announcement rewritten to include legal requirements, such as legal analysis and litigation, even though this is not necessary for an investigator position. Ultimately the attorney is hired for the investigator position. To learn more, click [here](https://www.youtube.com/embed/MFCWXbXwvKI).​​
 
 **Hiring** **Violations** [Video​](https://youtu.be/MFCWXbXwvKI)​
-
-</p>
 
   </div>
   <h4 class="usa-accordion__heading">
@@ -174,7 +162,7 @@ This PPP, which can be complex, prohibits agency officials from providing a wron
     </button>
   </h4>
   <div id="m-a7" class="usa-accordion__content usa-prose">
-    <p>
+
 
 ​A federal government employee shall not engage in nepotism (i.e., hire, promote, or advocate the hiring or promotion of relatives). [5 U.S.C. § 2302(b)(7)](https://www.law.cornell.edu/uscode/text/5/2302)
 
@@ -183,8 +171,6 @@ In this section "relative" is defined by law as father, mother, son, daughter, b
 This PPP simply states that federal government employees cannot hire or promote their relatives, or even push for their relatives to get jobs or promotions. Note that nepotism go​es beyond hiring; it also has to do with the benefits and advantages of employment. Thus for example, completing a relative's annual performance rating or advocating for a relative to be given easier duties would also be prohibited under this section. Please note, however, that it is not prohibited to have two relatives work for the same agency if they are not in the same chain of command. It is also acceptable to have two relatives work in the same chain of command, as long as the official with personnel authority is not involved in any personnel action affecting the relative.
 
 **​Example**: An official is in the chain of command of his spouse. He directs his employee, who directly supervises the spouse, to give the spouse a bonus.​ 
-
-</p>
 
   </div>
   <h4 class="usa-accordion__heading">
@@ -198,7 +184,7 @@ This PPP simply states that federal government employees cannot hire or promote 
     </button>
   </h4>
   <div id="m-a8" class="usa-accordion__content usa-prose">
-    <p>
+
 
 ​An agency official shall not retaliate against an employee for whistleblowing. [5 U.S.C. § 2302(b)(8)](https://www.law.cornell.edu/uscode/text/5/2302)
 
@@ -220,8 +206,6 @@ This PPP prohibits agency officials from taking, failing to take, or threatening
 
 \***\*Retaliation** ​for Whistleblowing** [**Video\*\*](https://youtu.be/p0O16LLCSmE?t=15)
 
-</p>
-
   </div>
   <h4 class="usa-accordion__heading">
     <button
@@ -234,7 +218,7 @@ This PPP prohibits agency officials from taking, failing to take, or threatening
     </button>
   </h4>
   <div id="m-a9" class="usa-accordion__content usa-prose">
-    <p>
+
 
 ​An agency official shall not retaliate because an employee:
 
@@ -255,8 +239,6 @@ This PPP prohibits agency officials from taking, failing to take, or threatening
 
 \***\*Retaliation** ​for Whistleblowing** [**Video\*\*](https://youtu.be/p0O16LLCSmE?t=15)​
 
-</p>
-
   </div>
   <h4 class="usa-accordion__heading">
     <button
@@ -269,7 +251,7 @@ This PPP prohibits agency officials from taking, failing to take, or threatening
     </button>
   </h4>
   <div id="m-a10" class="usa-accordion__content usa-prose">
-    <p>
+
 
 ​An agency official shall not discriminate due to conduct that does not adversely affect job performance. [5 U.S.C. § 2302(b)(10)](https://www.law.cornell.edu/uscode/text/5/2302)
 
@@ -278,8 +260,6 @@ This PPP prohibits agency officials from penalizing their employees for conduct 
 **Example**: A supervisor discovers that one of her subordinate employees is gay. Following the supervisor’s discovery, the gay employee is targeted for disparate treatment. For instance, the employee’s time and attendance is scrutinized daily and the employee is forced to take leave for as little as three minute absences, while other employees’ similar absences are ignored. The supervisor also changes the targeted employee’s schedule to night shift work and openly disparages the employee at staff meetings. To learn more, click [here](https://www.youtube.com/embed/b7AxzrnFrZY).
 
 **Discrimination** [**Video​**](https://youtu.be/b7AxzrnFrZY?t=25)
-
-</p>
 
   </div>
   <h4 class="usa-accordion__heading">
@@ -293,15 +273,13 @@ This PPP prohibits agency officials from penalizing their employees for conduct 
     </button>
   </h4>
   <div id="m-a11" class="usa-accordion__content usa-prose">
-    <p>
+
 
 ​​An agency official shall not take or fail to take, recommend, or approve a personnel action if the official knows that doing so would violate a veterans’ preference requirement. [5 U.S.C. § 2302(b)(11)](https://www.law.cornell.edu/uscode/text/5/2302)
 
 This PPP ensures that the veterans’ preferences for federal government jobs are honored. Though OSC plays a role in enforcing these protecti​ons, we are not the proper venue for filing veterans' preference complaints. Allegations of this kind should be filed with th​e Veterans Emp​loym​ent and Training Service (VETS) at the Department of Labor (DOL) by clicking [here](https://www.dol.gov/agencies/vets). **Please note that you must file your complaint with VETS within 60 days of the alleged violation.**
 
 **Example:** A veterans’ preference requirement may place a veteran at the top of a list of eligible candidates for a job. If a supervisor fails to observe a veterans’ preference requirement, such as not appropriately ranking a veteran in accordance with his military service, that could be an example of a veterans’ preference violation.​​
-
-</p>
 
   </div>
   <h4 class="usa-accordion__heading">
@@ -315,7 +293,7 @@ This PPP ensures that the veterans’ preferences for federal government jobs ar
     </button>
   </h4>
   <div id="m-a12" class="usa-accordion__content usa-prose">
-    <p>
+
 
 ​An agency official shall not take or fail to take a personnel action if doing so would violate a law, rule or regulation implementing or directly concerning the merit system principles. [5 U.S.C. § 2302(b)(12)](https://www.law.cornell.edu/uscode/text/5/2302)
 
@@ -326,8 +304,6 @@ There are numerous laws, rules, and regulations governing various aspects of fed
 **Ex​ample**: In his personal capacity, an employee writes a letter to the editor regarding an issue of public interest​. Management takes an action against that employee, arguing that the employee should not be airing his grievances to the media. To learn more, click [here](https://www.youtube.com/embed/5mmuhxUmJsk).
 
 **Merit System Principles** [**Video**](https://youtu.be/5mmuhxUmJsk?t=22)
-
-</p>
 
   </div>
   <h4 class="usa-accordion__heading">
@@ -341,7 +317,7 @@ There are numerous laws, rules, and regulations governing various aspects of fed
     </button>
   </h4>
   <div id="m-a13" class="usa-accordion__content usa-prose">
-    <p>
+
 
 ​An agency official shall not implement or enforce a non-disclosure policy, form or agreement if it does not contain a specific statement notifying employees of their rights, obligations, or liabilities relating to classified information, communications to Congress, whistleblowing to an Inspector General, or any other whistleblower protection. [5 U.S.C. § 2302(b)(13)](https://www.law.cornell.edu/uscode/text/5/2302)
 
@@ -350,8 +326,6 @@ This PPP, which was added in 2012 under the Whistleblower Protection Enhancement
 **Example**: If a federal agency has a gene​ral policy that employees may not disclose any information they learn of during the course of their jobs, then that policy must include language that employees also have the right to engage in whistleblowing and to file disclosures with OSC and other entities.​ To learn more, click [here](https://www.youtube.com/embed/3b0h5XjIM4k).
 
 **Prohibitions on Non-Disclosure**  [**Video**](https://youtu.be/3b0h5XjIM4k?t=5)
-
-</p>
 
   </div>
   <h4 class="usa-accordion__heading">
@@ -365,7 +339,7 @@ This PPP, which was added in 2012 under the Whistleblower Protection Enhancement
     </button>
   </h4>
   <div id="m-a14" class="usa-accordion__content usa-prose">
-    <p>
+
 
 ​​An agency official shall not access the medical record of another employee or applicant in furtherance of any conduct pro​​scribed by the 13 other PPPs. ​5 U.S.C. § 2302(b)(14)
 
@@ -374,8 +348,6 @@ This PPP, which was added as part of the Dr. Chris Kirkpatrick Whistleblower Pro
 **Example**: A supervisor discovers a subordinate employee has disclosed to the media that the supervisor often falsifies safety records. Following the supervisor’s discovery, the supervisor strips the employee of meaningful duties and reassigns the employee to the basement of the building. The supervisor also accesses the employee’s medical records to gather informati​on that supports the misconduct allegations the supervisor intends to make against the employee. The supervisor has committed this PPP even if the supervisor does not find any relevant information.  To learn more, click [here](https://www.youtube.com/watch?v=-zibQh-A4KY).​
 
 **Example**: An employee is acknowledged as the leading candidate for promotion in an upcoming merit competition. One manager, however, favors a different candidate for non-merit reasons. In order to promote this candidate over the employee, the manager accesses the employee’s medical records in a search for medical information that might argue against the employee’s selection in the competition. Regardless of what the manager discovers, he has committed this PPP because he has accessed medical information in an effort to grant unauthorized preference to another candidate.​​
-
-</p>
 
   </div>
 </div>
