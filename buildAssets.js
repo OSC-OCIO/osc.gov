@@ -8,6 +8,7 @@ const chokidar = require("chokidar");
 
 const ROOT = __dirname;
 const SITE_ASSETS_DIR = path.join(ROOT, "_site", "assets");
+const IS_PRODUCTION = process.env.ELEVENTY_ENV === "production";
 
 async function ensureDir(dirPath) {
   await fs.mkdir(dirPath, { recursive: true });
@@ -30,8 +31,8 @@ async function buildJavaScript() {
     outdir: path.join(SITE_ASSETS_DIR, "js"),
     format: "iife",
     bundle: true,
-    minify: process.env.ELEVENTY_ENV === "production",
-    sourcemap: process.env.ELEVENTY_ENV !== "production",
+    minify: IS_PRODUCTION,
+    sourcemap: !IS_PRODUCTION,
     target: ["chrome58", "firefox57", "safari11", "edge18"],
   });
 }
@@ -40,9 +41,8 @@ async function buildSass() {
   await ensureDir(path.join(SITE_ASSETS_DIR, "styles"));
 
   const result = sass.compile(path.join(ROOT, "styles", "styles.scss"), {
-    style:
-      process.env.ELEVENTY_ENV === "production" ? "compressed" : "expanded",
-    sourceMap: process.env.ELEVENTY_ENV !== "production",
+    style: IS_PRODUCTION ? "compressed" : "expanded",
+    sourceMap: !IS_PRODUCTION,
     loadPaths: [
       path.join(ROOT, "node_modules", "@uswds"),
       path.join(ROOT, "node_modules", "@uswds", "uswds", "packages"),
@@ -59,7 +59,9 @@ async function buildSass() {
     await fs.writeFile(mapPath, JSON.stringify(result.sourceMap));
   }
 
-  await autoprefixStyles(cssPath);
+  if (IS_PRODUCTION) {
+    await autoprefixStyles(cssPath);
+  }
 }
 
 async function autoprefixStyles(cssPath) {
@@ -77,7 +79,7 @@ async function autoprefixStyles(cssPath) {
   }
 }
 
-async function copyStaticAssets() {
+async function copyUswdsAssets() {
   await copyDir(
     path.join(ROOT, "node_modules", "@uswds", "uswds", "dist", "fonts"),
     path.join(SITE_ASSETS_DIR, "uswds", "fonts"),
@@ -87,13 +89,17 @@ async function copyStaticAssets() {
     path.join(ROOT, "node_modules", "@uswds", "uswds", "dist", "img"),
     path.join(SITE_ASSETS_DIR, "uswds", "img"),
   );
+}
 
+async function copyProjectImages() {
   await copyDir(path.join(ROOT, "img"), path.join(SITE_ASSETS_DIR, "img"));
 }
 
-async function buildAll() {
-  await Promise.all([buildJavaScript(), buildSass()]);
-  await copyStaticAssets();
+async function buildAll({ includeUswds = true } = {}) {
+  await Promise.all([buildJavaScript(), buildSass(), copyProjectImages()]);
+  if (includeUswds) {
+    await copyUswdsAssets();
+  }
   console.log("Assets have been built!");
 }
 
@@ -106,7 +112,33 @@ async function watchAssets(skipInitialBuild = false) {
   let buildQueued = false;
   let debounceTimer;
 
-  async function queueBuild(reason) {
+  let pendingStyles = false;
+  let pendingJavaScript = false;
+  let pendingImages = false;
+  let pendingFullBuild = false;
+
+  function queueChange(relPath) {
+    const normalizedPath = relPath.replace(/\\/g, "/");
+    if (normalizedPath.startsWith("styles/")) {
+      pendingStyles = true;
+      return;
+    }
+    if (normalizedPath.startsWith("js/")) {
+      pendingJavaScript = true;
+      return;
+    }
+    if (normalizedPath.startsWith("img/")) {
+      pendingImages = true;
+      return;
+    }
+    pendingFullBuild = true;
+  }
+
+  async function queueBuild(reason, relPath) {
+    if (relPath) {
+      queueChange(relPath);
+    }
+
     if (debounceTimer) {
       clearTimeout(debounceTimer);
     }
@@ -122,7 +154,35 @@ async function watchAssets(skipInitialBuild = false) {
         if (reason) {
           console.log(`Asset change detected: ${reason}`);
         }
-        await buildAll();
+
+        const runFullBuild = pendingFullBuild;
+        const runStyles = pendingStyles;
+        const runJavaScript = pendingJavaScript;
+        const runImages = pendingImages;
+
+        pendingFullBuild = false;
+        pendingStyles = false;
+        pendingJavaScript = false;
+        pendingImages = false;
+
+        if (runFullBuild) {
+          await buildAll({ includeUswds: false });
+        } else {
+          const jobs = [];
+          if (runStyles) {
+            jobs.push(buildSass());
+          }
+          if (runJavaScript) {
+            jobs.push(buildJavaScript());
+          }
+          if (runImages) {
+            jobs.push(copyProjectImages());
+          }
+          if (jobs.length > 0) {
+            await Promise.all(jobs);
+            console.log("Assets have been built!");
+          }
+        }
       } catch (error) {
         console.error(error);
       } finally {
@@ -148,7 +208,7 @@ async function watchAssets(skipInitialBuild = false) {
 
   watcher.on("all", (eventName, changedPath) => {
     const relPath = path.relative(ROOT, changedPath);
-    queueBuild(`${eventName} ${relPath}`);
+    queueBuild(`${eventName} ${relPath}`, relPath);
   });
 
   console.log("Watching assets for changes...");
