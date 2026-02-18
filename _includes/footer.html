@@ -1,4 +1,4 @@
-<footer class="usa-footer">
+<footer class="usa-footer border-top border-base">
   <div class="usa-footer__primary-section padding-y-8">
     <div class="usa-footer__primary-container grid-row">
       <div class="grid-col-auto">
@@ -26,14 +26,12 @@
         class="usa-footer__logo grid-row grid-gap-2 text-center desktop:text-left"
       >
         <div class="grid-col-12 desktop:grid-col-auto">
-          <img
-            src="/img/osc-logo.png"
-            class="maxw-6"
-            alt="{{ site.title }}"
-          />
+          <img src="/img/osc-logo.png" class="maxw-6" alt="{{ site.title }}" />
         </div>
         <div class="grid-col-12 desktop:grid-col-fill">
-          <p class="usa-footer__logo-heading text-white font-sans-lg">{{ site.title }}</p>
+          <p class="usa-footer__logo-heading text-white font-sans-lg">
+            {{ site.title }}
+          </p>
         </div>
         <div class="grid-col-12 desktop:grid-col-auto">
           <ul
@@ -41,7 +39,9 @@
           >
             {% include 'socialmedia.html' %}
           </ul>
-          <a href="mailto:{{ site.email }}" class="text-white">{{ site.email }}</a>
+          <a href="mailto:{{ site.email }}" class="text-white"
+            >{{ site.email }}</a
+          >
         </div>
       </div>
     </div>

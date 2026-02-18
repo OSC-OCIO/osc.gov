@@ -11,12 +11,12 @@
 {%- assign case_year = case_date | date: '%Y' -%}
 {%- assign case_date_iso = case_date | date: '%Y-%m-%d' -%}
 {%- assign case_link_title = link_title -%}
-{%- if case_link_title == nil -%}
+{%- if case_link_title == null -%}
   {%- assign case_link_title = true -%}
 {%- endif -%}
 
 <li class="tablet:grid-col-6 usa-card" data-pagefind-body>
-  <div class="usa-card__container">
+  <div class="usa-card__container border-base-lightest shadow-3">
     <header class="usa-card__header">
       <h3 class="usa-card__heading">
         {%- if case_link_title -%}
@@ -27,7 +27,10 @@
       </h3>
     </header>
     <div class="usa-card__body">
-      <ul class="usa-list usa-list--unstyled margin-top-0 margin-bottom-2" aria-label="More information">
+      <ul
+        class="usa-list usa-list--unstyled margin-top-0 margin-bottom-2"
+        aria-label="More information"
+      >
         {%- if case_location_primary -%}
           <li class="margin-bottom-1">{{- case_location_primary -}}</li>
         {%- endif -%}

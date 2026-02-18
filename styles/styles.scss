@@ -159,14 +159,7 @@ iframe.yt-shortcode {
   max-height: 25rem;
   width: 100%;
 }
-//   .usa-card__container {
-//   @include border-box-sizing;
-//   @include set-text-and-bg("base-lightest");
-//   @include u-border("transparent");
-//   @include u-display("flex");
-//   @include u-height("full");
-//   @include u-flex("column");
-//   @include u-position("relative");
-//   @include u-shadow(1)
-// }
-// rekick build
+
+.usa-pagination {
+  background: transparent;
+}
