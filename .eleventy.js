@@ -13,6 +13,9 @@ module.exports = async function (config) {
 
   // Set pathPrefix for site
   let pathPrefix = "/";
+  if (process.env.BASEURL) {
+    pathPrefix = process.env.BASEURL;
+  }
 
   // Copy the `admin` folders to the output
   config.addPassthroughCopy("admin");
@@ -103,11 +106,6 @@ module.exports = async function (config) {
 
     return postsByYear;
   });
-
-  // If BASEURL env variable exists, update pathPrefix to the BASEURL
-  if (process.env.BASEURL) {
-    pathPrefix = process.env.BASEURL;
-  }
 
   return {
     pathPrefix,
