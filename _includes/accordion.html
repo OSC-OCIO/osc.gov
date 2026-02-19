@@ -1,0 +1,38 @@
+{%- assign accordion_items = items | default: faq_items | default: entries | default: include.items | default: include.faq_items | default: include.entries -%}
+{%- if accordion_items and accordion_items.size > 0 -%}
+  {%- assign heading_tag = heading_tag | default: include.heading_tag | default: 'h2' -%}
+  {%- assign allow_multiple = allow_multiple | default: include.allow_multiple -%}
+  {%- if allow_multiple == null -%}
+    {%- assign allow_multiple = true -%}
+  {%- endif -%}
+  {%- assign id_prefix = id_prefix | default: include.id_prefix -%}
+  {%- if id_prefix == null or id_prefix == '' -%}
+    {%- assign id_prefix = page.fileSlug | default: page.url | default: 'accordion' -%}
+    {%- assign id_prefix = id_prefix | slugify | append: '-accordion' -%}
+  {%- endif -%}
+  {%- assign accordion_class = class | default: include.class -%}
+<div class="usa-accordion{% if allow_multiple %} usa-accordion--multiselectable{% endif %}{% if accordion_class %} {{ accordion_class }}{% endif %}"{% if allow_multiple %} data-allow-multiple{% endif %}>
+  {%- for item in accordion_items -%}
+    {%- assign accordion_id = id_prefix | append: '-' | append: forloop.index -%}
+    {%- assign item_title = item.question | default: item.title | default: item.heading | default: item.label -%}
+    {%- assign item_body = item.answer | default: item.content | default: item.body | default: item.text -%}
+    {%- assign body_markdown = body_markdown | default: include.body_markdown -%}
+    {%- if body_markdown == null -%}
+      {%- assign body_markdown = true -%}
+    {%- endif -%}
+    {%- assign expanded = item.expanded | default: false -%}
+  <{{ heading_tag }} class="usa-accordion__heading">
+    <button class="usa-accordion__button" aria-expanded="{% if expanded %}true{% else %}false{% endif %}" aria-controls="{{ accordion_id }}">
+      {{ item_title }}
+    </button>
+  </{{ heading_tag }}>
+  <div id="{{ accordion_id }}" class="usa-accordion__content usa-prose">
+    {%- if body_markdown -%}
+      {{ item_body | markdownify }}
+    {%- else -%}
+      {{ item_body }}
+    {%- endif -%}
+  </div>
+  {%- endfor -%}
+</div>
+{%- endif -%}
