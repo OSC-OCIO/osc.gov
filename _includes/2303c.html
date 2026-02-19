@@ -1,0 +1,16 @@
+<li class="usa-card">
+  <div class="usa-card__container bg-base-lightest border-base-lightest">
+    <div class="usa-card__header">
+      <h4 class="usa-card__heading font-body-s">{{ item.agency }}</h4>
+    </div>
+    <div class="usa-card__body">
+      {%- if item.poc -%}
+      <div><strong>Point of Contact:</strong> {{ item.poc }}</div>
+      {%- endif -%}
+      <div>{{ item.date }}</div>
+      {%- if item.expiration -%}
+      <div>{{ item.expiration }}</div>
+      {%- endif -%}
+    </div>
+  </div>
+</li>
