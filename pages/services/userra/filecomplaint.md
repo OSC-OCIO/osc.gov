@@ -11,4 +11,4 @@ eleventyNavigation:
 
 ​If you choose to file a USERRA complaint, DOL-VETS ​will investigate and attempt to resolve it; if efforts at resolution are unsuccessful, you may have the option of seeking representation from either OSC (if the complaint involves a federal executive agency, with certain limited exceptions) or the [U.S. Department of Justice](https://www.justice.gov/) (if the complaint involves a state, local, or private employer).​​
 
-At various stages before and during the complaint process, you may also have the option of filing an action with the ​[Merit Systems Protection Board (MSPB](https://www.mspb.gov/)) (if the complaint involves a federal executive agency, with certain limited exceptions) or in federal or state court (if the complaint involves a state, local, or private employer).​​
+At various stages before and during the complaint process, you may also have the option of filing an action with the ​[Merit Systems Protection Board (MSPB](https://www.mspb.gov/) (if the complaint involves a federal executive agency, with certain limited exceptions) or in federal or state court (if the complaint involves a state, local, or private employer).​​

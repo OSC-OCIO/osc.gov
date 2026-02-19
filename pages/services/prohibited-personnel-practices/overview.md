@@ -176,10 +176,6 @@ faqSections:
 
 {% youtube "https://www.youtube.com/watch?v=DFWPsuareiE" %}
 
-##
-
 ​​Prohibited personnel practices (PPPs) are employment-related activities that are banne​​d in the federal workforce because they violate the merit system through some form of employment discrimination, retaliation, improper hiring practices, or failure to adhere to laws, rules, or regulations that directly concern the merit system principles.
 
 OSC has the authority to investigate and prosecute violations of the 14 PPPs:
-
-##
