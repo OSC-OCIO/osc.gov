@@ -1,4 +1,4 @@
-<li class="usa-card">
+<li class="usa-card grid-col-12">
   <div class="usa-card__container bg-base-lightest border-base-lightest">
     <div class="usa-card__header">
       <h4 class="usa-card__heading font-body-s">{{ item.agency }}</h4>
@@ -12,5 +12,13 @@
       <div>{{ item.expiration }}</div>
       {%- endif -%}
     </div>
+    {%- if item.url -%}
+    <a
+      href="{{- item.url -}}"
+      class="usa-card__stretched-link"
+      aria-label="Go to Card title"
+    >
+    </a>
+    {%- endif -%}
   </div>
 </li>

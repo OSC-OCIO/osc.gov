@@ -5,13 +5,13 @@ eleventyNavigation:
 items:
   - agency: AmeriCorps OIG
     date: "Registration Date: April 2025"
-  - agency: Commodity Futu"Res Trading Commission
+  - agency: Commodity Futures Trading Commission
     date: "Registration Date: October 2023"
   - agency: Defense Nuclear Facilities Safety Board
     date: "Registration Date: June 2024"
   - agency: Department of Transportation, Federal Aviation Administration
     date: "Registration Date: June 2025"
-  - agency: Department of Transportation, Office of the Sec"Retary
+  - agency: Department of Transportation, Office of the Secretary
     date: "Registration Date: February 2024"
   - agency: Department of Transportation, OIG
     date: "Registration Date: August 2024"
@@ -27,9 +27,9 @@ items:
     date: "Registration Date: September 2025"
   - agency: International Trade Commission, Office of Inspector General
     date: "Registration Date: September 2025"
-  - agency: National C"Redit Union Administration, OIG
+  - agency: National Credit Union Administration, OIG
     date: "Registration Date: July 2024"
-  - agency: P"Retrial Services Agency for the District of Columbia
+  - agency: "Retrial Services Agency for the District of Columbia
     date: "Registration Date: March 2024"
 ---
 

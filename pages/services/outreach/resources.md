@@ -1,98 +1,51 @@
 ---
 title: Additional Resources for Outreach, Training, & Certification
+layout: layouts/faq-accordion
 eleventyNavigation:
   order: 8
+faqSections:
+  - title: (null)
+    items:
+      - question: Handouts
+        answer: |
+          [Sample Memo for Annual Notification (FAA)](/~assets/docs/sample-memo-for-annual-notification-faa.docx)
+          [Your Rights as a Whistleblower for a Government Corporation (v2024)](/~assets/docs/your-rights-as-a-whistleblower-for-a-government-corporation-v2024.pdf)
+          [Your Rights as an Employee of a Government Corporation (v2024)](/~assets/docs/your-rights-as-an-employee-of-a-government-corporation-v2024.pdf)
+          [Your Rights as a Federal Employee (v2024)](/~assets/docs/your-rights-as-a-federal-employee-v2024.pdf)
+          [Discrimination Fact Sheet (b)(1)](/~assets/docs/discrimination-fact-sheet-b1.pdf)
+          [Discrimination Fact Sheet (b)(10)](/~assets/docs/discrimination-fact-sheet-b10.pdf)
+          [Hiring Offense Fact Sheet (b)(2) - Improper Recommendation](/~assets/docs/hiring-offense-fact-sheet-b2-improper-recommendation.pdf)
+          [Hiring Offense Fact Sheet (b)(4) - Obstruction of Competition](/~assets/docs/hiring-offense-fact-sheet-b4-obstruction-of-competition.pdf)
+          [Hiring Offense Fact Sheet (b)(5) - Influencing Withdrawal](/~assets/docs/hiring-offense-fact-sheet-b5-influencing-withdrawal.pdf)
+          [Hiring Offense Fact Sheet (b)(6) - Unauthorized Preference](/~assets/docs/hiring-offense-fact-sheet-b6-unauthorized-preference.pdf)
+          [Hiring Offense Fact Sheet (b)(7) - Nepotism](/~assets/docs/hiring-offense-fact-sheet-b7-nepotism.pdf)
+          [Hiring Offense Fact Sheet (b)(11) - Violating Veterans Preference](/~assets/docs/hiring-offense-fact-sheet-b11-violating-veterans-preference.pdf)
+          [Potpourri Fact Sheet (b)(13) - Nondisclosure Forms, Policies, and Agreements](/~assets/docs/potpourri-fact-sheet-b13-nondisclosure-forms-policies-and-agreements.pdf)
+          [Potpourri Fact Sheet (b)(12) - Violating Merit System Principles](/~assets/docs/potpourri-fact-sheet-b12-violating-merit-system-principles.pdf)
+          [Potpourri Fact Sheet (b)(3) - Coercing Political Activity](/~assets/docs/potpourri-fact-sheet-b3-coercing-political-activity.pdf)
+          [Potpourri Fact Sheet (b)(14) - Accessing Medical Records](/~assets/docs/potpourri-fact-sheet-b14-accessing-medical-records.pdf)
+          [Retaliation Fact Sheet (b)(9) - Protected Activity](/~assets/docs/retaliation-fact-sheet-b9-protected-activity.pdf)
+          [Retaliation Fact Sheet (b)(8) - Protected Disclosure](/~assets/docs/retaliation-fact-sheet-b8-protected-disclosure.pdf)
+      - question: Posters
+        answer: |
+          [The Hatch Act and Further Restricted Employees Poster](/~assets/docs/the-hatch-act-and-further-restricted-employees-poster.pdf)
+          [The Hatch Act and State, D.C., and Local Employees Poster](/~assets/docs/the-hatch-act-and-state-dc-and-local-employees-poster.pdf)
+          [Hatch Act social media handout](/~assets/docs/hatch-act-social-media-handout.pdf)
+          [Disclosures of Wrongdoing Poster (v2024)](/~assets/docs/disclosures-of-wrongdoing-poster-v2024.pdf)
+          [Prohibited Personnel Practices Poster (v2024)](/~assets/docs/prohibited-personnel-practices-poster-v2024.pdf)
+          [Prohibited Personnel Practices Poster for Government Corporation (v2024)](/~assets/docs/prohibited-personnel-practices-poster-for-government-corporation-v2024.pdf)
+          [The Hatch Act and Most Federal Employees Poster](/~assets/docs/the-hatch-act-and-most-federal-employees-poster.pdf)
+          [Whistleblower Retaliation Poster (v2024)](/~assets/docs/whistleblower-retaliation-poster-v2024.pdf)
+          [2025 OSC EEO Poster (Letter Format)](/~assets/docs/2025-osc-eeo-poster-letter-format.pdf)
+      - question: Training Materials
+        answer: |
+          [The Unique Role of OSC in Protecting LGBT Rights in the Federal Workplace](/~assets/docs/the-unique-role-of-osc-in-protecting-lgbt-rights-in-the-federal-workplace.pdf)
+          [FY25 Agency Conducted Annual Supervisory Training](/~assets/docs/fy25-agency-conducted-annual-supervisory-training.pdf)
+      - question: Equal Employment Opportunity Resources
+        answer: |
+          [No FEAR Act Quarterly Data Q3 2025](/~assets/docs/no-fear-act-quarterly-data-q3-2025.pdf)
+          [Federal Protections for Lesbian, Gay, Bisexual, and Transgender (LGBT) Individuals](/~assets/docs/deral-protections-for-lesbian-gay-bisexual-and-transgender-lgb-51da6d07.pdf)
+          [No FEAR Act Powerpoint Presentation](/~assets/docs/no-fear-act-powerpoint-presentation.ppt)
+          [OSC's Plan for Improving Access for Persons with Limited English Proficiency](/~assets/docs/oscs-plan-for-improving-access-for-persons-with-limited-english-proficiency.pdf)
+          [MD715 AAP Report (FY24)](/~assets/docs/md715-aap-report-fy24.pdf)
 ---
-
-- Handouts
-- Posters
-- Training Materials
-- Equal Employment Opportunity Resources
-
-## Handouts
-
-[Sample Memo for Annual Notification (FAA)](<../../~assets/docs/sample-memo-for-annual-notification-faa.docx>)
-
-[Your Rights as a Whistleblower for a Government Corporation (v2024)](<../../~assets/docs/your-rights-as-a-whistleblower-for-a-government-corporation-v2024.pdf>)
-
-[Your Rights as an Employee of a Government Corporation (v2024)](<../../~assets/docs/your-rights-as-an-employee-of-a-government-corporation-v2024.pdf>)
-
-[Your Rights as a Federal Employee (v2024)](<../../~assets/docs/your-rights-as-a-federal-employee-v2024.pdf>)
-
-[Discrimination Fact Sheet (b)(1)](<../../~assets/docs/discrimination-fact-sheet-b1.pdf>)
-
-[Discrimination Fact Sheet (b)(10)](<../../~assets/docs/discrimination-fact-sheet-b10.pdf>)
-
-[Hiring Offense Fact Sheet (b)(2) - Improper Recommendation](<../../~assets/docs/hiring-offense-fact-sheet-b2-improper-recommendation.pdf>)
-
-[Hiring Offense Fact Sheet (b)(4) - Obstruction of Competition](<../../~assets/docs/hiring-offense-fact-sheet-b4-obstruction-of-competition.pdf>)
-
-[Hiring Offense Fact Sheet (b)(5) - Influencing Withdrawal](<../../~assets/docs/hiring-offense-fact-sheet-b5-influencing-withdrawal.pdf>)
-
-[Hiring Offense Fact Sheet (b)(6) - Unauthorized Preference](<../../~assets/docs/hiring-offense-fact-sheet-b6-unauthorized-preference.pdf>)
-
-[Hiring Offense Fact Sheet (b)(7) - Nepotism](<../../~assets/docs/hiring-offense-fact-sheet-b7-nepotism.pdf>)
-
-[Hiring Offense Fact Sheet (b)(11) - Violating Veterans Preference](<../../~assets/docs/hiring-offense-fact-sheet-b11-violating-veterans-preference.pdf>)
-
-[Potpourri Fact Sheet (b)(13) - Nondisclosure Forms, Policies, and Agreements](<../../~assets/docs/potpourri-fact-sheet-b13-nondisclosure-forms-policies-and-agreements.pdf>)
-
-[Potpourri Fact Sheet (b)(12) - Violating Merit System Principles](<../../~assets/docs/potpourri-fact-sheet-b12-violating-merit-system-principles.pdf>)
-
-[Potpourri Fact Sheet (b)(3) - Coercing Political Activity](<../../~assets/docs/potpourri-fact-sheet-b3-coercing-political-activity.pdf>)
-
-[Potpourri Fact Sheet (b)(14) - Accessing Medical Records](<../../~assets/docs/potpourri-fact-sheet-b14-accessing-medical-records.pdf>)
-
-[Retaliation Fact Sheet (b)(9) - Protected Activity](<../../~assets/docs/retaliation-fact-sheet-b9-protected-activity.pdf>)
-
-[Retaliation Fact Sheet (b)(8) - Protected Disclosure](<../../~assets/docs/retaliation-fact-sheet-b8-protected-disclosure.pdf>)
-
-## Posters
-
-[The Hatch Act and Further Restricted Employees Poster](../../~assets/docs/the-hatch-act-and-further-restricted-employees-poster.pdf)
-
-[The Hatch Act and State, D.C., and Local Employees Poster](../../~assets/docs/the-hatch-act-and-state-dc-and-local-employees-poster.pdf)
-
-[Hatch Act social media handout](../../~assets/docs/hatch-act-social-media-handout.pdf)
-
-[Disclosures of Wrongdoing Poster (v2024)](<../../~assets/docs/disclosures-of-wrongdoing-poster-v2024.pdf>)
-
-[Prohibited Personnel Practices Poster (v2024)](<../../~assets/docs/prohibited-personnel-practices-poster-v2024.pdf>)
-
-[Prohibited Personnel Practices Poster for Government Corporation (v2024)](<../../~assets/docs/prohibited-personnel-practices-poster-for-government-corporation-v2024.pdf>)
-
-[The Hatch Act and Most Federal Employees Poster](../../~assets/docs/the-hatch-act-and-most-federal-employees-poster.pdf)
-
-[Whistleblower Retaliation Poster (v2024)](<../../~assets/docs/whistleblower-retaliation-poster-v2024.pdf>)
-
-[2025 OSC EEO Poster (Letter Format)](<../../~assets/docs/2025-osc-eeo-poster-letter-format.pdf>)
-
-## Training Materials
-
-[The Unique Role of OSC in Protecting LGBT Rights in the Federal Workplace](../../~assets/docs/the-unique-role-of-osc-in-protecting-lgbt-rights-in-the-federal-workplace.pdf)
-
-[FY25 Agency Conducted Annual Supervisory Training](../../~assets/docs/fy25-agency-conducted-annual-supervisory-training.pdf)
-
-## Equal Employment Opportunity Resources
-
-[No FEAR Act Quarterly Data Q3 2025](../../~assets/docs/no-fear-act-quarterly-data-q3-2025.pdf)
-
-[\_Federal Protections for Lesbian, Gay, Bisexual, and Transgender (LGBT) Individuals\_\_ \_](../../~assets/docs/deral-protections-for-lesbian-gay-bisexual-and-transgender-lgb-51da6d07.pdf)
-
-[No FEAR Act Powerpoint Presentation](../../~assets/docs/no-fear-act-powerpoint-presentation.ppt)
-
-[OSC's Plan for Improving Access for Persons with Limited English Proficiency](../../~assets/docs/oscs-plan-for-improving-access-for-persons-with-limited-english-proficiency.pdf)
-
-[MD715 AAP Report (FY24)](<../../~assets/docs/md715-aap-report-fy24.pdf>)
-
-## Accordion Control
-
-"use strict"; var t = setInterval(function() { if(window.jQuery) { clearInterval(t); (function ($) { $(function(){ //are we in edit mode? if(!$('.ms-SPZoneLabel').length){ //iterate over each web part zone $('div.ms-webpart-zone').each(function(i){ //current web part zone var wpzone = $(this); //check if have tab script data-script-id if(wpzone.find('\[data-script-id="ResponsiveTabs"\]').length){ var ResponsiveTabsScript = wpzone.find('\[data-script-id="ResponsiveTabs"\]'); //if tab script exists in the current zone. if(ResponsiveTabsScript.length){ wpzone.find('div.ms-webpartzone-cell').addClass('tabZone'); var largestWidth = 0; //get tab "titles"; if any LI elements, the tab has been created // skip this tabGroup, hide the title content var tabTitles = wpzone.find('.resp-tabs-list'); if(tabTitles.find('li').length){ return; } //get tabs container and assign ID var tabs = wpzone.find('.tabs'); tabs.attr('id', 'tabGroup' + i) //get tab content container var tabContent = wpzone.find('.resp-tabs-container'); //get all web parts in zone and iterate var wparts = wpzone.find('.ms-webpartzone-cell'); wparts.each(function(i){ //if this is the tab script, skip this zone if($(this).find(ResponsiveTabsScript).length){ $(this).find('h2.ms-webpart-titleText').hide(); return; } //get web part title and content element var title = $(this).find('h2.ms-webpart-titleText').hide().text(); var bodyElement = $(this).find('\[webpartid\]'); $(this).find('.ms-webpart-chrome-title').hide(); largestWidth = bodyElement.width() > largestWidth ? bodyElement.width() : largestWidth; //if title is empty, assign a title if(title == '') title = 'No Title'; //create an LI element for the tab and append the web part content tabTitles.append($('<li>', {text: title})); //tabContent.append(bodyElement); tabContent.append($('<div>', { "class": "webpart-container"}).append(bodyElement)); }); tabs.find('li').each(function(index){ $(this).addClass('list-item-' + index); }); wpzone.prepend(tabs); //instantiate tabs tabs.easyResponsiveTabs({activate: function(){ var tabId = $(this).attr('aria-controls'); var tabContent = tabs.find('div\[aria-labelledby=' + tabId + '\]') if(tabContent.find('.ms-acal-header').length == 1) { var calendar = tabContent.find('.ms-acal-header'); //calendar.hide(); var parent = calendar.parents('\[webpartid\]:first'); var ctxid = parent.attr('id') ctxid = ctxid.substr(ctxid.indexOf('WebPart') + 7); if(parent.find('.ms-acal-month').length){ \_MoveToViewDate(null, 'month', ctxid); } else if(parent.find('.ms-acal-week-top').length){ \_MoveToViewDate(null, 'week', ctxid); } else if(parent.find('.ms-acal-day-top').length){ \_MoveToViewDate(null, 'day', ctxid); } } }}); } } }); $('.tabs').parent().wrapInner('<div class="tabWrap"/>'); $('.tabWrap').parent().css({display: "block"}); //unhide tabs if using #tabs to hide before wrapped $('#tabs').show(); //class on a header for tab groups $('h2.tab-group-header').parents('.ms-webpartzone-cell').addClass('tab-group-header-wrap'); // remove zero width unicode character $('h2.tab-group-header').each(function(){ var $el = $(this); $el.html($el.html().replace(/\\u200B/g,'')) }); // remove zero width unicode character from other elements $('.tabWrap,.tabs,.resp-tabs-container').each(function(){ var $wrap = $(this); $wrap.contents().filter(function(){ return this.nodeType === 3}) .each(function(){ var matches = this.nodeValue.match(/\\u200B/); if(matches && matches.length) { this.nodeValue = ''; } }) }); } }); })(jQuery); } },1);
-
-## Handouts
-
-## Posters
-
-## Training Materials
-
-## Equal Employment Opportunity Resources
