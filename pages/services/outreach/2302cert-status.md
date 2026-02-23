@@ -2,1213 +2,548 @@
 title: 2302(c) Certified Agencies
 eleventyNavigation:
   order: 6
+items:
+  - agency: "AbilityOne Commission and Office of Inspector General"
+    poc: "Syed Kamil Ali (202) 603-2248"
+    certdate: " April 2025"
+    expiration: " April 2028"
+    url: "https://www.abilityone.gov/commission/index.html"
+  - agency: "Administrative Conference of the United States"
+    poc: "Shawne C. McGibbon (202) 480-2088"
+    certdate: " February 2024"
+    expiration: " February 2027"
+    url: "https://www.acus.gov/"
+  - agency: "AmeriCorps (Corporation for National and Community Service)"
+    poc: "Blake Feltrow (202) 606-3249"
+    certdate: " January 2023"
+    expiration: " January 2026"
+    url: "https://www.grants.gov/learn-grants/grant-making-agencies/corporation-for-national-community-service.html"
+  - agency: "AmeriCorps, Office of Inspector General"
+    poc: "Rebecca Blaskey (571) 653-0774"
+    certdate: " June 2024"
+    expiration: " June 2027"
+    url: "https://www.americorpsoig.gov"
+  - agency: "Appalachian Regional Commission Office of Inspector General"
+    poc: "Clayton Fox (202) 884-7685"
+    certdate: " May 2024"
+    expiration: " May 2027"
+    url: "https://www.arc.gov/staff_type/office-of-inspector-general/"
+  - agency: "Commodity Futures Trading Commission"
+    poc: "KerriLaine Prunella (202) 923-8822"
+    certdate: " January 2021"
+    expiration: " January 2024"
+    url: "https://www.cftc.gov/"
+  - agency: "Commodity Futures Trading Commission, Office of Inspector General"
+    poc: "Judith Ringle (202) 418-5109"
+    certdate: " April 2024"
+    expiration: " April 2027"
+    url: "https://www.cftc.gov/About/OfficeoftheInspectorGeneral/index.htm"
+  - agency: "Consumer Financial Protection Bureau"
+    poc: "Sonya White (202) 435-9663"
+    certdate: " April 2024"
+    expiration: " April 2027"
+    url: "https://www.consumerfinance.gov/"
+  - agency: "Consumer Product Safety Commission and Office of Inspector General"
+    poc: "Donna Simpson (240) 638-6959"
+    certdate: " January 2023"
+    expiration: " January 2026"
+    url: "https://www.cpsc.gov/"
+  - agency: "Defense Nuclear Facilities Safety Board"
+    poc: "James Biggins (202) 694-7014"
+    certdate: " March 2022"
+    expiration: " March 2025"
+    url: "https://www.dnfsb.gov/"
+  - agency: "Department of Agriculture, Office of Inspector General"
+    poc: "Vivian Warner (301) 623-0933"
+    certdate: " July 2022"
+    expiration: " July 2025"
+    url: "https://www.usda.gov/oig"
+  - agency: "Department of Commerce, Office of Inspector General"
+    poc: "Ceceila Wilson (202) 793-2914"
+    certdate: " August 2024"
+    expiration: " August 2027"
+    url: "https://www.oig.doc.govdefault.aspx"
+  - agency: "Department of Defense, Defense Commissary Agency"
+    poc: "Craig Smith (804) 734-8000 ext. 48508"
+    certdate: " December 2023"
+    expiration: " December 2026"
+    url: "https://www.commissaries.com/"
+  - agency: "Department of Defense, Defense Counterintelligence and Security Agency"
+    poc: "Phillip Kroop (301) 833-1763"
+    certdate: " February 2023"
+    expiration: " February 2026"
+    url: "https://www.dcsa.mil/"
+  - agency: "Department of Defense, Defense Technical Information Center"
+    poc: "Terence Baugh -"
+    certdate: " October 2022"
+    expiration: " October 2025"
+    url: "https://discover.dtic.mil/"
+  - agency: "Department of Defense, Office of Inspector General"
+    poc: "Lisa Wilson (703) 699-6075"
+    certdate: " April 2023"
+    expiration: " April 2026"
+    url: "https://www.dodig.mil/"
+  - agency: "Department of Education"
+    poc: "Samantha Cutler (202) 763-6067"
+    certdate: " August 2023"
+    expiration: " August 2026"
+    url: "https://www.ed.gov/"
+  - agency: "Department of Education, Office of Inspector General"
+    poc: "Anthony Gordon (816) 268-8428"
+    certdate: " August 2024"
+    expiration: " August 2027"
+    url: "https://oig.ed.gov/"
+  - agency: "Department of Health & Human Services"
+    poc: "Sonji Lee (301) 525-3368"
+    certdate: " February 2023"
+    expiration: " February 2026"
+    url: "http://www.hhs.gov/"
+  - agency: "Department of Health & Human Services, Office of Inspector General"
+    poc: "Melissa Tucker (202) 860-5035"
+    certdate: " August 2024"
+    expiration: " August 2027"
+    url: "https://oig.hhs.gov/"
+  - agency: "Department of Homeland Security, Office of Inspector General"
+    poc: "Cecilia Bessee (202) 981-6326"
+    certdate: " September 2024"
+    expiration: " September 2027"
+    url: "https://www.oig.dhs.gov/"
+  - agency: "Department of Housing and Urban Development"
+    poc: "Matisha Montgomery (202) 402-4369"
+    certdate: " November 2024"
+    expiration: " November 2027"
+    url: "https://www.hud.gov/"
+  - agency: "Department of Housing and Urban Development, Office of Inspector General"
+    poc: "Don Berthiaume (202) 878-0915"
+    certdate: " July 2023"
+    expiration: " July 2026"
+    url: "https://www.hudoig.gov/"
+  - agency: "Department of Interior, Office of Inspector General"
+    poc: "Matthew Murphy (771) 233-6404"
+    certdate: " September 2023"
+    expiration: " September 2026"
+    url: "https://www.doioig.gov/"
+  - agency: "Department of Justice, Antitrust Division"
+    poc: "Dr. Shantia Smith (202) 733-0257"
+    certdate: " March 2025"
+    expiration: " March 2028"
+    url: "https://www.justice.gov/atr"
+  - agency: "Department of Justice, Bureau of Alcohol, Tobacco, Firearms and Explosives"
+    poc: "Lakisha Gregory (202) 648-9365"
+    certdate: " March 2025"
+    expiration: " March 2028"
+    url: "https://www.atf.gov/"
+  - agency: "Department of Justice, Bureau of Prisons"
+    poc: "Lisa Gradiska (202) 514-1964"
+    certdate: " June 2025"
+    expiration: " June 2028"
+    url: "https://www.bop.gov/"
+  - agency: "Department of Justice, Civil Division"
+    poc: "Matthew Kennedy (202) 550-2150"
+    certdate: " March 2025"
+    expiration: " March 2028"
+    url: "https://www.justice.gov/civil"
+  - agency: "Department of Justice, Civil Rights Division"
+    poc: "Laura Fentonmiller (202) 598-5008"
+    certdate: " March 2025"
+    expiration: " March 2028"
+    url: "https://www.justice.gov/crt"
+  - agency: "Department of Justice, Community Relations Service"
+    poc: "DurShawn Robinson (202) 514-3668"
+    certdate: " March 2025"
+    expiration: " March 2028"
+    url: "https://www.justice.gov/crs"
+  - agency: "Department of Justice, Criminal Division"
+    poc: "Jennifer Chapman (202) 616-0363"
+    certdate: " March 2025"
+    expiration: " March 2028"
+    url: "https://www.justice.gov/criminal"
+  - agency: "Department of Justice, Drug Enforcement Agency"
+    poc: "April Torikai-Bookstaber (571) 776-1949"
+    certdate: " May 2025"
+    expiration: " May 2028"
+    url: "https://www.dea.gov/"
+  - agency: "Department of Justice, Environment and Natural Resources Division"
+    poc: "Robyn Johnson (202) 532-3191"
+    certdate: " March 2025"
+    expiration: " March 2028"
+    url: "https://www.justice.gov/enrd"
+  - agency: "Department of Justice, Executive Office for U.S. Attorneys"
+    poc: "Valarie Mulcahy (202) 252-5310"
+    certdate: " April 2025"
+    expiration: " April 2028"
+    url: "https://www.justice.gov/usao/eousa"
+  - agency: "Department of Justice, Executive Office of Immigration Review"
+    poc: "Amanda Adams Milan and Matthew Metz (703) 305-1184 and (703) 756-8444"
+    certdate: " March 2025"
+    expiration: " March 2028"
+    url: "https://www.justice.gov/eoir"
+  - agency: "Department of Justice, Justice Management Division"
+    poc: "Audra Robb (202) 550-7185"
+    certdate: " March 2025"
+    expiration: " March 2028"
+    url: "https://www.justice.gov/jmd"
+  - agency: "Department of Justice, Office for Access to Justice"
+    poc: "Shannon Munro (202) 598-0555"
+    certdate: " March 2025"
+    expiration: " March 2028"
+    url: "https://www.justice.gov/atj"
+  - agency: "Department of Justice, Office of Inspector General"
+    poc: "Mark Hayes (202) 616-4523"
+    certdate: " December 2024"
+    expiration: " December 2027"
+    url: "https://oig.justice.gov/"
+  - agency: "Department of Justice, Office of Justice Programs"
+    poc: "Jennifer McCarthy (202) 616-3089"
+    certdate: " March 2025"
+    expiration: " March 2028"
+    url: "https://www.ojp.gov/"
+  - agency: "Department of Justice, Office of Professional Responsibility"
+    poc: "Mark Porada (202) 307-3260"
+    certdate: " March 2025"
+    expiration: " March 2028"
+    url: "https://www.justice.gov/opr"
+  - agency: "Department of Justice, Tax Division"
+    poc: "Phyllis Wolfteich (202) 616-2583"
+    certdate: " March 2025"
+    expiration: " March 2028"
+    url: "https://www.justice.gov/tax"
+  - agency: "Department of Justice, U.S. Marshals Service"
+    poc: "William Baxter (703) 489-9293"
+    certdate: " July 2025"
+    expiration: " July 2028"
+    url: "https://www.usmarshals.gov/"
+  - agency: "Department of Justice, U.S. Parole Commission"
+    poc: "Bernard Desrosiers (202) 356-7031"
+    certdate: " February 2025"
+    expiration: " February 2028"
+    url: "https://www.justice.gov/uspc"
+  - agency: "Department of Labor"
+    poc: "Tracey Schaeffer, Tanya Palermo (202) 693-7273 and (202) 693-0327"
+    certdate: " February 2023"
+    expiration: " February 2026"
+    url: "https://www.dol.gov/"
+  - agency: "Department of Labor, Office of Inspector General"
+    poc: "Alisa H. Reff (202) 693-5247"
+    certdate: " July 2023"
+    expiration: " July 2026"
+    url: "https://www.oig.dol.gov/"
+  - agency: "Department of State, Office of Inspector General"
+    poc: "Jeffrey McDermott (571) 349-9267"
+    certdate: " October 2023"
+    expiration: " October 2026"
+    url: "https://www.stateoig.gov/"
+  - agency: "Department of the Treasury and Office of Inspector General"
+    poc: "Ashley Sutton (771) 216-1242"
+    certdate: " December 2023"
+    expiration: " December 2026"
+    url: "https://home.treasury.gov/"
+  - agency: "Department of Transportation, Federal Aviation Administration\\*"
+    poc: "Parisa Naraghi-Arani (817) 201-9231"
+    certdate: " August 2025"
+    expiration: " August 2028"
+    url: "http://www.faa.gov/"
+  - agency: "Department of Transportation, Office of the Secretary"
+    poc: "Heather Albert (202) 366-9444"
+    certdate: " January 2021"
+    expiration: " January 2024"
+    url: "https://www.transportation.gov/office-of-secretary"
+  - agency: "Department of Transportation, Volpe National Transportation Systems Center"
+    poc: "Sonia Cardona (857) 259-9334"
+    certdate: " January 2025"
+    expiration: " January 2028"
+    url: "https://www.volpe.dot.gov/"
+  - agency: "Department of Veterans Affairs"
+    poc: "Toni Zavana (202) 341-8023"
+    certdate: " January 2023"
+    expiration: " January 2026"
+    url: "https://www.va.gov/"
+  - agency: "Department of Veterans Affairs, Office of Inspector General"
+    poc: "Krystle Soren (202) 302-2197"
+    certdate: " September 2025"
+    expiration: " September 2028"
+    url: "https://www.va.gov/oig/"
+  - agency: "Election Assistance Commission"
+    poc: "Yalda Nia (202) 578-5951"
+    certdate: " January 2025"
+    expiration: " January 2028"
+    url: "https://www.eac.gov/"
+  - agency: "Election Assistance Commission, Office of Inspector General"
+    poc: "Michael Rivera (202) 578-1202"
+    certdate: " June 2023"
+    expiration: " June 2026"
+    url: "https://www.eac.gov/inspector-general"
+  - agency: "Environmental Protection Agency, Office of Inspector General"
+    poc: "Lori Ruk (202) 809-4920"
+    certdate: " October 2023"
+    expiration: " October 2026"
+    url: "https://www.epa.gov/office-inspector-general"
+  - agency: "Export-Import Bank of the United States, Office of Inspector General"
+    poc: "Maura Malone (202) 281-7925"
+    certdate: " March 2023"
+    expiration: " March 2026"
+    url: "https://www.exim.gov/about/oig"
+  - agency: "Farm Credit Administration"
+    poc: "Vonda Bell (703) 883-4045"
+    certdate: " March 2023"
+    expiration: " March 2026"
+    url: "http://www.fca.gov/"
+  - agency: "Farm Credit System Insurance Corporation"
+    poc: "Lynn Powalski (703) 883-4392"
+    certdate: " July 2022"
+    expiration: " July 2025"
+    url: "https://www.fcsic.gov/"
+  - agency: "Federal Communications Commission Office of Inspector General"
+    poc: "Travis Farris (202) 316-9824"
+    certdate: " September 2024"
+    expiration: " September 2027"
+    url: "https://www.fcc.gov/inspector-general"
+  - agency: "Federal Deposit Insurance Corporation"
+    poc: "William White, Jr. (703) 562-2124"
+    certdate: " January 2021"
+    expiration: " January 2024"
+    url: "https://www.fdic.gov/"
+  - agency: "Federal Deposit Insurance Corporation, Office of Inspector General"
+    poc: "Cynthia Hogue (703) 562-2306"
+    certdate: " November 2024"
+    expiration: " November 2027"
+    url: "https://www.fdicoig.gov/"
+  - agency: "Federal Housing Finance Agency"
+    poc: "Janice Kullman (202) 573-0845"
+    certdate: " January 2024"
+    expiration: " January 2027"
+    url: "http://www.fhfa.gov/"
+  - agency: "Federal Housing Finance Agency, Office of Inspector General"
+    poc: "Alison Healey (202) 730-4050"
+    certdate: " December 2023"
+    expiration: " December 2026"
+    url: "https://www.fhfaoig.gov/"
+  - agency: "Federal Labor Relations Authority"
+    poc: "Rebecca Osborne (771) 444-5778"
+    certdate: " June 2024"
+    expiration: " June 2027"
+    url: "https://www.flra.gov/"
+  - agency: "Federal Labor Relations Authority, Office of Inspector General"
+    poc: "Dana Rooney (777) 444-5712"
+    certdate: " February 2025"
+    expiration: " February 2028"
+    url: "https://www.flra.gov/components-offices/offices/office-inspector-general"
+  - agency: "Federal Maritime Commission"
+    poc: "Lucille Marvin (202) 523-5800"
+    certdate: " February 2023"
+    expiration: " February 2026"
+    url: "http://www.fmc.gov/"
+  - agency: "Federal Maritime Commission, Office of Inspector General"
+    poc: "Jon Hatfield (202) 523-5863"
+    certdate: " February 2023"
+    expiration: " February 2026"
+    url: "https://www.fmc.gov/about-the-fmc/bureaus-offices/office-of-inspector-general/"
+  - agency: "Federal Mediation and Conciliation Service"
+    poc: "Alisa Zimmerman (202) 606-5488"
+    certdate: " March 2025"
+    expiration: " March 2028"
+    url: "https://www.fmcs.gov/"
+  - agency: "Federal Retirement Thrift Investment Board"
+    poc: "April Lane (202) 864-8684"
+    certdate: " May 2024"
+    expiration: " May 2027"
+    url: "https://www.frtib.gov/"
+  - agency: "General Services Administration, Office of the Inspector General"
+    poc: "Tara Kilfoyle (202) 273-6353"
+    certdate: " October 2023"
+    expiration: " October 2026"
+    url: "https://www.gsa.gov/about-us/organization/gsa-office-of-inspector-general-overview"
+  - agency: "Government Publishing Office, Office of Inspector General"
+    poc: "Cynthia Lie (202) 512-0312"
+    certdate: " June 2022"
+    expiration: " June 2025"
+    url: "https://www.gpo.gov/who-we-are/our-agency/inspector-general/overview-and-hotline"
+  - agency: "Inter-American Foundation"
+    poc: "Nicole Stinson (202) 683-7117"
+    certdate: " December 2023"
+    expiration: " December 2026"
+    url: "https://www.iaf.gov/"
+  - agency: "International Development Finance Corporation"
+    poc: "Patrick Browne (202) 735-6188"
+    certdate: " November 2023"
+    expiration: " November 2026"
+    url: "https://www.dfc.gov/"
+  - agency: "International Trade Commission"
+    poc: "Charles Smith (202) 205-3408"
+    certdate: " June 2021"
+    expiration: " June 2024"
+    url: "https://www.usitc.gov/"
+  - agency: "International Trade Commission, Office of Inspector General"
+    poc: "Charles F. Smith (202) 205-3408"
+    certdate: " June 2021"
+    expiration: " June 2024"
+    url: "https://www.usitc.gov/oig/"
+  - agency: "James Madison Memorial Fellowship Foundation"
+    poc: "Claire Iglesias (571) 858-4202"
+    certdate: " July 2022"
+    expiration: " July 2025"
+    url: "https://www.jamesmadison.gov/"
+  - agency: "Merit Systems Protection Board"
+    poc: "Lance Seibenhener (202) 254-4493"
+    certdate: " December 2022"
+    expiration: " December 2025"
+    url: "http://www.mspb.gov/"
+  - agency: "Millennium Challenge Corporation"
+    poc: "Tamiko Watkins (202) 521-3730"
+    certdate: " January 2024"
+    expiration: " January 2027"
+    url: "https://www.mcc.gov/"
+  - agency: "National Aeronautics and Space Administration"
+    poc: "Collen Wilson (202) 305-0507"
+    certdate: " May 2024"
+    expiration: " May 2027"
+    url: "https://www.nasa.gov/"
+  - agency: "National Aeronautics and Space Administration, Office of Inspector General"
+    poc: "Sashka Mannion (202) 358-4809"
+    certdate: " September 2025"
+    expiration: " September 2028"
+    url: "https://oig.nasa.gov/"
+  - agency: "National Credit Union Administration"
+    poc: "Kevin Tuininga and Joe Hannah (703) 518-6543 and (703) 548-2430"
+    certdate: " February 2023"
+    expiration: " February 2026"
+    url: "https://www.ncua.gov/"
+  - agency: "National Credit Union Administration, Office of Inspector General"
+    poc: "Marta E. Erceg -"
+    certdate: " December 2019"
+    expiration: " December 2022"
+    url: "https://www.ncua.gov/about-ncua/inspector-general"
+  - agency: "National Endowment for the Humanities"
+    poc: "Lisette Voyatzis (202) 606-8322"
+    certdate: " March 2024"
+    expiration: " March 2027"
+    url: "https://www.neh.gov/"
+  - agency: "National Labor Relations Board"
+    poc: "Marie Azan-Reyes (202) 273-1755"
+    certdate: " November 2023"
+    expiration: " November 2026"
+    url: "https://www.nlrb.gov/"
+  - agency: "National Mediation Board"
+    poc: "Mary-Kate Dowling (202) 365-6712"
+    certdate: " December 2020"
+    expiration: " December 2023"
+    url: "https://nmb.gov/NMB_Application/"
+  - agency: "National Science Foundation, Office of the Inspector General"
+    poc: "Harrison Ford (703) 292-7100"
+    certdate: " April 2022"
+    expiration: " April 2025"
+    url: "http://www.nsf.gov/oig/"
+  - agency: "National Transportation Safety Board"
+    poc: "William McMurry (202) 314-6226"
+    certdate: " December 2024"
+    expiration: " December 2027"
+    url: "https://www.ntsb.govhome.aspx"
+  - agency: "Nuclear Regulatory Commission and Office of Inspector General"
+    poc: "Mary Lamary (301) 415-3300"
+    certdate: " September 2021"
+    expiration: " September 2024"
+    url: "https://nrcoig.oversight.gov/about-us/inspector-general"
+  - agency: "Occupational Safety and Health Review Commission"
+    poc: "Debra Hall (202) 606-5397"
+    certdate: " April 2025"
+    expiration: " April 2028"
+    url: "https://www.oshrc.gov/"
+  - agency: "Office of Government Ethics"
+    poc: "Dale Chrisopher, Jr. (202) 482-9224"
+    certdate: " August 2022"
+    expiration: " August 2025"
+    url: "http://oge.gov/home.aspx"
+  - agency: "Office of Navajo and Hopi Indian Relocation"
+    poc: "Teresa Slater (928) 779-2721"
+    certdate: " December 2023"
+    expiration: " December 2026"
+    url: "https://www.federalregister.gov/agencies/navajo-and-hopi-indian-relocation-office"
+  - agency: "Office of Personnel Management"
+    poc: "Joy Fisher (202) 936-2601"
+    certdate: " March 2022"
+    expiration: " March 2025"
+    url: "http://www.opm.gov/"
+  - agency: "Office of Personnel Management, Office of Inspector General"
+    poc: "Jennifer French (202) 322-1460"
+    certdate: " December 2023"
+    expiration: " December 2026"
+    url: "https://www.opm.gov/our-inspector-general/"
+  - agency: "Patent and Trademark Office"
+    poc: "Stacy Long (571) 272-4153"
+    certdate: " November 2024"
+    expiration: " November 2027"
+    url: "https://www.uspto.gov/"
+  - agency: "Peace Corps"
+    poc: "Diane Bradley (202) 938-7129"
+    certdate: " January 2022"
+    expiration: " January 2025"
+    url: "https://www.peacecorps.gov/"
+  - agency: "Pension Benefit Guaranty Corporation"
+    poc: "Jaime Kunce (202) 230-0044"
+    certdate: " February 2023"
+    expiration: " February 2026"
+    url: "https://www.pbgc.gov/"
+  - agency: "Pension Benefit Guaranty Corporation, Office of Inspector General"
+    poc: "Ronald C. Engler (202) 326-4000 ext. 3744"
+    certdate: " June 2020"
+    expiration: " June 2023"
+    url: "https://oig.pbgc.gov/"
+  - agency: "Railroad Retirement Board and Office of Inspector General"
+    poc: "Shiri Ndang (312) 636-4729"
+    certdate: " March 2024"
+    expiration: " March 2027"
+    url: "https://rrb.gov/OurAgency/InspectorGeneral/OIG"
+  - agency: "Securities and Exchange Commission"
+    poc: "Melanie Jones (202) 551-6028"
+    certdate: " September 2023"
+    expiration: " September 2026"
+    url: "https://www.sec.gov/"
+  - agency: "Securities and Exchange Commission, Office of Inspector General"
+    poc: "Lori Wagner (202) 551-2804"
+    certdate: " May 2023"
+    expiration: " May 2026"
+    url: "https://www.sec.gov/oig"
+  - agency: "Selective Service System website"
+    poc: "Lee Levells (703) 605-4011"
+    certdate: " August 2023"
+    expiration: " August 2026"
+    url: "https://www.sss.gov/"
+  - agency: "Small Business Administration and Office of Inspector General"
+    poc: "Patricia Culllum (202) 205-6999"
+    certdate: "August 2023"
+    expiration: "August 2026"
+    url: "https://www.sba.gov/"
+  - agency: "Social Security Administration"
+    poc: "Claudia Postell (410) 965-3318"
+    certdate: "March 2024"
+    expiration: "March 2027"
+    url: "https://www.ssa.gov/"
+  - agency: "Social Security Administration, Office of Inspector General"
+    poc: "Sotiris Planzos (410) 965-3058"
+    certdate: "October 2023"
+    expiration: "October 2026"
+    url: "https://oig.ssa.gov/"
+  - agency: "Special Inspector General for Afghanistan Reconstruction"
+    poc: "Thomas Iskrzak (703) 798-9544"
+    certdate: "March 2023"
+    expiration: "March 2026"
+    url: "https://www.sigar.mil"
+  - agency: "Tennessee Valley Authority"
+    poc: "Jennifer Grace (865) 632-8962"
+    certdate: "March 2024"
+    expiration: "March 2027"
+    url: "https://www.tva.com/"
+  - agency: "Trade and Development Agency"
+    poc: "Matt Cox (571) 236-2154"
+    certdate: "April 2023"
+    expiration: "April 2026"
+    url: "https://www.ustda.gov/"
 ---
 
-Please see the complete list of 2302(c) Certified agencies below.  Agencies have six (6) months to complete the recertification process before being removed from the certification list.  An asterisk (\*) next to the agency name means that the agency has initiated the recertification process by registering for the 2302(c) Certification Program.   
- ​
-
-[2302(c) Certified
-
-###### AbilityOne Commission and Office of Inspector General
-
-Point of Contact:
-
-Syed Kamil Ali (202) 603-2248
-
-Certification/Recertification Date: April 2025
-
-Certification Expiration: April 2028
-
-](https://www.abilityone.gov/commission/index.html)[2302(c) Certified
-
-###### Administrative Conference of the United States
-
-Point of Contact:
-
-Shawne C. McGibbon (202) 480-2088
-
-Certification/Recertification Date: February 2024
-
-Certification Expiration: February 2027
-
-](https://www.acus.gov/)[2302(c) Certified
-
-###### AmeriCorps (Corporation for National and Community Service)
-
-Point of Contact:
-
-Blake Feltrow (202) 606-3249
-
-Certification/Recertification Date: January 2023
-
-Certification Expiration: January 2026
-
-](https://www.grants.gov/learn-grants/grant-making-agencies/corporation-for-national-community-service.html)[2302(c) Certified
-
-###### AmeriCorps, Office of Inspector General
-
-Point of Contact:
-
-Rebecca Blaskey (571) 653-0774
-
-Certification/Recertification Date: June 2024
-
-Certification Expiration: June 2027
-
-](https://www.americorpsoig.gov)[2302(c) Certified
-
-###### Appalachian Regional Commission Office of Inspector General
-
-Point of Contact:
-
-Clayton Fox (202) 884-7685
-
-Certification/Recertification Date: May 2024
-
-Certification Expiration: May 2027
-
-](https://www.arc.gov/staff_type/office-of-inspector-general/)[2302(c) Certified
-
-###### Commodity Futures Trading Commission
-
-Point of Contact:
-
-KerriLaine Prunella (202) 923-8822
-
-Certification/Recertification Date: January 2021
-
-Certification Expiration: January 2024
-
-](https://www.cftc.gov/)[2302(c) Certified
-
-###### Commodity Futures Trading Commission, Office of Inspector General
-
-Point of Contact:
-
-Judith Ringle (202) 418-5109
-
-Certification/Recertification Date: April 2024
-
-Certification Expiration: April 2027
-
-](https://www.cftc.gov/About/OfficeoftheInspectorGeneral/index.htm)[2302(c) Certified
-
-###### Consumer Financial Protection Bureau
-
-Point of Contact:
-
-Sonya White (202) 435-9663
-
-Certification/Recertification Date: April 2024
-
-Certification Expiration: April 2027
-
-](https://www.consumerfinance.gov/)[2302(c) Certified
-
-###### Consumer Product Safety Commission and Office of Inspector General
-
-Point of Contact:
-
-Donna Simpson (240) 638-6959
-
-Certification/Recertification Date: January 2023
-
-Certification Expiration: January 2026
-
-](https://www.cpsc.gov/)[2302(c) Certified
-
-###### Defense Nuclear Facilities Safety Board
-
-Point of Contact:
-
-James Biggins (202) 694-7014
-
-Certification/Recertification Date: March 2022
-
-Certification Expiration: March 2025
-
-](https://www.dnfsb.gov/)[2302(c) Certified
-
-###### Department of Agriculture, Office of Inspector General
-
-Point of Contact:
-
-Vivian Warner (301) 623-0933
-
-Certification/Recertification Date: July 2022
-
-Certification Expiration: July 2025
-
-](https://www.usda.gov/oig)[2302(c) Certified
-
-###### Department of Commerce, Office of Inspector General
-
-Point of Contact:
-
-Ceceila Wilson (202) 793-2914
-
-Certification/Recertification Date: August 2024
-
-Certification Expiration: August 2027
-
-](https://www.oig.doc.govdefault.aspx)[2302(c) Certified
-
-###### Department of Defense, Defense Commissary Agency
-
-Point of Contact:
-
-Craig Smith (804) 734-8000 ext. 48508
-
-Certification/Recertification Date: December 2023
-
-Certification Expiration: December 2026
-
-](https://www.commissaries.com/)[2302(c) Certified
-
-###### Department of Defense, Defense Counterintelligence and Security Agency
-
-Point of Contact:
-
-Phillip Kroop (301) 833-1763
-
-Certification/Recertification Date: February 2023
-
-Certification Expiration: February 2026
-
-](https://www.dcsa.mil/)[2302(c) Certified
-
-###### Department of Defense, Defense Technical Information Center
-
-Point of Contact:
-
-Terence Baugh \-
-
-Certification/Recertification Date: October 2022
-
-Certification Expiration: October 2025
-
-](https://discover.dtic.mil/)[2302(c) Certified
-
-###### Department of Defense, Office of Inspector General
-
-Point of Contact:
-
-Lisa Wilson (703) 699-6075
-
-Certification/Recertification Date: April 2023
-
-Certification Expiration: April 2026
-
-](https://www.dodig.mil/)[2302(c) Certified
-
-###### Department of Education
-
-Point of Contact:
-
-Samantha Cutler (202) 763-6067
-
-Certification/Recertification Date: August 2023
-
-Certification Expiration: August 2026
-
-](https://www.ed.gov/)[2302(c) Certified
-
-###### Department of Education, Office of Inspector General
-
-Point of Contact:
-
-Anthony Gordon (816) 268-8428
-
-Certification/Recertification Date: August 2024
-
-Certification Expiration: August 2027
-
-](https://oig.ed.gov/)[2302(c) Certified
-
-###### Department of Health & Human Services
-
-Point of Contact:
-
-Sonji Lee (301) 525-3368
-
-Certification/Recertification Date: February 2023
-
-Certification Expiration: February 2026
-
-](http://www.hhs.gov/)[2302(c) Certified
-
-###### Department of Health & Human Services, Office of Inspector General
-
-Point of Contact:
-
-Melissa Tucker (202) 860-5035
-
-Certification/Recertification Date: August 2024
-
-Certification Expiration: August 2027
-
-](https://oig.hhs.gov/)[2302(c) Certified
-
-###### Department of Homeland Security, Office of Inspector General
-
-Point of Contact:
-
-Cecilia Bessee (202) 981-6326
-
-Certification/Recertification Date: September 2024
-
-Certification Expiration: September 2027
-
-](https://www.oig.dhs.gov/)[2302(c) Certified
-
-###### Department of Housing and Urban Development
-
-Point of Contact:
-
-Matisha Montgomery (202) 402-4369
-
-Certification/Recertification Date: November 2024
-
-Certification Expiration: November 2027
-
-](https://www.hud.gov/)[2302(c) Certified
-
-###### Department of Housing and Urban Development, Office of Inspector General
-
-Point of Contact:
-
-Don Berthiaume (202) 878-0915
-
-Certification/Recertification Date: July 2023
-
-Certification Expiration: July 2026
-
-](https://www.hudoig.gov/)[2302(c) Certified
-
-###### Department of Interior, Office of Inspector General
-
-Point of Contact:
-
-Matthew Murphy (771) 233-6404
-
-Certification/Recertification Date: September 2023
-
-Certification Expiration: September 2026
-
-](https://www.doioig.gov/)[2302(c) Certified
-
-###### Department of Justice, Antitrust Division
-
-Point of Contact:
-
-Dr. Shantia Smith (202) 733-0257
-
-Certification/Recertification Date: March 2025
-
-Certification Expiration: March 2028
-
-](https://www.justice.gov/atr)[2302(c) Certified
-
-###### Department of Justice, Bureau of Alcohol, Tobacco, Firearms and Explosives
-
-Point of Contact:
-
-Lakisha Gregory (202) 648-9365
-
-Certification/Recertification Date: March 2025
-
-Certification Expiration: March 2028
-
-](https://www.atf.gov/)[2302(c) Certified
-
-###### Department of Justice, Bureau of Prisons
-
-Point of Contact:
-
-Lisa Gradiska (202) 514-1964
-
-Certification/Recertification Date: June 2025
-
-Certification Expiration: June 2028
-
-](https://www.bop.gov/)[2302(c) Certified
-
-###### Department of Justice, Civil Division
-
-Point of Contact:
-
-Matthew Kennedy (202) 550-2150
-
-Certification/Recertification Date: March 2025
-
-Certification Expiration: March 2028
-
-](https://www.justice.gov/civil)[2302(c) Certified
-
-###### Department of Justice, Civil Rights Division
-
-Point of Contact:
-
-Laura Fentonmiller (202) 598-5008
-
-Certification/Recertification Date: March 2025
-
-Certification Expiration: March 2028
-
-](https://www.justice.gov/crt)[2302(c) Certified
-
-###### Department of Justice, Community Relations Service
-
-Point of Contact:
-
-DurShawn Robinson (202) 514-3668
-
-Certification/Recertification Date: March 2025
-
-Certification Expiration: March 2028
-
-](https://www.justice.gov/crs)[2302(c) Certified
-
-###### Department of Justice, Criminal Division
-
-Point of Contact:
-
-Jennifer Chapman (202) 616-0363
-
-Certification/Recertification Date: March 2025
-
-Certification Expiration: March 2028
-
-](https://www.justice.gov/criminal)[2302(c) Certified
-
-###### Department of Justice, Drug Enforcement Agency
-
-Point of Contact:
-
-April Torikai-Bookstaber (571) 776-1949
-
-Certification/Recertification Date: May 2025
-
-Certification Expiration: May 2028
-
-](https://www.dea.gov/)[2302(c) Certified
-
-###### Department of Justice, Environment and Natural Resources Division
-
-Point of Contact:
-
-Robyn Johnson (202) 532-3191
-
-Certification/Recertification Date: March 2025
-
-Certification Expiration: March 2028
-
-](https://www.justice.gov/enrd)[2302(c) Certified
-
-###### Department of Justice, Executive Office for U.S. Attorneys
-
-Point of Contact:
-
-Valarie Mulcahy (202) 252-5310
-
-Certification/Recertification Date: April 2025
-
-Certification Expiration: April 2028
-
-](https://www.justice.gov/usao/eousa)[2302(c) Certified
-
-###### Department of Justice, Executive Office of Immigration Review
-
-Point of Contact:
-
-Amanda Adams Milan and Matthew Metz (703) 305-1184 and (703) 756-8444
-
-Certification/Recertification Date: March 2025
-
-Certification Expiration: March 2028
-
-](https://www.justice.gov/eoir)[2302(c) Certified
-
-###### Department of Justice, Justice Management Division
-
-Point of Contact:
-
-Audra Robb (202) 550-7185
-
-Certification/Recertification Date: March 2025
-
-Certification Expiration: March 2028
-
-](https://www.justice.gov/jmd)[2302(c) Certified
-
-###### Department of Justice, Office for Access to Justice
-
-Point of Contact:
-
-Shannon Munro (202) 598-0555
-
-Certification/Recertification Date: March 2025
-
-Certification Expiration: March 2028
-
-](https://www.justice.gov/atj)[2302(c) Certified
-
-###### Department of Justice, Office of Inspector General
-
-Point of Contact:
-
-Mark Hayes (202) 616-4523
-
-Certification/Recertification Date: December 2024
-
-Certification Expiration: December 2027
-
-](https://oig.justice.gov/)[2302(c) Certified
-
-###### Department of Justice, Office of Justice Programs
-
-Point of Contact:
-
-Jennifer McCarthy (202) 616-3089
-
-Certification/Recertification Date: March 2025
-
-Certification Expiration: March 2028
-
-](https://www.ojp.gov/)[2302(c) Certified
-
-###### Department of Justice, Office of Professional Responsibility
-
-Point of Contact:
-
-Mark Porada (202) 307-3260
-
-Certification/Recertification Date: March 2025
-
-Certification Expiration: March 2028
-
-](https://www.justice.gov/opr)[2302(c) Certified
-
-###### Department of Justice, Tax Division
-
-Point of Contact:
-
-Phyllis Wolfteich (202) 616-2583
-
-Certification/Recertification Date: March 2025
-
-Certification Expiration: March 2028
-
-](https://www.justice.gov/tax)[2302(c) Certified
-
-###### Department of Justice, U.S. Marshals Service
-
-Point of Contact:
-
-William Baxter (703) 489-9293
-
-Certification/Recertification Date: July 2025
-
-Certification Expiration: July 2028
-
-](https://www.usmarshals.gov/)[2302(c) Certified
-
-###### Department of Justice, U.S. Parole Commission
-
-Point of Contact:
-
-Bernard Desrosiers (202) 356-7031
-
-Certification/Recertification Date: February 2025
-
-Certification Expiration: February 2028
-
-](https://www.justice.gov/uspc)[2302(c) Certified
-
-###### Department of Labor
-
-Point of Contact:
-
-Tracey Schaeffer, Tanya Palermo (202) 693-7273 and (202) 693-0327
-
-Certification/Recertification Date: February 2023
-
-Certification Expiration: February 2026
-
-](https://www.dol.gov/)[2302(c) Certified
-
-###### Department of Labor, Office of Inspector General
-
-Point of Contact:
-
-Alisa H. Reff (202) 693-5247
-
-Certification/Recertification Date: July 2023
-
-Certification Expiration: July 2026
-
-](https://www.oig.dol.gov/)[2302(c) Certified
-
-###### Department of State, Office of Inspector General
-
-Point of Contact:
-
-Jeffrey McDermott (571) 349-9267
-
-Certification/Recertification Date: October 2023
-
-Certification Expiration: October 2026
-
-](https://www.stateoig.gov/)[2302(c) Certified
-
-###### Department of the Treasury and Office of Inspector General
-
-Point of Contact:
-
-Ashley Sutton (771) 216-1242
-
-Certification/Recertification Date: December 2023
-
-Certification Expiration: December 2026
-
-](https://home.treasury.gov/)[2302(c) Certified
-
-###### Department of Transportation, Federal Aviation Administration\*
-
-Point of Contact:
-
-Parisa Naraghi-Arani (817) 201-9231
-
-Certification/Recertification Date: August 2025
-
-Certification Expiration: August 2028
-
-](http://www.faa.gov/)[2302(c) Certified
-
-###### Department of Transportation, Office of the Secretary
-
-Point of Contact:
-
-Heather Albert (202) 366-9444
-
-Certification/Recertification Date: January 2021
-
-Certification Expiration: January 2024
-
-](https://www.transportation.gov/office-of-secretary)[2302(c) Certified
-
-###### Department of Transportation, Volpe National Transportation Systems Center
-
-Point of Contact:
-
-Sonia Cardona (857) 259-9334
-
-Certification/Recertification Date: January 2025
-
-Certification Expiration: January 2028
-
-](https://www.volpe.dot.gov/)[2302(c) Certified
-
-###### Department of Veterans Affairs
-
-Point of Contact:
-
-Toni Zavana (202) 341-8023
-
-Certification/Recertification Date: January 2023
-
-Certification Expiration: January 2026
-
-](https://www.va.gov/)[2302(c) Certified
-
-###### Department of Veterans Affairs, Office of Inspector General
-
-Point of Contact:
-
-Krystle Soren (202) 302-2197
-
-Certification/Recertification Date: September 2025
-
-Certification Expiration: September 2028
-
-](https://www.va.gov/oig/)[2302(c) Certified
-
-###### Election Assistance Commission
-
-Point of Contact:
-
-Yalda Nia (202) 578-5951
-
-Certification/Recertification Date: January 2025
-
-Certification Expiration: January 2028
-
-](https://www.eac.gov/)[2302(c) Certified
-
-###### Election Assistance Commission, Office of Inspector General
-
-Point of Contact:
-
-Michael Rivera (202) 578-1202
-
-Certification/Recertification Date: June 2023
-
-Certification Expiration: June 2026
-
-](https://www.eac.gov/inspector-general)[2302(c) Certified
-
-###### Environmental Protection Agency, Office of Inspector General
-
-Point of Contact:
-
-Lori Ruk (202) 809-4920
-
-Certification/Recertification Date: October 2023
-
-Certification Expiration: October 2026
-
-](https://www.epa.gov/office-inspector-general)[2302(c) Certified
-
-###### Export-Import Bank of the United States, Office of Inspector General
-
-Point of Contact:
-
-Maura Malone (202) 281-7925
-
-Certification/Recertification Date: March 2023
-
-Certification Expiration: March 2026
-
-](https://www.exim.gov/about/oig)[2302(c) Certified
-
-###### Farm Credit Administration
-
-Point of Contact:
-
-Vonda Bell (703) 883-4045
-
-Certification/Recertification Date: March 2023
-
-Certification Expiration: March 2026
-
-](http://www.fca.gov/)[2302(c) Certified
-
-###### Farm Credit System Insurance Corporation
-
-Point of Contact:
-
-Lynn Powalski (703) 883-4392
-
-Certification/Recertification Date: July 2022
-
-Certification Expiration: July 2025
-
-](https://www.fcsic.gov/)[2302(c) Certified
-
-###### Federal Communications Commission Office of Inspector General
-
-Point of Contact:
-
-Travis Farris (202) 316-9824
-
-Certification/Recertification Date: September 2024
-
-Certification Expiration: September 2027
-
-](https://www.fcc.gov/inspector-general)[2302(c) Certified
-
-###### Federal Deposit Insurance Corporation
-
-Point of Contact:
-
-William White, Jr. (703) 562-2124
-
-Certification/Recertification Date: January 2021
-
-Certification Expiration: January 2024
-
-](https://www.fdic.gov/)[2302(c) Certified
-
-###### Federal Deposit Insurance Corporation, Office of Inspector General
-
-Point of Contact:
-
-Cynthia Hogue (703) 562-2306
-
-Certification/Recertification Date: November 2024
-
-Certification Expiration: November 2027
-
-](https://www.fdicoig.gov/)[2302(c) Certified
-
-###### Federal Housing Finance Agency
-
-Point of Contact:
-
-Janice Kullman (202) 573-0845
-
-Certification/Recertification Date: January 2024
-
-Certification Expiration: January 2027
-
-](http://www.fhfa.gov/)[2302(c) Certified
-
-###### Federal Housing Finance Agency, Office of Inspector General
-
-Point of Contact:
-
-Alison Healey (202) 730-4050
-
-Certification/Recertification Date: December 2023
-
-Certification Expiration: December 2026
-
-](https://www.fhfaoig.gov/)[2302(c) Certified
-
-###### Federal Labor Relations Authority
-
-Point of Contact:
-
-Rebecca Osborne (771) 444-5778
-
-Certification/Recertification Date: June 2024
-
-Certification Expiration: June 2027
-
-](https://www.flra.gov/)[2302(c) Certified
-
-###### Federal Labor Relations Authority, Office of Inspector General
-
-Point of Contact:
-
-Dana Rooney (777) 444-5712
-
-Certification/Recertification Date: February 2025
-
-Certification Expiration: February 2028
-
-](https://www.flra.gov/components-offices/offices/office-inspector-general)[2302(c) Certified
-
-###### Federal Maritime Commission
-
-Point of Contact:
-
-Lucille Marvin (202) 523-5800
-
-Certification/Recertification Date: February 2023
-
-Certification Expiration: February 2026
-
-](http://www.fmc.gov/)[2302(c) Certified
-
-###### Federal Maritime Commission, Office of Inspector General
-
-Point of Contact:
-
-Jon Hatfield (202) 523-5863
-
-Certification/Recertification Date: February 2023
-
-Certification Expiration: February 2026
-
-](https://www.fmc.gov/about-the-fmc/bureaus-offices/office-of-inspector-general/)[2302(c) Certified
-
-###### Federal Mediation and Conciliation Service
-
-Point of Contact:
-
-Alisa Zimmerman (202) 606-5488
-
-Certification/Recertification Date: March 2025
-
-Certification Expiration: March 2028
-
-](https://www.fmcs.gov/)[2302(c) Certified
-
-###### Federal Retirement Thrift Investment Board
-
-Point of Contact:
-
-April Lane (202) 864-8684
-
-Certification/Recertification Date: May 2024
-
-Certification Expiration: May 2027
-
-](https://www.frtib.gov/)[2302(c) Certified
-
-###### General Services Administration, Office of the Inspector General
-
-Point of Contact:
-
-Tara Kilfoyle (202) 273-6353
-
-Certification/Recertification Date: October 2023
-
-Certification Expiration: October 2026
-
-](https://www.gsa.gov/about-us/organization/gsa-office-of-inspector-general-overview)[2302(c) Certified
-
-###### Government Publishing Office, Office of Inspector General
-
-Point of Contact:
-
-Cynthia Lie (202) 512-0312
-
-Certification/Recertification Date: June 2022
-
-Certification Expiration: June 2025
-
-](https://www.gpo.gov/who-we-are/our-agency/inspector-general/overview-and-hotline)[2302(c) Certified
-
-###### Inter-American Foundation
-
-Point of Contact:
-
-Nicole Stinson (202) 683-7117
-
-Certification/Recertification Date: December 2023
-
-Certification Expiration: December 2026
-
-](https://www.iaf.gov/)[2302(c) Certified
-
-###### International Development Finance Corporation
-
-Point of Contact:
-
-Patrick Browne (202) 735-6188
-
-Certification/Recertification Date: November 2023
-
-Certification Expiration: November 2026
-
-](https://www.dfc.gov/)[2302(c) Certified
-
-###### International Trade Commission
-
-Point of Contact:
-
-Charles Smith (202) 205-3408
-
-Certification/Recertification Date: June 2021
-
-Certification Expiration: June 2024
-
-](https://www.usitc.gov/)[2302(c) Certified
-
-###### International Trade Commission, Office of Inspector General
-
-Point of Contact:
-
-Charles F. Smith (202) 205-3408
-
-Certification/Recertification Date: June 2021
-
-Certification Expiration: June 2024
-
-](https://www.usitc.gov/oig/)[2302(c) Certified
-
-###### James Madison Memorial Fellowship Foundation
-
-Point of Contact:
-
-Claire Iglesias (571) 858-4202
-
-Certification/Recertification Date: July 2022
-
-Certification Expiration: July 2025
-
-](https://www.jamesmadison.gov/)[2302(c) Certified
-
-###### Merit Systems Protection Board
-
-Point of Contact:
-
-Lance Seibenhener (202) 254-4493
-
-Certification/Recertification Date: December 2022
-
-Certification Expiration: December 2025
-
-](http://www.mspb.gov/)[2302(c) Certified
-
-###### Millennium Challenge Corporation
-
-Point of Contact:
-
-Tamiko Watkins (202) 521-3730
-
-Certification/Recertification Date: January 2024
-
-Certification Expiration: January 2027
-
-](https://www.mcc.gov/)[2302(c) Certified
-
-###### National Aeronautics and Space Administration
-
-Point of Contact:
-
-Collen Wilson (202) 305-0507
-
-Certification/Recertification Date: May 2024
-
-Certification Expiration: May 2027
-
-](https://www.nasa.gov/)[2302(c) Certified
-
-###### National Aeronautics and Space Administration, Office of Inspector General
-
-Point of Contact:
-
-Sashka Mannion (202) 358-4809
-
-Certification/Recertification Date: September 2025
-
-Certification Expiration: September 2028
-
-](https://oig.nasa.gov/)[2302(c) Certified
-
-###### National Credit Union Administration
-
-Point of Contact:
-
-Kevin Tuininga and Joe Hannah (703) 518-6543 and (703) 548-2430
-
-Certification/Recertification Date: February 2023
-
-Certification Expiration: February 2026
-
-](https://www.ncua.gov/)[2302(c) Certified
-
-###### National Credit Union Administration, Office of Inspector General
-
-Point of Contact:
-
-Marta E. Erceg \-
-
-Certification/Recertification Date: December 2019
-
-Certification Expiration: December 2022
-
-](https://www.ncua.gov/about-ncua/inspector-general)[2302(c) Certified
-
-###### National Endowment for the Humanities
-
-Point of Contact:
-
-Lisette Voyatzis (202) 606-8322
-
-Certification/Recertification Date: March 2024
-
-Certification Expiration: March 2027
-
-](https://www.neh.gov/)[2302(c) Certified
-
-###### National Labor Relations Board
-
-Point of Contact:
-
-Marie Azan-Reyes (202) 273-1755
-
-Certification/Recertification Date: November 2023
-
-Certification Expiration: November 2026
-
-](https://www.nlrb.gov/)[2302(c) Certified
-
-###### National Mediation Board
-
-Point of Contact:
-
-Mary-Kate Dowling (202) 365-6712
-
-Certification/Recertification Date: December 2020
-
-Certification Expiration: December 2023
-
-](https://nmb.gov/NMB_Application/)[2302(c) Certified
-
-###### National Science Foundation, Office of the Inspector General
-
-Point of Contact:
-
-Harrison Ford (703) 292-7100
-
-Certification/Recertification Date: April 2022
-
-Certification Expiration: April 2025
-
-](http://www.nsf.gov/oig/)[2302(c) Certified
-
-###### National Transportation Safety Board
-
-Point of Contact:
-
-William McMurry (202) 314-6226
-
-Certification/Recertification Date: December 2024
-
-Certification Expiration: December 2027
-
-](https://www.ntsb.govhome.aspx)[2302(c) Certified
-
-###### Nuclear Regulatory Commission and Office of Inspector General
-
-Point of Contact:
-
-Mary Lamary (301) 415-3300
-
-Certification/Recertification Date: September 2021
-
-Certification Expiration: September 2024
-
-](https://nrcoig.oversight.gov/about-us/inspector-general)[2302(c) Certified
-
-###### Occupational Safety and Health Review Commission
-
-Point of Contact:
-
-Debra Hall (202) 606-5397
-
-Certification/Recertification Date: April 2025
-
-Certification Expiration: April 2028
-
-](https://www.oshrc.gov/)[2302(c) Certified
-
-###### Office of Government Ethics
-
-Point of Contact:
-
-Dale Chrisopher, Jr. (202) 482-9224
-
-Certification/Recertification Date: August 2022
-
-Certification Expiration: August 2025
-
-](http://oge.gov/home.aspx)[2302(c) Certified
-
-###### Office of Navajo and Hopi Indian Relocation
-
-Point of Contact:
-
-Teresa Slater (928) 779-2721
-
-Certification/Recertification Date: December 2023
-
-Certification Expiration: December 2026
-
-](https://www.federalregister.gov/agencies/navajo-and-hopi-indian-relocation-office)[2302(c) Certified
-
-###### Office of Personnel Management
-
-Point of Contact:
-
-Joy Fisher (202) 936-2601
-
-Certification/Recertification Date: March 2022
-
-Certification Expiration: March 2025
-
-](http://www.opm.gov/)[2302(c) Certified
-
-###### Office of Personnel Management, Office of Inspector General
-
-Point of Contact:
-
-Jennifer French (202) 322-1460
-
-Certification/Recertification Date: December 2023
-
-Certification Expiration: December 2026
-
-](https://www.opm.gov/our-inspector-general/)[2302(c) Certified
-
-###### Patent and Trademark Office
-
-Point of Contact:
-
-Stacy Long (571) 272-4153
-
-Certification/Recertification Date: November 2024
-
-Certification Expiration: November 2027
-
-](https://www.uspto.gov/)[2302(c) Certified
-
-###### Peace Corps
-
-Point of Contact:
-
-Diane Bradley (202) 938-7129
-
-Certification/Recertification Date: January 2022
-
-Certification Expiration: January 2025
-
-](https://www.peacecorps.gov/)[2302(c) Certified
-
-###### Pension Benefit Guaranty Corporation
-
-Point of Contact:
-
-Jaime Kunce (202) 230-0044
-
-Certification/Recertification Date: February 2023
-
-Certification Expiration: February 2026
-
-](https://www.pbgc.gov/)[2302(c) Certified
-
-###### Pension Benefit Guaranty Corporation, Office of Inspector General
-
-Point of Contact:
-
-Ronald C. Engler (202) 326-4000 ext. 3744
-
-Certification/Recertification Date: June 2020
-
-Certification Expiration: June 2023
-
-](https://oig.pbgc.gov/)[2302(c) Certified
-
-###### Railroad Retirement Board and Office of Inspector General
-
-Point of Contact:
-
-Shiri Ndang (312) 636-4729
-
-Certification/Recertification Date: March 2024
-
-Certification Expiration: March 2027
-
-](https://rrb.gov/OurAgency/InspectorGeneral/OIG)[2302(c) Certified
-
-###### Securities and Exchange Commission
-
-Point of Contact:
-
-Melanie Jones (202) 551-6028
-
-Certification/Recertification Date: September 2023
-
-Certification Expiration: September 2026
-
-](https://www.sec.gov/)[2302(c) Certified
-
-###### Securities and Exchange Commission, Office of Inspector General
-
-Point of Contact:
-
-Lori Wagner (202) 551-2804
-
-Certification/Recertification Date: May 2023
-
-Certification Expiration: May 2026
-
-](https://www.sec.gov/oig)
-
-1 - 100
-
-[![Next](../../~assets/images/spcommon.png)](javascript: "Next")
+Please see the complete list of 2302(c) Certified agencies below. Agencies have six (6) months to complete the recertification process before being removed from the certification list. An asterisk (\*) next to the agency name means that the agency has initiated the recertification process by registering for the 2302(c) Certification Program.
+
+<ul class="usa-card-group padding-top-4">
+  {%- for item in items -%}  
+  {%- include '2303c.html' -%}
+  {%- endfor -%}
+</ul>
