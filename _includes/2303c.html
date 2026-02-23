@@ -6,10 +6,16 @@
     <div class="usa-card__body">
       {%- if item.poc -%}
       <div><strong>Point of Contact:</strong> {{ item.poc }}</div>
-      {%- endif -%}
-      <div>{{ item.date }}</div>
-      {%- if item.expiration -%}
-      <div>{{ item.expiration }}</div>
+      {%- endif -%} {%- if item.regdate -%}
+      <div><strong>Registration Date:</strong> {{ item.regdate }}</div>
+      {%- endif -%} {%- if item.certdate -%}
+      <div>
+        <strong>Certification/Recertification Date:</strong> {{ item.certdate }}
+      </div>
+      {%- endif -%} {%- if item.expiration -%}
+      <div>
+        <strong>Certification Expiration:</strong> {{ item.expiration }}
+      </div>
       {%- endif -%}
     </div>
     {%- if item.url -%}
