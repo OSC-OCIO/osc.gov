@@ -303,6 +303,7 @@ faqSections:
 {% include 'accordion.html',
   items: section.items,
   class: 'padding-top-2',
-  id_prefix: 'foia-reports-' | append: section.title | slugify
+  id_prefix: 'foia-reports-' | append: section.title | slugify,
+  body_markdown: false
 %}
 {% endfor %}
