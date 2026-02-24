@@ -28,7 +28,7 @@
     </button>
   </{{ heading_tag }}>
   <div id="{{ accordion_id }}" class="usa-accordion__content usa-prose">
-    {%- if show_icon -%}<span class="usa-icon"><svg aria-hidden="true" role="img"><use href="/assets/uswds/img/sprite.svg#file_present"></use></svg></span> {% -endif -%}
+    {%- if show_icon -%}<span class="usa-icon"><svg aria-hidden="true" role="img"><use href="/assets/uswds/img/sprite.svg#file_present"></use></svg></span> {%- endif -%}
     {%- if body_markdown -%}
       {{ item_body | markdownify }}
     {%- else -%}
