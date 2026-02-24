@@ -11,7 +11,6 @@
     {%- assign id_prefix = id_prefix | slugify | append: '-accordion' -%}
   {%- endif -%}
   {%- assign accordion_class = class | default: include.class -%}
-  {%- assign show_icon = show_icon | default: include.show_icon | default: false -%}
 <div class="usa-accordion{% if allow_multiple %} usa-accordion--multiselectable{% endif %}{% if accordion_class %} {{ accordion_class }}{% endif %}"{% if allow_multiple %} data-allow-multiple{% endif %}>
   {%- for item in accordion_items -%}
     {%- assign accordion_id = id_prefix | append: '-' | append: forloop.index -%}
@@ -28,7 +27,6 @@
     </button>
   </{{ heading_tag }}>
   <div id="{{ accordion_id }}" class="usa-accordion__content usa-prose">
-    {%- if show_icon -%}<span class="usa-icon"><svg aria-hidden="true" role="img"><use href="/assets/uswds/img/sprite.svg#file_present"></use></svg></span> {%- endif -%}
     {%- if body_markdown -%}
       {{ item_body | markdownify }}
     {%- else -%}
