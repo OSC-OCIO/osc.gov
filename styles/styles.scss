@@ -61,6 +61,36 @@ img {
   height: auto;
 }
 
+.usa-icon {
+  display: inline-flex;
+  flex-shrink: 0;
+
+  svg {
+    width: 1.5rem;
+    height: 1.5rem;
+    fill: currentColor;
+  }
+}
+
+.foia-report-list li {
+  border: 1px solid #dfe1e2;
+  padding: 0.75rem 1rem;
+  margin-bottom: -1px;
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+}
+
+.foia-report-list li:nth-child(odd) {
+  background-color: color("base-lightest");
+}
+
+.foia-report-list a {
+  font-weight: 700;
+  color: color("base-darkest");
+  text-decoration: none;
+}
+
 .logo-placeholder {
   background-color: #f2f2f2;
   border: 1px solid #dfe1e2;
@@ -172,6 +202,13 @@ img {
 
 .usa-card__container {
   position: relative;
+}
+
+.video-grid iframe.yt-shortcode {
+  aspect-ratio: 16 / 9;
+  max-height: none;
+  width: 100%;
+  height: auto;
 }
 
 iframe.yt-shortcode {
