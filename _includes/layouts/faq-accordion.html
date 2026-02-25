@@ -1,112 +1,73 @@
 ---
 layout: layouts/default
 ---
-{% assign page_faq_items = faqItems | default: faqsList | default: page.faqItems | default: page.faqsList %}
-{% assign page_faq_sections = faqSections | default: page.faqSections %}
-{% assign faq_items = page_faq_items | default: faqs %}
-{% assign filter_tags = faqTag | default: '' %}
-{% assign tags_list = '' %}
-{% assign faq_id_base = page.fileSlug | default: page.url | default: 'faq' | slugify %}
 
-{% if filter_tags != '' %}
-  {% assign filter_tags_json = filter_tags | jsonify %}
-  {% if filter_tags_json contains '[' %}
-    {% assign tags_list = filter_tags %}
-  {% else %}
-    {% assign tags_list = filter_tags | split: ',' %}
-  {% endif %}
-{% endif %}
+{% assign page_faq_items = faqItems | default: faqsList | default: page.faqItems
+| default: page.faqsList %} {% assign page_faq_sections = faqSections | default:
+page.faqSections %} {% assign faq_items = page_faq_items | default: faqs %} {%
+assign filter_tags = faqTag | default: '' %} {% assign tags_list = '' %} {%
+assign faq_id_base = page.fileSlug | default: page.url | default: 'faq' |
+slugify %} {% if filter_tags != '' %} {% assign filter_tags_json = filter_tags |
+jsonify %} {% if filter_tags_json contains '[' %} {% assign tags_list =
+filter_tags %} {% else %} {% assign tags_list = filter_tags | split: ',' %} {%
+endif %} {% endif %} {{ content }} {% if page_faq_sections and
+page_faq_sections.size > 0 %}
+<ul class="usa-list margin-top-2">
+  {% for section in page_faq_sections %} {% assign section_title = section.title
+  | default: section.heading | default: section.label %} {% assign section_items
+  = section.items | default: section.faqItems | default: section.faqs %} {% if
+  section_title and section_items and section_items.size > 0 %} {% assign
+  section_anchor = section.id | default: section_title | slugify %}
+  <li><a href="#{{ section_anchor }}">{{ section_title }}</a></li>
+  {% endif %} {% endfor %}
+</ul>
 
-{{ content }}
+{% for section in page_faq_sections %} {% assign section_title = section.title |
+default: section.heading | default: section.label %} {% assign section_items =
+section.items | default: section.faqItems | default: section.faqs %} {% if
+section_title and section_items and section_items.size > 0 %} {% assign
+section_anchor = section.id | default: section_title | slugify %} {% assign
+section_accordion_prefix = faq_id_base | append: '-faq-' | append:
+section_anchor %}
+<h2 id="{{ section_anchor }}" class="usa-prose margin-top-4 margin-bottom-2">
+  {{ section_title }}
+</h2>
+{% include 'accordion.html', items: section_items, class: 'padding-top-2',
+id_prefix: section_accordion_prefix %} {% endif %} {% endfor %} {% elsif
+faq_items and faq_items.size > 0 %} {% if tags_list != '' and tags_list.size > 1
+%}
+<ul class="usa-list margin-top-2">
+  {% for tag in tags_list %} {% assign clean_tag = tag | strip %} {% assign
+  tag_items = faq_items | where_exp: 'item', 'item.tags contains clean_tag' %}
+  {% if tag_items and tag_items.size > 0 %} {% assign tag_parts = clean_tag |
+  split: '_' %} {% assign tag_label = '' %} {% for part in tag_parts %} {% if
+  forloop.first == false %} {% if tag_label != '' %} {% assign tag_label =
+  tag_label | append: ' ' %} {% endif %} {% assign tag_label = tag_label |
+  append: part %} {% endif %} {% endfor %} {% assign tag_label = tag_label |
+  capitalize %} {% assign tag_anchor = clean_tag | replace: '_', '-' %}
+  <li><a href="#{{ tag_anchor }}">{{ tag_label }}</a></li>
+  {% endif %} {% endfor %}
+</ul>
 
-{% if page_faq_sections and page_faq_sections.size > 0 %}
-  <ul class="usa-list margin-top-2">
-    {% for section in page_faq_sections %}
-      {% assign section_title = section.title | default: section.heading | default: section.label %}
-      {% assign section_items = section.items | default: section.faqItems | default: section.faqs %}
-      {% if section_title and section_items and section_items.size > 0 %}
-        {% assign section_anchor = section.id | default: section_title | slugify %}
-        <li><a href="#{{ section_anchor }}">{{ section_title }}</a></li>
-      {% endif %}
-    {% endfor %}
-  </ul>
+{% for tag in tags_list %} {% assign clean_tag = tag | strip %} {% assign
+tag_items = faq_items | where_exp: 'item', 'item.tags contains clean_tag' %} {%
+if tag_items and tag_items.size > 0 %} {% assign tag_parts = clean_tag | split:
+'_' %} {% assign tag_label = '' %} {% for part in tag_parts %} {% if
+forloop.first == false %} {% if tag_label != '' %} {% assign tag_label =
+tag_label | append: ' ' %} {% endif %} {% assign tag_label = tag_label | append:
+part %} {% endif %} {% endfor %} {% assign tag_label = tag_label | capitalize %}
+{% assign tag_anchor = clean_tag | replace: '_', '-' %} {% assign
+tag_accordion_prefix = faq_id_base | append: '-faq-' | append: clean_tag %}
 
-  {% for section in page_faq_sections %}
-    {% assign section_title = section.title | default: section.heading | default: section.label %}
-    {% assign section_items = section.items | default: section.faqItems | default: section.faqs %}
-    {% if section_title and section_items and section_items.size > 0 %}
-      {% assign section_anchor = section.id | default: section_title | slugify %}
-      {% assign section_accordion_prefix = faq_id_base | append: '-faq-' | append: section_anchor %}
-      <h2 id="{{ section_anchor }}" class="usa-prose margin-top-4 margin-bottom-2">{{ section_title }}</h2>
-      {% include 'accordion.html',
-        items: section_items,
-        class: 'padding-top-2',
-        id_prefix: section_accordion_prefix
-      %}
-    {% endif %}
-  {% endfor %}
-{% elsif faq_items and faq_items.size > 0 %}
-  {% if tags_list != '' and tags_list.size > 1 %}
-    <ul class="usa-list margin-top-2">
-      {% for tag in tags_list %}
-        {% assign clean_tag = tag | strip %}
-        {% assign tag_items = faq_items | where_exp: 'item', 'item.tags contains clean_tag' %}
-        {% if tag_items and tag_items.size > 0 %}
-          {% assign tag_parts = clean_tag | split: '_' %}
-          {% assign tag_label = '' %}
-          {% for part in tag_parts %}
-            {% if forloop.first == false %}
-              {% if tag_label != '' %}
-                {% assign tag_label = tag_label | append: ' ' %}
-              {% endif %}
-              {% assign tag_label = tag_label | append: part %}
-            {% endif %}
-          {% endfor %}
-          {% assign tag_label = tag_label | capitalize %}
-          {% assign tag_anchor = clean_tag | replace: '_', '-' %}
-          <li><a href="#{{ tag_anchor }}">{{ tag_label }}</a></li>
-        {% endif %}
-      {% endfor %}
-    </ul>
-
-    {% for tag in tags_list %}
-      {% assign clean_tag = tag | strip %}
-      {% assign tag_items = faq_items | where_exp: 'item', 'item.tags contains clean_tag' %}
-
-      {% if tag_items and tag_items.size > 0 %}
-        {% assign tag_parts = clean_tag | split: '_' %}
-        {% assign tag_label = '' %}
-        {% for part in tag_parts %}
-          {% if forloop.first == false %}
-            {% if tag_label != '' %}
-              {% assign tag_label = tag_label | append: ' ' %}
-            {% endif %}
-            {% assign tag_label = tag_label | append: part %}
-          {% endif %}
-        {% endfor %}
-        {% assign tag_label = tag_label | capitalize %}
-        {% assign tag_anchor = clean_tag | replace: '_', '-' %}
-        {% assign tag_accordion_prefix = faq_id_base | append: '-faq-' | append: clean_tag %}
-
-        <h2 id="{{ tag_anchor }}" class="usa-prose margin-top-4 margin-bottom-2">{{ tag_label }}</h2>
-        {% include 'accordion.html',
-          items: tag_items,
-          class: 'padding-top-2',
-          id_prefix: tag_accordion_prefix
-        %}
-      {% endif %}
-    {% endfor %}
-  {% else %}
-    {% if tags_list != '' %}
-      {% assign faq_items = faq_items | where_exp: 'item', 'item.tags contains tags_list.first' %}
-    {% endif %}
-    {% assign default_accordion_prefix = faq_id_base | append: '-faq' %}
-    {% include 'accordion.html',
-      items: faq_items,
-      class: 'padding-top-6',
-      id_prefix: default_accordion_prefix
-    %}
-  {% endif %}
-{% else %}
-  <p class="usa-prose">No FAQs found.</p>
+<h2 id="{{ tag_anchor }}" class="usa-prose margin-top-4 margin-bottom-2">
+  {{ tag_label }}
+</h2>
+{% include 'accordion.html', items: tag_items, class: 'padding-top-2',
+id_prefix: tag_accordion_prefix %} {% endif %} {% endfor %} {% else %} {% if
+tags_list != '' %} {% assign faq_items = faq_items | where_exp: 'item',
+'item.tags contains tags_list.first' %} {% endif %} {% assign
+default_accordion_prefix = faq_id_base | append: '-faq' %} {% include
+'accordion.html', items: faq_items, class: 'padding-top-6', id_prefix:
+default_accordion_prefix %} {% endif %} {% else %}
+<p class="usa-prose">No FAQs found.</p>
 {% endif %}
