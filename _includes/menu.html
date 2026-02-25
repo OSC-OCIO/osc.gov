@@ -7,16 +7,10 @@
       <button class="usa-menu-btn">Menu</button>
     </div>
   </div>
-  <nav
-    role="navigation"
-    class="usa-nav bg-primary-light"
-  >
+  <nav role="navigation" class="usa-nav bg-primary-light">
     <div class="usa-nav__inner">
       <button class="usa-nav__close" aria-label="Close navigation menu">
-        <img
-          src="/assets/uswds/img/usa-icons/close.svg"
-          alt=""
-        >
+        <img src="/assets/uswds/img/usa-icons/close.svg" alt="">
       </button>
       <ul class="usa-nav__primary usa-accordion">
         <li class="usa-nav__primary-item">
@@ -57,15 +51,16 @@
         {% endfor %}
       </ul>
       <div class="usa-nav__secondary">
-        <ul class="usa-nav__secondary-links">
-          <ul
-            class="add-list-reset display-flex flex-justify-center margin-bottom-2 desktop:margin-bottom-0"
-          >
-            {% include 'socialmedia.html' %}
-          </ul>
+        <ul class="usa-nav__secondary-links flex-align-center">
+          {% include 'socialmedia.html' %}
           {% for nav_item in secondary_navigation %}
-            <li class="usa-nav__secondary-item text-center desktop:text-left display-block">
-              <a href="{{ nav_item.url }}" class="desktop:text-white hover:text-white">{{ nav_item.name | escape }}</a>
+            <li class="usa-nav__secondary-item">
+              <a
+                href="{{ nav_item.url }}"
+                class="desktop:text-white hover:text-white"
+              >
+                {{- nav_item.name | escape -}}
+              </a>
             </li>
           {% endfor %}
         </ul>

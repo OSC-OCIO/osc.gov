@@ -45,14 +45,36 @@
             {%- assign isCurrentChild = true -%}
           {%- endif -%}
           <li class="usa-sidenav__item">
-            <a
-              href="{{ childHref }}"
-              {%- if isCurrentChild or child.url == currentUrl or childHref == currentUrl -%}
-                class="usa-current"
-              {%- endif -%}
-            >
-              {{ child.title }}
-            </a>
+            {%- assign isCurrentParentLink = false -%}
+            {%- if isCurrentChild or child.url == currentUrl or childHref == currentUrl -%}
+              {%- assign isCurrentParentLink = true -%}
+            {%- endif -%}
+            {%- if child.children.size > 0 -%}
+              <a
+                href="{{ childHref }}"
+                class="{% if isCurrentParentLink %}usa-current{% endif %}"
+              >
+                <span class="display-flex flex-align-center flex-justify">
+                  <span>{{ child.title }}</span>
+                  <span class="padding-left-1">
+                    {% if isCurrentChild %}
+                      {% uswds_icon "remove" %}
+                    {% else %}
+                      {% uswds_icon "add" %}
+                    {% endif %}
+                  </span>
+                </span>
+              </a>
+            {%- else -%}
+              <a
+                href="{{ childHref }}"
+                {%- if isCurrentParentLink -%}
+                  class="usa-current"
+                {%- endif -%}
+              >
+                {{ child.title }}
+              </a>
+            {%- endif -%}
             {%- if isCurrentChild and child.children.size > 0 -%}
               <ul class="usa-sidenav__sublist">
                 {%- for grandchild in child.children -%}

@@ -32,19 +32,25 @@
         aria-label="More information"
       >
         {%- if case_location_primary -%}
-          <li class="margin-bottom-1">{{- case_location_primary -}}</li>
+          <li>
+            <span class="display-block margin-bottom-2">
+              <span class="usa-tag" data-pagefind-meta="agency" data-pagefind-filter="agency">
+                {{- case_agency -}}
+              </span>
+              {%- if case_subagency -%}
+                <span class="usa-tag" data-pagefind-meta="subagency">{{- case_subagency -}}</span>
+              {%- endif -%}
+            </span>
+          </li>
         {%- endif -%}
-        <li class="margin-bottom-1">
-          <span data-pagefind-meta="agency" data-pagefind-filter="agency">{{- case_agency -}}</span>
-          {%- if case_subagency -%}
-            ,{{ ' ' }}
-            <span data-pagefind-meta="subagency">{{- case_subagency -}}</span>
-          {%- endif -%}
-        </li>
-        {%- for case_number in case_numbers -%}
-          <li class="margin-bottom-1">{{- case_number -}}</li>
-        {%- endfor -%}
+        {%- if case_location_primary -%}
+          <li class="margin-bottom-1">
+            <span class="text-bold">Location:</span>{{ ' ' }}
+            {{- case_location_primary -}}
+          </li>
+        {%- endif -%}
         <li class="margin-bottom-2">
+          <span class="text-bold">Date closed:</span>
           <time
             datetime="{{ case_date_iso }}"
             data-year="{{ case_year }}"
@@ -67,10 +73,15 @@
       {%- endif -%}
       {%- if case_files -%}
         <h4 class="margin-bottom-1">Associated files:</h4>
-        <ul>
+        <ul class="usa-icon-list">
           {%- for file in case_files -%}
-            <li>
-              <a href="{{ file.href }}">{{ file.label }}</a>
+            <li class="usa-icon-list__item">
+              <div class="usa-icon-list__icon">
+                {% uswds_icon "file_present" %}
+              </div>
+              <div class="usa-icon-list__content">
+                <a href="{{ file.href }}">{{ file.label }}</a>
+              </div>
             </li>
           {%- endfor -%}
         </ul>

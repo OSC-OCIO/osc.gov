@@ -78,6 +78,27 @@ img {
   background-color: color("white");
 }
 
+// Keep the top-nav dropdown caret visible on dark custom nav backgrounds.
+.usa-header--extended .usa-nav__primary button[aria-expanded] span::after,
+.usa-header--extended
+  .usa-nav__primary
+  button[aria-expanded]:hover
+  span::after {
+  background-color: color("white");
+}
+
+.usa-header--extended .usa-logo a,
+.usa-header--extended .usa-logo a:visited,
+.usa-header--extended .usa-logo a:hover {
+  color: color("white");
+}
+
+@include at-media("desktop") {
+  .usa-header--extended .usa-logo {
+    max-width: none;
+  }
+}
+
 .usa-nav__secondary-links {
   @include at-media("desktop") {
     a {
