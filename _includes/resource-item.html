@@ -1,0 +1,14 @@
+<li class="usa-card grid-col-12">
+  <div class="usa-card__container border-white bg-base-lightest">
+    <div class="display-flex flex-align-center padding-top-2 padding-bottom-0">
+      {% uswds_icon "file_present" %}
+      <span class="font-body-m padding-left-1">{{ item.name }}</span>
+    </div>
+    <a
+      href="{{- item.url -}}"
+      class="usa-card__stretched-link"
+      aria-label="Go to Card title"
+    >
+    </a>
+  </div>
+</li>
