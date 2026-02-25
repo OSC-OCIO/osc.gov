@@ -16,11 +16,10 @@
     {%- assign accordion_id = id_prefix | append: '-' | append: forloop.index -%}
     {%- assign item_title = item.question | default: item.title | default: item.heading | default: item.label -%}
     {%- assign item_body = item.answer | default: item.content | default: item.body | default: item.text -%}
-    {% if include.body_markdown == false %}
-      {% assign body_markdown = false %}
-    {% else %}
-      {% assign body_markdown = true %}
-    {% endif %}
+    {%- assign body_markdown = body_markdown | default: include.body_markdown -%}
+    {%- if body_markdown == null -%}
+      {%- assign body_markdown = true -%}
+    {%- endif -%}
     {%- assign expanded = item.expanded | default: false -%}
   <{{ heading_tag }} class="usa-accordion__heading">
     <button class="usa-accordion__button" aria-expanded="{% if expanded %}true{% else %}false{% endif %}" aria-controls="{{ accordion_id }}">
