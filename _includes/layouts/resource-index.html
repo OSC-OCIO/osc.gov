@@ -1,0 +1,16 @@
+---
+layout: layouts/default
+---
+{{ content }}
+
+<ul class="usa-card-group">
+  {%- for item in items -%}
+    {%- include 'resource-item.html' -%}
+  {%- endfor -%}
+</ul>
+
+{% if footnote %}
+  {{ footnote | markdownify }}
+{% endif %}
+
+{%- include 'pagination-links.html' -%}

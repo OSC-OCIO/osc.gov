@@ -1,6 +1,8 @@
 ---
 layout: layouts/case-index
 title: Public Files
+eleventyNavigation:
+  order: 10
 permalink: "/resources/cases{% if pagination.pageNumber > 0 %}/page/{{ pagination.pageNumber }}{% endif %}/index.html"
 pagination:
   data: collections.case
@@ -51,6 +53,7 @@ lead: ​OSC receives and reviews [disclosures of wrongdoing](/Services/Pages/DU
 <div id="case-search-pagination" class="display-none"></div>
 
 {%- if pagination.pageNumber == 0 -%}
+
 <section class="display-none" aria-hidden="true">
 {%- include 'case-list.html', items: collections.case, list_id: 'case-template-bank', pagefind_ignore: true -%}
 </section>
