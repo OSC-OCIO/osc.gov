@@ -1,11 +1,16 @@
 ---
 layout: layouts/default
 ---
-<ul class="usa-card-group padding-top-2">
+{{ content }}
+
+<ul class="usa-card-group">
   {%- for item in items -%}
     {%- include 'resource-item.html' -%}
   {%- endfor -%}
 </ul>
-{%- include 'pagination-links.html' -%}
 
-{{ content }}
+{% if footnote %}
+  {{ footnote }}
+{% endif %}
+
+{%- include 'pagination-links.html' -%}

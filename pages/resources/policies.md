@@ -1,5 +1,6 @@
 ---
 title: Policies
+layout: layouts/resource-index
 eleventyNavigation:
   order: 3
 items:
@@ -28,9 +29,3 @@ items:
   - name: "OSC Monetary Policy re Whistleblowers 5.20.25"
     url: "/~assets/docs/osc-monetary-policy-re-whistleblowers-52025.pdf"
 ---
-
-<ul class="usa-card-group padding-top-2">
-  {% for item in items %}
-    {% include 'resource-item.html' %}
-  {% endfor %}
-</ul>

@@ -1,5 +1,6 @@
 ---
 title: Testimonies & Transcripts
+layout: layouts/resource-index
 eleventyNavigation:
   order: 6
 items:
@@ -60,9 +61,3 @@ items:
   - name: "Confirmation Hearing of Carolyn Lerner, March 10, 2011"
     url: "/~assets/docs/confirmation-hearing-of-carolyn-lerner-march-10-2011.pdf"
 ---
-
-<ul class="usa-card-group padding-top-2">
-  {% for item in items %}
-    {% include 'resource-item.html' %}
-  {% endfor %}
-</ul>
