@@ -10,7 +10,7 @@ layout: layouts/default
 </ul>
 
 {% if footnote %}
-  {{ footnote }}
+  {{ footnote | markdownify }}
 {% endif %}
 
 {%- include 'pagination-links.html' -%}
