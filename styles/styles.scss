@@ -221,3 +221,28 @@ iframe.yt-shortcode {
 .usa-pagination {
   background: transparent;
 }
+
+.complaint-button {
+  margin-left: auto;
+}
+
+@include at-media("desktop") {
+  .usa-nav__primary > .usa-nav__primary-item.complaint-button {
+    margin-left: auto;
+    margin-right: 0;
+    margin-inline-end: 0;
+    padding-right: 0;
+    padding-inline-end: 0;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+  }
+
+  .usa-nav__primary > .usa-nav__primary-item.complaint-button > .usa-button {
+    margin: 0 !important;
+    margin-right: 0 !important;
+    margin-inline-end: 0 !important;
+    padding-right: 0 !important;
+    padding-inline-end: 0 !important;
+  }
+}

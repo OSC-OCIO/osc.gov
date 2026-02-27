@@ -10,7 +10,7 @@
   <nav role="navigation" class="usa-nav bg-primary-light">
     <div class="usa-nav__inner">
       <button class="usa-nav__close" aria-label="Close navigation menu">
-        <img src="/assets/uswds/img/usa-icons/close.svg" alt="">
+        <img src="/assets/uswds/img/usa-icons/close.svg" alt="" />
       </button>
       <ul class="usa-nav__primary usa-accordion">
         <li class="usa-nav__primary-item">
@@ -20,48 +20,55 @@
             ><span>Home</span></a
           >
         </li>
-        {% for nav_item in primary_navigation[0].children %}
-          {% if nav_item.children.length < 1 or nav_item.hideChildrenFromTopNav %}
-            <li class="usa-nav__primary-item">
-              <a
-                class="usa-nav__link{% if nav_item.url == page.url %} usa-current{% endif %}"
-                href="{{ nav_item.url}}"
-                ><span>{{ nav_item.title | escape }}</span></a
+        {% for nav_item in primary_navigation[0].children %} {% if
+        nav_item.children.length < 1 or nav_item.hideChildrenFromTopNav %}
+        <li class="usa-nav__primary-item">
+          <a
+            class="usa-nav__link{% if nav_item.url == page.url %} usa-current{% endif %}"
+            href="{{ nav_item.url}}"
+            ><span>{{ nav_item.title | escape }}</span></a
+          >
+        </li>
+        {% else %} {% assign nav_id = 'primary-nav-' | append: forloop.index %}
+        <li class="usa-nav__primary-item">
+          <button
+            class="usa-accordion__button usa-nav__link"
+            aria-expanded="false"
+            aria-controls="{{ nav_id }}"
+          >
+            <span>{{ nav_item.title | escape }}</span>
+          </button>
+          <ul id="{{ nav_id }}" class="usa-nav__submenu">
+            {% for subnav_item in nav_item.children %}
+            <li class="usa-nav__submenu-item">
+              <a href="{{ subnav_item.url}}"
+                >{{ subnav_item.title | escape }}</a
               >
             </li>
-          {% else %}
-            {% assign nav_id = 'primary-nav-' | append: forloop.index %}
-            <li class="usa-nav__primary-item">
-              <button
-                class="usa-accordion__button usa-nav__link"
-                aria-expanded="false"
-                aria-controls="{{ nav_id }}"
-              >
-                <span>{{ nav_item.title | escape }}</span>
-              </button>
-              <ul id="{{ nav_id }}" class="usa-nav__submenu">
-                {% for subnav_item in nav_item.children %}
-                  <li class="usa-nav__submenu-item">
-                    <a href="{{ subnav_item.url}}">{{ subnav_item.title | escape }}</a>
-                  </li>
-                {% endfor %}
-              </ul>
-            </li>
-          {% endif %}
-        {% endfor %}
+            {% endfor %}
+          </ul>
+        </li>
+        {% endif %} {% endfor %}
+        <li class="usa-nav__primary-item complaint-button">
+          <a
+            class="text-no-underline text-white font-body-xs bg-accent-cool usa-button border-0 margin-right-0"
+            href="/file-complaint/onlineportal"
+            >File a Complaint</a
+          >
+        </li>
       </ul>
       <div class="usa-nav__secondary">
         <ul class="usa-nav__secondary-links flex-align-center">
-          {% include 'socialmedia.html' %}
-          {% for nav_item in secondary_navigation %}
-            <li class="usa-nav__secondary-item">
-              <a
-                href="{{ nav_item.url }}"
-                class="desktop:text-white hover:text-white"
-              >
-                {{- nav_item.name | escape -}}
-              </a>
-            </li>
+          {% include 'socialmedia.html' %} {% for nav_item in
+          secondary_navigation %}
+          <li class="usa-nav__secondary-item">
+            <a
+              href="{{ nav_item.url }}"
+              class="desktop:text-white hover:text-white"
+            >
+              {{- nav_item.name | escape -}}
+            </a>
+          </li>
           {% endfor %}
         </ul>
         {% include 'searchgov/form.html', searchgov: site.searchgov %}
