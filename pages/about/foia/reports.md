@@ -1,201 +1,216 @@
 ---
 title: FOIA Reports
+layout: layouts/resource-index
 eleventyNavigation:
   order: 4
+reports:
+  - heading: "Annual Reports"
+    items:
+      - name: "Annual FOIA Report Fiscal 2024 Raw Data"
+        url: "/~assets/docs/annual-foia-report-fiscal-2024-raw-data.csv"
+      - name: "Annual FOIA Report Fiscal Year 2024"
+        url: "/~assets/docs/annual-foia-report-fiscal-year-2024.xml"
+      - name: "Annual FOIA Report Fiscal 2023 - Raw Data"
+        url: "/~assets/docs/annual-foia-report-fiscal-2023-raw-data.docx"
+      - name: "Annual FOIA Report Fiscal Year 2023"
+        url: "/~assets/docs/annual-foia-report-fiscal-year-2023.pdf"
+      - name: "Annual FOIA Report Fiscal Year 2023 - DOJ Format"
+        url: "/~assets/docs/annual-foia-report-fiscal-year-2023-doj-format.csv"
+      - name: "Annual FOIA Report Fiscal Year 2022 Raw Data"
+        url: "/~assets/docs/annual-foia-report-fiscal-year-2022-raw-data.xml"
+      - name: "Annual FOIA Report Fiscal Year 2022"
+        url: "/~assets/docs/annual-foia-report-fiscal-year-2022.pdf"
+      - name: "Annual FOIA Report Fiscal Report 2021 - DOJ Format"
+        url: "/~assets/docs/annual-foia-report-fiscal-report-2021-doj-format.xml"
+      - name: "Annual FOIA Report Fiscal Report 2021 - Raw Data"
+        url: "/~assets/docs/annual-foia-report-fiscal-report-2021-raw-data.xml"
+      - name: "Annual FOIA Report Fiscal Report 2021 - Raw Data (txt)"
+        url: "/~assets/docs/annual-foia-report-fiscal-report-2021-raw-data.txt"
+      - name: "Annual FOIA Report Fiscal Year 2020 Raw Data"
+        url: "/~assets/docs/annual-foia-report-fiscal-year-2020-raw-data.xml"
+      - name: "Annual FOIA Report Fiscal Year 2020 Raw Data (txt)"
+        url: "/~assets/docs/annual-foia-report-fiscal-year-2020-raw-data.txt"
+      - name: "Annual FOIA Report Fiscal Year 2020 - DOJ Format"
+        url: "/~assets/docs/annual-foia-report-fiscal-year-2020-doj-format.xml"
+      - name: "Annual FOIA Report Fiscal Year 2020"
+        url: "/~assets/docs/annual-foia-report-fiscal-year-2020.docx"
+      - name: "Annual FOIA Report Fiscal Year 2019 Raw Data"
+        url: "/~assets/docs/annual-foia-report-fiscal-year-2019-raw-data.xml"
+      - name: "Annual FOIA Report Fiscal Year 2019 Raw Data (txt)"
+        url: "/~assets/docs/annual-foia-report-fiscal-year-2019-raw-data.txt"
+      - name: "Annual FOIA Report Fiscal Year 2019 - DOJ Format"
+        url: "/~assets/docs/annual-foia-report-fiscal-year-2019-doj-format.xml"
+      - name: "Annual FOIA Report Fiscal Year 2019"
+        url: "/~assets/docs/annual-foia-report-fiscal-year-2019.pdf"
+      - name: "Annual FOIA Report Fiscal Year 2018 - DOJ Format"
+        url: "/~assets/docs/annual-foia-report-fiscal-year-2018-doj-format.xml"
+      - name: "Annual FOIA Report Fiscal Year 2018 Raw Data"
+        url: "/~assets/docs/annual-foia-report-fiscal-year-2018-raw-data.xlsx"
+      - name: "Annual FOIA Report Fiscal Year 2018"
+        url: "/~assets/docs/annual-foia-report-fiscal-year-2018.pdf"
+      - name: "Annual FOIA Report Fiscal Year 2017 Raw Data"
+        url: "/~assets/docs/annual-foia-report-fiscal-year-2017-raw-data.xlsx"
+      - name: "Annual FOIA Report Fiscal Year 2017"
+        url: "/~assets/docs/annual-foia-report-fiscal-year-2017.pdf"
+      - name: "Annual FOIA Report Fiscal Year 2016 - DOJ Format"
+        url: "/~assets/docs/annual-foia-report-fiscal-year-2016-doj-format.xml"
+      - name: "Annual FOIA Report Fiscal Year 2016 Raw Data"
+        url: "/~assets/docs/annual-foia-report-fiscal-year-2016-raw-data.xlsx"
+      - name: "Annual FOIA Report Fiscal Year 2015 - DOJ Format"
+        url: "/~assets/docs/annual-foia-report-fiscal-year-2015-doj-format.xml"
+      - name: "Annual FOIA Report Fiscal Year 2015"
+        url: "/~assets/docs/annual-foia-report-fiscal-year-2015.pdf"
+      - name: "Annual FOIA Report Fiscal Year 2014 - DOJ Format"
+        url: "/~assets/docs/annual-foia-report-fiscal-year-2014-doj-format.xml"
+      - name: "Annual FOIA Report Fiscal Year 2013"
+        url: "/~assets/docs/annual-foia-report-fiscal-year-2013.pdf"
+      - name: "Annual FOIA Report Fiscal Year 2012"
+        url: "/~assets/docs/annual-foia-report-fiscal-year-2012.pdf"
+      - name: "Annual FOIA Report Fiscal Year 2011 - DOJ Format"
+        url: "/~assets/docs/annual-foia-report-fiscal-year-2011-doj-format.xml"
+      - name: "Annual FOIA Report Fiscal Year 2011"
+        url: "/~assets/docs/annual-foia-report-fiscal-year-2011.pdf"
+      - name: "Annual FOIA Report Fiscal Year 2010 - DOJ Format"
+        url: "/~assets/docs/annual-foia-report-fiscal-year-2010-doj-format.xml"
+      - name: "Annual FOIA Report Fiscal Year 2010"
+        url: "/~assets/docs/annual-foia-report-fiscal-year-2010.pdf"
+      - name: "Annual FOIA Report Fiscal Year 2009"
+        url: "/~assets/docs/annual-foia-report-fiscal-year-2009.pdf"
+      - name: "Annual FOIA Report Fiscal Year 1998"
+        url: "/~assets/docs/annual-foia-report-fiscal-year-1998.pdf"
+      - name: "Annual FOIA Report Fiscal Year 1999"
+        url: "/~assets/docs/annual-foia-report-fiscal-year-1999.pdf"
+      - name: "Annual FOIA Report Fiscal Year 2000"
+        url: "/~assets/docs/annual-foia-report-fiscal-year-2000.pdf"
+      - name: "Annual FOIA Report Fiscal Year 2001"
+        url: "/~assets/docs/annual-foia-report-fiscal-year-2001.pdf"
+      - name: "Annual FOIA Report Fiscal Year 2002"
+        url: "/~assets/docs/annual-foia-report-fiscal-year-2002.pdf"
+      - name: "Annual FOIA Report Fiscal Year 2003"
+        url: "/~assets/docs/annual-foia-report-fiscal-year-2003.pdf"
+      - name: "Annual FOIA Report Fiscal Year 2004"
+        url: "/~assets/docs/annual-foia-report-fiscal-year-2004.pdf"
+      - name: "Annual FOIA Report Fiscal Year 2005"
+        url: "/~assets/docs/annual-foia-report-fiscal-year-2005.pdf"
+      - name: "Annual FOIA Report Fiscal Year 2006"
+        url: "/~assets/docs/annual-foia-report-fiscal-year-2006.pdf"
+      - name: "Annual FOIA Report Fiscal Year 2007"
+        url: "/~assets/docs/annual-foia-report-fiscal-year-2007.pdf"
+  - heading: "Quarterly Reports"
+    items:
+      - name: "OSC-2025-Q2"
+        url: "/~assets/docs/osc-2025-q2.pdf"
+      - name: "OSC-2025-Q1"
+        url: "/~assets/docs/osc-2025-q1.pdf"
+      - name: "OSC-2024-Q3"
+        url: "/~assets/docs/osc-2024-q3.pdf"
+      - name: "OSC-2024-Q4"
+        url: "/~assets/docs/osc-2024-q4.pdf"
+      - name: "OSC-2024-Q1"
+        url: "/~assets/docs/osc-2024-q1.pdf"
+      - name: "OSC-2024-Q2"
+        url: "/~assets/docs/osc-2024-q2.pdf"
+      - name: "OSC-2023-Q3"
+        url: "/~assets/docs/osc-2023-q3.pdf"
+      - name: "OSC-2023-Q1"
+        url: "/~assets/docs/osc-2023-q1.pdf"
+      - name: "OSC-2023-Q2"
+        url: "/~assets/docs/osc-2023-q2.pdf"
+      - name: "OSC-2023-Q4"
+        url: "/~assets/docs/osc-2023-q4.pdf"
+      - name: "OSC-2022-Q1"
+        url: "/~assets/docs/osc-2022-q1.pdf"
+      - name: "OSC-2021-Q1"
+        url: "/~assets/docs/osc-2021-q1.pdf"
+      - name: "OSC-2021-Q2"
+        url: "/~assets/docs/osc-2021-q2.pdf"
+      - name: "OSC-2021-Q3"
+        url: "/~assets/docs/osc-2021-q3.pdf"
+      - name: "OSC-2021-Q4"
+        url: "/~assets/docs/osc-2021-q4.pdf"
+      - name: "OSC-2020-Q4"
+        url: "/~assets/docs/osc-2020-q4.pdf"
+      - name: "OSC-2020-Q3"
+        url: "/~assets/docs/osc-2020-q3.pdf"
+      - name: "OSC-2020-Q2"
+        url: "/~assets/docs/osc-2020-q2.pdf"
+      - name: "OSC-2020-Q1"
+        url: "/~assets/docs/osc-2020-q1.pdf"
+      - name: "OSC-2019-Q4"
+        url: "/~assets/docs/osc-2019-q4.zip"
+      - name: "OSC-2019-Q3"
+        url: "/~assets/docs/osc-2019-q3.zip"
+      - name: "OSC-2019-Q2"
+        url: "/~assets/docs/osc-2019-q2.zip"
+      - name: "OSC-2019-Q1"
+        url: "/~assets/docs/osc-2019-q1.zip"
+      - name: "OSC-2018-Q4"
+        url: "/~assets/docs/osc-2018-q4.zip"
+      - name: "OSC-2018-Q3"
+        url: "/~assets/docs/osc-2018-q3.zip"
+      - name: "OSC-2018-Q2"
+        url: "/~assets/docs/osc-2018-q2.zip"
+      - name: "OSC-2018-Q1"
+        url: "/~assets/docs/osc-2018-q1.zip"
+      - name: "OSC-2017-Q4"
+        url: "/~assets/docs/osc-2017-q4.zip"
+      - name: "OSC-2017-Q3"
+        url: "/~assets/docs/osc-2017-q3.zip"
+      - name: "OSC-2017-Q2"
+        url: "/~assets/docs/osc-2017-q2.zip"
+      - name: "OSC-2017-Q1"
+        url: "/~assets/docs/osc-2017-q1.zip"
+      - name: "OSC-2016-Q4"
+        url: "/~assets/docs/osc-2016-q4.zip"
+      - name: "OSC-2016-Q3"
+        url: "/~assets/docs/osc-2016-q3.zip"
+      - name: "OSC-2016-Q2"
+        url: "/~assets/docs/osc-2016-q2.zip"
+      - name: "OSC-2016-Q1"
+        url: "/~assets/docs/osc-2016-q1.zip"
+  - heading: "Chief FOIA Officer Reports"
+    items:
+      - name: "Chief FOIA Officer Report Fiscal Year 2025"
+        url: "/~assets/docs/chief-foia-officer-report-fiscal-year-2025.pdf"
+      - name: "Chief FOIA Officer Report Fiscal Year 2023"
+        url: "/~assets/docs/chief-foia-officer-report-fiscal-year-2023.pdf"
+      - name: "Chief FOIA Officer Report Fiscal Year 2022"
+        url: "/~assets/docs/chief-foia-officer-report-fiscal-year-2022.pdf"
+      - name: "Chief FOIA Officer Report Fiscal Year 2021"
+        url: "/~assets/docs/chief-foia-officer-report-fiscal-year-2021.pdf"
+      - name: "Chief FOIA Officer Report Fiscal Year 2020"
+        url: "/~assets/docs/chief-foia-officer-report-fiscal-year-2020.pdf"
+      - name: "Chief FOIA Officer Report Fiscal Year 2019"
+        url: "/~assets/docs/chief-foia-officer-report-fiscal-year-2019.pdf"
+      - name: "Chief FOIA Officer Report Fiscal Year 2018"
+        url: "/~assets/docs/chief-foia-officer-report-fiscal-year-2018.pdf"
+      - name: "Chief FOIA Officer Report Fiscal Year 2017"
+        url: "/~assets/docs/chief-foia-officer-report-fiscal-year-2017.pdf"
+      - name: "Chief FOIA Officer Report Fiscal Year 2016"
+        url: "/~assets/docs/chief-foia-officer-report-fiscal-year-2016.pdf"
+      - name: "Chief FOIA Officer Report Fiscal Year 2015"
+        url: "/~assets/docs/chief-foia-officer-report-fiscal-year-2015.pdf"
+      - name: "Chief FOIA Officer Report Fiscal Year 2014"
+        url: "/~assets/docs/chief-foia-officer-report-fiscal-year-2014.pdf"
+      - name: "Chief FOIA Officer Report Fiscal Year 2013"
+        url: "/~assets/docs/chief-foia-officer-report-fiscal-year-2013.pdf"
+      - name: "Chief FOIA Officer Report Fiscal Year 2012"
+        url: "/~assets/docs/chief-foia-officer-report-fiscal-year-2012.pdf"
+      - name: "Chief FOIA Officer Report Fiscal Year 2011"
+        url: "/~assets/docs/chief-foia-officer-report-fiscal-year-2011.pdf"
+      - name: "Chief FOIA Officer Report Fiscal Year 2010"
+        url: "/~assets/docs/chief-foia-officer-report-fiscal-year-2010.pdf"
 ---
 
-## Annual Reports
 
-[Annual FOIA Report Fiscal 2024 Raw Data](../../../~assets/docs/annual-foia-report-fiscal-2024-raw-data.csv)
 
-[Annual FOIA Report Fiscal Year 2024](../../../~assets/docs/annual-foia-report-fiscal-year-2024.xml)
+{% for section in reports %}
 
-[Annual FOIA Report Fiscal 2023 - Raw Data](../../../~assets/docs/annual-foia-report-fiscal-2023-raw-data.docx)
+  <h2 class="font-heading-xl padding-top-1">{{ section.heading }}</h2>
 
-[Annual FOIA Report Fiscal Year 2023](../../../~assets/docs/annual-foia-report-fiscal-year-2023.pdf)
-
-[Annual FOIA Report Fiscal Year 2023 - DOJ Format](../../../~assets/docs/annual-foia-report-fiscal-year-2023-doj-format.csv)
-
-[Annual FOIA Report Fiscal Year 2022 Raw Data](../../../~assets/docs/annual-foia-report-fiscal-year-2022-raw-data.xml)
-
-[Annual FOIA Report Fiscal Year 2022](../../../~assets/docs/annual-foia-report-fiscal-year-2022.pdf)
-
-[Annual FOIA Report Fiscal Report 2021 - DOJ Format](../../../~assets/docs/annual-foia-report-fiscal-report-2021-doj-format.xml)
-
-[Annual FOIA Report Fiscal Report 2021 - Raw Data](../../../~assets/docs/annual-foia-report-fiscal-report-2021-raw-data.xml)
-
-[Annual FOIA Report Fiscal Report 2021 - Raw Data (txt)](../../../~assets/docs/annual-foia-report-fiscal-report-2021-raw-data.txt)
-
-[Annual FOIA Report Fiscal Year 2020 Raw Data](../../../~assets/docs/annual-foia-report-fiscal-year-2020-raw-data.xml)
-
-[Annual FOIA Report Fiscal Year 2020 Raw Data (txt)](../../../~assets/docs/annual-foia-report-fiscal-year-2020-raw-data.txt)
-
-[Annual FOIA Report Fiscal Year 2020 - DOJ Format](../../../~assets/docs/annual-foia-report-fiscal-year-2020-doj-format.xml)
-
-[Annual FOIA Report Fiscal Year 2020](../../../~assets/docs/annual-foia-report-fiscal-year-2020.docx)
-
-[Annual FOIA Report Fiscal Year 2019 Raw Data](../../../~assets/docs/annual-foia-report-fiscal-year-2019-raw-data.xml)
-
-[Annual FOIA Report Fiscal Year 2019 Raw Data (txt)](../../../~assets/docs/annual-foia-report-fiscal-year-2019-raw-data.txt)
-
-[Annual FOIA Report Fiscal Year 2019 - DOJ Format](../../../~assets/docs/annual-foia-report-fiscal-year-2019-doj-format.xml)
-
-[Annual FOIA Report Fiscal Year 2019](../../../~assets/docs/annual-foia-report-fiscal-year-2019.pdf)
-
-[Annual FOIA Report Fiscal Year 2018 - DOJ Format](../../../~assets/docs/annual-foia-report-fiscal-year-2018-doj-format.xml)
-
-[Annual FOIA Report Fiscal Year 2018 Raw Data](../../../~assets/docs/annual-foia-report-fiscal-year-2018-raw-data.xlsx)
-
-[Annual FOIA Report Fiscal Year 2018](../../../~assets/docs/annual-foia-report-fiscal-year-2018.pdf)
-
-[Annual FOIA Report Fiscal Year 2017 Raw Data](../../../~assets/docs/annual-foia-report-fiscal-year-2017-raw-data.xlsx)
-
-[Annual FOIA Report Fiscal Year 2017](../../../~assets/docs/annual-foia-report-fiscal-year-2017.pdf)
-
-[Annual FOIA Report Fiscal Year 2016 - DOJ Format](../../../~assets/docs/annual-foia-report-fiscal-year-2016-doj-format.xml)
-
-[Annual FOIA Report Fiscal Year 2016 Raw Data](../../../~assets/docs/annual-foia-report-fiscal-year-2016-raw-data.xlsx)
-
-[Annual FOIA Report Fiscal Year 2015 - DOJ Format](../../../~assets/docs/annual-foia-report-fiscal-year-2015-doj-format.xml)
-
-[Annual FOIA Report Fiscal Year 2015](../../../~assets/docs/annual-foia-report-fiscal-year-2015.pdf)
-
-[Annual FOIA Report Fiscal Year 2014 - DOJ Format](../../../~assets/docs/annual-foia-report-fiscal-year-2014-doj-format.xml)
-
-[Annual FOIA Report Fiscal Year 2013](../../../~assets/docs/annual-foia-report-fiscal-year-2013.pdf)
-
-[Annual FOIA Report Fiscal Year 2012](../../../~assets/docs/annual-foia-report-fiscal-year-2012.pdf)
-
-[Annual FOIA Report Fiscal Year 2011 - DOJ Format](../../../~assets/docs/annual-foia-report-fiscal-year-2011-doj-format.xml)
-
-[Annual FOIA Report Fiscal Year 2011](../../../~assets/docs/annual-foia-report-fiscal-year-2011.pdf)
-
-[Annual FOIA Report Fiscal Year 2010 - DOJ Format](../../../~assets/docs/annual-foia-report-fiscal-year-2010-doj-format.xml)
-
-[Annual FOIA Report Fiscal Year 2010](../../../~assets/docs/annual-foia-report-fiscal-year-2010.pdf)
-
-[Annual FOIA Report Fiscal Year 2009](../../../~assets/docs/annual-foia-report-fiscal-year-2009.pdf)
-
-[Annual FOIA Report Fiscal Year 1998](../../../~assets/docs/annual-foia-report-fiscal-year-1998.pdf)
-
-[Annual FOIA Report Fiscal Year 1999](../../../~assets/docs/annual-foia-report-fiscal-year-1999.pdf)
-
-[Annual FOIA Report Fiscal Year 2000](../../../~assets/docs/annual-foia-report-fiscal-year-2000.pdf)
-
-[Annual FOIA Report Fiscal Year 2001](../../../~assets/docs/annual-foia-report-fiscal-year-2001.pdf)
-
-[Annual FOIA Report Fiscal Year 2002](../../../~assets/docs/annual-foia-report-fiscal-year-2002.pdf)
-
-[Annual FOIA Report Fiscal Year 2003](../../../~assets/docs/annual-foia-report-fiscal-year-2003.pdf)
-
-[Annual FOIA Report Fiscal Year 2004](../../../~assets/docs/annual-foia-report-fiscal-year-2004.pdf)
-
-[Annual FOIA Report Fiscal Year 2005](../../../~assets/docs/annual-foia-report-fiscal-year-2005.pdf)
-
-[Annual FOIA Report Fiscal Year 2006](../../../~assets/docs/annual-foia-report-fiscal-year-2006.pdf)
-
-[Annual FOIA Report Fiscal Year 2007](../../../~assets/docs/annual-foia-report-fiscal-year-2007.pdf)
-
-## Quarterly Reports
-
-[OSC-2025-Q2](../../../~assets/docs/osc-2025-q2.pdf)
-
-[OSC-2025-Q1](../../../~assets/docs/osc-2025-q1.pdf)
-
-[OSC-2024-Q3](../../../~assets/docs/osc-2024-q3.pdf)
-
-[OSC-2024-Q4](../../../~assets/docs/osc-2024-q4.pdf)
-
-[OSC-2024-Q1](../../../~assets/docs/osc-2024-q1.pdf)
-
-[OSC-2024-Q2](../../../~assets/docs/osc-2024-q2.pdf)
-
-[OSC-2023-Q3](../../../~assets/docs/osc-2023-q3.pdf)
-
-[OSC-2023-Q1](../../../~assets/docs/osc-2023-q1.pdf)
-
-[OSC-2023-Q2](../../../~assets/docs/osc-2023-q2.pdf)
-
-[OSC-2023-Q4](../../../~assets/docs/osc-2023-q4.pdf)
-
-[OSC-2022-Q1](../../../~assets/docs/osc-2022-q1.pdf)
-
-[OSC-2021-Q1](../../../~assets/docs/osc-2021-q1.pdf)
-
-[OSC-2021-Q2](../../../~assets/docs/osc-2021-q2.pdf)
-
-[OSC-2021-Q3](../../../~assets/docs/osc-2021-q3.pdf)
-
-[OSC-2021-Q4](../../../~assets/docs/osc-2021-q4.pdf)
-
-[OSC-2020-Q4](../../../~assets/docs/osc-2020-q4.pdf)
-
-[OSC-2020-Q3](../../../~assets/docs/osc-2020-q3.pdf)
-
-[OSC-2020-Q2](../../../~assets/docs/osc-2020-q2.pdf)
-
-[OSC-2020-Q1](../../../~assets/docs/osc-2020-q1.pdf)
-
-[OSC-2019-Q4](../../../~assets/docs/osc-2019-q4.zip)
-
-[OSC-2019-Q3](../../../~assets/docs/osc-2019-q3.zip)
-
-[OSC-2019-Q2](../../../~assets/docs/osc-2019-q2.zip)
-
-[OSC-2019-Q1](../../../~assets/docs/osc-2019-q1.zip)
-
-[OSC-2018-Q4](../../../~assets/docs/osc-2018-q4.zip)
-
-[OSC-2018-Q3](../../../~assets/docs/osc-2018-q3.zip)
-
-[OSC-2018-Q2](../../../~assets/docs/osc-2018-q2.zip)
-
-[OSC-2018-Q1](../../../~assets/docs/osc-2018-q1.zip)
-
-[OSC-2017-Q4](../../../~assets/docs/osc-2017-q4.zip)
-
-[OSC-2017-Q3](../../../~assets/docs/osc-2017-q3.zip)
-
-[OSC-2017-Q2](../../../~assets/docs/osc-2017-q2.zip)
-
-[OSC-2017-Q1](../../../~assets/docs/osc-2017-q1.zip)
-
-[OSC-2016-Q4](../../../~assets/docs/osc-2016-q4.zip)
-
-[OSC-2016-Q3](../../../~assets/docs/osc-2016-q3.zip)
-
-[OSC-2016-Q2](../../../~assets/docs/osc-2016-q2.zip)
-
-[OSC-2016-Q1](../../../~assets/docs/osc-2016-q1.zip)
-
-## Chief FOIA Officer Reports
-
-[Chief FOIA Officer Report Fiscal Year 2025](../../../~assets/docs/chief-foia-officer-report-fiscal-year-2025.pdf)
-
-[Chief FOIA Officer Report Fiscal Year 2023](../../../~assets/docs/chief-foia-officer-report-fiscal-year-2023.pdf)
-
-[Chief FOIA Officer Report Fiscal Year 2022](../../../~assets/docs/chief-foia-officer-report-fiscal-year-2022.pdf)
-
-[Chief FOIA Officer Report Fiscal Year 2021](../../../~assets/docs/chief-foia-officer-report-fiscal-year-2021.pdf)
-
-[Chief FOIA Officer Report Fiscal Year 2020](../../../~assets/docs/chief-foia-officer-report-fiscal-year-2020.pdf)
-
-[Chief FOIA Officer Report Fiscal Year 2019](../../../~assets/docs/chief-foia-officer-report-fiscal-year-2019.pdf)
-
-[Chief FOIA Officer Report Fiscal Year 2018](../../../~assets/docs/chief-foia-officer-report-fiscal-year-2018.pdf)
-
-[Chief FOIA Officer Report Fiscal Year 2017](../../../~assets/docs/chief-foia-officer-report-fiscal-year-2017.pdf)
-
-[Chief FOIA Officer Report Fiscal Year 2016](../../../~assets/docs/chief-foia-officer-report-fiscal-year-2016.pdf)
-
-[Chief FOIA Officer Report Fiscal Year 2015](../../../~assets/docs/chief-foia-officer-report-fiscal-year-2015.pdf)
-
-[Chief FOIA Officer Report Fiscal Year 2014](../../../~assets/docs/chief-foia-officer-report-fiscal-year-2014.pdf)
-
-[Chief FOIA Officer Report Fiscal Year 2013](../../../~assets/docs/chief-foia-officer-report-fiscal-year-2013.pdf)
-
-[Chief FOIA Officer Report Fiscal Year 2012](../../../~assets/docs/chief-foia-officer-report-fiscal-year-2012.pdf)
-
-[Chief FOIA Officer Report Fiscal Year 2011](../../../~assets/docs/chief-foia-officer-report-fiscal-year-2011.pdf)
-
-[Chief FOIA Officer Report Fiscal Year 2010](../../../~assets/docs/chief-foia-officer-report-fiscal-year-2010.pdf)
+  <ul class="usa-card-group">
+    {% for item in section["items"] %}
+      {% include 'resource-item.html' %}
+    {% endfor %}
+  </ul>
+{% endfor %}

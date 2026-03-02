@@ -35,6 +35,6 @@ Washington, DC 20036-4505
 Fax: (202) 254-3700​  
 hatchact@osc.gov
 
-#### Enforcement:
+## Enforcement:
 
 After investigating an alleged Hatch Act violation, OSC may seek disciplinary action against an employee before the Merit Systems Protection Board. When violations are not sufficiently egregious to warrant prosecution, OSC may issue a warning letter to the employee involved.​
