@@ -11,6 +11,6 @@ eleventyNavigation:
 3.  The Hatch Act and its application both to federal employees and to state, D.C., and local employees.
 4.  The Uniformed Services Employment and Reemployment Rights Act (USERRA).
 
-For information on how to request a Hatch Act speaker, please see our Outreach, Training, and Certification page​ on [How to Request an OSC Speaker](outreach-requestspeaker.md).  
+For information on how to request a Hatch Act speaker, please see our Outreach, Training, and Certification page​ on [How to Request an OSC Speaker](/services/hatch-act/outreach).  
 
 Additionally, OSC publishes a variety of materials on prohibited personnel practices, whistleblower disclosures and the Hatch Act. Some of these resources can be found [here​](outreach-resources.md).
