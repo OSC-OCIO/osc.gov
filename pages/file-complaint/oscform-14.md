@@ -1,7 +1,5 @@
 ---
 title: OSC Form-14
-eleventyNavigation:
-  order: 2
 ---
 
 OSC regulations require that you use an approved complaint form to submit a complaint alleging a prohibited personnel practice or other prohibited activity within OSC's jurisdiction. 
