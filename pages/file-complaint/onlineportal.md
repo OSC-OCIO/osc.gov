@@ -14,7 +14,7 @@ sidenav: false
 
   </div>
 </div>
-<div class="display-flex flex-justify-center padding-y-6">
+<div class="display-flex padding-y-6">
   <a
     class="usa-button usa-button--big display-inline-flex flex-align-center"
     href="https://oscportal.powerappsportals.us/SignIn?ReturnUrl=%2F"
