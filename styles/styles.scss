@@ -20,6 +20,7 @@
   $theme-color-accent-cool-dark: #267136,
   $theme-color-accent-cool-darker: #1e5d2c,
   $theme-link-reverse-color: "white",
+  $theme-link-visited-color: "primary",
   $theme-font-type-sans: "public-sans",
   $theme-body-font-size: "md",
   $theme-h2-font-size: "lg",
@@ -27,6 +28,10 @@
   $theme-h4-font-size: "xs",
   $theme-text-measure: 6,
   $theme-global-link-styles: true,
+  $theme-breadcrumb-background-color: "base-lightest",
+  $theme-breadcrumb-font-size: "2xs",
+  $theme-breadcrumb-padding-bottom: 0,
+  $theme-breadcrumb-padding-top: 0,
   $background-color-settings: (
     responsive: true,
   ),

@@ -9,8 +9,9 @@ layout: layouts/base
     <div class="grid-row grid-gap">
       {% if sidenav == true %}{% include 'sidenav.html' %}{% endif %}
       <main
-        class="usa-layout-docs__main {% if sidenav == true %}desktop:grid-col-9{% else %}desktop:grid-col-12{% endif %}"
+        class="usa-layout-docs__main {% if sidenav == true %}desktop:grid-col-9{% endif %}"
       >
+        {% include 'breadcrumb.html' %}
         <div class="bg-white padding-4 radius-lg shadow-1 width-full">
           <div class="usa-prose">
             <h1>{{ title }}</h1>
