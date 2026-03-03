@@ -15,14 +15,14 @@ date: 2008-11-13
 files:
 - label: Letter to the President
   href: /~assets/cases/di-06-1499-letter-to-president.pdf
-- label: Agency Report
-  href: /~assets/cases/di-06-1499-supplemental-report.pdf
-- label: Agency Report
-  href: /~assets/cases/di-06-1499-agency-report.pdf
-- label: Whistleblower Comments
-  href: /~assets/cases/di-06-1499-supplemental-whistleblower-comments.pdf
-- label: Whistleblower Comments
-  href: /~assets/cases/di-06-1499-whistleblower-comments.pdf
 - label: Analysis
   href: /~assets/cases/di-06-1499-analysis.pdf
+- label: Agency Report
+  href: /~assets/cases/di-06-1499-agency-report.pdf
+- label: Agency Report
+  href: /~assets/cases/di-06-1499-supplemental-report.pdf
+- label: Whistleblower Comments
+  href: /~assets/cases/di-06-1499-whistleblower-comments.pdf
+- label: Whistleblower Comments
+  href: /~assets/cases/di-06-1499-supplemental-whistleblower-comments.pdf
 ---

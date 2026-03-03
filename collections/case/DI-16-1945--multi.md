@@ -19,9 +19,9 @@ files:
 - label: Agency Report
   href: /~assets/cases/di-16-1945-and-di-17-1294-supplemental-report.pdf
 - label: Whistleblower Comments
-  href: /~assets/cases/di-17-1294-whistleblower-comments.pdf
-- label: Whistleblower Comments
   href: /~assets/cases/di-16-1945-whistleblower-comments.pdf
+- label: Whistleblower Comments
+  href: /~assets/cases/di-17-1294-whistleblower-comments.pdf
 - label: Referral Letter
   href: /~assets/cases/di-16-1945-and-di-17-1294-referral-letter_redacted.pdf
 ---

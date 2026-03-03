@@ -12,8 +12,8 @@ date: 2008-12-10
 files:
 - label: Letter to the President
   href: /~assets/cases/di-06-1645-and-di-06-1904-letter-to-president.pdf
-- label: Agency Report
-  href: /~assets/cases/di-06-1645-and-di-06-1904-agency-report.pdf
 - label: Analysis
   href: /~assets/cases/di-06-1645-and-di-06-1904-analysis.pdf
+- label: Agency Report
+  href: /~assets/cases/di-06-1645-and-di-06-1904-agency-report.pdf
 ---

@@ -14,9 +14,9 @@ files:
 - label: Letter to the President
   href: /~assets/cases/di-15-2383-and-di-15-2452-letter-to-president.pdf
 - label: Agency Report
-  href: /~assets/cases/di-15-2383-and-di-15-2452-supplemental-report.pdf
-- label: Agency Report
   href: /~assets/cases/di-15-2383-and-di-15-2452-agency-report.pdf
+- label: Agency Report
+  href: /~assets/cases/di-15-2383-and-di-15-2452-supplemental-report.pdf
 - label: Whistleblower Comments
   href: /~assets/cases/di-15-2383-and-di-15-2452-supplemental-comments.pdf
 ---

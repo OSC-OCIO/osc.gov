@@ -14,6 +14,8 @@ date: 2010-03-11
 files:
 - label: Letter to the President
   href: /~assets/cases/di-08-0591-letter-to-president.pdf
+- label: Analysis
+  href: /~assets/cases/di-08-0591-analysis.pdf
 - label: Agency Report
   href: /~assets/cases/di-08-0591-agency-report-part-1.pdf
 - label: Agency Report
@@ -26,6 +28,4 @@ files:
   href: /~assets/cases/di-08-0591-whistleblower-comments-part-2.pdf
 - label: Whistleblower Comments
   href: /~assets/cases/di-08-0591-whistleblower-comments-part-3.pdf
-- label: Analysis
-  href: /~assets/cases/di-08-0591-analysis.pdf
 ---

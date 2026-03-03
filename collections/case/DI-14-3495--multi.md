@@ -14,8 +14,8 @@ date: 2017-06-28
 files:
 - label: Letter to the President
   href: /~assets/cases/di-14-3495-and-di-14-3503-letter-to-president.pdf
-- label: Agency Report
-  href: /~assets/cases/di-14-3495-and-di-14-3503-supplemental-report.pdf
 - label: DI-14-3495 and DI-14-3503 Agency Report
   href: /~assets/cases/di-14-3495-and-di-14-3503-agency-report.pdf
+- label: Agency Report
+  href: /~assets/cases/di-14-3495-and-di-14-3503-supplemental-report.pdf
 ---
