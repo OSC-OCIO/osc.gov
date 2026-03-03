@@ -1,6 +1,18 @@
 ---
 title: News
+layout: layouts/post-index
+permalink: "/news{% if pagination.pageNumber > 0 %}/page/{{ pagination.pageNumber }}{% endif %}/index.html"
 eleventyNavigation:
+  key: news
   order: 4
-  url: /news/news
+  hideChildrenFromTopNav: true
+pagination:
+  data: collections.press-release
+  size: 10
+  alias: posts
+  reverse: true
 ---
+
+{%- for post in posts -%}
+{%- include 'collection-item.html', post: post -%}
+{%- endfor -%}

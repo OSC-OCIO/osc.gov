@@ -1,15 +1,15 @@
 ---
-
 title: Whistleblower Reveals FAA Safety Inspectors Lacked Sufficient Training to Certify Airline Pilots
 date: 2019-09-24
 ---
+
 Disclosure of Wrongdoing
 
 OSC has sent letters to the President and Congress alerting them that FAA safety inspectors were not sufficiently trained to certify pilots.
 
 Page Content
 
-​The U.S Office of Special Counsel (OSC) has sent [letters](../../~assets/docs/di-19-2964-redacted-letter-to-the-president-2.pdf) to the President and Congress alerting them that numerous Federal Aviation Administration (FAA) safety inspectors were not sufficiently trained to certify pilots.  A whistleblower disclosed the allegations to OSC, which were substantiated by an agency [investigation](../../~assets/docs/di-19-2964-agency-report_redacted.pdf) that calls into question the operational review of several aircraft, including the Boeing 737 MAX and the Gulfstream VII.  OSC also found that responses by FAA to congressional inquiries regarding these allegations appear to have been misleading in their portrayal of FAA employee training.
+​The U.S Office of Special Counsel (OSC) has sent [letters](/~assets/docs/di-19-2964-redacted-letter-to-the-president-2.pdf) to the President and Congress alerting them that numerous Federal Aviation Administration (FAA) safety inspectors were not sufficiently trained to certify pilots.  A whistleblower disclosed the allegations to OSC, which were substantiated by an agency [investigation](/~assets/docs/di-19-2964-agency-report_redacted.pdf) that calls into question the operational review of several aircraft, including the Boeing 737 MAX and the Gulfstream VII.  OSC also found that responses by FAA to congressional inquiries regarding these allegations appear to have been misleading in their portrayal of FAA employee training.
 
 “The FAA is entrusted with the critically important role of ensuring aircraft safety," said **Special Counsel Henry J. Kerner**.  “The FAA's failure to ensure safety inspector competency for these aircraft puts the flying public at risk."
 
