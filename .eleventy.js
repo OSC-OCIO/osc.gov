@@ -9,7 +9,6 @@ const { eleventyImageTransformPlugin } = require("@11ty/eleventy-img");
 
 module.exports = async function (config) {
   const { EleventyHtmlBasePlugin } = await import("@11ty/eleventy");
-  const isProduction = process.env.ELEVENTY_ENV === "production";
 
   // Set pathPrefix for site
   let pathPrefix = process.env.BASEURL || "/";
@@ -23,8 +22,7 @@ module.exports = async function (config) {
   config.addPassthroughCopy("uploads");
   config.addPassthroughCopy("favicon.ico");
   config.addPassthroughCopy("site.webmanifest");
-  // Keep legacy /img/* URLs working when eleventy-img transforms are disabled
-  // (e.g. in local development for faster rebuilds).
+  // Keep legacy /img/* URLs working.
   config.addPassthroughCopy("img");
 
   // Add plugins
@@ -34,20 +32,18 @@ module.exports = async function (config) {
     baseHref: pathPrefix,
   });
 
-  if (isProduction) {
-    config.addPlugin(eleventyImageTransformPlugin, {
-      failOnError: false,
-      widths: ["auto", 600],
-      htmlOptions: {
-        imgAttributes: {
-          loading: "lazy",
-          decoding: "async",
-        },
-        pictureAttributes: {},
-        fallback: "largest", // or "smallest"
+  config.addPlugin(eleventyImageTransformPlugin, {
+    failOnError: false,
+    widths: ["auto", 600],
+    htmlOptions: {
+      imgAttributes: {
+        loading: "lazy",
+        decoding: "async",
       },
-    });
-  }
+      pictureAttributes: {},
+      fallback: "largest", // or "smallest"
+    },
+  });
 
   // SVG Sprite Plugin for USWDS icons
   config.addPlugin(svgSprite, {

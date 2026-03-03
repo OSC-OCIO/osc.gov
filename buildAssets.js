@@ -91,12 +91,8 @@ async function copyUswdsAssets() {
   );
 }
 
-async function copyProjectImages() {
-  await copyDir(path.join(ROOT, "img"), path.join(SITE_ASSETS_DIR, "img"));
-}
-
 async function buildAll({ includeUswds = true } = {}) {
-  await Promise.all([buildJavaScript(), buildSass(), copyProjectImages()]);
+  await Promise.all([buildJavaScript(), buildSass()]);
   if (includeUswds) {
     await copyUswdsAssets();
   }
@@ -114,7 +110,6 @@ async function watchAssets(skipInitialBuild = false) {
 
   let pendingStyles = false;
   let pendingJavaScript = false;
-  let pendingImages = false;
   let pendingFullBuild = false;
 
   function queueChange(relPath) {
@@ -125,10 +120,6 @@ async function watchAssets(skipInitialBuild = false) {
     }
     if (normalizedPath.startsWith("js/")) {
       pendingJavaScript = true;
-      return;
-    }
-    if (normalizedPath.startsWith("img/")) {
-      pendingImages = true;
       return;
     }
     pendingFullBuild = true;
@@ -158,12 +149,9 @@ async function watchAssets(skipInitialBuild = false) {
         const runFullBuild = pendingFullBuild;
         const runStyles = pendingStyles;
         const runJavaScript = pendingJavaScript;
-        const runImages = pendingImages;
-
         pendingFullBuild = false;
         pendingStyles = false;
         pendingJavaScript = false;
-        pendingImages = false;
 
         if (runFullBuild) {
           await buildAll({ includeUswds: false });
@@ -174,9 +162,6 @@ async function watchAssets(skipInitialBuild = false) {
           }
           if (runJavaScript) {
             jobs.push(buildJavaScript());
-          }
-          if (runImages) {
-            jobs.push(copyProjectImages());
           }
           if (jobs.length > 0) {
             await Promise.all(jobs);
@@ -196,7 +181,7 @@ async function watchAssets(skipInitialBuild = false) {
   }
 
   const watcher = chokidar.watch(
-    [path.join(ROOT, "styles"), path.join(ROOT, "js"), path.join(ROOT, "img")],
+    [path.join(ROOT, "styles"), path.join(ROOT, "js")],
     {
       ignoreInitial: true,
       awaitWriteFinish: {
