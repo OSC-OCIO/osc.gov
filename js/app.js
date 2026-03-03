@@ -113,42 +113,59 @@ function pathVariants(url) {
   return Array.from(variants);
 }
 
+function normalizeCaseLookupValue(value) {
+  return String(value || "")
+    .trim()
+    .replace(/\s+/g, " ")
+    .toLowerCase();
+}
+
+function buildCaseLookupKey(title, date) {
+  const normalizedTitle = normalizeCaseLookupValue(title);
+  const normalizedDate = normalizeCaseLookupValue(date);
+  return `${normalizedTitle}::${normalizedDate}`;
+}
+
 function buildCaseTemplateLookup() {
   const bank = document.querySelector("#case-template-bank");
-  const map = new Map();
+  const lookup = {
+    byTitleDate: new Map(),
+    byTitle: new Map(),
+  };
   if (!bank) {
-    return map;
+    return lookup;
   }
 
   // Reuse server-rendered case cards so JS controls behavior, not presentation.
   const items = bank.querySelectorAll("li");
   for (const item of items) {
-    const link = item.querySelector("a.usa-link");
-    if (!link || !link.getAttribute("href")) {
-      continue;
+    const titleNode = item.querySelector('[data-pagefind-meta="title"]');
+    const dateNode = item.querySelector('[data-pagefind-meta="date"]');
+    const title = titleNode ? titleNode.textContent : "";
+    const date = dateNode ? dateNode.textContent : "";
+    const titleKey = normalizeCaseLookupValue(title);
+
+    if (titleKey && !lookup.byTitle.has(titleKey)) {
+      lookup.byTitle.set(titleKey, item);
     }
 
-    const href = link.getAttribute("href");
-    const variants = pathVariants(href);
-    for (const variant of variants) {
-      map.set(variant, item);
+    if (titleKey && normalizeCaseLookupValue(date)) {
+      lookup.byTitleDate.set(buildCaseLookupKey(title, date), item);
     }
   }
 
-  return map;
+  return lookup;
 }
 
 function renderCaseList(container, docs, templateLookup) {
   container.innerHTML = "";
 
   for (const doc of docs) {
-    let template;
-    for (const variant of pathVariants(doc.url)) {
-      template = templateLookup.get(variant);
-      if (template) {
-        break;
-      }
-    }
+    const meta = doc.meta || {};
+    const key = buildCaseLookupKey(meta.title, meta.date);
+    const titleKey = normalizeCaseLookupValue(meta.title);
+    const template =
+      templateLookup.byTitleDate.get(key) || templateLookup.byTitle.get(titleKey);
 
     if (template) {
       container.appendChild(template.cloneNode(true));
