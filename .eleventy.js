@@ -1,5 +1,4 @@
 const { DateTime } = require("luxon");
-const pluginRss = require("@11ty/eleventy-plugin-rss");
 const pluginNavigation = require("@11ty/eleventy-navigation");
 const markdownIt = require("markdown-it");
 const markdownItNamedHeadings = require("markdown-it-named-headings");
@@ -26,7 +25,6 @@ module.exports = async function (config) {
   config.addPassthroughCopy("img");
 
   // Add plugins
-  config.addPlugin(pluginRss);
   config.addPlugin(pluginNavigation);
   config.addPlugin(EleventyHtmlBasePlugin, {
     baseHref: pathPrefix,
