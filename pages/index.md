@@ -107,7 +107,7 @@ highlights:
               <li class="tablet:grid-col-6 usa-card">
                 <div class="usa-card__container shadow-2 border-base-lighter">
                   <div class="usa-card__media">
-                    <div class="usa-card__img">
+                    <div class="usa-card__img height-card">
                       <img src="{{ card_image }}" alt="{{ card_alt }}" loading="lazy" decoding="async">
                     </div>
                   </div>
