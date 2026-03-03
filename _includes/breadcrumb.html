@@ -2,7 +2,10 @@
 {%- if breadcrumb_key -%}
   {%- assign breadcrumbs = collections.all | eleventyNavigationBreadcrumb: breadcrumb_key -%}
   {%- if breadcrumbs and breadcrumbs.size > 0 -%}
-    <nav class="usa-breadcrumb margin-bottom-2" aria-label="Breadcrumbs">
+    <nav
+      class="usa-breadcrumb margin-bottom-2 display-none desktop:display-block"
+      aria-label="Breadcrumbs"
+    >
       <ol class="usa-breadcrumb__list">
         {%- for crumb in breadcrumbs -%}
           <li class="usa-breadcrumb__list-item">

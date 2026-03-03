@@ -51,14 +51,12 @@ img {
   .usa-nav__primary > .usa-nav__primary-item > a {
     color: color("white") !important;
   }
-}
 
-.usa-header--extended .usa-nav__primary-item > .usa-current:after,
-.usa-header--extended .usa-nav__primary-item > .usa-nav__link:hover:after {
-  background-color: color("white");
-}
+  .usa-header--extended .usa-nav__primary-item > .usa-current:after,
+  .usa-header--extended .usa-nav__primary-item > .usa-nav__link:hover:after {
+    background-color: color("white");
+  }
 
-@include at-media("desktop") {
   .usa-header--extended .usa-nav__primary button[aria-expanded] span::after,
   .usa-header--extended
     .usa-nav__primary
@@ -66,22 +64,16 @@ img {
     span::after {
     background-color: color("white");
   }
-}
 
-.usa-header--extended .usa-logo a,
-.usa-header--extended .usa-logo a:visited,
-.usa-header--extended .usa-logo a:hover {
-  color: color("white");
-}
-
-@include at-media("desktop") {
   .usa-header--extended .usa-logo {
     max-width: none;
   }
-}
 
-.usa-nav__secondary-links {
-  @include at-media("desktop") {
+  .usa-nav {
+    border-top: none !important;
+  }
+
+  .usa-nav__secondary-links {
     a {
       @include u-text("white");
 
@@ -92,10 +84,10 @@ img {
   }
 }
 
-.usa-nav {
-  @include at-media($theme-header-min-width) {
-    border-top: none !important;
-  }
+.usa-header--extended .usa-logo a,
+.usa-header--extended .usa-logo a:visited,
+.usa-header--extended .usa-logo a:hover {
+  color: color("white");
 }
 
 .usa-pagination {
