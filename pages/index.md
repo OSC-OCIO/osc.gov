@@ -11,26 +11,27 @@ highlights:
     alt: ""
     body: "Learn what protections are available when federal employees disclose wrongdoing, safety hazards, or abuse of authority."
     cta_text: "Explore Whistleblower Protections"
-    cta_url: "/services/disclosure-of-wrongdoing/"
+    cta_url: "/services/disclosure-of-wrongdoing/overview/"
   - title: "Hatch Act Guidance"
     alt: ""
     body: "Review practical Hatch Act rules, guidance, and recent enforcement resources for federal employees and agencies."
     cta_text: "Read Hatch Act Resources"
-    cta_url: "/services/hatch-act/"
+    cta_url: "/services/hatch-act/overview/"
   - title: "Agency Certification and Training"
     alt: ""
     body: "Find outreach tools, training options, and 2302(c) certification resources to help agencies strengthen compliance."
     cta_text: "View Outreach Services"
-    cta_url: "/services/outreach/"
+    cta_url: "/services/outreach/overview/"
 ---
-<section class="homepage-hero bg-primary-darker text-white">
+
+<section class="hero bg-primary-darker text-white">
   <div class="grid-container padding-y-8">
     <div class="grid-row grid-gap-lg flex-align-center">
       <div class="tablet:grid-col-8 desktop:grid-col-7">
-        <h1 class="font-sans-xl margin-top-0 margin-bottom-2">U.S. Office of Special Counsel</h1>
+        <h1 class="font-sans-xl margin-top-0 margin-bottom-2">Welcome to OSC.gov</h1>
         <p class="font-sans-md line-height-sans-5 margin-top-0 margin-bottom-4 maxw-tablet">
-          OSC safeguards the merit system in federal employment by protecting whistleblowers, enforcing the Hatch Act,
-          and providing secure channels for disclosures of wrongdoing.
+          The U.S. Office of Special Counsel (OSC) safeguards the merit system in federal employment by protecting
+          whistleblowers, enforcing the Hatch Act, and providing secure channels for disclosures of wrongdoing.
         </p>
         <ul class="usa-button-group margin-top-0 margin-bottom-2">
           <li class="usa-button-group__item">
@@ -44,7 +45,7 @@ highlights:
         </ul>
       </div>
       <div class="display-none tablet:display-block tablet:grid-col-4 desktop:grid-col-5">
-        <div class="homepage-hero__seal-card radius-lg padding-4 bg-primary shadow-3">
+        <div class="border border-base radius-lg padding-4 bg-primary shadow-3">
           <img
             class="display-block margin-x-auto"
             src="/img/osc-logo.png"
@@ -75,7 +76,7 @@ highlights:
             <li class="tablet:grid-col-12 usa-card">
               <div class="usa-card__container shadow-2 border-base-lighter">
                 <div class="usa-card__media">
-                  <div class="usa-card__img homepage-promo__img">
+                  <div class="usa-card__img height-mobile">
                     <img src="{{ card_image }}" alt="{{ card_alt }}" loading="lazy" decoding="async">
                   </div>
                 </div>
@@ -106,7 +107,7 @@ highlights:
               <li class="tablet:grid-col-6 usa-card">
                 <div class="usa-card__container shadow-2 border-base-lighter">
                   <div class="usa-card__media">
-                    <div class="usa-card__img homepage-promo__img">
+                    <div class="usa-card__img">
                       <img src="{{ card_image }}" alt="{{ card_alt }}" loading="lazy" decoding="async">
                     </div>
                   </div>
@@ -131,7 +132,7 @@ highlights:
           | where_exp: 'item', "item.inputPath contains 'collections/press-release/'"
           | sort: 'date'
           | reverse
-          | slice: 0, 10
+          | slice: 0, 8
         -%}
         <ul class="usa-collection">
           {%- for post in recent_press_releases -%}
@@ -152,6 +153,7 @@ highlights:
         </ul>
       </div>
     </div>
+
   </div>
 </section>
 <section class="usa-section">

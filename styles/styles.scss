@@ -1,15 +1,6 @@
 @use "uswds-core" as * with (
-  $theme-utility-breakpoints: (
-    "card": false,
-    "card-lg": false,
-    "mobile": false,
-    "mobile-lg": true,
-    "tablet": true,
-    "tablet-lg": false,
-    "desktop": true,
-    "desktop-lg": true,
-    "widescreen": true,
-  ),
+  $theme-show-compile-warnings: false,
+  $theme-show-notifications: false,
   $theme-identifier-max-width: "desktop-lg",
   $theme-footer-max-width: "desktop-lg",
   $theme-header-max-width: "desktop-lg",
@@ -19,89 +10,35 @@
   $theme-site-alert-max-width: "desktop-lg",
   $theme-font-path: "../uswds/fonts",
   $theme-image-path: "../uswds/img",
-  $theme-color-base-lighter: #ababab,
-  $theme-color-base-lightest: #f0f0f0,
-  $theme-color-base-dark: #323a45,
-  $theme-color-base-darkest: #1b1b1b,
   $theme-color-primary: #112e51,
   $theme-color-primary-light: #2f4668,
-  $theme-color-primary-lightest: #02bfe7,
   $theme-color-primary-dark: #162e51,
   $theme-color-primary-darker: #07162d,
-  $theme-color-secondary: #cd2026,
-  $theme-color-secondary-dark: #981b1e,
-  $theme-color-accent-cool-lightest: #7ac78c,
   $theme-color-accent-cool-lighter: #62b676,
   $theme-color-accent-cool-light: #4aa564,
   $theme-color-accent-cool: #2e8540,
   $theme-color-accent-cool-dark: #267136,
   $theme-color-accent-cool-darker: #1e5d2c,
-  $theme-color-accent-cool-darkest: #174824,
-  $theme-global-link-styles: true,
   $theme-link-reverse-color: "white",
   $theme-font-type-sans: "public-sans",
-  $theme-lead-font-size: "md",
-  $theme-hero-image: "../uswds/img/hero.jpg",
   $theme-body-font-size: "md",
-  $theme-h1-font-size: "xl",
   $theme-h2-font-size: "lg",
   $theme-h3-font-size: "sm",
   $theme-h4-font-size: "xs",
   $theme-text-measure: 6,
-  $text-align-settings: (
-    responsive: true,
-  ),
+  $theme-global-link-styles: true,
   $background-color-settings: (
     responsive: true,
   ),
   $color-settings: (
     responsive: true,
-  ),
-  $theme-show-compile-warnings: false,
-  $theme-show-notifications: false
+  )
 );
 
 @forward "uswds";
 
 img {
   height: auto;
-}
-
-.usa-icon {
-  display: inline-flex;
-  flex-shrink: 0;
-
-  svg {
-    width: 1.5rem;
-    height: 1.5rem;
-    fill: currentColor;
-  }
-}
-
-.foia-report-list li {
-  border: 1px solid #dfe1e2;
-  padding: 0.75rem 1rem;
-  margin-bottom: -1px;
-  display: flex;
-  align-items: center;
-  gap: 0.75rem;
-}
-
-.foia-report-list li:nth-child(odd) {
-  background-color: color("base-lightest");
-}
-
-.foia-report-list a {
-  font-weight: 700;
-  color: color("base-darkest");
-  text-decoration: none;
-}
-
-.logo-placeholder {
-  background-color: #f2f2f2;
-  border: 1px solid #dfe1e2;
-  padding: 0.15rem;
-  border-radius: 50%;
 }
 
 @include at-media("desktop") {
@@ -116,7 +53,6 @@ img {
   background-color: color("white");
 }
 
-// Keep the top-nav dropdown caret visible on dark custom nav backgrounds.
 @include at-media("desktop") {
   .usa-header--extended .usa-nav__primary button[aria-expanded] span::after,
   .usa-header--extended
@@ -151,97 +87,25 @@ img {
   }
 }
 
-.usa-footer__secondary-section a {
-  @include u-text("white");
-  &:hover {
-    @include u-text("white");
-  }
-}
-
-.usa-hero {
-  width: 100vw;
-  margin-left: calc(50% - 50vw);
-  background-blend-mode: multiply;
-  background-image: linear-gradient(to bottom, #07162d 35%, #005ea2 132%);
-  background-position: center !important;
-  display: flex;
-  flex-wrap: wrap;
-  min-height: 200px;
-  border-top: 0 !important;
-  padding: 1.5rem 0;
-}
-
 .usa-nav {
   @include at-media($theme-header-min-width) {
     border-top: none !important;
-    padding: 0;
-    width: 100%;
   }
-}
-
-.usa-card__img {
-  height: 180x;
-  overflow: hidden;
-}
-
-.usa-card__img img {
-  display: block;
-  height: 100%;
-  width: 100%;
-  object-fit: cover;
-}
-
-.usa-card {
-  position: relative;
-  transition:
-    box-shadow 0.2s ease,
-    transform 0.2s ease;
-}
-
-.usa-card:has(.usa-card__stretched-link:hover),
-.usa-card:has(.usa-card__stretched-link:focus-visible) {
-  @include u-shadow(3);
-}
-
-.usa-card__stretched-link {
-  position: absolute;
-  inset: 0;
-  z-index: 10;
-  display: block;
-}
-
-.usa-card__container {
-  position: relative;
-}
-
-.video-grid iframe.yt-shortcode {
-  aspect-ratio: 16 / 9;
-  max-height: none;
-  width: 100%;
-  height: auto;
-}
-
-iframe.yt-shortcode {
-  aspect-ratio: 16 / 9;
-  margin: 1rem 0;
-  max-height: 25rem;
-  width: 100%;
 }
 
 .usa-pagination {
   background: transparent;
 }
 
-.homepage-hero {
+.hero {
   background:
     radial-gradient(circle at 85% 15%, rgb(0 94 162 / 22%), transparent 40%),
     linear-gradient(135deg, #07162d 0%, #0b2946 55%, #112e51 100%);
 }
 
-.homepage-hero__seal-card {
-  border: 1px solid rgb(255 255 255 / 18%);
-}
-
-.homepage-promo__img {
-  height: 320px;
+.yt-shortcode {
+  aspect-ratio: 16 / 9;
+  margin: 1rem 0;
+  max-height: 25rem;
+  width: 100%;
 }
