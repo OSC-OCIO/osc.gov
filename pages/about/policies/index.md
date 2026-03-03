@@ -2,5 +2,5 @@
 title: Policies
 eleventyNavigation:
   order: 6
-  url: /about/accessibility
+  url: /about/policies/accessibility/
 ---
