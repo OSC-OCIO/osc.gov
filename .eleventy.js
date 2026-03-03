@@ -82,8 +82,8 @@ module.exports = async function (config) {
   );
 
   // Set image shortcodes
-  config.addLiquidShortcode("uswds_icon", function (name) {
-    return `<svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="#svg-${name}"></use></svg>`;
+  config.addLiquidShortcode("uswds_icon", function (name, classes) {
+    return `<svg class="usa-icon ${classes}" aria-hidden="true" role="img"><use xlink:href="#svg-${name}"></use></svg>`;
   });
   config.addShortcode("youtube", (videoURL, title) => {
     const url = new URL(videoURL);

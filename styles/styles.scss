@@ -30,9 +30,15 @@
   $theme-color-primary-darker: #07162d,
   $theme-color-secondary: #cd2026,
   $theme-color-secondary-dark: #981b1e,
-  $theme-color-accent-cool: #2e8540,
+  $theme-color-accent-cool-lightest: #7ac78c,
+  $theme-color-accent-cool-lighter: #62b676,
   $theme-color-accent-cool-light: #4aa564,
+  $theme-color-accent-cool: #2e8540,
+  $theme-color-accent-cool-dark: #267136,
+  $theme-color-accent-cool-darker: #1e5d2c,
+  $theme-color-accent-cool-darkest: #174824,
   $theme-global-link-styles: true,
+  $theme-link-reverse-color: "white",
   $theme-font-type-sans: "public-sans",
   $theme-lead-font-size: "md",
   $theme-hero-image: "../uswds/img/hero.jpg",
@@ -220,4 +226,18 @@ iframe.yt-shortcode {
 
 .usa-pagination {
   background: transparent;
+}
+
+.homepage-hero {
+  background:
+    radial-gradient(circle at 85% 15%, rgb(0 94 162 / 22%), transparent 40%),
+    linear-gradient(135deg, #07162d 0%, #0b2946 55%, #112e51 100%);
+}
+
+.homepage-hero__seal-card {
+  border: 1px solid rgb(255 255 255 / 18%);
+}
+
+.homepage-promo__img {
+  height: 320px;
 }
