@@ -1,0 +1,20 @@
+{%- assign breadcrumb_key = breadcrumb_key | default: eleventyNavigation.key -%}
+{%- if breadcrumb_key -%}
+  {%- assign breadcrumbs = collections.all | eleventyNavigationBreadcrumb: breadcrumb_key -%}
+  {%- if breadcrumbs and breadcrumbs.size > 0 -%}
+    <nav class="usa-breadcrumb margin-bottom-2" aria-label="Breadcrumbs">
+      <ol class="usa-breadcrumb__list">
+        {%- for crumb in breadcrumbs -%}
+          <li class="usa-breadcrumb__list-item">
+            <a href="{{ crumb.url | url }}" class="usa-breadcrumb__link">
+              <span>{{ crumb.title }}</span>
+            </a>
+          </li>
+        {%- endfor -%}
+        <li class="usa-breadcrumb__list-item usa-current" aria-current="page">
+          <span>{{ title }}</span>
+        </li>
+      </ol>
+    </nav>
+  {%- endif -%}
+{%- endif -%}
