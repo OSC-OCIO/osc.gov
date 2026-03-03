@@ -9,7 +9,6 @@ const { eleventyImageTransformPlugin } = require("@11ty/eleventy-img");
 
 module.exports = async function (config) {
   const { EleventyHtmlBasePlugin } = await import("@11ty/eleventy");
-  const isProduction = process.env.ELEVENTY_ENV === "production";
 
   // Set pathPrefix for site
   let pathPrefix = process.env.BASEURL || "/";
@@ -22,8 +21,8 @@ module.exports = async function (config) {
   config.addPassthroughCopy("admin");
   config.addPassthroughCopy("uploads");
   config.addPassthroughCopy("favicon.ico");
-  // Keep legacy /img/* URLs working when eleventy-img transforms are disabled
-  // (e.g. in local development for faster rebuilds).
+  config.addPassthroughCopy("site.webmanifest");
+  // Keep legacy /img/* URLs working.
   config.addPassthroughCopy("img");
 
   // Add plugins
@@ -33,20 +32,18 @@ module.exports = async function (config) {
     baseHref: pathPrefix,
   });
 
-  if (isProduction) {
-    config.addPlugin(eleventyImageTransformPlugin, {
-      failOnError: false,
-      widths: ["auto", 600],
-      htmlOptions: {
-        imgAttributes: {
-          loading: "lazy",
-          decoding: "async",
-        },
-        pictureAttributes: {},
-        fallback: "largest", // or "smallest"
+  config.addPlugin(eleventyImageTransformPlugin, {
+    failOnError: false,
+    widths: ["auto", 600],
+    htmlOptions: {
+      imgAttributes: {
+        loading: "lazy",
+        decoding: "async",
       },
-    });
-  }
+      pictureAttributes: {},
+      fallback: "largest", // or "smallest"
+    },
+  });
 
   // SVG Sprite Plugin for USWDS icons
   config.addPlugin(svgSprite, {
@@ -81,8 +78,8 @@ module.exports = async function (config) {
   );
 
   // Set image shortcodes
-  config.addLiquidShortcode("uswds_icon", function (name) {
-    return `<svg class="usa-icon" aria-hidden="true" role="img"><use xlink:href="#svg-${name}"></use></svg>`;
+  config.addLiquidShortcode("uswds_icon", function (name, classes) {
+    return `<svg class="usa-icon ${classes}" aria-hidden="true" role="img"><use xlink:href="#svg-${name}"></use></svg>`;
   });
   config.addShortcode("youtube", (videoURL, title) => {
     const url = new URL(videoURL);

@@ -10,20 +10,12 @@
 {%- assign case_date = post.date | default: date -%}
 {%- assign case_year = case_date | date: '%Y' -%}
 {%- assign case_date_iso = case_date | date: '%Y-%m-%d' -%}
-{%- assign case_link_title = link_title -%}
-{%- if case_link_title == null -%}
-  {%- assign case_link_title = true -%}
-{%- endif -%}
 
 <li class="tablet:grid-col-6 usa-card" data-pagefind-body>
   <div class="usa-card__container border-base-lightest shadow-3">
     <header class="usa-card__header">
       <h3 class="usa-card__heading">
-        {%- if case_link_title -%}
-          <a class="usa-link" href="{{ case_url }}" data-pagefind-meta="title">{{- case_title -}}</a>
-        {%- else -%}
-          <span data-pagefind-meta="title">{{- case_title -}}</span>
-        {%- endif -%}
+        <span data-pagefind-meta="title">{{- case_title -}}</span>
       </h3>
     </header>
     <div class="usa-card__body">
@@ -34,7 +26,11 @@
         {%- if case_location_primary -%}
           <li>
             <span class="display-block margin-bottom-2">
-              <span class="usa-tag" data-pagefind-meta="agency" data-pagefind-filter="agency">
+              <span
+                class="usa-tag"
+                data-pagefind-meta="agency"
+                data-pagefind-filter="agency"
+              >
                 {{- case_agency -}}
               </span>
               {%- if case_subagency -%}
@@ -76,9 +72,7 @@
         <ul class="usa-icon-list">
           {%- for file in case_files -%}
             <li class="usa-icon-list__item">
-              <div class="usa-icon-list__icon">
-                {% uswds_icon "file_present" %}
-              </div>
+              <div class="usa-icon-list__icon">{% uswds_icon "file_present" %}</div>
               <div class="usa-icon-list__content">
                 <a href="{{ file.href }}">{{ file.label }}</a>
               </div>
