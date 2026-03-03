@@ -92,7 +92,7 @@ module.exports = async function (config) {
   });
 
   config.addCollection("postsByYear", (collection) => {
-    const posts = collection.getFilteredByTag("announcements").reverse();
+    const posts = collection.getFilteredByTag("press-release").reverse();
     const years = posts.map((post) => post.date.getFullYear());
     const uniqueYears = [...new Set(years)];
 
