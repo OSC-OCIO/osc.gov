@@ -7,7 +7,7 @@
       <button class="usa-menu-btn">Menu</button>
     </div>
   </div>
-  <nav role="navigation" class="usa-nav bg-primary-light">
+  <nav role="navigation" class="usa-nav desktop:bg-primary-light">
     <div class="usa-nav__inner">
       <button class="usa-nav__close" aria-label="Close navigation menu">
         <img src="/assets/uswds/img/usa-icons/close.svg" alt="">
@@ -60,7 +60,7 @@
         </li>
       </ul>
       <div class="usa-nav__secondary">
-        <ul class="usa-nav__secondary-links flex-align-center">
+        <ul class="usa-nav__secondary-links">
           {% include 'socialmedia.html' %}
           {% for nav_item in secondary_navigation %}
             <li class="usa-nav__secondary-item">

@@ -104,9 +104,11 @@ img {
   border-radius: 50%;
 }
 
-.usa-nav__primary button,
-.usa-nav__primary > .usa-nav__primary-item > a {
-  color: color("white") !important;
+@include at-media("desktop") {
+  .usa-nav__primary button,
+  .usa-nav__primary > .usa-nav__primary-item > a {
+    color: color("white") !important;
+  }
 }
 
 .usa-header--extended .usa-nav__primary-item > .usa-current:after,
@@ -115,12 +117,14 @@ img {
 }
 
 // Keep the top-nav dropdown caret visible on dark custom nav backgrounds.
-.usa-header--extended .usa-nav__primary button[aria-expanded] span::after,
-.usa-header--extended
-  .usa-nav__primary
-  button[aria-expanded]:hover
-  span::after {
-  background-color: color("white");
+@include at-media("desktop") {
+  .usa-header--extended .usa-nav__primary button[aria-expanded] span::after,
+  .usa-header--extended
+    .usa-nav__primary
+    button[aria-expanded]:hover
+    span::after {
+    background-color: color("white");
+  }
 }
 
 .usa-header--extended .usa-logo a,

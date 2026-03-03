@@ -34,7 +34,7 @@ highlights:
         </p>
         <ul class="usa-button-group margin-top-0 margin-bottom-2">
           <li class="usa-button-group__item">
-            <a class="usa-button usa-button--accent-cool" href="/file-complaint/">File a Complaint</a>
+            <a class="usa-button usa-button--accent-cool" href="/file-complaint/onlineportal">File a Complaint</a>
           </li>
           <li class="usa-button-group__item">
             <a class="usa-button usa-button--outline usa-button--inverse outline-white" href="/services/oscservices/"
