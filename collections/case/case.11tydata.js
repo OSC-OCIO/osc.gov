@@ -19,8 +19,7 @@ function formatCaseTitle(cases) {
 }
 
 module.exports = {
-  permalink: "/case/{{ page.fileSlug }}/",
-  layout: "layouts/case",
+  permalink: false,
   tags: ["case"],
   eleventyComputed: {
     title: (data) => formatCaseTitle(data.cases),

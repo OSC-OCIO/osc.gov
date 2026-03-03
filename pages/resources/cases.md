@@ -48,7 +48,7 @@ lead: ​OSC receives and reviews [disclosures of wrongdoing](/Services/Pages/DU
 <p id="case-search-status" class="margin-top-2 text-base-darkest" aria-live="polite"></p>
 
 <section id="case-results">
-{%- include 'case-list.html', items: posts, pagefind_ignore: true -%}
+{%- include 'case-list.html', items: posts, pagefind_ignore: false -%}
 </section>
 <div id="case-search-pagination" class="display-none"></div>
 
