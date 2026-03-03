@@ -17,7 +17,7 @@ files:
 - label: Agency Report
   href: /~assets/cases/di-11-2109-and-di-11-2110-agency-report.pdf
 - label: Whistleblower Comments
-  href: /~assets/cases/di-11-2109-and-di-11-2110-whistlblower-_2-comments.pdf
-- label: Whistleblower Comments
   href: /~assets/cases/di-11-2109-and-di-11-2110-whistleblower-_1-comments.pdf
+- label: Whistleblower Comments
+  href: /~assets/cases/di-11-2109-and-di-11-2110-whistlblower-_2-comments.pdf
 ---

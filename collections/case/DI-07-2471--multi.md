@@ -21,9 +21,9 @@ files:
 - label: Whistleblower Comments
   href: /~assets/cases/di-07-2471-and-di-08-1015-whistleblower-1-comments-part-1.pdf
 - label: Whistleblower Comments
-  href: /~assets/cases/di-07-2471-and-di-08-1015-whistleblower-1-comments-part-2.pdf
-- label: Whistleblower Comments
   href: /~assets/cases/di-07-2471-and-di-08-1015-whistleblower-2-comments-part-1.pdf
+- label: Whistleblower Comments
+  href: /~assets/cases/di-07-2471-and-di-08-1015-whistleblower-1-comments-part-2.pdf
 - label: Whistleblower Comments
   href: /~assets/cases/di-07-2471-and-di-08-1015-whistleblower-2-comments-part-2.pdf
 ---

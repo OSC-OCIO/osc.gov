@@ -14,6 +14,8 @@ date: 2009-12-28
 files:
 - label: Letter to the President
   href: /~assets/cases/di-07-2793-letter-to-president.pdf
+- label: Analysis
+  href: /~assets/cases/di-07-2793-analysis.pdf
 - label: Agency Report
   href: /~assets/cases/di-07-2793-agency-report-part-1.pdf
 - label: Agency Report
@@ -26,6 +28,4 @@ files:
   href: /~assets/cases/di-07-2793-whistleblower-comments-part-1-redacted.pdf
 - label: Whistleblower Comments
   href: /~assets/cases/di-07-2793-whistleblower-comments-part-2-redacted.pdf
-- label: Analysis
-  href: /~assets/cases/di-07-2793-analysis.pdf
 ---

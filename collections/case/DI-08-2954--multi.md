@@ -12,8 +12,8 @@ results:
 - Improved health and/or safety
 date: 2012-05-08
 files:
-- label: Agency Report
-  href: /~assets/cases/di-08-2954-and-di-11-0747-agency-report.pdf
 - label: Analysis
   href: /~assets/cases/di-08-2954-and-di-11-0747-analysis.pdf
+- label: Agency Report
+  href: /~assets/cases/di-08-2954-and-di-11-0747-agency-report.pdf
 ---

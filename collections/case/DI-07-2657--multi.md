@@ -12,10 +12,10 @@ date: 2009-02-12
 files:
 - label: Letter to the President
   href: /~assets/cases/di-07-2657-and-di-08-0595-letter-to-the-president.pdf
+- label: Analysis
+  href: /~assets/cases/di-07-2657-and-di-08-0595-analysis.pdf
 - label: Agency Report
   href: /~assets/cases/di-0702657-and-di-08-0595-agency-report.pdf
 - label: Whistleblower Comments
   href: /~assets/cases/di-08-0595-whistleblower-comments.pdf
-- label: Analysis
-  href: /~assets/cases/di-07-2657-and-di-08-0595-analysis.pdf
 ---

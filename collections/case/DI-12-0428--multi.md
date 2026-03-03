@@ -16,9 +16,9 @@ files:
 - label: Letter to the President
   href: /~assets/cases/di-12-0428-di-12-0354-and-di-12-1819-letter-to-president.pdf
 - label: Agency Report
-  href: /~assets/cases/di-12-0428-di-12-0354-and-di-12-1819-supplemental-report.pdf
-- label: Agency Report
   href: /~assets/cases/di-12-0428-di-12-0354-and-di-12-1819-agency-report.pdf
+- label: Agency Report
+  href: /~assets/cases/di-12-0428-di-12-0354-and-di-12-1819-supplemental-report.pdf
 - label: Whistleblower Comments
   href: /~assets/cases/di-12-0428-di-12-0354-and-di-12-1819-whistleblower-comments.pdf
 ---
