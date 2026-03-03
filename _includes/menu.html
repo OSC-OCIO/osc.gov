@@ -10,7 +10,11 @@
   <nav role="navigation" class="usa-nav desktop:bg-primary-light">
     <div class="usa-nav__inner">
       <button class="usa-nav__close" aria-label="Close navigation menu">
-        <img eleventy:ignore src="/assets/uswds/img/usa-icons/close.svg" alt="">
+        <img
+          eleventy:ignore
+          src="/assets/uswds/img/usa-icons/close.svg"
+          alt=""
+        />
       </button>
       <ul class="usa-nav__primary usa-accordion">
         <li class="usa-nav__primary-item">
@@ -20,38 +24,38 @@
             ><span>Home</span></a
           >
         </li>
-        {% for nav_item in primary_navigation[0].children %}
-          {% if nav_item.children.length < 1 or nav_item.hideChildrenFromTopNav %}
-            <li class="usa-nav__primary-item">
-              <a
-                class="usa-nav__link{% if nav_item.url == page.url %} usa-current{% endif %}"
-                href="{{ nav_item.url}}"
-                ><span>{{ nav_item.title | escape }}</span></a
+        {% for nav_item in primary_navigation[0].children %} {% if
+        nav_item.children.length < 1 or nav_item.hideChildrenFromTopNav %}
+        <li class="usa-nav__primary-item">
+          <a
+            class="usa-nav__link{% if nav_item.url == page.url %} usa-current{% endif %}"
+            href="{{ nav_item.url}}"
+            ><span>{{ nav_item.title | escape }}</span></a
+          >
+        </li>
+        {% else %} {% assign nav_id = 'primary-nav-' | append: forloop.index %}
+        <li class="usa-nav__primary-item">
+          <button
+            class="usa-accordion__button usa-nav__link"
+            aria-expanded="false"
+            aria-controls="{{ nav_id }}"
+          >
+            <span>{{ nav_item.title | escape }}</span>
+          </button>
+          <ul id="{{ nav_id }}" class="usa-nav__submenu">
+            {% for subnav_item in nav_item.children %}
+            <li class="usa-nav__submenu-item">
+              <a href="{{ subnav_item.url}}"
+                >{{ subnav_item.title | escape }}</a
               >
             </li>
-          {% else %}
-            {% assign nav_id = 'primary-nav-' | append: forloop.index %}
-            <li class="usa-nav__primary-item">
-              <button
-                class="usa-accordion__button usa-nav__link"
-                aria-expanded="false"
-                aria-controls="{{ nav_id }}"
-              >
-                <span>{{ nav_item.title | escape }}</span>
-              </button>
-              <ul id="{{ nav_id }}" class="usa-nav__submenu">
-                {% for subnav_item in nav_item.children %}
-                  <li class="usa-nav__submenu-item">
-                    <a href="{{ subnav_item.url}}">{{ subnav_item.title | escape }}</a>
-                  </li>
-                {% endfor %}
-              </ul>
-            </li>
-          {% endif %}
-        {% endfor %}
+            {% endfor %}
+          </ul>
+        </li>
+        {% endif %} {% endfor %}
         <li class="usa-nav__primary-item desktop:margin-left-auto">
           <a
-            class="radius-0 usa-button usa-button--accent-cool desktop:margin-right-neg-2 display-flex flex-align-center"
+            class="margin-y-2 desktop:margin-y-0 radius-0 usa-button usa-button--accent-cool desktop:margin-right-neg-05 desktop-lg:margin-right-neg-2 display-flex flex-align-center"
             href="/file-complaint/onlineportal"
           >
             <span class="margin-right-1px">{% uswds_icon "report" %}</span>
@@ -60,17 +64,19 @@
         </li>
       </ul>
       <div class="usa-nav__secondary">
-        <ul class="usa-nav__secondary-links">
-          {% include 'socialmedia.html' %}
-          {% for nav_item in secondary_navigation %}
-            <li class="usa-nav__secondary-item">
-              <a
-                href="{{ nav_item.url }}"
-                class="desktop:text-white hover:text-white"
-              >
-                {{- nav_item.name | escape -}}
-              </a>
-            </li>
+        <ul
+          class="usa-nav__secondary-links display-flex flex-align-center flex-justify-center"
+        >
+          {% include 'socialmedia.html' %} {% for nav_item in
+          secondary_navigation %}
+          <li class="usa-nav__secondary-item padding-x-1 display-block">
+            <a
+              href="{{ nav_item.url }}"
+              class="desktop:text-white hover:text-white"
+            >
+              {{- nav_item.name | escape -}}
+            </a>
+          </li>
           {% endfor %}
         </ul>
         {% include 'searchgov/form.html', searchgov: site.searchgov %}

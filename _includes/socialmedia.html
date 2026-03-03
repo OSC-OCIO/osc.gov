@@ -1,6 +1,6 @@
 {% if site['social-media'] %}
   {% for medium in site['social-media'] %}
-    <li class="usa-nav__secondary-item">
+    <li class="usa-nav__secondary-item padding-x-1 display-block">
       <a href="{{ medium.link }}" target="_blank" rel="noopener noreferrer">
         <svg
           aria-hidden="true"
@@ -44,7 +44,7 @@
           ></path>
           {% endif %}
         </svg>
-        <span class="usa-sr-only">{{ medium.text }}</span>
+        <span class="usa-sr-only">{{ medium.service }}</span>
       </a>
     </li>
   {% endfor %}
