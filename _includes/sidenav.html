@@ -12,10 +12,10 @@
 
 <aside
   id="section-nav"
-  class="usa-layout-docs-sidenav desktop:grid-col-3 padding-y-4"
+  class="usa-layout-docs-sidenav desktop:grid-col-3 padding-y-4 order-last desktop:order-first"
 >
   <nav>
-    <div class="text-uppercase text-bold margin-left-2 margin-y-2 text-ls-2">In this section:</div>
+    <div class="text-uppercase text-bold desktop:margin-left-2 margin-y-2 text-ls-2">In this section:</div>
     {%- if currentSection -%}
       <ul class="usa-sidenav">
         {%- for child in currentSection.children -%}

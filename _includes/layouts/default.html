@@ -2,23 +2,25 @@
 layout: layouts/base
 ---
 {%- if site.alert and site.alert.enabled -%}
-  {% include 'alert-slim.html' %}
+  {%- include 'alert-slim.html' -%}
 {%- endif -%}
-<div id="main-content" class="usa-layout-docs usa-section padding-y-2 bg-base-lightest">
+<div id="main-content" class="usa-layout-docs usa-section padding-top-2 bg-base-lightest">
   <div class="grid-container">
     <div class="grid-row grid-gap">
-      {% if sidenav == true %}{% include 'sidenav.html' %}{% endif %}
+      {%- if sidenav == true -%}{%- include 'sidenav.html' -%}{%- endif -%}
       <main
         class="usa-layout-docs__main {% if sidenav == true %}desktop:grid-col-9{% endif %}"
       >
-        {% include 'breadcrumb.html' %}
-        <div class="bg-white padding-4 radius-lg shadow-1 width-full">
-          <div class="usa-prose">
-            <h1>{{ title }}</h1>
-            {% if lead %}
-              <p class="usa-intro margin-bottom-4">{{ lead }}</p>
-            {% endif %}
-            {{ content }}
+        {%- include 'breadcrumb.html' -%}
+        <div class="desktop:display-flex desktop:flex-column desktop:minh-full">
+          <div class="bg-white padding-4 radius-lg shadow-1 width-full desktop:flex-1">
+            <div class="usa-prose">
+              <h1>{{ title }}</h1>
+              {%- if lead -%}
+                <p class="usa-intro margin-bottom-4">{{ lead }}</p>
+              {%- endif -%}
+              {{ content }}
+            </div>
           </div>
         </div>
       </main>
