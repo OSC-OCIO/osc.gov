@@ -2,8 +2,8 @@
 layout: layouts/case-index
 title: Public Files
 eleventyNavigation:
-  order: 10
-permalink: "/resources/cases{% if pagination.pageNumber > 0 %}/page/{{ pagination.pageNumber }}{% endif %}/index.html"
+  order: 4
+permalink: "/cases{% if pagination.pageNumber > 0 %}/page/{{ pagination.pageNumber }}{% endif %}/index.html"
 pagination:
   data: collections.case
   size: 10

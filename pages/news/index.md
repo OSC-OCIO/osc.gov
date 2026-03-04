@@ -4,7 +4,7 @@ layout: layouts/post-index
 permalink: "/news{% if pagination.pageNumber > 0 %}/page/{{ pagination.pageNumber }}{% endif %}/index.html"
 eleventyNavigation:
   key: news
-  order: 4
+  order: 5
   hideChildrenFromTopNav: true
 pagination:
   data: collections.press-release
