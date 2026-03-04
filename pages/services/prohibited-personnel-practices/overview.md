@@ -4,8 +4,7 @@ layout: layouts/faq-accordion
 eleventyNavigation:
   order: 0
 faqSections:
-  - title: (null)
-    items:
+  - items:
       - question: Discrimination
         answer: |
           ​​​An agency official shall not discriminate against an employee or applicant based on race, color, religion, sex, national origin, age, disability (or handicapping condition), marital status, or political affiliation. [5 U.S.C. § 2302(b​)(1)](https://www.law.cornell.edu/uscode/text/5/2302)
