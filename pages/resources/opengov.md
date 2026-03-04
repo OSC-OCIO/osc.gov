@@ -15,7 +15,7 @@ The White House's 2009 [Open Government Directive](http://www.whitehouse.gov/si
 OSC posts [annual reports](/resources/reports) ​on its website cont​​aining a wide variety of useful information that date back to 1979. Examples of information that OSC makes public include:
 
 - [OSC’s Annual Reports, Congressional Budget Justifications, Annual Performance and Accountability Reports, Federal Register Notices, and other information​​​](/resources/reports)
--  [Public Disclosures Files](/resources/cases)
+-  [Public Disclosures Files](/cases)
 - OSC’s Organizational Chart​
 
 ​OSC also offers [training](/services/outreach/overview) to federal agencies and non-federal organizat​ions in the various areas within OSC’s jurisdiction. Specifically, OSC offers training on (1) [prohibited personnel practices](/services/prohibited-personnel-practices/overview), including reprisal for whistleblowing; (2) [whistleblower disclosures](/services/disclosure-of-wrongdoing/overview) filed with OSC’s Disclosure Unit; (3) the [Hatch Act](/services/hatch-act/overview) and its application both to federal employees and to state and local employees; and (4) the [Uniformed Services Employment and Reemployment Rights Act (USERRA)​](/services/userra/overview). For information on how to request an OSC speaker please see [here​](/services/outreach/requestspeaker). Additionally, OSC publishes a variety of materials on prohibited personnel practices, whistleblower disclosures and the Hatch Act.

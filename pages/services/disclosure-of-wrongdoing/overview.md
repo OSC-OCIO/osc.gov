@@ -23,4 +23,4 @@ Federal law establishes a unique process for disclosures made to OSC. This proce
 
 OSC does not have independent investigative authority in these cases. However, Congress has given OSC an important oversight role in reviewing government investigations of potential wrongdoing.
 
-We publish the results of all cases, which can be found in our Public Files [here](/resources/cases).
+We publish the results of all cases, which can be found in our Public Files [here](/cases).
