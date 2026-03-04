@@ -405,14 +405,19 @@ reports:
       - name: "Elected Sheriffs Use of Title and Uniform for Campaign Purposes"
         url: "/~assets/docs/elected-sheriffs-use-of-title-and-uniform-for-campaign-purposes.pdf"
 ---
+<ul class="usa-list margin-top-2">
+  {%- for section in reports -%}
+    <li>
+      <a href="#{{- section.heading | slugify -}}">{{- section.heading -}}</a>
+    </li>
+  {%- endfor -%}
+</ul>
 
-{% for section in reports %}
-
-  <h2 class="font-heading-xl padding-top-1">{{ section.heading }}</h2>
-
-  <ul class="usa-card-group">
-    {% for item in section["items"] %}
-      {% include 'resource-item.html' %}
-    {% endfor %}
+{%- for section in reports -%}
+  <h2 id="{{- section.heading | slugify -}}">{{- section.heading -}}</h2>
+  <ul class="usa-icon-list">
+    {%- for item in section.items -%}
+      {%- include 'resource-item.html' -%}
+    {%- endfor -%}
   </ul>
-{% endfor %}
+{%- endfor -%}

@@ -51,7 +51,6 @@ reports:
       - name: "The Hatch Act and Most Federal Employees Poster"
         url: "/~assets/docs/the-hatch-act-and-most-federal-employees-poster.pdf"
 ---
-
 <h2 class="font-heading-xl padding-top-1">Hatch Act Videos</h2>
 
 <div class="video-grid" style="display: grid; grid-template-columns: 1fr 1fr; gap: 1.5rem; margin-top: 2rem;">
@@ -62,13 +61,19 @@ reports:
   <div>{% youtube "https://www.youtube.com/watch?v=JdozmUcbK6E" %}</div>
 </div>
 
-{% for section in reports %}
+<ul class="usa-list margin-top-2">
+  {%- for section in reports -%}
+    <li>
+      <a href="#{{- section.heading | slugify -}}">{{- section.heading -}}</a>
+    </li>
+  {%- endfor -%}
+</ul>
 
-  <h2 class="font-heading-xl padding-top-1">{{ section.heading }}</h2>
-
-  <ul class="usa-card-group">
-    {% for item in section["items"] %}
-      {% include 'resource-item.html' %}
-    {% endfor %}
+{%- for section in reports -%}
+  <h2 id="{{- section.heading | slugify -}}">{{- section.heading -}}</h2>
+  <ul class="usa-icon-list">
+    {%- for item in section.items -%}
+      {%- include 'resource-item.html' -%}
+    {%- endfor -%}
   </ul>
-{% endfor %}
+{%- endfor -%}

@@ -73,7 +73,7 @@ Supervisory training should be tracked to ensure that all supervisors have been 
 
 **5. Display a link to OSC's website on the agency's website or intranet**
 
-Provide a link from each agency's website or intran​et site to the OSC website [(https://osc.gov)](/services/oscservices.md).
+Provide a link from each agency's website or intran​et site to the OSC website [(https://osc.gov)](/services/services/).
 
 **STEP 3: Maintain certification by com​pleting an Annual Certification Checklist**
 

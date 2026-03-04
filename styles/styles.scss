@@ -32,6 +32,7 @@
   $theme-breadcrumb-font-size: "2xs",
   $theme-breadcrumb-padding-bottom: 0,
   $theme-breadcrumb-padding-top: 0,
+  $theme-card-flag-image-width: 15,
   $background-color-settings: (
     responsive: true,
   ),
@@ -92,6 +93,18 @@ img {
 
 .usa-pagination {
   background: transparent;
+}
+
+.usa-prose {
+  .usa-icon-list:not(.usa-card .usa-icon-list) > li {
+    @include u-margin-bottom(2);
+    max-width: none;
+  }
+
+  .usa-icon-list:not(.usa-card .usa-icon-list),
+  .usa-card-group:not(.usa-card .usa-card-group) {
+    @include u-margin-top(2);
+  }
 }
 
 .hero {
