@@ -4,8 +4,7 @@ layout: layouts/faq-accordion
 eleventyNavigation:
   order: 6
 faqSections:
-  - title: (null)
-    items:
+  - items:
       - question: Amicus Curiae Briefs
         answer: |
           - [Remolona v Dept of Veterans Affairs](/~assets/docs/osc-amicus-brief-ny-1221-21-0127-w-2-remolona.pdf)

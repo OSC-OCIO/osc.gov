@@ -4,8 +4,7 @@ layout: layouts/faq-accordion
 eleventyNavigation:
   order: 8
 faqSections:
-  - title: (null)
-    items:
+  - items:
       - question: Handouts
         answer: |
           [Sample Memo for Annual Notification (FAA)](/~assets/docs/sample-memo-for-annual-notification-faa.docx)
