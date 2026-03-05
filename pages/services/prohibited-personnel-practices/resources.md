@@ -124,7 +124,7 @@ reports:
         url: "/~assets/docs/how-complaints-are-received-and-processed.pdf"
 ---
 
-<div class="video-grid" style="display: grid; grid-template-columns: 1fr 1fr; gap: 1.5rem; margin-bottom: 2rem;">
+<div class="video-grid">
 <div>{% youtube "https://www.youtube.com/watch?v=-zibQh-A4KY" %}</div>
 <div>{% youtube "https://www.youtube.com/watch?v=3b0h5XjIM4k&t=1s" %}</div>
 <div>{% youtube "https://www.youtube.com/watch?v=MFCWXbXwvKI&t=34s" %}</div>
