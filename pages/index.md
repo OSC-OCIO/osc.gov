@@ -9,23 +9,26 @@ eleventyNavigation:
 highlights:
   - title: "Protecting Whistleblowers"
     alt: ""
+    image: "/img/whistleblower.png"
     body: "Learn what protections are available when federal employees disclose wrongdoing, safety hazards, or abuse of authority."
     cta_text: "Explore Whistleblower Protections"
     cta_url: "/services/disclosure-of-wrongdoing/overview/"
   - title: "Hatch Act Guidance"
     alt: ""
+    image: "/img/hatchact.png"
     body: "Review practical Hatch Act rules, guidance, and recent enforcement resources for federal employees and agencies."
     cta_text: "Read Hatch Act Resources"
     cta_url: "/services/hatch-act/overview/"
   - title: "Agency Certification and Training"
     alt: ""
+    image: "/img/training.png"
     body: "Find outreach tools, training options, and 2302(c) certification resources to help agencies strengthen compliance."
     cta_text: "View Outreach Services"
     cta_url: "/services/outreach/overview/"
 ---
 
 <section class="hero bg-primary-darker text-white">
-  <div class="grid-container padding-y-8">
+  <div class="grid-container padding-y-6">
     <div class="grid-row grid-gap-lg flex-align-center">
       <div class="tablet:grid-col-8 desktop:grid-col-7">
         <h1 class="font-sans-xl margin-top-0 margin-bottom-2">Welcome to OSC.gov</h1>
@@ -48,13 +51,13 @@ highlights:
         </ul>
       </div>
       <div class="display-none tablet:display-block tablet:grid-col-4 desktop:grid-col-5">
-        <div class="border border-base radius-lg padding-4 bg-primary shadow-3">
+        <div class="radius-lg padding-2">
           <img
             class="display-block margin-x-auto"
             src="/img/osc-logo.png"
             alt="Seal of the U.S. Office of Special Counsel"
-            width="220"
-            height="220"
+            width="420"
+            height="420"
           >
         </div>
       </div>
@@ -153,6 +156,9 @@ highlights:
               </div>
             </li>
           {%- endfor -%}
+        <a class="usa-button usa-button--outline" href="/news/index"
+          >View More News</a
+        >
         </ul>
       </div>
     </div>
