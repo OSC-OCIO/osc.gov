@@ -1,13 +1,11 @@
 ---
-
 title: OSC Obtains Stay of Proposed Removal of a Federal Employee
 date: 2016-02-02
 ---
+
 Prohibited Personnel Practices
 
 The U.S. Office of Special Counsel (OSC) obtained a 45-day stay from the Merit Systems Protection Board (MSPB) of a proposed removal of a National Credit Union Administration (NCUA) employee
-
-Page Content
 
 On Friday, the U.S. Office of Special Counsel (OSC) obtained a 45-day stay from the Merit Systems Protection Board (MSPB) of a proposed removal of a National Credit Union Administration (NCUA) employee. The employee, Diane Rector, filed a claim with OSC alleging that her agency retaliated against her for blowing the whistle. 
 

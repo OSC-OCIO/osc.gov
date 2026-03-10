@@ -7,8 +7,6 @@ Disclosure of Wrongdoing
 
 OSC has alerted the President and Congress that GSA placed employees and children at risk by failing to address widespread toxic contamination at a facility in St. Louis, Missouri.
 
-Page Content
-
 ​The U.S. Office of Special Counsel (OSC) today [alerted](/~assets/docs/di-19-3713-letter-to-the-president_redacted.pdf) the President and Congress that the General Services Administration (GSA) placed employees and children at risk by failing to address widespread, longstanding contamination at the Goodfellow Federal Center (Goodfellow) in St. Louis, Missouri, including asbestos, lead, mercury, radon, arsenic, and other toxic material.
 
 After OSC [referred](/~assets/docs/di-19-3713-referral_redacted.pdf) allegations by an anonymous whistleblower to the head of GSA, the agency's investigation substantiated that officials had been aware of environmental contamination but failed to appropriately notify GSA employees or tenant agencies. The [report](/~assets/docs/di-19-3713-agency-report_redacted.pdf) describes GSA officials as being “overtly misleading" by ignoring experts and downplaying risks. The report found that officials made no effort to restrict access to contaminated areas and did not promptly or effectively implement mitigation recommendations prior to 2016. Officials also failed to assess the risk to children from potential exposure in the childcare center.

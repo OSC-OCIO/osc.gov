@@ -1,13 +1,11 @@
 ---
-
 title: VA Employee Agrees to 90-Day Unpaid Suspension for Violating the Hatch Act
 date: 2024-11-19
 ---
+
 Hatch Act
 
 OSC today announced a settlement agreement, including a 90-day unpaid suspension, reached with a U.S. Department of Veterans Affairs employee whom OSC alleged violated the Hatch Act.
-
-Page Content
 
 The U.S. Office of Special Counsel (OSC) today announced a settlement agreement, including a 90-day unpaid suspension, reached with a U.S. Department of Veterans Affairs (VA) employee whom OSC alleged violated the Hatch Act.
 

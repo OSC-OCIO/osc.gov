@@ -7,8 +7,6 @@ Disclosure of Wrongdoing
 
 Yesterday, the U.S. Office of Special Counsel (OSC) reported to the White House and Congress the findings of three Department of Veterans Affairs (VA) investigations into whistleblower disclosures of
 
-Page Content
-
 ​​Yesterday, the U.S. Office of Special Counsel (OSC) reported to the White House and Congress the findings of three Department of Veterans Affairs (VA) investigations into whistleblower disclosures of health and safety concerns. 
 
 **Improper Substitution of Prescribed Antipsychotic Drugs – Beckley, West Virginia** 

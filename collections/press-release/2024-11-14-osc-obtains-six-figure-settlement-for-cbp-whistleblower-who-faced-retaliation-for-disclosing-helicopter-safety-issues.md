@@ -1,13 +1,11 @@
 ---
-
 title: OSC Obtains Six-Figure Settlement for CBP Whistleblower Who Faced Retaliation for Disclosing Helicopter Safety Issues
 date: 2024-11-14
 ---
+
 Prohibited Personnel Practices Disclosure of Wrongdoing
 
 OSC today announced a settlement agreement that OSC facilitated between U.S. Customs and Border Protection and a whistleblower, including significant compensatory damages for retaliation.
-
-Page Content
 
 The U.S. Office of Special Counsel (OSC) today announced a settlement agreement that OSC facilitated between U.S. Customs and Border Protection (CBP) and a whistleblower, including significant compensatory damages for retaliation after he disclosed safety issues involving CBP's helicopter fleet.
 

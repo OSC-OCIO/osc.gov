@@ -7,8 +7,6 @@ Disclosure of Wrongdoing
 
 OSC has alerted the President and Congress that the VA is taking steps to ensure water used in dialysis treatment is adequately tested for chlorine levels after a whistleblower spoke up.
 
-Page Content
-
 ​The U.S. Office of Special Counsel (OSC) today [alerted](/~assets/docs/di-20-000860-president-letter-_-apr-19-2022_redacted.pdf) the President and Congress that the U.S. Department of Veterans Affairs (VA) is taking steps to ensure water used in dialysis treatment is adequately tested for chlorine levels after a whistleblower at the John L. McLellan Memorial Hospital in Little Rock, Arkansas alerted authorities of inadequate testing.  The whistleblower, a health technician, alleged that VA nursing staff failed to conduct and record the results of chlorine concentration tests of dialysis water systems. The whistleblower also alleged that VA employees regularly consumed food and beverages in the dialysis unit clinical area, in violation of agency policy.
 
 It is vital to ensure water used to perform dialysis is safe and clean because patients can receive between 300-600 liters of water per week. In accordance with health and safety procedures, VA policy outlines that chlorine tests should be conducted in the morning prior to dialysis treatment, once every four hours thereafter, and at the end of the work shift.

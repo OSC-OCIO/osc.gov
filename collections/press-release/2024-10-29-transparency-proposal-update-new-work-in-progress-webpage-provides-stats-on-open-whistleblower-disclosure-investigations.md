@@ -1,13 +1,11 @@
 ---
-
 title: "Transparency Proposal Update: New ‘Work in Progress’ Webpage Provides Stats on Open Whistleblower Disclosure Investigations"
 date: 2024-10-29
 ---
+
 Disclosure of Wrongdoing
 
 OSC launched a new webpage that will, for the first time, publicly show the number of open whistleblower disclosure investigations. 
-
-Page Content
 
 The U.S. Office of Special Counsel (OSC) today launched a [new webpage](https://gcc02.safelinks.protection.outlook.com/?url=https://osc.gov/Services/Pages/DU-Work-in-Progress.aspx&data=05%7c02%7c%7c1792d63abf224726de0708dcf82148a7%7c39dcbe17c0694d7c8ad7efbbedb5fc55%7c0%7c0%7c638658069090222540%7cUnknown%7cTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7c0%7c%7c%7c&sdata=yI1wBf3MNe6jOfI/6cfK65gx5TcZpYMb%2BaPnCVa3oZI%3D&reserved=0) that will, for the first time, publicly show the number of open whistleblower disclosure investigations.  These statistics on open cases are broken down by agency, where the Special Counsel has determined there is a “substantial likelihood" of misconduct, and the agency has not provided a report of its findings within the 60-day response period established by Congress.
 

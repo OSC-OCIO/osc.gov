@@ -1,13 +1,11 @@
 ---
-
 title: Senate Confirms Hampton Dellinger as Special Counsel of OSC
 date: 2024-02-28
 ---
+
 General
 
 Senate Confirms Hampton Dellinger as Special Counsel of OSC
-
-Page Content
 
 ​​The U.S. Office of Special Counsel (OSC) announces that Hampton Dellinger of North Carolina was confirmed by the Senate yesterday as Special Counsel to head OSC.
 

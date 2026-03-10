@@ -1,13 +1,11 @@
 ---
-
 title: Former High-Ranking HUD Official Disciplined for Hatch Act Violation
 date: 2021-04-06
 ---
+
 Hatch Act
 
 OSC today announced a settlement agreement reached with a former Trump administration HUD political appointee for violating the Hatch Act
-
-Page Content
 
 ​The U.S. Office of Special Counsel (OSC) today announced a settlement agreement reached with Lynne Patton, a former Trump administration political appointee who served as Region II Administrator for the U.S. Department of Housing and Urban Development (HUD) from 2017 to earlier this year. As part of the agreement, Patton admitted to violating the Hatch Act by using her official position to produce a video about housing conditions for the Republican National Convention (RNC).
 

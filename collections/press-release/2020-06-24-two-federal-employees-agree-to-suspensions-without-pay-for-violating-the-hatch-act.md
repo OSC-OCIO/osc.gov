@@ -1,15 +1,13 @@
 ---
-
 title: Two Federal Employees Agree to Suspensions Without Pay for Violating the Hatch Act
 date: 2020-06-24
 ---
+
 Hatch Act
 
 OSC today announced two settlement agreements reached with federal employees who admitted to violating the Hatch Act.
 
-Page Content
-
-​The U.S. Office of Special Counsel (OSC) today announced two settlement agreements reached with federal employees who admitted to violating the Hatch Act. A summary of the violations and settlements are below:  
+​The U.S. Office of Special Counsel (OSC) today announced two settlement agreements reached with federal employees who admitted to violating the Hatch Act. A summary of the violations and settlements are below:
 
 **U.S. Postal Service**:
 

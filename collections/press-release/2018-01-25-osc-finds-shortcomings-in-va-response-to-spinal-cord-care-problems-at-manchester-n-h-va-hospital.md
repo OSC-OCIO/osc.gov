@@ -7,8 +7,6 @@ Disclosure of Wrongdoing
 
 OSC notified President Trump of shortcomings in the VA's response to disclosures of wrongdoing including the development of serious spinal cord disease as a result of clinical neglect.
 
-Page Content
-
 ​ The Office of Special Counsel (OSC) today notified President Trump of shortcomings in the Department of Veterans Affairs’ (VA) response to  disclosures of wrongdoing at the VA Medical Center of Manchester, New Hampshire. Whistleblower disclosures included concerns that a large number of patients at the Manchester facility developed serious spinal cord disease as a result of clinical neglect. OSC found the VA’s response largely sluggish until the media covered the problems. Even after that coverage, the agency chose not to review certain serious allegations.
 
 “The VA did not initiate substantive changes to resolve identified issues until over seven months had elapsed, and only did so after widespread public attention focused on these  matters,” Special Counsel Henry J. Kerner wrote to the President.    “It is critical that   whistleblowers be able to have confidence that the VA will address public health and safety issues immediately, regardless of what news coverage an issue receives.”

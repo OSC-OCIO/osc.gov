@@ -1,13 +1,11 @@
 ---
-
 title: Dellinger Thanks Cathy Harris for Service, Accomplishments as MSPB Chair, Congratulates Henry Kerner on Appointment
 date: 2025-01-21
 ---
+
 General
 
 Special Counsel Hampton Dellinger today released the following statement after President Donald J. Trump yesterday announced that Henry J. Kerner will replace Cathy Harris as Chair of the MSPB.
-
-Page Content
 
 Special Counsel Hampton Dellinger today released the following statement after President Donald J. Trump yesterday [announced](https://gcc02.safelinks.protection.outlook.com/?url=https://www.whitehouse.gov/presidential-actions/2025/01/designation-of-chairmen-and-acting-chairmen/&data=05%7c02%7c%7c16ea87cd1bb34cf186c608dd3a483dc6%7c39dcbe17c0694d7c8ad7efbbedb5fc55%7c0%7c0%7c638730804155000722%7cUnknown%7cTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7c0%7c%7c%7c&sdata=s84AdT2DnfI6RxgzdZLbeWvlMlQyQJoABWijt6mYBEI%3D&reserved=0) that Henry J. Kerner will replace Cathy Harris as Chair of the Merit Systems Protection Board (MSPB).
 

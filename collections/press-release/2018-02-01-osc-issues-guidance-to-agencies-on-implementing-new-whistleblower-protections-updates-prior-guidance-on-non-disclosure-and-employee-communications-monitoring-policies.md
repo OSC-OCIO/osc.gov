@@ -7,8 +7,6 @@ Outreach Training
 
 OSC issued guidance to federal agencies on implementing newly enacted  whistleblower  protections.
 
-Page Content
-
 ​The U.S. Office of Special Counsel (OSC) today issued guidance to federal agencies on implementing newly enacted whistleblower protections, including the  new prohibition against accessing employee medical records in furtherance of any prohibited personnel practice, including retaliation for whistleblowing. OSC, under Special Counsel Henry J. Kerner, also  updated two previously issued memoranda, one on agency policies involving the monitoring of employees’ communications and whistleblower disclosures, and another on agency non-disclosure policies, forms, or agreements, to ensure that agencies do not interfere with protected whistleblowing.
 
 “The new measures enacted by Congress and signed by the President fill gaps in current  protections and enhance accountability for whistleblower retaliation,” Kerner said. “Protecting whistleblowers and increasing accountability for retaliation promote good government and the responsible use of tax dollars. OSC is ready and available to help agencies fulfill their whistleblower obligations.”

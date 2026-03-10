@@ -7,8 +7,6 @@ Disclosure of Wrongdoing
 
 OSC has sent a letter to the President and Congress outlining  a  case at the VA where whistleblowers  revealed  that  veterans and  employees had been exposed to asbestos.
 
-Page Content
-
 ​The U.S. Office of Special Counsel (OSC) has sent a [letter](/~assets/docs/di-17-1231-and-di-17-1256-letter-to-president.pdf) to the President and Congress outlining a troubling case at the U.S. Department of Veterans Affairs (VA) where whistleblowers revealed that veterans and employees at the Edith Nourse Rogers Memorial VA Hospital in Bedford, Massachusetts (Bedford VA) had been knowingly exposed to asbestos. Management at the Bedford VA had been on notice of this contamination since 2014 but continued to put employees and veterans at risk of airborne asbestos fiber exposure.
 
 “For years, the Bedford VA Medical Center failed to implement a robust safety inspection program to identify contaminated work spaces,” said Special Counsel Henry J. Kerner. “Thanks to courageous whistleblowers coming forward to report these failures, the facility is now taking this problem seriously , monitoring employee health, and carrying out more fulsome measures to ensure safety for employees and veterans. ”

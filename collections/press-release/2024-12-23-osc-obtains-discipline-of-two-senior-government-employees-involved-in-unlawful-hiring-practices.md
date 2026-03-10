@@ -1,15 +1,13 @@
 ---
-
 title: OSC Obtains Discipline of Two Senior Government Employees Involved in Unlawful Hiring Practices
 date: 2024-12-23
 ---
+
 Prohibited Personnel Practices
 
 Government officials cannot avoid consequences by transferring to a different agency.
 
-Page Content
-
-**_Government officials cannot avoid consequences by transferring to a different agency_**​
+***Government officials cannot avoid consequences by transferring to a different agency***​
 
 The U.S. Office of Special Counsel (OSC) today announced settlement agreements reached with two different federal agencies providing for the discipline of senior executive employees for conduct involving unlawful hiring preferences.
 

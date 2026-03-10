@@ -1,13 +1,11 @@
 ---
-
 title: OSC Investigation Leads to Settlement in Army Hospital Whistleblower Case
 date: 2015-10-27
 ---
+
 Prohibited Personnel Practices
 
 ​​​​​​After an OSC investigation, the Army recently settled a whistleblower retaliation claim filed by Teresa Gilbert, an Army civilian infection control analyst 
-
-Page Content
 
 ​​​After a U.S. Office of Special Counsel (OSC) investigation, the Army recently settled a whistleblower retaliation claim filed by Teresa Gilbert, an Army civilian infection control analyst at Womack Army Medical Center in Fort Bragg, North Carolina. Ms. Gilbert disclosed violations of infection control policies and regulations that created a significant threat to the health and safety of patients; her disclosures resulted in improved hospital conditions and significant disciplinary action against senior leaders at Womack.  
 

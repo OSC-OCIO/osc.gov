@@ -1,13 +1,11 @@
 ---
-
 title: Special Counsel Dellinger, OSC Applaud Henry Kerner’s Confirmation as Board Member at MSPB
 date: 2024-05-15
 ---
+
 General
 
 OSC and Special Counsel Hampton Dellinger extend their congratulations to former Special Counsel Henry J. Kerner on his unanimous U.S. Senate confirmation to MSPB.
-
-Page Content
 
 Today, the U.S. Office of Special Counsel (OSC) and Special Counsel Hampton Dellinger extend their congratulations to former Special Counsel Henry J. Kerner on his unanimous U.S. Senate confirmation last evening to be a Board Member of the Merit Systems Protection Board (MSPB).
 

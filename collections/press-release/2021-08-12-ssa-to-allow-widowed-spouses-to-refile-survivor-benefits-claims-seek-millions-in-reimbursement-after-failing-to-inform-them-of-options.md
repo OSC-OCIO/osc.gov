@@ -7,8 +7,6 @@ Disclosure of Wrongdoing
 
 OSC alerted the President and Congress that the SSA will review and reimburse, where appropriate, over 20K widow(er) beneficiaries, after SSA failed to adequately inform them of options.
 
-Page Content
-
 ​​The U.S. Office of Special Counsel (OSC) today [alerted](/~assets/docs/presidents-letter-osc-file-no-di-19-0626-ssa-oig-audit_redactedpf.pdf) the President and Congress that the Social Security Administration (SSA) has developed a detailed plan to review and reimburse, where appropriate, over 20,000 widow(er) beneficiaries, after SSA failed to adequately inform them of their survivor benefit options. The corrective action is the result of a whistleblower disclosure to OSC that SSA failed to inform survivors that they could delay, or withdraw and resubmit, their benefits applications until they reached full retirement age (FRA), resulting in a significant loss to beneficiaries over their lifetimes.
 
 An [audit](/~assets/docs/audit-report-osc-file-number-di-19-00626002-004.pdf) conducted by SSA substantiated the whistleblower's allegations, identifying more than 21,000 beneficiaries who, despite being entitled to widow(er) benefits, were instead placed in a “suspended pay status" because they were subject to a government pension offset (GPO) reduction.  Under the GPO, beneficiaries received no benefits if two-thirds of their government pension exceeded the monthly widow(er) benefit. Had the estimated 1,615 widow(ers) reviewed by the audit been adequately informed of their options, the SSA projected they would have collectively received over $42 million more in survivor benefits over their life expectancies.

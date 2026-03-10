@@ -1,15 +1,13 @@
 ---
-
 title: Two Federal Employees Agree to Suspensions Without Pay for Violating the Hatch Act
 date: 2023-05-24
 ---
+
 Hatch Act
 
 OSC today announced two settlement agreements reached with federal employees charged with violating the Hatch Act.
 
-Page Content
-
-​The U.S. Office of Special Counsel (OSC) today announced two settlement agreements reached with federal employees charged with violating the Hatch Act. A summary of each case is below:  
+​The U.S. Office of Special Counsel (OSC) today announced two settlement agreements reached with federal employees charged with violating the Hatch Act. A summary of each case is below:
 
 **U.S. Department of Labor (DOL)**:
 

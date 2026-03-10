@@ -7,8 +7,6 @@ Disclosure of Wrongdoing
 
 OSC) today sent  a letter  to the President and Congress  after a  whistleblower revealed  more than  $32 million in missing equipment.
 
-Page Content
-
 The Office of Special Counsel (OSC) today sent a [letter](/~assets/docs/di-16-2721-letter-to-president-redacted.pdf) to the President and Congress notifying them of mismanagement at the U.S. Department of the Navy (Navy) after a whistleblower, a former supply systems analyst at the Naval Sea Logistics Center at Port Hueneme, CA, revealed more than $32 million in missing equipment, in addition to mishandling of classified materials.
 
 The whistleblower [alleged](/~assets/docs/di-16-2721-whistleblower-comments-redacted.pdf) that Port Hueneme warehouse employees failed to properly maintain and record inventory over a number of years and that classified inventory items were not identified and stored in a secure manner in accordance with Department of Defense and Navy regulations. The agency [substantiated](/~assets/docs/di-16-2721-whistleblower-comments-redacted.pdf)​ the majority of the whistleblower’s allegations. Specifically, the Navy found that inventory totaling approximately $32,250,000 was unaccounted for because employees failed to properly maintain and record it as required by agency instructions.  

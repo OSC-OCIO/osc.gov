@@ -7,8 +7,6 @@ Disclosure of Wrongdoing
 
 OSC has alerted the President and Congress to wait time problems associated with endoscopy procedures at the Department of Veterans Affairs Medical Center in Orlando, Florida.
 
-Page Content
-
 The U.S. Office of Special Counsel (OSC) has [alerted](/~assets/docs/di-18-1683-and-di-18-1827-letter-to-president.pdf) the President and Congress to wait time problems associated with endoscopy procedures at the Department of Veterans Affairs (VA) Medical Center in Orlando, Florida (Orlando VAMC). Whistleblowers alerted OSC to the unacceptable backlog alleging that approximately 453 veterans at the Orlando VAMC were awaiting endoscopy procedures with wait times exceeding 30 days from the date deemed clinically appropriate by a VA health care provider. OSC referred the matter for investigation to the agency, which [substantiated](/~assets/docs/di-18-1683-and-di-18-1827-agency-report-redacted.pdf)​ all of the whistleblowers’ allegations.
 
 “I have great admiration for the whistleblowers who brought this serious matter to our attention,” said Special Counsel Henry J. Kerner. “Because of their intrepid allegiance to the VA’s mission, these disclosures ensured that veterans received the care they deserve.”

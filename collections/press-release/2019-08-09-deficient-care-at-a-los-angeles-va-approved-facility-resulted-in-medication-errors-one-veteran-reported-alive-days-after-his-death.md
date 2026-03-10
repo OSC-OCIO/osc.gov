@@ -7,8 +7,6 @@ Disclosure of Wrongdoing
 
 OSC has alerted the President and Congress to deficient patient care at a Los Angeles VA-approved community care facility where staff were unable to correctly identify a veteran who died days earlier.
 
-Page Content
-
 The U.S Office of Special Counsel (OSC) [today alerted](/~assets/docs/di-17-4331-and-di-17-4242-letter-to-the-president.pdf) the President and Congress to deficient patient care at a Los Angeles VA-approved community care facility where staff were unable to correctly identify a veteran who died days earlier.
 
 VA investigators observed the California Villa facility in disrepair and a disorganized medicine room, and the VA's report confirmed longstanding and well-known care issues at the facility. In one instance, staff were unable to correctly identify a veteran who died on October 8, 2017. The veteran's case manager entered a note on October 12, 2017, that she had a live encounter with the veteran that day, four days after he died. The case manager indicated that staff at the facility had directed her to a patient they confirmed was the veteran, but who turned out to be the wrong individual.

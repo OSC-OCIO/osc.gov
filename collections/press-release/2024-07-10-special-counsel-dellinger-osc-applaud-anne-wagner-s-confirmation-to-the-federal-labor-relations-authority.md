@@ -1,13 +1,11 @@
 ---
-
 title: Special Counsel Dellinger, OSC Applaud Anne Wagner’s Confirmation to the Federal Labor Relations Authority
 date: 2024-07-10
 ---
+
 General
 
 Special Counsel Hampton Dellinger today congratulated Anne Wagner on her Senate confirmation to be a Member of the Federal Labor Relations Authority.
-
-Page Content
 
 Today, the U.S. Office of Special Counsel (OSC) and Special Counsel Hampton Dellinger congratulate Anne Wagner on her Senate confirmation to be a Member of the Federal Labor Relations Authority (FLRA). For 9 years, Anne has been Associate Special Counsel, most recently leading OSC's General Law Division, which includes overseeing several programmatic units, including the Disclosure Unit, Retaliation and Disclosure Unit, Alternative Dispute Resolution, the Hatch Act Unit, Diversity Outreach and Training Unit, Case Review Division, and the USERRA Unit.
 

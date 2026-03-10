@@ -1,13 +1,11 @@
 ---
-
 title: Special Counsel Dellinger Statement on Assassination Attempt Investigation
 date: 2024-07-19
 ---
+
 Disclosure of Wrongdoing
 
 Special Counsel Hampton Dellinger today released the following statement after the assassination attempt injuring former President Donald Trump.
-
-Page Content
 
 Special Counsel Hampton Dellinger today released the following statement after the assassination attempt injuring former President Donald Trump.
 
@@ -15,12 +13,12 @@ Special Counsel Hampton Dellinger today released the following statement after t
 
 OSC reviews whistleblower disclosures within the executive branch reported by current or former federal employees and applicants for federal employment. Such disclosures may be in one or more of the following categories:
 
-*   A violation of a law, rule, or regulation;
-*   Gross mismanagement;
-*   A gross waste of funds;
-*   An abuse of authority;
-*   A substantial and specific danger to public health or safety; and/or
-*   Censorship related to research, analysis, or technical information.
+- A violation of a law, rule, or regulation;
+- Gross mismanagement;
+- A gross waste of funds;
+- An abuse of authority;
+- A substantial and specific danger to public health or safety; and/or
+- Censorship related to research, analysis, or technical information.
 
 Federal law establishes protections for disclosures made to OSC. This process is intended to safeguard the confidentiality of the whistleblower and ensure that any potential wrongdoing is investigated and, where necessary, corrected. 
 

@@ -7,8 +7,6 @@ Disclosure of Wrongdoing
 
 OSC noted numerous shortcomings  and  unanswered  questions in the VA's response to whistleblower disclosures of limited access to life‐saving  transplants.
 
-Page Content
-
 The U.S. Office of Special Counsel (OSC) today noted numerous shortcomings and unanswered questions in the Department of Veterans Affairs (VA) response to whistleblower disclosures of flaws and limited access to life
 
 ‐saving organ transplants for veterans. The disclosures to OSC came from Mr. Jamie McBride, a registered nurse and program manager for the Solid Organ Transplant Program at Audie L.  Murphy Memorial VA Hospital, San Antonio, Texas. Many of the identified problems apply throughout the VA’s nationwide transplant program.

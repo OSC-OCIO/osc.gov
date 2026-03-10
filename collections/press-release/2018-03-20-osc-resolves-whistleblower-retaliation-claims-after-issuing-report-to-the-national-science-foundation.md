@@ -7,8 +7,6 @@ Prohibited Personnel Practices
 
 OSC has resolved allegations that the National Science Foundation engaged in prohibited personnel practices  when it retaliated against an employee .
 
-Page Content
-
 ​​The U.S. Office of Special Counsel (OSC) has resolved allegations that the National Science Foundation (NSF) engaged in prohibited personnel practices (PPPs) when it retaliated against an employee it perceived as a whistleblower and who engaged in protected activity under the Whistleblower Protection Act.  
 
 Specifically, OSC investigated allegations that NSF changed the complainant’s initial appointment from a career appointment to a term appointment because of his reputation as a whistleblower and  association with the NSF’s Office of Inspector General. Later, NSF failed to select the complainant for the position he occupied at the end of his term appointment in retaliation for a protected disclosure, his  previously mentioned reputation as a whistleblower, and his association with the NSF’s Office of Inspector General. OSC found that the change in the appointment and the subsequent non-selection violated two provisions of the Whistleblower Protection Act: (1) 5 U.S.C. § 2302(b)(8), which prohibits retaliation for making a protected disclosure; and (2) 5 U.S.C. § 2302 (b)(9), which prohibits retaliation for engaging in protected activity, such as cooperating with an investigation by an agency’s inspector general or OSC.

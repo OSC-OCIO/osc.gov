@@ -7,8 +7,6 @@ General
 
 OSC filed an amicus curiae (“friend of the court”) brief in Karl v. Merit Systems Protection Board, a whistleblower retaliation case before the U.S. Court of Appeals for the Federal Circuit.
 
-Page Content
-
 Today, the U.S. Office of Special Counsel (OSC) filed an amicus curiae (“friend of the court”) [brief](</documents/ppp/amicus%20curiae%20briefs/osc%20amicus%20curiae%20brief%20in%20karl%20v.%20mspb%20(fed.%20cir.)%20filed%20October%202,%202017.pdf>) in Karl v. Merit Systems Protection Board (Board), a whistleblower retaliation case before the U.S. Court of Appeals for the Federal Circuit. OSC asks the court to reverse the Board’s decision, which creates unwarranted procedural hurdles for federal employees alleging whistleblower retaliation.
 
 In this case, George Karl alleged that his employer, the U.S. Department of the Navy, suspended him in retaliation for his prior OSC complaint and his protected disclosures, including a letter he sent to Senator Patty Murray. The Board held that Mr. Karl failed to exhaust his administrative remedies before OSC, as required by the Whistleblower Protection Act (WPA), because the letter, which Mr. Karl provided to OSC, was allegedly “vague.” OSC disagrees and argues that the letter gave OSC sufficient information to investigate his claim. More broadly, OSC asserts that the Board improperly conflated the initial administrative exhaustion standard with the subsequent merits determination in a whistleblower retaliation case.

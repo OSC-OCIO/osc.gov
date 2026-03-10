@@ -1,15 +1,13 @@
 ---
-
 title: OSC Announces Discipline for Federal Employees who Violated the Hatch Act
 date: 2022-06-23
 ---
+
 Hatch Act
 
 OSC today announced settlement agreements reached with three federal employees who violated the Hatch Act.
 
-Page Content
-
-​The U.S. Office of Special Counsel (OSC) today announced settlement agreements reached with three federal employees who violated the Hatch Act. A summary of the violations and settlements is below:  
+​The U.S. Office of Special Counsel (OSC) today announced settlement agreements reached with three federal employees who violated the Hatch Act. A summary of the violations and settlements is below:
 
 **U.S. Postal Service (USPS)**:
 

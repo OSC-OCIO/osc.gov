@@ -1,13 +1,11 @@
 ---
-
 title: Special Counsel’s Proposal to Promote Transparency and Speed Up Agency Accountability
 date: 2024-08-30
 ---
+
 General
 
 Special Counsel Hampton Dellinger today proposed ways to enhance OSC's approach to transparency and accountability.
-
-Page Content
 
 Special Counsel Hampton Dellinger today proposed ways to enhance the U.S. Office of Special Counsel's (OSC) approach to transparency and accountability. Under the initiative, for certain open whistleblower disclosure cases and investigations of prohibited personnel practices (PPPs), Dellinger proposes providing public summaries of OSC's ongoing work.
 
@@ -15,14 +13,13 @@ The complete proposal, which OSC plans to finalize at the start of the federal g
 
 Summary:
 
-*   _First_, OSC proposes posting publicly a summary of allegations in matters where the Special Counsel has determined that there is a “substantial likelihood" that the information discloses a violation of a law, rule, or regulation, gross mismanagement, gross waste of funds, abuse of authority, substantial and specific danger to public health and safety, or censorship related to research, analysis, or technical information and has referred the matter to the relevant agency.​  
-    
+- _First_, OSC proposes posting publicly a summary of allegations in matters where the Special Counsel has determined that there is a “substantial likelihood" that the information discloses a violation of a law, rule, or regulation, gross mismanagement, gross waste of funds, abuse of authority, substantial and specific danger to public health and safety, or censorship related to research, analysis, or technical information and has referred the matter to the relevant agency.​
 
-*   _Second_, when an agency does submit its report setting forth the findings of its investigation and any proposed corrective action, OSC believes agencies should fulfill the Congressional mandate that the report “shall be reviewed and signed by the head of the agency" or, at a minimum, explicitly state the report represents the findings of the agency head.  
-     
-*   _Third_, OSC proposes posting publicly a summary of allegations in matters where OSC has issued a report concluding that a PPP has occurred or has advised an agency that OSC likely could establish the elements of a PPP. OSC will post the allegation to its website when the agency does not take corrective action in a timely fashion and the person making the allegation consents.  
-     
-*   _Fourth_, OSC is undertaking an agency-wide effort to make public its policies, practices, and procedures when it comes to working with whistleblowers and seeking that agencies acknowledge and address misconduct.  
+- _Second_, when an agency does submit its report setting forth the findings of its investigation and any proposed corrective action, OSC believes agencies should fulfill the Congressional mandate that the report “shall be reviewed and signed by the head of the agency" or, at a minimum, explicitly state the report represents the findings of the agency head.  
+   
+- _Third_, OSC proposes posting publicly a summary of allegations in matters where OSC has issued a report concluding that a PPP has occurred or has advised an agency that OSC likely could establish the elements of a PPP. OSC will post the allegation to its website when the agency does not take corrective action in a timely fashion and the person making the allegation consents.  
+   
+- _Fourth_, OSC is undertaking an agency-wide effort to make public its policies, practices, and procedures when it comes to working with whistleblowers and seeking that agencies acknowledge and address misconduct.  
 
 “Americans should have visibility when it appears there is something going wrong inside the government they pay for. And they deserve to know whether or not agency misconduct or employee mistreatment is being fixed quickly," Dellinger said in announcing the proposal. 
 

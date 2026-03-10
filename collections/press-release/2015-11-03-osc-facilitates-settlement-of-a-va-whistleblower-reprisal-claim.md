@@ -1,13 +1,11 @@
 ---
-
 title: OSC Facilitates Settlement of a VA Whistleblower Reprisal Claim
 date: 2015-11-03
 ---
+
 Prohibited Personnel Practices
 
 OSC has facilitated the settlement of a whistleblower retaliation claim brought against the VA by David Tharp, a psychologist witwith the VA’s post-traumatic stress disorder (PTSD) program in Waco, TX
-
-Page Content
 
 ​The U.S. Office of Special Counsel (OSC) has facilitated the settlement of a whistleblower retaliation claim brought against the Department of Veterans Affairs (VA) by David Tharp, a psychologist with the VA’s post-traumatic stress disorder (PTSD) program in Waco, Texas. 
 

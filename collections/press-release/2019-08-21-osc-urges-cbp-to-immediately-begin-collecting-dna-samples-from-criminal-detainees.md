@@ -7,8 +7,6 @@ Disclosure of Wrongdoing
 
 OSC has alerted the President and Congress that the U.S. Customs and Border Protection  has for years failed to comply with a law mandating collection of DNA samples from detained criminal subjects.
 
-Page Content
-
 The U.S Office of Special Counsel (OSC) today [alerted](/~assets/docs/redacted-di-18-3920-di-18-3924-di-18-3931-letter-to-the-president.pdf) the President and Congress that the U.S. Customs and Border Protection (CBP) has for years failed to comply with a law mandating collection of DNA samples from detained criminal subjects. Whistleblowers notified OSC that CBP has evaded this law over the last decade citing a temporary Obama-era exception. The failure to collect DNA has allowed subjects accused of violent crimes, including homicide and sexual assault, to avoid detection even when they have been detained multiple times by CBP or by Immigration and Customs Enforcement.
 
 “CBP's noncompliance with the law has allowed criminal detainees to walk free. Given the significant public safety and law enforcement implications at issue, I urge CBP to immediately reconsider its position and initiate DNA collection from criminal detainees," said **Special Counsel Henry J. Kerner**. “I also commend the brave whistleblowers for bringing this issue to our attention and for their public service."

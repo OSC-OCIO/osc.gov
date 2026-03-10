@@ -7,8 +7,6 @@ Hatch Act
 
 OSC today sent a report to the President detailing how Rachael Rollins, U.S. Attorney for the District of Massachusetts, willfully violated the Hatch Act on multiple occasions.
 
-Page Content
-
 ####                               _​​After informing ​Ms. Rollins of the report's public release, she announced her intent to resign._
 
 ​  

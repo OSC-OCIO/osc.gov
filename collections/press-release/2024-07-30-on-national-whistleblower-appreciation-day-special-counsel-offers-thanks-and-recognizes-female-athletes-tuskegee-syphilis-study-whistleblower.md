@@ -1,13 +1,11 @@
 ---
-
 title: On National Whistleblower Appreciation Day, Special Counsel Offers Thanks and Recognizes Female Athletes, Tuskegee Syphilis Study Whistleblower
 date: 2024-07-30
 ---
+
 Disclosure of Wrongdoing
 
 On behalf of OSC, Special Counsel Hampton Dellinger today released the following statement in honor of National Whistleblower Appreciation Day.
-
-Page Content
 
 On behalf of the Office of Special Counsel (OSC), Special Counsel Hampton Dellinger today released the following statement in honor of National Whistleblower Appreciation Day (NWAD):
 

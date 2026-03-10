@@ -7,8 +7,6 @@ Disclosure of Wrongdoing
 
 OSC informed​ the White House hat a VA Medical Center in West Virginia put patients at medical risk by substituting prescribed medications with older drugs in order to cut costs.
 
-Page Content
-
 The U.S. Office of Special Counsel (OSC) [informed​](/~assets/docs/16-32-di-14-3389-letter-to-the-president.pdf) the White House and Congress today that the Beckley, West Virginia, Veterans Affairs Medical Center (VAMC) put patients at medical risk and violated VA policy by substituting prescribed antipsychotic medications with older drugs in order to cut costs. A VA whistleblower disclosed these allegations to OSC, which were confirmed by the VA’s Office of Medical Inspector (OMI). OMI’s report of investigation found that the VAMC’s actions posed “a substantial and specific danger to public health and safety.” OMI recommended that the Beckley VAMC immediately stop switching patients from their prescribed drugs without a legitimate clinical need. The OMI investigation also found that, in a departure from standard VA practice, the Beckley VAMC Pharmacy and Therapeutics Committee (PTC) was chaired by a non-physician, and recommended this practice be changed.
 
 “At a time when many veterans are grappling with mental health issues, this VA facility was cutting corners on needed drug therapy to save money in violation of VA policy,” said Special Counsel Carolyn Lerner. “We only know this was happening because an employee had the courage to blow the whistle on this dangerous practice.”

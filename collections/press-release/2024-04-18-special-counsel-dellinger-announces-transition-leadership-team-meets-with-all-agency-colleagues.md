@@ -1,13 +1,11 @@
 ---
-
 title: Special Counsel Dellinger Announces Transition Leadership Team, Meets with All Agency Colleagues
 date: 2024-04-18
 ---
+
 General
 
 Special Counsel Hampton Dellinger has named Karen Gorman as Acting Principal Deputy Special Counsel. 
-
-Page Content
 
 Special Counsel Hampton Dellinger has named Karen Gorman as Acting Principal Deputy Special Counsel.  Gorman, along with veteran Department of Justice (DoJ) attorney Jacqueline Coleman Snead, will serve as Transition Co-Chairs as Dellinger begins his term heading the U.S. Office of Special Counsel (OSC).
 

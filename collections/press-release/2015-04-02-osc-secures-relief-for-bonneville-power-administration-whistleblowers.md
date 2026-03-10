@@ -7,8 +7,6 @@ Prohibited Personnel Practices
 
 OSC obtained settlements for several whistleblowers at the Energy Department’s Bonneville Power Administration.
 
-Page Content
-
 The U.S. Office of Special Counsel (OSC) obtained settlements for several whistleblowers at the Energy Department’s Bonneville Power Administration (BPA), worked with BPA to discipline two supervisors engaged in hiring violations, and assisted a veteran who was disadvantaged by a hiring violation. The whistleblowers alleged retaliation for disclosing widespread hiring violations at BPA, which adversely impacted veterans and other applicants. The whistleblower disclosures sparked a congressional [hearing](http://oversight.house.gov/hearing/department-of-energys-bonneville-power-administration-discriminating-against-veterans-and-retaliating-against-whistleblowers/) and an Energy Department Office of Inspector General (OIG) [probe​](/~assets/docs/ig-0895.pdf).
 
 “Whistleblowers were key to uncovering hiring offenses that adversely affected veterans at the Bonneville Power Administration, and they deserve praise for bravely speaking up,” said Special Counsel Carolyn Lerner. “The Bonneville Power Administration should also be commended for taking steps to provide relief to the whistleblowers and to correct its past wrongs in order to move forward.”

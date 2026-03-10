@@ -7,8 +7,6 @@ Disclosure of Wrongdoing
 
 OSC today sent letters to the President alerting him that the EEO Director at Hill Air Force Base has been removed from her position for improperly and unlawfully handling sexual harassment complaints
 
-Page Content
-
 The U.S. Office of Special Counsel (OSC) today sent [letters](/~assets/docs/osc-letter-to-the-president-dec-22-2020_redacted.pdf) to the President and Congress alerting them that the Director of the Equal Opportunity Office (EEO) at Hill Air Force Base (AFB) in northern Utah has been [removed](/~assets/docs/af-response-to-osc-8-sep-2020-redacted_redacted.pdf) from her position for improperly and unlawfully handling complaints involving sexual harassment and discrimination.  
 
 After three whistleblowers disclosed to OSC that the EEO Director had improperly handled their complaints, an investigation was conducted by USAF's Material Command Office of Inspector General. The investigation [substantiated](/~assets/docs/usaf-report-and-report-cover-letter-to-osc-hill-afb_redacted.pdf) the whistleblowers' allegations, finding that the EEO Director had: 

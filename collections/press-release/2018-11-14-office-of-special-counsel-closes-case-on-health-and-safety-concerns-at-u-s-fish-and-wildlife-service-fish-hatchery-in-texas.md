@@ -7,8 +7,6 @@ Disclosure of Wrongdoing
 
 OSC today closed a case over allegations of health and safety violations at a U.S. Fish and Wildlife Service fish hatchery in Texas.
 
-Page Content
-
 The Office of Special Counsel (OSC) today closed a case over allegations of health and safety violations at a U.S. Fish and Wildlife Service fish hatchery in Texas. Concerns brought forward by a whistleblower, who chose to remain anonymous, generally were substantiated by a Department of the Interior Office of the Inspector General investigation initiated by OSC’s referral. The case resulted in a department-wide memo reiterating the importance of safety and training when using chemicals and pesticides and a separate asbestos abatement investigation.
 
 “I am encouraged by the agency’s continued focus on the remediation of asbestos-containing materials and, most importantly, the health of its employees,” Special Counsel Henry J. Kerner wrote to President Trump of the Department of the Interior’s review of the U.S. Fish and Wildlife Service concerns. “In light of the agency’s investigation and prompt attention to corrective actions, I have determined that the report meets all statutory requirements.”

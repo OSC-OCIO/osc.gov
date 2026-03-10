@@ -7,8 +7,6 @@ Disclosure of Wrongdoing
 
 OSC alerted the President that whistleblower allegations of unauthorized spending practices by HHS prompted a number of corrective actions to ensure proper stewardship of federal funds.
 
-Page Content
-
 ​The U.S. Office of Special Counsel (OSC) today [alerted](/~assets/docs/osc-letter-to-the-president-di-20-0069-003_redacted.pdf) the President and Congress that whistleblower allegations of unauthorized spending practices by the U.S. Department of Health and Human Services (HHS) have prompted the HHS Office of Inspector General (OIG) to recommend a number of corrective actions to ensure proper stewardship of federal funds.
 
 The [audit](/~assets/docs/hhsnihnhlbi1213creportdi-20-0069_redacted.pdf) by HHS OIG found that the National Institutes of Health (NIH), National, Heart, Lung, and Blood Institute (NHLBI) in Bethesda, Maryland failed to comply with federal requirements in utilizing “Other Transaction" (OT) agreements, rather than more traditional award processes, from October 1, 2016, through September 30, 2019, when NHLBI awarded $84.3 million in federal funds for 29 OTs.

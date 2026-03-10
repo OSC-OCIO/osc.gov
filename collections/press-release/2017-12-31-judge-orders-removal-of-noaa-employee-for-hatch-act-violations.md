@@ -7,8 +7,6 @@ Hatch Act
 
 OSC prevailed in a disciplinary action against a NOAA employee who repeatedly ran as a candidate in primary elections for the state of Washington.
 
-Page Content
-
 Earlier this month, the U.S. Office of Special Counsel (OSC) prevailed in a disciplinary action against a National
 
 Oceanic and Atmospheric Administration (NOAA) employee who repeatedly ran as a candidate in primary elections for the state of Washington’s Eighth Congressional District in the U.S. House of Representatives. An administrative law judge with the Merit Systems Protection Board (MSPB) issued an order removing the employee, Keith L. Arnold, from federal service for Hatch Act violations. Both NOAA and OSC warned Mr. Arnold several times that he was in violation of the Hatch Act and gave him opportunities to come into compliance, either by resigning from federal service or by withdrawing from partisan elections.

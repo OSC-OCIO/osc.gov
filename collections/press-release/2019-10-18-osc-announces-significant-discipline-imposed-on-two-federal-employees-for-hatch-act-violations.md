@@ -1,13 +1,11 @@
 ---
-
 title: OSC Announces Significant Discipline Imposed on Two Federal Employees for Hatch Act Violations
 date: 2019-10-18
 ---
+
 Hatch Act
 
 OSC today announced significant discipline imposed on two federal employees working for the Defense Logistics Agency who engaged in prohibited political activity in violation of the Hatch Act.
-
-Page Content
 
 ​The U.S. Office of Special Counsel (OSC) today announced significant discipline imposed on two federal employees working for the Defense Logistics Agency (DLA) who engaged in prohibited political activity in violation of the Hatch Act.
 

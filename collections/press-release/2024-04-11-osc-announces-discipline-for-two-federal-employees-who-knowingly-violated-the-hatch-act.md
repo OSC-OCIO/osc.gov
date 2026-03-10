@@ -1,13 +1,11 @@
 ---
-
 title: OSC Announces Discipline for Two Federal Employees Who Knowingly Violated the Hatch Act
 date: 2024-04-11
 ---
+
 Hatch Act
 
 OSC today announced discipline, including a 90-day unpaid suspension and a 130-day unpaid suspension, for two federal employees who violated the Hatch Act.
-
-Page Content
 
 The U.S. Office of Special Counsel (OSC) today announced discipline, including a 90-day unpaid suspension and a 130-day unpaid suspension, for two federal employees who violated the Hatch Act.
 

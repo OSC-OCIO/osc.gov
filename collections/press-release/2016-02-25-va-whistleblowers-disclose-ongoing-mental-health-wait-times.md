@@ -7,8 +7,6 @@ Disclosure of Wrongdoing
 
 The Department of Veterans Affairs (VA) Office of Inspector General (OIG) failed to adequately investigate whistleblower disclosures about veterans’ access to mental health care
 
-Page Content
-
 ​The Department of Veterans Affairs (VA) Office of Inspector General (OIG) failed to adequately investigate whistleblower disclosures about veterans’ access to mental health care, the U.S. Office of Special Counsel (OSC) reported to the White House and Congress in a [letter](/~assets/docs/di-14-2762-and-di-14-3657-letter-to-president.pdf) today.  
 
 The two VA whistleblowers are Germaine Clarno, a social worker and union president at the Edward Hines, Jr., VA Hospital (Hines) in Chicago, Illinois, and Christopher Shea Wilkes, a social worker at Overton Brooks VA Medical Center (Overton Brooks) in Shreveport, Louisiana.  

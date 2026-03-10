@@ -7,8 +7,6 @@ Disclosure of Wrongdoing
 
 Special Counsel Henry J. Kerner today released the following statement after DOJ released a proposed rule mandating that CBP begin collecting DNA samples from detained criminal subjects.
 
-Page Content
-
 ​Special Counsel Henry J. Kerner today released the following statement after the Department of Justice released a proposed rule mandating that U.S. Customs and Border Protection (CBP) begin collecting DNA samples from detained criminal subjects. The new rule comes after the U.S Office of Special Counsel (OSC) in August [alerted​](/~assets/docs/redacted-di-18-3920-di-18-3924-di-18-3931-letter-to-the-president.pdf) the President and Congress that CBP has for years failed to comply with the 2005 law.
 
 “I applaud the Departments of Justice and Homeland Security for taking action to initiate DNA collection from criminal detainees," said **Special Counsel Henry J. Kerner**. “CBP's longstanding noncompliance with the law, based on a decade-old exception, allowed criminal detainees to walk free. Because whistleblowers spoke up, DNA samples from criminal detainees will be cross-checked in a database to see if individuals have been accused of violent crimes. This rule will bring more expeditious justice for victims and will help get criminals off the streets." 

@@ -7,8 +7,6 @@ Disclosure of Wrongdoing
 
 OSC today alerted the President to substantial waste, mismanagement, and unlawful employment practices at the Bureau of Alcohol, Tobacco, Firearms and Explosives.
 
-Page Content
-
 ​***For years, the agency intentionally misclassified jobs as law enforcement and paid the​se employees benefits to which they were not entitled.***
 
 The U.S. Office of Special Counsel (OSC) today [alerted](/~assets/docs/redacted-osc-letter-to-president-di-19-004250-and-di-20-000696.pdf) the President and Congress to substantial waste, mismanagement, and unlawful employment practices at the Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF). Two whistleblowers from ATF's human resources office disclosed to OSC that ATF unlawfully provided law enforcement pay and benefits to agents and investigators who filled non-law-enforcement positions, such as in human resources. These positions had been intentionally misclassified to be within the law enforcement job series. The agency [substantiated](/~assets/docs/redacted-cl-and-atf-report-of-investigation-di-20-000696-004250.pdf) the allegations, finding long-standing misclassification of upper-level jobs, which resulted in ATF overpaying agents by up to $20 million over a five-year period. That cost could be much higher given that the unlawful job classifications had been common practice at ATF far longer than the five-year timeframe reviewed by investigators.

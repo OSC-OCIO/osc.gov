@@ -7,8 +7,6 @@ General
 
 OSC today announced the recipient of the 2021 Special Counsel Public Service Award.
 
-Page Content
-
 ​The U.S. Office of Special Counsel (OSC) today announced the recipient of the 2021 Special Counsel Public Service Award. The recipient, a whistleblower who chose to remain anonymous, [disclosed](/~assets/docs/di-19-4553-letter-to-the-president.pdf) to OSC that a software flaw at the U.S. Treasury Department resulted in nearly $92 million in uncollected debts owed to the U.S. Department of Labor's Occupational Safety and Health Administration (OSHA). OSC is a safe channel for whistleblowers to disclose wrongdoing and is statutorily required to maintain the confidentiality of a whistleblower's identify if they so choose. The whistleblower's allegations in this case were substantiated, resulting in significant corrective action to fix the software problem and recoup funds owed to the government.
 
 “Each year, OSC recognizes the courage of a whistleblower who speaks up to disclose a problem," said **Special Counsel Henry J. Kerner**. “This year's recipient, who chose to remain anonymous, is well-deserving of this distinction. I want to thank this individual for coming forward to OSC with allegations that resulted in substantial corrective action. Because of this brave whistleblower's actions, millions of dollars are being reimbursed to the government for the full benefit of American taxpayers."

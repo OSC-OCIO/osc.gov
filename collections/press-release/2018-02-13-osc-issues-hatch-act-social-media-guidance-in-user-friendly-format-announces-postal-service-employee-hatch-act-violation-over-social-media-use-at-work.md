@@ -7,8 +7,6 @@ Hatch Act
 
 OSC today issued Hatch Act social media guidance for federal employees in a clear, easy ‐to‐understand format with real world examples and a new quick reference tool.
 
-Page Content
-
 ​ The U.S. Office of Special Counsel (OSC) today issued Hatch Act social media guidance for federal employees in a clear, easy‐to‐understand format with real world examples and a new quick reference tool. OSC also announced a 50‐day suspension without pay of a U.S. Postal Service (USPS) employee for partisan political Facebook postings  while on duty, conduct that occurred shortly after the employee received Hatch Act training.
 
 “This office routinely receives questions from federal employees and the public about  when social media use violates the Hatch Act,” Special Counsel Henry J. Kerner said. “With social media so accessible, employees want to know what political activity they can and can’t engage in on Facebook, Twitter, and other sites and stay clearly within the law. OSC’s new user‐friendly guidance will help employees understand their obligations at a glance. It’s designed to improve compliance with the law. If employees know their legal obligations and still violate the law, OSC will bring cases accordingly, but first, employees have to be well‐informed of their Hatch Act restrictions.”

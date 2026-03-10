@@ -1,15 +1,13 @@
 ---
-
 title: OSC Negotiates Reinstatement of VA Physician Whistleblower with Significant Financial Compensation
 date: 2022-07-07
 ---
+
 Prohibited Personnel Practices
 
 OSC today announced a favorable settlement reached between the VA and Dr. Robert Cameron, Chief of Thoracic Surgery for the VA’s West LA medical center.
 
-Page Content
-
-​The U.S. Office of Special Counsel (OSC) today announced a favorable settlement reached between the U.S. Department of Veterans Affairs (VA) and Dr. Robert Cameron, Chief of Thoracic Surgery for the VA's Greater Los Angeles Healthcare System (GLA), West Los Angeles VA Medical Center (West LA).  
+​The U.S. Office of Special Counsel (OSC) today announced a favorable settlement reached between the U.S. Department of Veterans Affairs (VA) and Dr. Robert Cameron, Chief of Thoracic Surgery for the VA's Greater Los Angeles Healthcare System (GLA), West Los Angeles VA Medical Center (West LA).
 
 In early 2018, Dr. Cameron disclosed two near deaths of VA patients during the administration of anesthesia in thoracic surgeries. Dr. Cameron had long raised concerns about GLA's anesthesia staffing practices for complex thoracic surgeries, but the most recent adverse event, during which a patient suffered a near fatal tear of their windpipe, compelled Dr. Cameron to more emphatically express his belief that the past two complications were avoidable, had anesthesiologists with greater thoracic experience been present. Not long after his disclosures, GLA issued its decision to separate Dr. Cameron from service. Dr. Cameron involuntarily retired one day shy of his separation date, an alternative suggested by the supervisor who had proposed his separation.
 

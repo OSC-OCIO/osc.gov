@@ -1,13 +1,11 @@
 ---
-
 title: OSC Concludes Review of Airline Safety Allegations with Special Counsel Questioning Some Agency Conclusions
 date: 2025-01-15
 ---
+
 Disclosure of Wrongdoing
 
 OSC today alerted the President and Congress of findings issued in response to several allegations brought to OSC by Transportation and Security Administration (TSA) whistleblower Robert MacLean.
-
-Page Content
 
 The U.S. Office of Special Counsel (OSC) today [alerted](https://gcc02.safelinks.protection.outlook.com/?url=https://osc.gov/Documents/Public%2520Files/FY25/DI-18-5205/OSC%2520Letter%2520to%2520the%2520President.pdf&data=05%7c02%7c%7cc0f430ad479042215fdf08dd35a13c6f%7c39dcbe17c0694d7c8ad7efbbedb5fc55%7c0%7c0%7c638725688820956684%7cUnknown%7cTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7c0%7c%7c%7c&sdata=esWK9M9k0UUpTtZY3oOkPTheg0Y3yoi3FsUwpmnv5OU%3D&reserved=0) the President and Congress of findings issued in response to several allegations brought to OSC by Transportation and Security Administration (TSA) whistleblower Robert MacLean. Mr. MacLean, a former longtime TSA Federal Air Marshal, alleged that TSA and Federal Aviation Administration (FAA) officials failed to uphold their responsibility to safeguard the flying public from threats to aviation safety. OSC referred the allegations, which were subsequently investigated by the Department of Homeland Security and the Department of Transportation (DOT). The agencies' investigative reports did not substantiate the allegations. Neither report was signed by the head of the agency, a concern noted by the whistleblower. After review, Special Counsel Hampton Dellinger [determined](https://gcc02.safelinks.protection.outlook.com/?url=https://osc.gov/Documents/Public%2520Files/FY25/DI-18-5205/OSC%2520Letter%2520to%2520the%2520President.pdf&data=05%7c02%7c%7cc0f430ad479042215fdf08dd35a13c6f%7c39dcbe17c0694d7c8ad7efbbedb5fc55%7c0%7c0%7c638725688820971100%7cUnknown%7cTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7c0%7c%7c%7c&sdata=REt6e7wtF6LKEzWUF3QkjNGjBFuqAkI/%2BvMWHyMpf1w%3D&reserved=0) some findings do not appear to be reasonable.
 

@@ -7,8 +7,6 @@ Disclosure of Wrongdoing
 
 Reports Reviewing FAA Flight Safety at Detroit Metropolitan Airport and CBP Emergency Responses in Texas Do Not Appear Reasonable 
 
-Page Content
-
 ***​ Reports Reviewing FAA Flight Safety at Detroit Metropolitan Airport and CBP Emergency Responses in Texas Do Not Appear Reasonable***  
 
 The U.S. Office of Special Counsel (OSC) today alerted the President and Congress that agency findings issued in response to two separate whistleblower-initiated investigations do not appear reasonable.

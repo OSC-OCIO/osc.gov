@@ -7,8 +7,6 @@ Disclosure of Wrongdoing
 
 OSC informed the White House and Congress yesterday that the Navy substantiated numerous whistleblower disclosures at the Washington Navy Yard
 
-Page Content
-
 ​The U.S. Office of Special Counsel (OSC) [informed](/~assets/docs/di-13-2309-and-di-13-2348-letter-to-president.pdf) the White House and Congress yesterday that the Navy substantiated numerous whistleblower disclosures at the Washington Navy Yard, particularly information security vulnerabilities at the Strategic Systems Programs (SSP), headquartered in Building 200 (the 2013 shooting occurred on the other side of the Navy Yard in Building 197). The whistleblowers were former Echelon II Command Security Manager Sparky Edwards and former Deputy Security Manager Vernon Londagin. SSP is responsible for the Navy’s Fleet Ballistic Missile Strategic Weapons System. Much of the information maintained by SSP is highly classified. 
 
 Mr. Edwards and Mr. Londagin initially blew the whistle internally at the Navy in 2012 and 2013. They subsequently turned to OSC because they did not believe that SSP leadership took adequate steps to address the problems. OSC compelled the Navy to fully investigate their disclosures.  

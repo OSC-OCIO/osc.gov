@@ -7,8 +7,6 @@ Prohibited Personnel Practices
 
 OSC filed two amicus curiae (“friend of the court”) briefs seeking to overturn decisions that restrict whistleblower protections for federal workers.
 
-Page Content
-
 The U.S. Office of Special Counsel (OSC) recently filed two amicus curiae (“friend of the court”) briefs seeking to overturn decisions that restrict whistleblower protections for federal workers.
 
 The [first brief](/~assets/docs/osc-amicus-curiae-brief-in-johnen-v-department-of-the-army-9th-ci-a110c1cd.pdf) was filed in the U.S. Court of Appeals for the Ninth Circuit in Johnen v. Merit System Protection Board and Department of the Army. In that case, Michael Johnen alleged in a complaint to OSC that the Army terminated him from civilian employment in retaliation for his disclosures about nepotism to Army officials and the Inspector General. Mr. Johnen subsequently filed this claim with the Merit Systems Protection Board (Board). The Board, however, refused to consider his disclosures to Army officials, concluding that because Mr. Johnen had not informed OSC of the “precise” details of these disclosures, including exact dates and all recipients, he did not exhaust his administrative remedies for these disclosures.

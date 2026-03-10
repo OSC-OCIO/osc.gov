@@ -1,15 +1,13 @@
 ---
-
 title: OSC Urges MSPB to Protect Federal Workers Who Cooperate with Internal Agency Investigations
 date: 2020-01-29
 ---
+
 Prohibited Personnel Practices
 
 OSC today filed an amicus curiae brief with the MSPB to clarify a recent change in the law that extends protections to individuals who cooperate with internal agency investigations.
 
-Page Content
-
-​The U.S. Office of Special Counsel (OSC) [today filed](/documents/ppp/amicus%20curiae%20briefs/osc%20amicus%20curiae%20brief%20in%20mohler%20v.%20department%20of%20homeland%20security%20\(mspb\)%20filed%20January%2029,%202020.pdf) an _amicus curiae_ (friend of the court) brief with the Merit Systems Protection Board (MSPB) to clarify a recent change in the law that extends protections to individuals who cooperate with or disclose information to any agency component responsible for internal investigation or review.  Previously, those protections applied only to employees who contacted an agency's Inspector General (IG) or OSC.
+​The U.S. Office of Special Counsel (OSC) [today filed](</documents/ppp/amicus%20curiae%20briefs/osc%20amicus%20curiae%20brief%20in%20mohler%20v.%20department%20of%20homeland%20security%20(mspb)%20filed%20January%2029,%202020.pdf>) an _amicus curiae_ (friend of the court) brief with the Merit Systems Protection Board (MSPB) to clarify a recent change in the law that extends protections to individuals who cooperate with or disclose information to any agency component responsible for internal investigation or review.  Previously, those protections applied only to employees who contacted an agency's Inspector General (IG) or OSC.
 
 In _Mohler v. Department of Homeland Security_, the appellant claimed retaliation in part for reporting a possible computer security violation to the agency's Computer Security Incident Response Center (CSIRC).  In response, CSIRC reviewed the information and opened an investigation.  Despite acknowledging these investigative steps, the MSPB's initial decision concluded without elaboration that CSIRC “does not investigate the agency; it investigates internal complaints and issues." Such a narrow reading of the law precluded the employee from protections against retaliation.
 

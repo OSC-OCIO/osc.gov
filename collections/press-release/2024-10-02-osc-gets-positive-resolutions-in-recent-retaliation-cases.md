@@ -1,13 +1,11 @@
 ---
-
 title: OSC Gets Positive Resolutions in Recent Retaliation Cases
 date: 2024-10-02
 ---
+
 Prohibited Personnel Practices
 
 OSC highlights recent cases facilitating positive resolutions of PPP matters involving federal employees, including whistleblower retaliation.
-
-Page Content
 
 The U.S. Office of Special Counsel (OSC) today highlights recent cases in which OSC succeeded in facilitating positive resolutions of prohibited personnel practice matters involving federal employees, including whistleblower retaliation complaints.
 

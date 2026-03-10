@@ -1,13 +1,11 @@
 ---
-
 title: Special Counsel Dellinger Announces Updates to OSC’s Hatch Act Enforcement
 date: 2024-05-20
 ---
+
 Hatch Act
 
 Today, Special Counsel Hampton Dellinger announced several updates to the OSC's approach to Hatch Act enforcement.
-
-Page Content
 
 Today, Special Counsel Hampton Dellinger announced several updates to the Office of Special Counsel's (OSC) approach to Hatch Act enforcement. The Hatch Act, a federal law passed in 1939, limits certain political activity of federal employees while they are on duty, in the federal workplace, or acting in their official capacity. Political activity is activity directed toward the success or failure of a partisan candidate, political party, or partisan political group. The updates are summarized below and are detailed in an Advisory Opinion [available here​](/Documents/Hatch%20Act/Advisory%20Opinions/Federal/Updating%20Agency%20Approach%20to%20Enforcement%20of%20the%20Hatch%20Act.pdf). 
 

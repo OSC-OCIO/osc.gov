@@ -7,8 +7,6 @@ General
 
 “We at OSC honor the outstanding public servants whose work is making life better for all Americans,” said Special Counsel Henry J. Kerner.
 
-Page Content
-
 ​Each year, the President and Congress designate the first full week of May as Public Service Recognition Week, and activities are held nationwide in celebration of public employees who put service above self.
 
 OSC's vital mission includes protecting whistleblowers and federal employment rights, improving worker safety, upholding merit system principles, and keeping federal workspaces free from partisan politics. Over the last two fiscal years, OSC has resolved more cases than were filed, eliminating roughly 800 cases from its backlog. Last year, OSC also resolved 280 Hatch Act cases, more than double the level from just five years prior.

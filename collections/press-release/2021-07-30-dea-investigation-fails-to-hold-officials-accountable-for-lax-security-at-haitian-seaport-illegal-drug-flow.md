@@ -7,8 +7,6 @@ Disclosure of Wrongdoing
 
 OSC today notified the President and Congress that DEA officials in the Port-au-Prince, Haiti Country Office failed to secure a key Haitian seaport used by drug smugglers.
 
-Page Content
-
 The U.S. Office of Special Counsel (OSC) today [notified](/~assets/docs/redacted-osc-letter-to-president-di-16-1098-di-18-1075.pdf) the President and Congress that Drug Enforcement Administration (DEA) officials in the Port-au-Prince, Haiti Country Office failed to secure a key Haitian seaport used by drug smugglers. The whistleblowers, former DEA special agents who worked in Haiti, alerted OSC to inadequate training, security, and resources at DEA Port-au-Prince. The disclosure was filed in the wake of a 2015 drug smuggling incident involving the discovery of a large quantity of cocaine and heroin aboard the M.V. _Manzanares_ cargo ship. The whistleblowers alleged that only a small amount of the seized drugs was secured.
 
 OSC referred the whistleblower allegations to the Department of Justice for investigation, which delegated the investigation to DEA. The DEA [investigation](/~assets/docs/redacted-dea-reports-di-16-1098-di-18-1075.pdf) found the whistleblowers' allegations unsubstantiated, claiming the DEA was engaged in efforts to improve port security, despite simultaneously maintaining that seaport security lies outside the agency's mission and responsibility.

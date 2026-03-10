@@ -7,8 +7,6 @@ General
 
 OSC today released a summary of the historic accomplishments achieved in 2018 and committed  to continue  the agency’s  success  in  2019  and beyond.
 
-Page Content
-
 The U.S. Office of Special Counsel (OSC) today released a summary of the historic accomplishments achieved in 2018 and committed to continue the agency’s success in 2019 and beyond. “OSC is performing at unprecedented levels in carrying out its role as an independent investigative and enforcement agency, bringing greater integrity and efficiency to the federal government,” said Special Counsel Henry J. Kerner. “OSC is working harder and smarter, with better results than at any time in its history. Ensuring accountability is a job I do not take lightly, and in the coming year OSC will continue to work diligently with the federal community, Congress, and stakeholders towards that goal.”
 
 **With more success comes more cases**

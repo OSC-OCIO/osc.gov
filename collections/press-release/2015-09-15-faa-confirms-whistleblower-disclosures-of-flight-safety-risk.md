@@ -7,8 +7,6 @@ Disclosure of Wrongdoing
 
 OSC sent findings to the White House and Congress regarding a safety risk in the nation’s air traffic control system.
 
-Page Content
-
 Today, the U.S. Office of Special Counsel (OSC) sent [findings](/~assets/docs/di-13-4206-letter-to-president.pdf) to the White House and Congress regarding a safety risk in the nation’s air traffic control system. Federal Aviation Administration (FAA) whistleblowers in Detroit disclosed the concerns to OSC, which were subsequently confirmed by the FAA. The whistleblowers are air traffic controllers Vincent Sugent, John Overman, Corinna Morris, Michael Redies, and Lewis M. Bird.
 
 The whistleblowers raised concerns about the FAA’s failure to adequately address the safety risks associated with multiple aircraft flight plans. Multiple flight plans can provide conflicting information to air traffic controllers and flight crews. They occur when pilots, air traffic control centers, and dispatch centers make revisions to flight plans, such as to departure times, altitude, flight speed, etc. According to the FAA, “when multiple flight plans are filed for the same flight, there is the potential that a controller can clear the flight for departure based upon a flight plan that is different than the one most recently filed by the operator, which could result in the crew flying a route not anticipated or planned for by the” air traffic controller.

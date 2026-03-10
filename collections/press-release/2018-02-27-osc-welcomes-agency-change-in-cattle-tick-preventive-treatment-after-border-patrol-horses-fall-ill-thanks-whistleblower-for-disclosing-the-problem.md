@@ -7,8 +7,6 @@ Disclosure of Wrongdoing
 
 OSC today welcomed a change in cattle tick preventive treatment for U.S. Customs and Border Patrol  horses  after  a  whistleblower disclosed horse illness linked to a prior treatment
 
-Page Content
-
 The U.S. Office of Special Counsel (OSC) today welcomed a change in cattle tick preventive treatment for U.S. Customs and Border Patrol (CBP) horses after a  whistleblower disclosed horse illness linked to a prior treatment. The change came after several horses used to patrol the U.S.‐Mexican border in western Texas fell ill, and 71 horses tested highly toxic for a  chemical used in a preventive cattle tick spray.
 
 The whistleblower, who manages the CBP Horse Patrol Program, raised concerns to OSC that the cattle tick treatment protocol from the U.S. Department of Agriculture (USDA) Animal and Plant Health Inspection Service (APHIS) was causing the horse sickness. The whistleblower worked with several  veterinarians to identify the cause of the sick horses’ symptoms. He eventually received from a private veterinarian a conclusive diagnosis of poisoning from the tick spray.

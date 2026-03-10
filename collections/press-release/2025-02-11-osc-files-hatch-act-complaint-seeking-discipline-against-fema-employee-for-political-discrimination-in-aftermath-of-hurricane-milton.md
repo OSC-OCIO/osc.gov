@@ -1,13 +1,11 @@
 ---
-
 title: OSC Files Hatch Act Complaint Seeking Discipline Against FEMA Employee for Political Discrimination in Aftermath of Hurricane Milton
 date: 2025-02-11
 ---
+
 Hatch Act
 
 OSC filed a Hatch Act complaint seeking discipline against Marn’i Washington, a former FEMA employee, who in October 2024 instructed subordinates to avoid visiting homes with Trump campaign signs.
-
-Page Content
 
 The U.S. Office of Special Counsel (OSC) today filed a Hatch Act [complaint](https://gcc02.safelinks.protection.outlook.com/?url=https://osc.gov/Documents/Hatch%2520Act/25.02.11%2520Complaint%2520%28Washington%29%2520-%2520redacted.pdf&data=05%7c02%7c%7c9247f3c0833c49dc504608dd4aca5fa5%7c39dcbe17c0694d7c8ad7efbbedb5fc55%7c0%7c0%7c638748955232949780%7cUnknown%7cTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7c0%7c%7c%7c&sdata=im32L7HGnpZlHDh%2BVvge1QBI5AUMbTAuWKivz7YUjT4%3D&reserved=0) with the U.S. Merit Systems Protection Board (MSPB) seeking discipline against Marn'i Washington, a former Federal Emergency Management Agency (FEMA) employee, who in October 2024 instructed subordinates to avoid visiting homes with Donald Trump campaign signs.
 

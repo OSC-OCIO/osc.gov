@@ -1,13 +1,11 @@
 ---
-
 title: Special Counsel Dellinger Applauds Release of Wrongfully Detained Wall Street Journal Reporter Evan Gershkovich
 date: 2024-08-01
 ---
+
 General
 
 Special Counsel Hampton Dellinger today applauded the release of Wall Street Journal reporter Evan Gershkovich who was arrested and accused of espionage in Russia on March 29, 2023.
-
-Page Content
 
 Special Counsel Hampton Dellinger today applauded the release of Wall Street Journal reporter Evan Gershkovich who was arrested and accused of espionage in Russia on March 29, 2023.
 

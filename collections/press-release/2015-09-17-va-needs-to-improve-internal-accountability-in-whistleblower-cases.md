@@ -7,8 +7,6 @@ Prohibited Personnel Practices
 
 In a letter to the White House and Congress, OSC reported that the VA failed to adequately discipline employees for endangering the health and safety of veterans and other wrongdoing.
 
-Page Content
-
 In [a letter](/~assets/docs/di-14-2754-letter-to-president.pdf) to the White House and Congress today, the U.S. Office of Special Counsel (OSC) reported that the Department of Veterans Affairs (VA) failed to adequately discipline employees for endangering the health and safety of veterans and other wrongdoing.
 
 “The failure to take appropriate disciplinary action, when presented with clear evidence of misconduct, can undermine accountability, impede progress, and discourage whistleblowers from coming forward,” Special Counsel Carolyn Lerner stated in the letter.

@@ -7,8 +7,6 @@ Disclosure of Wrongdoing
 
 OSC has notified President Trump that it resolved a case of a VA whistleblower’s allegations of unsatisfactory care for suicidal veterans at a VA medical center in Albuquerque, New Mexico.
 
-Page Content
-
 The U.S. Office of Special Counsel has notified President Trump that it resolved a case of a VA whistleblower’s allegations of unsatisfactory care for suicidal veterans at the Raymond G. Murphy VA Medical Center of Albuquerque, New Mexico. After a slow start, the U.S. Department of Veterans Affairs (VA) acknowledged shortcomings in flagging suicide risk in patient medical records and initiated agency-wide corrective actions to help veterans across the country. The whistleblower helped the Office of Special Counsel uncover that the VA had no timeframe for flagging suicide risk in a veteran’s medical record. Now, the agency plans to flag suicide risk within 24 hours or much less time.
 
 “The agency initially appeared slow in recognizing the tragedy that suicide by veterans represents, seemingly implying that certain delays in care and a lack of adequate regulations governing the handling of suicidal veterans were tolerable,” Special Counsel Henry J. Kerner wrote to President Trump. “Ultimately, following the receipt of the supplemental reports, I have determined that the reports contain all of the information required by statute and the findings appear reasonable.”

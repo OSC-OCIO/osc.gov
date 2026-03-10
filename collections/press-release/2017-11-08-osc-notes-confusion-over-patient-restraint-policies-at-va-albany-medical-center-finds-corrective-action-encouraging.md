@@ -7,8 +7,6 @@ Disclosure of Wrongdoing
 
 OSC today wrote President Trump and publicly revealed the results of an investigation by the VA into whistleblower allegations of instances of excessive use of physical restraints.
 
-Page Content
-
 The U.S. Office of Special Counsel (OSC) today wrote President Trump and publicly revealed the results of an investigation by the Department of Veterans Affairs (VA) into whistleblower allegations of instances of excessive use of physical restraints at the Samuel S. Stratton VA Medical Center (VAMC), in Albany, N.Y.
 
 The whistleblower in this case, a former nurse manager at the Albany facility, alleged that in at least two instances, psychiatrists physically restrained a patient for excessive lengths of time – in one instance for as long as 49 hours – in violation of VA regulations, policies, and rules. She contended that these and other incidents demonstrated a disturbing pattern of psychiatrists’ making determinations to continue or discontinue restraints based on their schedules or convenience, rather than the needs and welfare of the patients. While the VA did not find such a pattern nor conclude that restraints in the two specific instances alleged were excessive, it did substantiate two instances of improper patient care and concluded that these actions constituted a violation of law, rule, or regulation and a substantial and specific danger to public health and safety.

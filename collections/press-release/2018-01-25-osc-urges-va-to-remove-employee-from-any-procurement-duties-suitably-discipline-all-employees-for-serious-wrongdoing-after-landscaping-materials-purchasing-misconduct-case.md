@@ -7,8 +7,6 @@ Disclosure of Wrongdoing
 
 OSC notified President Trump that it is urging the VA to remove an employee  from  contact  with  her  former  division .
 
-Page Content
-
 ​​ The Office of Special Counsel (OSC) today notified President Trump that it is urging the Department of Veterans Affairs (VA) to remove an employee from contact with her former division and any involvement in procurement matters at the Bedford, Mass., VA Medi​cal Center. The employee kept her federal employm​ent and was demoted only one pay grade, despite her significant role in steering government purchases to  her brother’s landscaping business and concealing her conduct. OSC also encouraged the VA to suitably discipline employees who have committed serious wrongdoing.
 
 “By allowing an employee who engaged in this conduct to remain with the agency, the VA demonstrates a shocking degree of indifference to government ethical standards,  procurement regulations, and public integrity,”  Special Counsel Henry J. Kerner wrote to the​  President.

@@ -1,17 +1,15 @@
 ---
-
 title: OSC Clarifies its Hatch Act Role in Light of Republican National Convention
 date: 2020-08-26
 ---
+
 Hatch Act
 
 In light of significant media interest in the Hatch Act and its application to the Republican National Convention, OSC today released the following information to clarify its role.
 
-Page Content
+​​In light of significant media interest in the Hatch Act over the last several days, and specifically its application to the Republican National Convention, the U.S. Office of Special Counsel (OSC) today released the following information to clarify its role. 
 
-​​In light of significant media interest in the Hatch Act over the last several days, and specifically its application to the Republican National Convention, the U.S. Office of Special Counsel (OSC) today released the following information to clarify its role.   
-
-OSC has jurisdiction to enforce the Hatch Act, a civil administrative law that limits the political activities of federal executive branch employees. But the law expressly does not apply to the President or the Vice President. OSC also has no statutory authority to enforce or advise on criminal provisions derived from the Hatch Act and found in title 18 of the U.S. Code—including 18 U.S.C. § 610.  That task belongs solely to the U.S. Department of Justice.  
+OSC has jurisdiction to enforce the Hatch Act, a civil administrative law that limits the political activities of federal executive branch employees. But the law expressly does not apply to the President or the Vice President. OSC also has no statutory authority to enforce or advise on criminal provisions derived from the Hatch Act and found in title 18 of the U.S. Code—including 18 U.S.C. § 610.  That task belongs solely to the U.S. Department of Justice.
 
 Under longstanding regulations governing the Hatch Act, there are certain areas of the White House where the Hatch Act does not prohibit federal employees from engaging in political activity. The South Lawn and Rose Garden are two such areas. Therefore, covered federal employees would not necessarily violate the Hatch Act merely by attending political events in those areas.
 

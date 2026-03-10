@@ -7,8 +7,6 @@ Hatch Act
 
 OSC today sent a report to President Donald J. Trump finding that Counselor to the President Kellyanne Conway violated the Hatch Act on numerous occasions.
 
-Page Content
-
 ​The U.S. Office of Special Counsel (OSC) today sent [a report](/~assets/docs/report-of-prohibited-political-activity-kellyanne-conway-ha-19-06-a8748ac5.pdf) to President Donald J. Trump finding that Counselor to the President Kellyanne Conway violated the Hatch Act on numerous occasions by disparaging Democratic presidential candidates while speaking in her official capacity during television interviews and on social media.
 
 Although the President and Vice President are exempt from the Hatch Act, employees of the White House are not. OSC’s letter to the President accompanying the report refers to Ms. Conway as a “repeat offender” and states: “Ms. Conway’s violations, if left unpunished, would send a message to all federal employees that they need not abide by the Hatch Act’s restrictions. Her actions thus erode the principal foundation of our democratic system—the rule of law.”

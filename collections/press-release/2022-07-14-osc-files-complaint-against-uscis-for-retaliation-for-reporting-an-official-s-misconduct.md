@@ -1,15 +1,13 @@
 ---
-
 title: OSC Files Complaint Against USCIS for Retaliation for Reporting an Official’s Misconduct
 date: 2022-07-14
 ---
+
 Prohibited Personnel Practices
 
 OSC filed a complaint with MSPB against USCIS alleging  the agency fired an analyst for reporting an official who divulged employees’ confidential grievance information.
 
-Page Content
-
-​The U.S. Office of Special Counsel (OSC) today filed a complaint with the U.S. Merit Systems Protection Board against the Department of Homeland Security, U.S. Immigration and Citizenship Services (USCIS), alleging that the agency fired an analyst at its Wichita, Kansas, office for reporting an official who divulged employees' confidential grievance information in violation of federal law.   
+​The U.S. Office of Special Counsel (OSC) today filed a complaint with the U.S. Merit Systems Protection Board against the Department of Homeland Security, U.S. Immigration and Citizenship Services (USCIS), alleging that the agency fired an analyst at its Wichita, Kansas, office for reporting an official who divulged employees' confidential grievance information in violation of federal law. 
 
 The complaint seeks to correct the retaliatory termination of Kenneth Langley.  In June 2019, Mr. Langley informed managers that an agency management official improperly told him and another employee that certain employees had filed complaints and warned them to avoid one employee in particular. Soon after, Langley engaged in protected whistleblower activities by filing a disclosure with OSC.
 

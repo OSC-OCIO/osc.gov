@@ -7,8 +7,6 @@ Disclosure of Wrongdoing
 
 OSC alerted the President and Congress that officials at a VA medical center have taken appropriate steps to mitigate unsanitary conditions in operating rooms that canceled surgeries.
 
-Page Content
-
 ​The U.S. Office of Special Counsel (OSC) today [alerted](/~assets/docs/osc-file-no-di-17-4897-letter-to-the-president_redacted.pdf) the President and Congress that officials at the U.S. Department of Veterans Affairs (VA) West Los Angeles VA Medical Center (West Los Angeles VAMC) have taken appropriate steps to mitigate unsanitary conditions in operating rooms (ORs) that resulted in the cancellation of dozens of patient surgeries. A whistleblower, who is a neurosurgeon at the facility, disclosed to OSC that several ORs had been closed due to a fly infestation and sewage water leaks between March 2016 and November 2017.
 
 The agency [substantiated](/~assets/docs/di-17-004897-agency-report-may-11-2018_redacted.pdf) the allegations, finding that the facility's main entrance doors had been left open at times, which allowed flies to enter, and that VAMC leadership failed to appropriately monitor the presence of the flies. Additionally, the investigators found debris, a pipe leaking water onto the floor, and a wet/dry vacuum cleaner full of debris in the interstitial space between ORs and the dialysis unit. A rodent carcass covered in hatched larvae was also found outside the building and removed, and the area was thoroughly inspected. During this period, 40 surgeries were cancelled.

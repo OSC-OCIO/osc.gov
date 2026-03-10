@@ -7,8 +7,6 @@ Disclosure of Wrongdoing
 
 In letters to the White House and Congress today, the U.S. Office of Special Counsel (OSC) reported on deficiencies in Department of Veterans Affairs (VA) programs serving veterans in crisis, and pati
 
-Page Content
-
 In letters to the White House and Congress today, the U.S. Office of Special Counsel (OSC) reported on deficiencies in Department of Veterans Affairs (VA) programs serving veterans in crisis, and patients treated with opioids in VA facilities nationwide.
 
 The VA substantiated allegations by two anonymous whistleblowers that 35 unqualified employees held positions with the Veterans Crisis Line (VCL) in violation of agency regulations, and newly hired employees were not properly trained before conducting unsupervised crisis interventions. The VA’s report to OSC found that employees lacked required education, conducted clinical duties in violation of agency rules, and were not adequately trained before they took calls from veterans. Nevertheless, the VA asserted that due to a robust quality assurance program, there was no danger to public health and safety.

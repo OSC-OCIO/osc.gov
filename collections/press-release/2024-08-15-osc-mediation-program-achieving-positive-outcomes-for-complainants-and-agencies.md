@@ -1,13 +1,11 @@
 ---
-
 title: OSC Mediation Program Achieving Positive Outcomes for Complainants and Agencies
 date: 2024-08-15
 ---
+
 Alternative Dispute Resolution
 
 Mediations are conducted by OSC attorney-mediators who have experience in both dispute resolution and OSC’s laws.
-
-Page Content
 
 ​
 

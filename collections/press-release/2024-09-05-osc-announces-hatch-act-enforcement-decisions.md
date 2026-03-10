@@ -7,8 +7,6 @@ Hatch Act
 
 Navy Secretary Del Toro Found in Violation; Other Matters Closed, Including Involving Secretary Cardona and Former Attorney General Barr
 
-Page Content
-
 ​​​
 
 **_Navy Secretary Del Toro Found in Violation; Other Matters Closed, Including Involving Secretary Cardona and Former Attorney General Barr_**

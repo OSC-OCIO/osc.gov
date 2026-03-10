@@ -7,8 +7,6 @@ Disclosure of Wrongdoing
 
 OSC today asked the VA to report within 30 days on whether the VA has implemented the  latest  generation  of  HIV  testing  at  veterans  facilities  nationwide.
 
-Page Content
-
 ​The U.S. Office of Special Counsel (OSC) today asked the Department of Veterans Affairs (VA) to report within 30 days on whether the VA has implemented the latest generation of HIV testing at veterans facilities nationwide. A whistleblower at the Miami VA Medical Center (VAMC) prompted OSC to seek a VA investigation of concerns that the Miami facility was slow to implement an agency‐wide directive to use the latest generation testing.
 
 The VA investigation in Miami led to outside testing for veterans who required more precise results than the Miami VAMC could offer at the time. The review identified eight veterans whose HIV test results in the outside tests were different from the in‐house tests, a discrepancy described in the medical field as “discordant results.” In one of the eight cases, the patient was deemed by his provider to be “high‐risk” and his sample was subjected to more precise testing. Ultimately, the testing determined he was HIV‐infected, and he commenced treatment. In another case, the Miami VAMC repeatedly attempted to contact a veteran with discordant results. Eventually, the veteran returned for repeat testing, tested positive for HIV, and commenced treatment. The remaining six veterans with discordant results returned to the Miami VAMC for retesting and tested negative. 

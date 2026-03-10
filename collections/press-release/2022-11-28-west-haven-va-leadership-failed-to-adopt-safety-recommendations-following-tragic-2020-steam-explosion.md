@@ -1,13 +1,11 @@
 ---
-
 title: West Haven VA Leadership Failed to Adopt Safety Recommendations Following Tragic 2020 Steam Explosion
 date: 2022-11-28
 ---
+
 Disclosure of Wrongdoing
 
 OSC) today alerted the President and Congress that the VA has yet to remedy serious occupational safety hazards at its West Haven, Connecticut hospital following a fatal accident two years prior.
-
-Page Content
 
 ​The U.S. Office of Special Counsel (OSC) today [alerted](https://gcc02.safelinks.protection.outlook.com/?url=http://sp19-app-02/Documents/Public%20Files/FY22/DI-22-000099/DI-22-000099%20Letter%20to%20the%20President_Redacted.pdf&data=05%7c01%7cZKurz%40osc.gov%7c9bff4ee2404e4bcb892008dad174f674%7c39dcbe17c0694d7c8ad7efbbedb5fc55%7c0%7c0%7c638052597544629145%7cUnknown%7cTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7c3000%7c%7c%7c&sdata=37GE7LGkp0WM/mhbhcydxyeDa/zy9q6ly2fyl9GD5ZI%3D&reserved=0) the President and Congress that the U.S. Department of Veterans Affairs (VA) has yet to remedy serious occupational safety hazards at its West Haven, Connecticut hospital following a fatal accident two years prior.
 

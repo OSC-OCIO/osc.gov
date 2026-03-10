@@ -7,8 +7,6 @@ Hatch Act
 
 OSC issued a report outlining the investigative findings of its Hatch Act Unit in response to complaints regarding senior Trump administration officials’ political activities.
 
-Page Content
-
 ​Today, the U.S. Office of Special Counsel (OSC) issued a [report](/~assets/docs/investigation-of-political-activities-by-senior-trump-administratio-136ab295.pdf) outlining the investigative findings of its career Hatch Act Unit staff in response to Hatch Act complaints filed with OSC regarding senior Trump administration officials' participation in the 2020 Republican National Convention (RNC) and their political activities leading up to the presidential election.
 
 OSC received numerous complaints alleging Hatch Act violations at the RNC and the specter of political activity on White House grounds. In its report, however, OSC found that the Hatch Act, as written, does not prohibit political events from being held on certain White House grounds, nor would it broadly prohibit federal employees from participating. Further, then-President Donald J. Trump and Vice President Michael Pence were exempt from the Hatch Act's restrictions.

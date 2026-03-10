@@ -1,13 +1,11 @@
 ---
-
 title: OSC Obtains $90K in Damages for Whistleblower Retaliated Against after Disclosing Unqualified Flight Safety Inspectors
 date: 2020-02-24
 ---
+
 Prohibited Personnel Practices
 
 OSC today announced a settlement agreement reached with the Federal Aviation Administration, including $90,000 in compensatory damages, for an Aviation Safety Inspector who was retaliated against.
-
-Page Content
 
 ​The U.S. Office of Special Counsel (OSC) today announced a recent settlement agreement reached with the Federal Aviation Administration (FAA), including $90,000 in compensatory damages, for an Aviation Safety Inspector who was retaliated against for blowing the whistle on unqualified flight safety inspectors.
 

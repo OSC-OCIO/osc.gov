@@ -7,8 +7,6 @@ Hatch Act
 
 OSC today issued an advisory opinion to inform federal employees of when and how the Hatch Act might apply to expressing views about the current conflict between Israel and Hamas.
 
-Page Content
-
 ​The U.S. Office of Special Counsel (OSC) has received numerous questions regarding whether the Hatch Act restricts federal employees from expressing their views about the current conflict between Israel and Hamas and other related topics.  In response, OSC today issued an advisory opinion to inform federal employees of when and how the Hatch Act might apply to such speech.
 
 The relevant provision of the Hatch Act prohibits employees from engaging in political activity while on duty or in the federal workplace.  Speaking about the ongoing conflict between Israel and Hamas _is not_ political activity unless that speech also suggests domestic electoral action or shows support for, or opposition to, domestic political parties, partisan political groups, or candidates for partisan political office.

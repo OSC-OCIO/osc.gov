@@ -1,13 +1,11 @@
 ---
-
 title: Three VA Whistleblowers Receive OSC’s 2024 Public Servant Award for Disclosing Improper Handling of Veterans’ Personal Information
 date: 2024-10-10
 ---
+
 Disclosure of Wrongdoing
 
 OSC today announces three U.S. Department of Veterans Affairs whistleblowers as recipients of the 2024 OSC Public Servant award.
-
-Page Content
 
 The U.S. Office of Special Counsel (OSC) today announces three U.S. Department of Veterans Affairs (VA) whistleblowers as recipients of the 2024 OSC Public Servant award.
 

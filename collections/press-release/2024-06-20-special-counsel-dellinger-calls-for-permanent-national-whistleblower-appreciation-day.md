@@ -1,13 +1,11 @@
 ---
-
 title: Special Counsel Dellinger Calls for Permanent National Whistleblower Appreciation Day
 date: 2024-06-20
 ---
+
 General
 
 In a letter to congressional leaders, Special Counsel Hampton Dellinger urged Congress to introduce and pass legislation permanently designating July 30th as National Whistleblower Appreciation Day.
-
-Page Content
 
 In a letter to congressional leaders, Special Counsel Hampton Dellinger urged both Houses of Congress to introduce and pass legislation permanently designating July 30th as National Whistleblower Appreciation Day (NWAD).
 

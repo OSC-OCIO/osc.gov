@@ -1,13 +1,11 @@
 ---
-
 title: OSC Seeks to Protect LGBTQI+ Employees in the Federal Workplace During Pride Month and Year Round
 date: 2024-06-14
 ---
+
 Prohibited Personnel Practices
 
 OSC reminds federal employees that if they believe they have been subjected to a prohibited personnel practice (PPP) based on sexual orientation or gender identity, they may seek assistance from OSC.
-
-Page Content
 
 ​
 

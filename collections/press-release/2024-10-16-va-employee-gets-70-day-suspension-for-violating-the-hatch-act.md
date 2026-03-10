@@ -1,13 +1,11 @@
 ---
-
 title: VA Employee Gets 70-day Suspension for Violating the Hatch Act
 date: 2024-10-16
 ---
+
 Hatch Act
 
 OSC today announces that a VA employee who violated the Hatch Act by sharing Facebook posts promoting partisan political fundraisers has agreed to a 70-day unpaid suspension.
-
-Page Content
 
 The U.S. Office of Special Counsel (OSC) today announces that a U.S. Department of Veterans Affairs (VA) employee who violated the Hatch Act by sharing Facebook posts promoting partisan political fundraisers has agreed to a 70-day unpaid suspension.
 

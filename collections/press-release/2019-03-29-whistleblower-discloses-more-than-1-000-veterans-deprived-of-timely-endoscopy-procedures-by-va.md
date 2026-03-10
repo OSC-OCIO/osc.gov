@@ -7,8 +7,6 @@ Disclosure of Wrongdoing
 
 For the second time in as many months, OSC has alerted the President and Congress to unacceptable wait times associated with endoscopy procedures at two different VA medical centers.
 
-Page Content
-
 For the second time in as many months, the U.S. Office of Special Counsel (OSC) [has alerted](/~assets/docs/di-18-0857-letter-to-president-redacted.pdf) the President and Congress to unacceptable wait times associated with endoscopy procedures at two different Department of Veterans Affairs Medical Centers (VAMCs). A whistleblower alerted OSC to the lengthy backlog of patients who did not receive timely follow-up endoscopy procedures at two medical centers within the Eastern Kansas Health Care System (Eastern Kansas HCS). The resulting VA [investigation](/~assets/docs/di-18-0857-agency-report-redacted.pdf) follows a similar agency inquiry into a whistleblower disclosure involving a backlog of hundreds of veterans awaiting endoscopies at an Orlando, Florida VAMC that [was closed](/~assets/docs/di-18-1683-and-di-18-1827-letter-to-president.pdf)​ by OSC in February 2019.
 
 “These disclosures reveal that the VA continues to struggle with unacceptable delays in providing vital medical care for our veterans,” said **Special Counsel Henry J. Kerner**. “Endoscopy procedures are critical to early cancer detection, which can lower mortality rates for certain types of cancer. But to be effective, these procedures must be performed regularly and with timely follow-up appointments. It is incumbent on the VA to ensure adequate medical staffing at its facilities, or utilize Community Care to fill the gaps so that our veterans have access to these lifesaving procedures.”

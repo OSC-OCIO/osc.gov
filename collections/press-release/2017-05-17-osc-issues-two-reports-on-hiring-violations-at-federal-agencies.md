@@ -7,8 +7,6 @@ Prohibited Personnel Practices
 
 OSC recently issued two reports concerning prohibited personnel practices at DOJ and the U.S. Department of the Treasury.
 
-Page Content
-
 The U.S. Office of Special Counsel (OSC) recently issued two reports concerning prohibited personnel practices at the U.S. Department of Justice (DOJ) and the U.S. Department of the Treasury. The reports contain OSC’s investigative findings and are posted to OSC’s website to better educate the federal workforce and help prevent future prohibited personnel practices.
 
 In one [report](/~assets/docs/prohibited-personnel-practices-report-5-usc-2302b5-b6-2692676d.pdf), OSC found hiring violations for two positions at DOJ where officials sought to encourage preference eligible veterans to withdraw their applications. DOJ wanted to hire a non-veteran candidate. When the veterans declined to withdraw, DOJ selected the non-veteran candidate, despite rules mandating that veterans receive priority in hiring over non-veterans in certain circumstances. After DOJ human resources staff refused to process the selection of the non-veteran, DOJ re-announced the positions with new qualification requirements that effectively excluded all veterans who applied. During the course of its investigation, OSC sought and obtained a stay from the U.S. Merit Systems Protection Board to ensure that DOJ did not fill the positions while OSC investigated.

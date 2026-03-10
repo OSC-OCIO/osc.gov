@@ -1,13 +1,11 @@
 ---
-
 title: OSC Obtains Corrective Action for U.S. Army Physician Who Reported Safety Issues at Biosafety Laboratories
 date: 2024-08-27
 ---
+
 General
 
 OSC today announced it settled a complaint against the U.S. Army seeking corrective action for a whistleblower who was retaliated against.
-
-Page Content
 
 **_​Agreement is one of the largest compensatory damage settlements OSC has ever secured_**
 

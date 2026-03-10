@@ -1,15 +1,13 @@
 ---
-
 title: OSC Announces Settlement Agreement Between HHS and Former BARDA Director Dr. Rick Bright After his Reassignment
 date: 2021-08-09
 ---
+
 Prohibited Personnel Practices
 
 OSC today announced a settlement agreement reached between HHS and Dr. Rick Bright, the former Director of the Biomedical Advanced Research and Development Authority.
 
-Page Content
-
-​The U.S. Office of Special Counsel (OSC) today announced a settlement agreement reached between the U.S. Department of Health and Human Services (HHS) and Dr. Rick Bright, the former Director of the Biomedical Advanced Research and Development Authority (BARDA).  
+​The U.S. Office of Special Counsel (OSC) today announced a settlement agreement reached between the U.S. Department of Health and Human Services (HHS) and Dr. Rick Bright, the former Director of the Biomedical Advanced Research and Development Authority (BARDA).
 
 While serving as BARDA director, Dr. Bright disclosed potential safety risks and the lack of efficacy associated with use of chloroquine and hydroxychloroquine as therapeutic treatments for COVID-19. Dr. Bright also disclosed concerns about the government's pandemic response and about influence exerted by political and industrial interests on BARDA and HHS, both before and during the pandemic. After Dr. Bright's disclosures, HHS reassigned Dr. Bright to a non-supervisory position at the National Institutes of Health. 
 

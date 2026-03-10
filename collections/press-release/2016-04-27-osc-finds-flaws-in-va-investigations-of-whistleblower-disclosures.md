@@ -7,8 +7,6 @@ Disclosure of Wrongdoing
 
 OSC reported that the findings in three Department of Veterans Affairs (VA) investigations concerning whistleblower disclosures are deficient
 
-Page Content
-
 ​In a letter to the White House and Congress today, the U.S. Office of Special Counsel (OSC) [reported](/~assets/docs/di-14-2520-di-14-2763-and-di-14-2947-letter-to-president.pdf) that the findings in three Department of Veterans Affairs (VA) investigations concerning whistleblower disclosures of scheduling data manipulation at several Texas VA hospitals and clinics are deficient and unreasonable. OSC determined that the agency’s investigations, which were conducted by VA’s Office of Inspector General (OIG), failed to appropriately address the whistleblowers’ allegations. 
 
 The three cases are: 

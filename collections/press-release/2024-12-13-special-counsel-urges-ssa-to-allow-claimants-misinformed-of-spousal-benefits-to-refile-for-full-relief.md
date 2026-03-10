@@ -7,8 +7,6 @@ Disclosure of Wrongdoing
 
 OSC alerted the President that claimants seeking spousal benefits have filed disadvantageous claims, even though claims examiners at SSA are required to provide information to help filers.
 
-Page Content
-
 The U.S. Office of Special Counsel (OSC) today [alerted​](/~assets/docs/redacted-president-letter-di-24-000154.pdf) the President and Congress that claimants seeking social security spousal benefits have filed disadvantageous claims, even though claims examiners at the Social Security Administration (SSA) are required to provide information to help filers maximize their benefits.
 
 SSA internal rules require claims examiners to explain advantages and disadvantages of waiting to file for benefits until full retirement age and to document these discussions. The whistleblower, SSA Claims Specialist John McAdams, alleged claims examiners are failing to inform claimants of this critical information, often to the recipients' financial detriment.

@@ -1,13 +1,11 @@
 ---
-
 title: OSC Remembers the late K. William O’Connor, Special Counsel (1982-86)
 date: 2024-11-26
 ---
+
 General
 
 OSC recognizes the passing of K. William "Bill" O'Connor who served as Special Counsel from 1982-86. O’Connor passed away in October at the age of 93.
-
-Page Content
 
 The U.S. Office of Special Counsel (OSC) today recognizes the passing of K. William "Bill" O'Connor who served as Special Counsel from 1982-86. O'Connor [passed away](https://gcc02.safelinks.protection.outlook.com/?url=https://www.legacy.com/us/obituaries/washingtonpost/name/k-o-connor-obituary?id%3D56837300&data=05%7c02%7c%7c350ef2d70578431771e708dd0e23adae%7c39dcbe17c0694d7c8ad7efbbedb5fc55%7c0%7c0%7c638682268583699867%7cUnknown%7cTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7c0%7c%7c%7c&sdata=SZUnzMPnEax95kFxpqgrSU9tJrqMkd9c%2BjWfDB0bZmE%3D&reserved=0) in October at the age of 93.
 

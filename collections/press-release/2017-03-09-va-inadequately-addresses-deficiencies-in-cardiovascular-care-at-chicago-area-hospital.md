@@ -7,8 +7,6 @@ Disclosure of Wrongdoing
 
 The VA failed to adequately address a whistleblower’s disclosures of deficiencies in cardiovascular care at a Chicago VA hospital.
 
-Page Content
-
 ​In a letter to the White House and Congress today, the U.S. Office of Special Counsel (OSC) [reported](/~assets/docs/di-14-3705-letter-to-president.pdf)​ that the Department of Veterans Affairs (VA) failed to adequately address a whistleblower’s disclosures of deficiencies in cardiovascular care at Edward Hines, Jr. VA Hospital (Hines), in Hines, Illinois.
 
 Dr. Lisa Nee, a former cardiologist at Hines, disclosed that serious deficiencies in cardiovascular care and echocardiogram imaging resulted in unnecessary invasive coronary procedures and delays in treatment. Dr. Nee also alleged that a particular physician falsely inflated the number and type of procedures he performed to boost the appearance of his productivity.
