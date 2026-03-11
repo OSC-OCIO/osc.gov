@@ -8,17 +8,20 @@ eleventyNavigation:
   order: 0
 highlights:
   - title: "Protecting Whistleblowers"
-    alt: ""
+    alt: "American flag"
+    image: "/img/whistleblower.jpg"
     body: "Learn what protections are available when federal employees disclose wrongdoing, safety hazards, or abuse of authority."
     cta_text: "Explore Whistleblower Protections"
     cta_url: "/services/disclosure-of-wrongdoing/overview/"
   - title: "Hatch Act Guidance"
-    alt: ""
+    alt: "Gavel"
+    image: "/img/hatchact.jpg"
     body: "Review practical Hatch Act rules, guidance, and recent enforcement resources for federal employees and agencies."
     cta_text: "Read Hatch Act Resources"
     cta_url: "/services/hatch-act/overview/"
   - title: "Agency Certification and Training"
-    alt: ""
+    alt: "Person using laptop"
+    image: "/img/training.jpg"
     body: "Find outreach tools, training options, and 2302(c) certification resources to help agencies strengthen compliance."
     cta_text: "View Outreach Services"
     cta_url: "/services/outreach/overview/"
@@ -153,6 +156,7 @@ highlights:
               </div>
             </li>
           {%- endfor -%}
+          <a class="usa-button usa-button--outline" href="/news/index">View More News</a>
         </ul>
       </div>
     </div>
