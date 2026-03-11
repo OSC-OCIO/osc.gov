@@ -55,7 +55,7 @@
         {% endif %} {% endfor %}
         <li class="usa-nav__primary-item desktop:margin-left-auto">
           <a
-            class="margin-y-2 desktop:margin-y-0 radius-0 usa-button usa-button--accent-cool desktop:margin-right-neg-05 desktop-lg:margin-right-neg-2 display-flex flex-align-center"
+            class="desktop:display-none margin-y-2 desktop:margin-y-0 radius-0 usa-button usa-button--accent-cool desktop:margin-right-neg-05 desktop-lg:margin-right-neg-2 display-flex flex-align-center"
             href="/file-complaint/onlineportal"
           >
             <span class="margin-right-1px">{% uswds_icon "report" %}</span>
@@ -80,6 +80,12 @@
           {% endfor %}
         </ul>
         {% include 'searchgov/form.html', searchgov: site.searchgov %}
+      </div>
+      <div class="complaint_wrapper display-none desktop:display-block">
+        <a href="/file-complaint/onlineportal" class="complaint">
+          {% uswds_icon "report" "margin-right-1 usa-icon--size-4" %}
+          <div class="complaint_content">File a Complaint</div>
+        </a>
       </div>
     </div>
   </nav>
