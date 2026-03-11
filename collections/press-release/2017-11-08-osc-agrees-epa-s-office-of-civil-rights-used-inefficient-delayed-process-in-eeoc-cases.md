@@ -8,7 +8,7 @@ tags:
 
 OSC sent a letter to President Trump agreeing with an EPA whistleblower who alleged serious process deficiencies in the handling of cases under EEOC regulations.
 
-The Office of Special Counsel today sent a [letter](/~assets/docs/di-17-1431-letter-to-president.pdf) to President Trump agreeing with an Environmental Protection Agency (EPA) whistleblower who alleged serious process deficiencies in the handling of cases under Equal Employment Opportunity Commission (EEOC) regulations by the EPA’s Office of Civil Rights (OCR).
+The Office of Special Counsel today sent a [letter](/~assets/cases/di-17-1431-letter-to-president.pdf) to President Trump agreeing with an Environmental Protection Agency (EPA) whistleblower who alleged serious process deficiencies in the handling of cases under Equal Employment Opportunity Commission (EEOC) regulations by the EPA’s Office of Civil Rights (OCR).
 
 “Notably, OCR’s mission involves protecting EPA employees from discrimination,” Special Counsel Henry J. Kerner wrote to the President. “By allowing a highly inefficient process to remain uncorrected over a period of at least six years, while thereby adversely affecting the statutory and due process rights of EPA employees, OCR has engaged in management inaction that has a deleterious effect on its ability to accomplish its mission. While EPA has made positive steps to remediate these issues, the established history of delays and their potential consequences are troubling.”
 

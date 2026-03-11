@@ -8,7 +8,7 @@ tags:
 
 OSC today alerted the President and Congress that a VA medical center in Philadelphia failed to ensure that medications were stored at temperatures during transit to home-based patients.
 
-The U.S Office of Special Counsel (OSC) [today alerted](/~assets/docs/di-18-2504-redacted-presidents-letter.pdf) the President and Congress that a U.S Department of Veterans Affairs (VA) medical center in Philadelphia, Pennsylvania, failed to ensure that medications were stored at appropriate temperatures during transit to home-based patients.
+The U.S Office of Special Counsel (OSC) [today alerted](/~assets/cases/di-18-2504-redacted-presidents-letter.pdf) the President and Congress that a U.S Department of Veterans Affairs (VA) medical center in Philadelphia, Pennsylvania, failed to ensure that medications were stored at appropriate temperatures during transit to home-based patients.
 
  
 

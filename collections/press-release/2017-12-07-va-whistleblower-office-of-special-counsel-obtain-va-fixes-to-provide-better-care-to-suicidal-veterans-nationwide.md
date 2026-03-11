@@ -22,4 +22,4 @@ The agency said it reviewed the suicide prevention team workload, another concer
 
 manageable. The agency noted that the suicide prevention team is currently successfully meeting the demands and requirements of the program.
 
-The special counsel sent a copy of his letter, the unredacted agency reports, and the whistleblower comments to the chairmen and ranking members of the Senate and House Committees on Veterans Affairs. He also filed copies of the [letter](/~assets/docs/di-15-4906-letter-to-president-redacted.pdf), the redacted agency reports, and the whistleblower comments in OSC’s public file, available at [www.osc.gov](https://www.osc.gov/).
+The special counsel sent a copy of his letter, the unredacted agency reports, and the whistleblower comments to the chairmen and ranking members of the Senate and House Committees on Veterans Affairs. He also filed copies of the [letter](/~assets/cases/di-15-4906-letter-to-president-redacted.pdf), the redacted agency reports, and the whistleblower comments in OSC’s public file, available at [www.osc.gov](https://www.osc.gov/).

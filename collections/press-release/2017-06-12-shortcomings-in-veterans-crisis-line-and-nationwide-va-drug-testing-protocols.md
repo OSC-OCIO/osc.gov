@@ -14,7 +14,7 @@ The VA substantiated allegations by two anonymous whistleblowers that 35 unquali
 
 The VA’s conclusions were disputed by a recent VA Office of Inspector General [review](https://www.va.gov/oig/pubs/VAOIG-16-03985-181.pdf), which found significant deficiencies in the quality assurance program relied upon by the agency in asserting that no danger existed.
 
-Special Counsel Carolyn Lerner found the VA’s report unreasonable. In her [letter](/~assets/docs/di-16-3273-and-di-16-3277-letter-to-president.pdf), she noted that employees responsible for providing services to vulnerable veterans experiencing acute mental health crises should be held to the highest professional standards, and urged further review of VCL management and improvements to training and quality assurance.
+Special Counsel Carolyn Lerner found the VA’s report unreasonable. In her [letter](/~assets/cases/di-16-3273-and-di-16-3277-letter-to-president.pdf), she noted that employees responsible for providing services to vulnerable veterans experiencing acute mental health crises should be held to the highest professional standards, and urged further review of VCL management and improvements to training and quality assurance.
 
 In a separate matter, the VA substantiated a nationwide failure to comply with VA guidelines for random drug testing of patients. Based on disclosures from an anonymous whistleblower, the VA reviewed data from 16 locations and found that less than 55 percent of long-term, opioid-treated patients received routine, random urine drug tests, falling well short of VA guidelines.
 
