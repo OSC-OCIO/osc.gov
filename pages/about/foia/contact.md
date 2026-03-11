@@ -2,6 +2,7 @@
 title: Contact Us About FOIA
 eleventyNavigation:
   order: 6
+  title: Contact us
 ---
 
 ### OSC FOIA Office

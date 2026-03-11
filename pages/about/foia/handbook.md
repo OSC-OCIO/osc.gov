@@ -2,6 +2,7 @@
 title: FOIA Handbook
 eleventyNavigation:
   order: 2
+  title: Handbook
 faqItems:
   - question: What is the Freedom of Information Act?
     answer: |-

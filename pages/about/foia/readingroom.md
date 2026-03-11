@@ -3,6 +3,7 @@ title: FOIA Reading Room
 layout: layouts/resource-index
 eleventyNavigation:
   order: 3
+  title: Reading room
 items:
   - name: "FOIA Log Fiscal Year 2021"
     url: "/~assets/docs/foia-log-fiscal-year-2021.pdf"

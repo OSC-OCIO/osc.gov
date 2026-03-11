@@ -1,7 +1,8 @@
 ---
-title: 'FOIA: Resources'
+title: "FOIA: Resources"
 eleventyNavigation:
   order: 5
+  title: Resources
 ---
 
 [Department of Justice Guide to the Freedom of Information Act](https://www.justice.gov/oip/doj-guide-freedom-information-act-0)
