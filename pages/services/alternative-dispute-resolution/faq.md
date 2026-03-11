@@ -4,5 +4,5 @@ layout: layouts/faq-accordion
 faqTag: adr
 eleventyNavigation:
   order: 3
+  title: FAQs
 ---
-

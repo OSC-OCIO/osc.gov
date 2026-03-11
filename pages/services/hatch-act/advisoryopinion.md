@@ -3,6 +3,7 @@ title: Hatch Act Advisory Opinions
 layout: layouts/resource-index
 eleventyNavigation:
   order: 3
+  title: Advisory opinions
 reports:
   - heading: "Coverage"
     items:
@@ -405,6 +406,7 @@ reports:
       - name: "Elected Sheriffs Use of Title and Uniform for Campaign Purposes"
         url: "/~assets/docs/elected-sheriffs-use-of-title-and-uniform-for-campaign-purposes.pdf"
 ---
+
 <ul class="usa-list margin-top-2">
   {%- for section in reports -%}
     <li>
@@ -414,6 +416,7 @@ reports:
 </ul>
 
 {%- for section in reports -%}
+
   <h2 id="{{- section.heading | slugify -}}">{{- section.heading -}}</h2>
   <ul class="usa-icon-list">
     {%- for item in section.items -%}

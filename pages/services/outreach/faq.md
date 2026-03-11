@@ -4,5 +4,5 @@ layout: layouts/faq-accordion
 faqTag: otc
 eleventyNavigation:
   order: 7
+  title: FAQs
 ---
-

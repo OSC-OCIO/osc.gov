@@ -2,6 +2,7 @@
 title: USERRA Overview
 eleventyNavigation:
   order: 0
+  title: Overview
 ---
 
 ​The Uniformed Services Employment and Reemployment Rights Act (USERRA) is a federal law, passed in 1994, that protects military service members and veterans from employment discrimination on the basis of their service, and allows them to regain their civilian jobs following a period of uniformed service.

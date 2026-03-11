@@ -2,6 +2,7 @@
 title: How to File a Disclosure Claim
 eleventyNavigation:
   order: 2
+  title: How to file a claim
 ---
 
 ​Eligible federal employees may report wrongdoing online using OSC Form 14​​​​ by clicking the green File a Complaint button in the top right-hand corner, via fax number (202) 804-7004, or (800) 572-2249, or by mail to:

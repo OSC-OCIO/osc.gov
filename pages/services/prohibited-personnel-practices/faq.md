@@ -4,5 +4,5 @@ layout: layouts/faq-accordion
 faqTag: ppp
 eleventyNavigation:
   order: 8
+  title: FAQs
 ---
-

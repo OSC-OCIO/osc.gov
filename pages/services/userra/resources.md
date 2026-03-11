@@ -2,6 +2,7 @@
 title: Additional Resources for USERRA
 eleventyNavigation:
   order: 6
+  title: Additional resources
 ---
 
 ## USERRA Overview - Video
