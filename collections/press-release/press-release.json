@@ -1,5 +1,9 @@
 {
   "permalink": "/news/{{ page.date | date: \"%Y-%m-%d\" }}/{{ page.fileSlug }}/",
   "layout": "layouts/post",
+  "sidenav": true,
+  "eleventyComputed": {
+    "breadcrumb_key": "news-{{ page.date | date: \"%Y\" }}"
+  },
   "tags": ["press-release"]
 }
