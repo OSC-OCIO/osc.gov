@@ -30,13 +30,13 @@ footer_navigation:
   - name: Open Government
     url: "/resources/opengov"
   - name: Freedom of Information Act (FOIA)
-    url: "/about/foia"
+    url: "/about/foia/overview"
   - name: Artificial Intelligence (AI)
     url: "/resources/ai"
   - name: Privacy Program
-    url: "/about/privacy"
+    url: "/about/privacy/overview"
   - name: No FEAR Act/EEO Reports
-    url: "/resources/reports"
+    url: "/resources/reports#no-fear-act-reports-and-eeo-reports"
   - name: USA.gov
     url: https://usa.gov/
   - name: Accessibility
