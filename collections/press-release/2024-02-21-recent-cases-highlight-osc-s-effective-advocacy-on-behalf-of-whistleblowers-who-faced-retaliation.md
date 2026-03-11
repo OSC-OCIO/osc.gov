@@ -1,9 +1,10 @@
 ---
 title: Recent Cases Highlight OSC’s Effective Advocacy on Behalf of Whistleblowers Who Faced Retaliation
 date: 2024-02-21
+tags:
+  - prohibited personnel practices
 ---
 
-Prohibited Personnel Practices
 
 OSC highlights some recent cases in which OSC succeeded in getting federal agencies to redress the retaliatory actions the agencies took against whistleblowers.
 
@@ -22,5 +23,3 @@ Alleging whistleblower retaliation, an employee challenged the cancelation of a 
 An employee alleged retaliation for reporting co-workers for waste and other wrongdoing and for cooperating with an OSC investigation. OSC investigated the employee's claim that retaliatory actions included suspension, non-selection, and being placed on administrative leave pending an investigation into alleged wrongful conduct.  The parties entered into a settlement agreement that included $75,000 in compensatory damages, rescission of the suspension, and a higher performance rating.
 
 OSC applauds the parties for their willingness to resolve these matters.
-
-\*\*\*​

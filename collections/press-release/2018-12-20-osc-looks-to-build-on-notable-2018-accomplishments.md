@@ -1,9 +1,10 @@
 ---
 title: OSC Looks to Build on Notable 2018 Accomplishments
 date: 2018-12-20
+tags:
+  - general
 ---
 
-General
 
 OSC today released a summary of the historic accomplishments achieved in 2018 and committed  to continue  the agency’s  success  in  2019  and beyond.
 
@@ -15,7 +16,7 @@ OSC continued to provide outsized returns for the federal government and achieve
 
 **Fixing problems and saving taxpayer dollars**
 
-​When federal air traffic controllers witness dangerous flight protocols, when Pentagon procurement officers find significant irregularities in government contracts, or when U.S. Department of Veterans Affairs (VA) professionals observe unsafe practices in hospitals and clinics, OSC acts to ensure that whistleblowers’ disclosures are heard and acted upon. OSC redoubled its efforts to address disclosures in a timely fashion and to ensure that waste, fraud, abuse, and violations of law are identified and remedied quickly. Of the disclosures referred by OSC for investigation that were closed in FY 2018, agencies substantiated allegations in 88 percent of the cases.  In recent years, whistleblowers have proven invaluable to highlighting quality of care issues at VA health facilities and ensuring our government fulfill s its solemn commitment to our veterans. Through its work on these cases, OSC has helped improve public safety, prevent fraud and abuse, and recoup significant funds to the U.S. Treasury. For example, a Navy whistleblower reported to OSC that $32 million in equipment was  unaccounted for due to lax accountability measures at the facility, a claim substantiated by the agency. As a result, new policies were put in place to improve accountability and prevent further equipment loss, thus saving valuable taxpayer resources.  In another recent case, OSC referred a whistleblower’s disclosure that an Environmental Protection Agency (EPA) regional office had failed to conduct proper lead‐based paint inspections as required by law. The EPA’s Office of Inspector General investigated and largely substantiated the whistleblower’s disclosures. The EPA agreed to multiple systemic improvements to increase oversight and accountability.
+When federal air traffic controllers witness dangerous flight protocols, when Pentagon procurement officers find significant irregularities in government contracts, or when U.S. Department of Veterans Affairs (VA) professionals observe unsafe practices in hospitals and clinics, OSC acts to ensure that whistleblowers’ disclosures are heard and acted upon. OSC redoubled its efforts to address disclosures in a timely fashion and to ensure that waste, fraud, abuse, and violations of law are identified and remedied quickly. Of the disclosures referred by OSC for investigation that were closed in FY 2018, agencies substantiated allegations in 88 percent of the cases.  In recent years, whistleblowers have proven invaluable to highlighting quality of care issues at VA health facilities and ensuring our government fulfill s its solemn commitment to our veterans. Through its work on these cases, OSC has helped improve public safety, prevent fraud and abuse, and recoup significant funds to the U.S. Treasury. For example, a Navy whistleblower reported to OSC that $32 million in equipment was  unaccounted for due to lax accountability measures at the facility, a claim substantiated by the agency. As a result, new policies were put in place to improve accountability and prevent further equipment loss, thus saving valuable taxpayer resources.  In another recent case, OSC referred a whistleblower’s disclosure that an Environmental Protection Agency (EPA) regional office had failed to conduct proper lead‐based paint inspections as required by law. The EPA’s Office of Inspector General investigated and largely substantiated the whistleblower’s disclosures. The EPA agreed to multiple systemic improvements to increase oversight and accountability.
 
 **Addressing whistleblower retaliation and other prohibited personnel practices**
 
@@ -31,6 +32,4 @@ It is critical that OSC work with agencies to ensure they receive robust trainin
 
 **Additional 2018 accomplishments**
 
-Read more about OSC’s accomplishments in our annual [Performance and Accountability Report](/~assets/docs/fy-2018-performance-and-accountability-report.pdf)​ to Congress.
-
-\*\*\*​
+Read more about OSC’s accomplishments in our annual [Performance and Accountability Report](/~assets/docs/fy-2018-performance-and-accountability-report.pdf) to Congress.

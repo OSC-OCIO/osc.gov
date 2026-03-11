@@ -1,9 +1,10 @@
 ---
 title: OSC Obtains Relief for More VA Whistleblowers
 date: 2015-01-20
+tags:
+  - prohibited personnel practices
 ---
 
-Prohibited Personnel Practices
 
 OSC is continuing to investigate and obtain relief for Department of Veterans Affairs (VA) whistleblowers with retaliation complaints.
 
@@ -19,8 +20,6 @@ Richard Hill – Dr. Hill was a primary care physician at the Fort Detrick, Comm
 
 **Coleen Elmers** – Ms. Elmers is a nurse manager at the VAMC in Spokane, Washington. In July 2014, she filed a complaint with the VA Office of Inspector General about a fraudulently altered performance evaluation of one of her subordinates, which Ms. Elmers previously refused to change. In October 2014, the supervisor rated Ms. Elmers’ performance as unsatisfactory, charging her with a lack of candor, failure to follow instructions, and inappropriate behavior for a
 
-management official. The supervisor proposed Ms. Elmers’ termination. In December, the Merit Systems Protection Board [granted​](http://www.mspb.gov/netsearch/viewdocs.aspx?docnumber=1112111&version=1116556&application=ACROBAT) OSC’s request to stay the termination while OSC investigates.
+management official. The supervisor proposed Ms. Elmers’ termination. In December, the Merit Systems Protection Board [granted](http://www.mspb.gov/netsearch/viewdocs.aspx?docnumber=1112111&version=1116556&application=ACROBAT) OSC’s request to stay the termination while OSC investigates.
 
 “OSC will continue to work with the VA to obtain relief for VA whistleblowers with meritorious reprisal claims,” said Special Counsel Carolyn Lerner. “We appreciate the VA leadership’s cooperation with OSC in assisting many VA whistleblowers.”
-
-\*\*\*

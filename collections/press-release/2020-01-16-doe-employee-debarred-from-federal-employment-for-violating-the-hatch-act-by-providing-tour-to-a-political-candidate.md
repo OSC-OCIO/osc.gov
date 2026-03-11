@@ -1,9 +1,10 @@
 ---
 title: DOE Employee Debarred from Federal Employment for Violating the Hatch Act by Providing Tour to a Political Candidate
 date: 2020-01-16
+tags:
+  - hatch act
 ---
 
-Hatch Act
 
 OSC announced a settlement agreement reached with a DOE employee who violated the Hatch Act when she provided a guided tour of a radioactive waste treatment plant in Washington State to a candidate.
 
@@ -12,5 +13,3 @@ The U.S. Office of Special Counsel (OSC) today announced a settlement agreement 
 In its November 8, 2019 complaint [filed](20-05-hatch-act-tour-candidate.md) with the Merit Systems Protection Board (MSPB), OSC deemed the employee's actions to be a flagrant Hatch Act violation because she knew that DOE had previously denied the candidate's tour requests. Moreover, just three days before she gave the tour, the employee received a reminder about how such a tour could violate the Hatch Act. Despite having this information, the employee unilaterally used her official authority to give the tour. Information and photographs from the tour were then used to further the candidate's campaign.
 
 After OSC's complaint was filed, the employee voluntarily resigned from her employment at DOE as of January 4, 2020. As part of the settlement agreement, she admitted to violating the Hatch Act and agreed to a 3-year debarment from federal employment.
-
-\*\*\*

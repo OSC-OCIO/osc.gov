@@ -1,9 +1,10 @@
 ---
 title: OSC Makes Public Findings on VA Failure to Secure Firearms Used in Kansas Killings
 date: 2025-02-28
+tags:
+  - disclosure of wrongdoing
 ---
 
-Disclosure of Wrongdoing
 
 OSC alerted the President that management at a VA Police Dept in Kansas failed to remove access to agency firearms from an officer following the issuance of a protective order, resulting in tragedy.
 
@@ -16,5 +17,3 @@ The whistleblower, a VA police officer, [alleged](https://gcc02.safelinks.protec
 Other security deficiencies were also identified. Following the investigation, the physical security deficiencies were corrected immediately and the VA outlined additional safety measures for staff to take when a VA police officer's arrest and weapons authority is suspended.
 
 In February 2025, OSC received an update on the status of disciplinary action taken against VA employees. In its response, the VA informed OSC that disciplinary action was taken, or is pending, against the Eisenhower VAMC Chief of Police, Deputy Chief, and a Lieutenant, all of whom are no longer in police service.
-
-\*\*\*​

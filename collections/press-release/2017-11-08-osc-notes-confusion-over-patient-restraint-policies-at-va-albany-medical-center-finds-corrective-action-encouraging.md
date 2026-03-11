@@ -1,9 +1,10 @@
 ---
 title: OSC Notes Confusion Over Patient Restraint Policies at VA Albany Medical Center, Finds Corrective Action Encouraging
 date: 2017-11-08
+tags:
+  - disclosure of wrongdoing
 ---
 
-Disclosure of Wrongdoing
 
 OSC today wrote President Trump and publicly revealed the results of an investigation by the VA into whistleblower allegations of instances of excessive use of physical restraints.
 
@@ -15,6 +16,4 @@ After reviewing the VA’s reports, OSC determined that the VA’s findings did 
 
 “The reports also demonstrate confusion and/or a lack of knowledge of VA rules and policies on the restraint of mental health patients, including the policies and procedures that were in place at the VAMC at the time of the incidents described,” Special Counsel Henry J. Kerner wrote to the President. “Nevertheless, OSC is encouraged that the VA has taken appropriate corrective action, including the implementation of and training for a revised policy and procedures that are now in place at the VAMC.”
 
-As required by statute, OSC sent a copy of its letter, an unredacted version of the agency reports, and whistleblower comments to the Chairmen and Ranking Members of the Senate and House Committees on Veterans’ Affairs. OSC also filed a copy of the [letter to the President](/~assets/docs/di-14-2519-letter-to-president.pdf)​, redacted reports, and whistleblower comments in its public file. This matter is now closed.
-
-\*\*\*
+As required by statute, OSC sent a copy of its letter, an unredacted version of the agency reports, and whistleblower comments to the Chairmen and Ranking Members of the Senate and House Committees on Veterans’ Affairs. OSC also filed a copy of the [letter to the President](/~assets/docs/di-14-2519-letter-to-president.pdf), redacted reports, and whistleblower comments in its public file. This matter is now closed.

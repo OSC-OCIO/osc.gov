@@ -1,9 +1,10 @@
 ---
 title: OSC Helps Protect More VA Whistleblowers
 date: 2015-04-09
+tags:
+  - prohibited personnel practices
 ---
 
-Prohibited Personnel Practices
 
 OSC recently obtained several favorable resolutions in Department of Veterans Affairs (VA) whistleblower retaliation cases.
 
@@ -22,5 +23,3 @@ complainant’s hospital wasted taxpayer money. As a result, the complainant all
 In FY 2014 and FY 2015 so far, OSC has secured either full or partial relief for over 45 VA employees who have filed whistleblower retaliation complaints. Some of these cases were detailed in prior OSC press releases. OSC is on track to help nearly twice as many VA employees in FY 2015 as in FY 2014. For some employees, OSC has obtained multiple corrective actions, such as a stay as well as a settlement. These employees have been helped through OSC’s normal investigative process, the OSC-VA expedited settlement process, and OSC’s Alternative Dispute Resolution program. OSC is currently examining about 110 pending claims of whistleblower retaliation at the VA involving patient health and safety, scheduling, and understaffing issues. These pending claims involve VA facilities in 38 states and D.C.
 
 “Retaliation against whistleblowers is unacceptable. VA employees who bring potential risks to light should be rewarded not shunned,” said Special Counsel Carolyn Lerner. “The VA’s willingness to protect these employees after the fact is encouraging. In particular, the efforts of VA’s leadership have improved OSC’s ability to secure relief for whistleblowers. However, more work needs to be done at the facility level to prevent this type of retaliation from occurring in the first place.”
-
-\*\*\*

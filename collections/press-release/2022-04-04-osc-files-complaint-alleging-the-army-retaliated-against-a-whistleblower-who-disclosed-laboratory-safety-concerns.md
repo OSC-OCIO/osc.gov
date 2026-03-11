@@ -1,15 +1,14 @@
 ---
 title: OSC Files Complaint Alleging the Army Retaliated Against a Whistleblower who Disclosed Laboratory Safety Concerns
 date: 2022-04-04
+tags:
+  - prohibited personnel practices
 ---
 
-Prohibited Personnel Practices
 
 OSC today filed a complaint with the MSPB against the Army seeking corrective action for whistleblower retaliated against for disclosing laboratory safety issues.
 
-​
-
-​The U.S. Office of Special Counsel (OSC) today filed a complaint with the U.S. Merit Systems Protection Board (MSPB) against the U.S. Department of the Army (Army) seeking corrective action for whistleblower, Dr. Patricia Dillon. The complaint alleges the Army reassigned Dr. Dillon from her leadership position and proposed to fire her from her job in retaliation for disclosing laboratory safety issues to management and the U.S. Department of Defense, Office of Inspector General (OIG). ​
+The U.S. Office of Special Counsel (OSC) today filed a complaint with the U.S. Merit Systems Protection Board (MSPB) against the U.S. Department of the Army (Army) seeking corrective action for whistleblower, Dr. Patricia Dillon. The complaint alleges the Army reassigned Dr. Dillon from her leadership position and proposed to fire her from her job in retaliation for disclosing laboratory safety issues to management and the U.S. Department of Defense, Office of Inspector General (OIG). 
 
 Dr. Patricia Dillon is the former medical director of the Biosurety Clinic for the Barquist Army Health Clinic and former director of the Biological Personnel Reliability Program at the U.S. Army Medical Research Institute of Infectious Diseases at Fort Detrick, Maryland. Dr. Dillon was responsible for screening and evaluating individuals for medical fitness to work in secure biosafety laboratories with the highest security designations, because they work with dangerous biological agents and toxins like Ebola and Tularemia. The complaint alleges that the Army retaliated against her after she raised concerns to OIG about substandard Army inspections of these laboratories and about a laboratory head discouraging employees from reporting mishaps.
 
@@ -20,5 +19,3 @@ The Army's actions following Dr. Dillon's contact with OIG are in sharp contrast
 On March 25, 2020, OSC issued a Report of Prohibited Personnel Practice to the Secretary of the Army, which made a finding of whistleblower retaliation by the Army against Dr. Dillon. However, the Army has failed to take corrective action. 
 
 “Federal Agencies are prohibited from retaliating against employees for raising safety concerns and participating in Office of Inspector General investigations," said **Special Counsel Henry J. Kerner**. “OSC is committed to ensuring that the Army provides appropriate corrective action to Dr. Dillon to remedy its unlawful retaliation against her."
-
-\*\*\*

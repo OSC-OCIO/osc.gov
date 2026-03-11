@@ -1,9 +1,10 @@
 ---
 title: Immigration Judge Who Violated the Hatch Act Fined $1K with 30-Month Debarment from Federal Service
 date: 2019-09-17
+tags:
+  - hatch act
 ---
 
-Hatch Act
 
 An immigration judge who violated the Hatch Act when she promoted then-Presidential candidate Hillary Clinton’s immigration platform recieved significant discipline.
 
@@ -19,6 +20,4 @@ The decision states:
 
 **Special Counsel Henry J. Kerner**: “We are very pleased with the outcome of this case and believe the significant disciplinary action imposed against Judge DePaolo is appropriate and warranted."
 
-In June 2018, OSC [filed the Complaint](18-37--hatch-act-immigration-judge.md) charging DePaolo with violating the Hatch Act's prohibitions against engaging in political activity while on duty or in the federal workplace and using her official authority or influence to interfere with or affect the result of an election. 
-
-\*\*\*
+In June 2018, OSC [filed the Complaint](18-37--hatch-act-immigration-judge.md) charging DePaolo with violating the Hatch Act's prohibitions against engaging in political activity while on duty or in the federal workplace and using her official authority or influence to interfere with or affect the result of an election.

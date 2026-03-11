@@ -1,13 +1,12 @@
 ---
 title: OSC Files Amicus Curiae Brief Advocating Removal of Improper Barriers to Prove Whistleblower Retaliation
 date: 2021-02-16
+tags:
+  - prohibited personnel practices
 ---
 
-Prohibited Personnel Practices
 
 OSC) has filed an amicus curiae brief with MSPB arguing for the removal of improper evidentiary barriers for federal employees who bring whistleblower retaliation claims.
-
-​
 
 The U.S. Office of Special Counsel (OSC) has filed an [_amicus curiae_](</documents/ppp/amicus%20curiae%20briefs/osc%20amicus%20curiae%20brief%20in%20salazar%20v.%20u.s.%20department%20of%20veterans%20affairs%20(mspb)%20filed%20February%2012,%202021.pdf>) (friend of the court) brief with the Merit Systems Protection Board (Board), arguing for the removal of improper evidentiary barriers for federal employees who bring whistleblower retaliation claims.
 
@@ -18,5 +17,3 @@ In analyzing the case, the Board administrative judge held that Mr. Salazar coul
 In its _amicus curiae_ brief, OSC argues that the administrative judge erred by ignoring record evidence of causation and requiring proof of an agency official’s knowledge of a whistleblower’s protected activity. Under the WPA, a whistleblower meets the relatively modest standard of causation by showing that his protected activity played a role in the personnel action at issue. In such instances, the burden of proof shifts to the agency. This decision not only disregards the plain text and overarching purpose of the statute to provide broad relief to whistleblowers, but can also lead to unjust results. OSC urges  the Board to reverse the administrative judge’s decision so that federal employees—like Mr. Salazar—can feel confident that their properly pled claims of retaliation will not be prematurely dismissed.
 
 OSC earlier filed an [_amicus curiae_](</documents/ppp/amicus%20curiae%20briefs/osc%20amicus%20curiae%20brief%20in%20salazar%20v.%20department%20of%20veterans%20affairs%20(mspb)%20filed%20August%203,%202016.pdf>) brief on Mr. Salazar’s behalf in 2016.  That case is still pending at the Board.
-
-\*\*\*

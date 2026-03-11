@@ -1,9 +1,10 @@
 ---
 title: Special Counsel Dellinger Statement on Request that MSPB Stay Terminations of Probationary Employees
 date: 2025-02-24
+tags:
+  - prohibited personnel practices
 ---
 
-Prohibited Personnel Practices
 
 Last Friday, Special Counsel Dellinger filed initial requests to “stay,” or pause, the apparently impermissible terminations of six probationary employees across various executive branch agencies.
 
@@ -16,5 +17,3 @@ OSC does not typically comment on stay requests while they are awaiting a decisi
 Dellinger added: “Firing probationary employees without individualized cause appears contrary to a reasonable reading of the law, particularly the provisions establishing rules for reductions in force. Because Congress has directed that OSC 'shall' protect government employees from PPPs, I believe I have a responsibility to request a stay of these actions while my agency continues to investigate further the apparent violation of federal personnel laws."
 
 The Special Counsel believes other probationary employees are similarly situated to the six workers for whom he currently is seeking relief. Dellinger is considering ways to seek relief for a broader group without the need for individual filings with OSC.
-
-\*\*\*​

@@ -1,13 +1,14 @@
 ---
 title: OSC Finds VA Retaliated Against Employee for Contacting Congress
 date: 2015-09-08
+tags:
+  - prohibited personnel practices
 ---
 
-Prohibited Personnel Practices
 
 OSC found that the VA fired an employee because he contacted Congress requesting assistance in finding his lost VA benefits claims folder.
 
-The U.S. Office of Special Counsel (OSC) found that the Department of Veterans Affairs (VA) fired an employee because he contacted Congress requesting assistance in finding his lost VA benefits claims folder. The employee, Bradie Frink, is a disabled Army veteran who worked at the Baltimore Regional Office (BRO) of the Veterans Benefits Administration. The VA could not make changes to Mr. Frink’s service-connected disability payments at his request (such as adding one of his children as a beneficiary) because it could not locate his claims folder. The VA fired Mr. Frink after a congressional office inquired about his lost claims folder. OSC investigated Mr. Frink’s allegations and submitted a report to the VA. After receiving [OSC’s report](/~assets/docs/prohibited-personnel-practices-report-5-usc-2302b12-correc-a475e168.pdf)​, the VA settled Mr. Frink’s prohibited personnel practice (PPP) claim in August.
+The U.S. Office of Special Counsel (OSC) found that the Department of Veterans Affairs (VA) fired an employee because he contacted Congress requesting assistance in finding his lost VA benefits claims folder. The employee, Bradie Frink, is a disabled Army veteran who worked at the Baltimore Regional Office (BRO) of the Veterans Benefits Administration. The VA could not make changes to Mr. Frink’s service-connected disability payments at his request (such as adding one of his children as a beneficiary) because it could not locate his claims folder. The VA fired Mr. Frink after a congressional office inquired about his lost claims folder. OSC investigated Mr. Frink’s allegations and submitted a report to the VA. After receiving [OSC’s report](/~assets/docs/prohibited-personnel-practices-report-5-usc-2302b12-correc-a475e168.pdf), the VA settled Mr. Frink’s prohibited personnel practice (PPP) claim in August.
 
 OSC found that the VA violated the Civil Service Reform Act when it discharged Mr. Frink for petitioning Congress. The Merit Systems Protection Board has not yet decided a case under 5 U.S.C. § 2302(b)(12) involving the termination of an employee for contacting Congress.
 

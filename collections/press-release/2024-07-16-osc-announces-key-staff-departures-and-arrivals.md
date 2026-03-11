@@ -1,9 +1,10 @@
 ---
 title: OSC Announces Key Staff Departures and Arrivals
 date: 2024-07-16
+tags:
+  - general
 ---
 
-General
 
 OSC today announced key staff departures and arrivals in its Washington D.C. office
 
@@ -11,7 +12,7 @@ The U.S. Office of Special Counsel (OSC) today announced key staff departures an
 
 **Osborne Mack - Retirement**
 
-Osborne has worked for OSC, since November of 1985 and assisted eight Special Counsels.  Throughout his OSC tenure, Osborne demonstrated the qualities of dedication to duty, integrity, and excellence that are the hallmarks of public service. For IPD DC, and for the many Associate Special Counsels who have worked with Osborne, accuracy and attention to detail have defined his daily work.​
+Osborne has worked for OSC, since November of 1985 and assisted eight Special Counsels.  Throughout his OSC tenure, Osborne demonstrated the qualities of dedication to duty, integrity, and excellence that are the hallmarks of public service. For IPD DC, and for the many Associate Special Counsels who have worked with Osborne, accuracy and attention to detail have defined his daily work.
 
 “Osborne embodies the spirit of OSC and deserves recognition for his many contributions during his longstanding service," said Special Counsel Hampton Dellinger. “When his retirement was announced, it was immediately clear how much Osborne means to everyone here at OSC. He will be dearly missed, but we wish him the best and always consider him part of the OSC family."
 
@@ -35,6 +36,4 @@ Replacing Shirine as Chief of DOT will be her former deputy, **Ashley Tease**. A
 
 Last, we are pleased to welcome **Corey Williams** who will be assisting with congressional inquiries and legislative affairs. Corey has extensive experience with Congressional lawmakers, most recently working for IAC where she advocated on behalf of businesses and consumers on legislative policy issues. Corey has also advocated for the National Education Association and the American Library Association. Corey earned a Master of Arts degree in Library and Information Science from The University of Iowa and a Bachelor of Arts from The University of Iowa.
 
-“Corey has great experience working with Congress, and OSC looks forward to utilizing her expertise to ensure we partner with and effectively communicate with lawmakers about OSC's important work," said Special Counsel Dellinger. 
-
-\*\*\*
+“Corey has great experience working with Congress, and OSC looks forward to utilizing her expertise to ensure we partner with and effectively communicate with lawmakers about OSC's important work," said Special Counsel Dellinger.

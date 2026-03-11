@@ -1,13 +1,14 @@
 ---
 title: Two Federal Employees Agree to Suspensions Without Pay for Violating the Hatch Act
 date: 2020-06-24
+tags:
+  - hatch act
 ---
 
-Hatch Act
 
 OSC today announced two settlement agreements reached with federal employees who admitted to violating the Hatch Act.
 
-​The U.S. Office of Special Counsel (OSC) today announced two settlement agreements reached with federal employees who admitted to violating the Hatch Act. A summary of the violations and settlements are below:
+The U.S. Office of Special Counsel (OSC) today announced two settlement agreements reached with federal employees who admitted to violating the Hatch Act. A summary of the violations and settlements are below:
 
 **U.S. Postal Service**:
 
@@ -20,5 +21,3 @@ The Hatch Act prohibits federal employees from engaging in political activity wh
 An FAA employee, while at work, made multiple Facebook postings over a period of several months that were in support of Democratic candidates or in opposition to the Republican Party. The partisan political social media posts violated the Hatch Act's prohibition against engaging in political activity while on duty or in a federal room or building.
 
 The employee admitted to having knowledge of the Hatch Act when he engaged in the prohibited activity, and his supervisors had warned him not to make political social media posts from his government computer. In a settlement agreement, the individual agreed to a 30-day suspension without pay.
-
-\*\*\*

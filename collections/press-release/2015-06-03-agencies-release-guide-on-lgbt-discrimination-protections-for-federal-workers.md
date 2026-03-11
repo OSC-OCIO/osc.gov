@@ -1,9 +1,10 @@
 ---
 title: Agencies Release Guide on LGBT Discrimination Protections for Federal Workers
 date: 2015-06-03
+tags:
+  - prohibited personnel practices
 ---
 
-Prohibited Personnel Practices
 
 Four Federal Government agencies today released a guide on the rights and processes available to applicants and employees who allege sexual orientation or gender identity discrimination.
 
@@ -11,7 +12,7 @@ Today, four Federal Government agencies with roles in ensuring fairness in the f
 
 The agencies collaborating on the guide are the U.S. Office of Personnel Management (OPM), the U.S. Equal Employment Opportunity Commission (EEOC), the U.S. Office of Special Counsel (OSC), and the U.S. Merit Systems Protection Board (MSPB).
 
-The guide is entitled, “Addressing Sexual Orientation and Gender Identity Discrimination in Federal Civilian Employment: A Guide to Employment Rights, Protections, and Responsibilities.” It can be found at: [www.opm.gov/LGBTGuide​](https://www.opm.gov/policy-data-oversight/diversity-and-inclusion/reference-materials/addressing-sexual-orientation-and-gender-identity-discrimination-in-federal-civilian-employment.pdf)
+The guide is entitled, “Addressing Sexual Orientation and Gender Identity Discrimination in Federal Civilian Employment: A Guide to Employment Rights, Protections, and Responsibilities.” It can be found at: [www.opm.gov/LGBTGuide](https://www.opm.gov/policy-data-oversight/diversity-and-inclusion/reference-materials/addressing-sexual-orientation-and-gender-identity-discrimination-in-federal-civilian-employment.pdf)
 
 Civil service laws have been interpreted to ban sexual orientation discrimination since 1980. Recently, OSC found that these laws also prohibit gender identity discrimination, as reflected in its August 2014 prohibited personnel practice report, concluding that a transgender woman was unlawfully harassed by agency officials. The EEOC has also issued several decisions in recent years holding that lesbian, gay, bisexual, and transgender (LGBT) individuals may bring valid Equal Employment Opportunity claims in the federal sector, including Macy v. Holder (April 2012) (finding that discrimination based on gender identity is unlawful sex discrimination) and Complainant v. Dep’t of Homeland Sec. (August 2014) (reaffirming that sexual orientation discrimination based on gender stereotypes is unlawful sex discrimination).
 
@@ -26,5 +27,3 @@ promoted due to discrimination,” said OPM Director Katherine Archuleta. “Thi
 “OSC’s recent enforcement activity highlights how LGBT-related discrimination violates the letter of our civil service laws and the spirit of our merit system principles,” said Special Counsel Carolyn Lerner. “We are proud to partner with our sister agencies to help federal workers better understand their rights and remedies regarding sexual orientation and gender identity discrimination.”
 
 "The Merit Systems Protection Board’s research indicates that there is some confusion among federal employees and supervisors with respect to the state of protections from sexual orientation discrimination in the workplace,” said MSPB Chairman Susan Tsui Grundmann. “Since the MSPB’s mission is to safeguard, protect and promote the merit principles, which includes fair and equitable treatment in all aspects of personnel management without regard to discrimination, we support this guide as a helpful tool that will better educate and inform the federal workforce and applicants about the full range of options under current law.”
-
-\*\*\*

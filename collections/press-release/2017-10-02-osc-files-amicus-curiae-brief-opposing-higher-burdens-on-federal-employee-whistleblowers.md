@@ -1,9 +1,10 @@
 ---
 title: OSC Files Amicus Curiae Brief Opposing Higher Burdens on Federal Employee Whistleblowers
 date: 2017-10-02
+tags:
+  - general
 ---
 
-General
 
 OSC filed an amicus curiae (“friend of the court”) brief in Karl v. Merit Systems Protection Board, a whistleblower retaliation case before the U.S. Court of Appeals for the Federal Circuit.
 
@@ -13,6 +14,4 @@ In this case, George Karl alleged that his employer, the U.S. Department of the 
 
 The Board further held that Karl’s prior OSC complaint was not protected activity because he did not affirmatively demonstrate that he made his complaint in accordance with law. OSC argues in its brief that the Board’s approach—requiring an affirmative demonstration of legal compliance—transforms a general obligation to comply with the law into a new specific legal burden on whistleblowers, which is not consistent with Board precedent or congressional intent. OSC argues that this additional burden would harm whistleblowers and undermine administrative efficiency.
 
-This is the third amicus curiae brief filed by OSC this year regarding the Board’s interpretation of the administrative exhaustion issue. OSC’s [first brief](/~assets/docs/osc-amicus-curiae-brief-in-johnen-v-department-of-the-army-9th-ci-a110c1cd.pdf) was filed in April 2017 with the Court of Appeals for the Ninth Circuit in Johnen v. Merit Systems Protection Board. The [second brief](</documents/ppp/amicus%20curiae%20briefs/osc%20amicus%20curiae%20brief%20in%20chambers%20v.%20department%20of%20homeland%20security%20(mspb)%20filed%20June%208,%202017.pdf>)​ was filed in June 2017 with the Board in Chambers v. Department of Homeland Security.
-
-\*\*\*
+This is the third amicus curiae brief filed by OSC this year regarding the Board’s interpretation of the administrative exhaustion issue. OSC’s [first brief](/~assets/docs/osc-amicus-curiae-brief-in-johnen-v-department-of-the-army-9th-ci-a110c1cd.pdf) was filed in April 2017 with the Court of Appeals for the Ninth Circuit in Johnen v. Merit Systems Protection Board. The [second brief](</documents/ppp/amicus%20curiae%20briefs/osc%20amicus%20curiae%20brief%20in%20chambers%20v.%20department%20of%20homeland%20security%20(mspb)%20filed%20June%208,%202017.pdf>) was filed in June 2017 with the Board in Chambers v. Department of Homeland Security.

@@ -1,9 +1,10 @@
 ---
 title: Special Counsel Dellinger, OSC Applaud Anne Wagner’s Confirmation to the Federal Labor Relations Authority
 date: 2024-07-10
+tags:
+  - general
 ---
 
-General
 
 Special Counsel Hampton Dellinger today congratulated Anne Wagner on her Senate confirmation to be a Member of the Federal Labor Relations Authority.
 
@@ -16,5 +17,3 @@ The FLRA is an independent administrative federal agency created by the Civil Se
 Before coming to OSC, Anne was the Vice Chair of the Merit Systems Protection Board, the independent, quasi-judicial agency in the executive branch that resolves personnel disputes within the federal civil service system. She also served as Chair, Vice Chair, Member, and General Counsel for the Government Accountability Office's Personnel Appeals Board.
 
 Prior to these roles, Anne spent nearly 20 years working as an Assistant General Counsel for the American Federation of Government Employees, which represents hundreds of thousands of federal workers. During this time, she led precedent setting litigation challenging policies and practices that violated the rights of federal employees and handled cases arising under the full array of laws governing federal employment. Her federal career began as an attorney focusing on employment law for the General Services Administration's Office of General Counsel.
-
-\*\*\*​

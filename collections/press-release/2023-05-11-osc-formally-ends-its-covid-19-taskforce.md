@@ -1,9 +1,10 @@
 ---
 title: OSC Formally Ends its COVID-19 Taskforce
 date: 2023-05-11
+tags:
+  - general
 ---
 
-General
 
 OSC today announced that after three years, it has formally ended its COVID-19 Taskforce. The decision comes as the Biden administration officially rescinded the COVID-19 health emergency declaration.
 
@@ -20,5 +21,3 @@ The taskforce achieved outsized results for civil servants facing retaliation du
 Beginning in the fall of 2021, the taskforce's focus shifted to issues related to the federal employee COVID-19 vaccination requirement, for which OSC responded to questions from the U.S. Department of Justice relevant to ongoing litigation.
 
 “I am very proud of the great work of the taskforce and consider it to be one of OSC's top accomplishments during my tenure," said **Special Counsel Henry J. Kerner**. “OSC will continue to open new COVID cases, but under our normal process. It has been an honor to lead OSC through this unprecedented pandemic and to witness such a commitment to public service from everyone on the COVID-19 Taskforce."
-
-​\*\*\*

@@ -1,9 +1,10 @@
 ---
 title: OSC Obtains Stay, Files Complaint on Behalf of VA Employee Removed in Retaliation for Protected Whistleblowing
 date: 2025-01-29
+tags:
+  - prohibited personnel practices
 ---
 
-Prohibited Personnel Practices
 
 OSC today announced it has been granted an indefinite stay by the U.S. Merit Systems Protection Board (MSPB) halting the probationary removal of a Department of Veterans Affairs whistleblower.
 
@@ -12,5 +13,3 @@ The U.S. Office of Special Counsel (OSC) today announced it has been [granted](h
 OSC investigated the employee's allegations and found strong evidence to support the removal was in retaliation for her whistleblowing, under 5 U.S.C. § 2302(b)(8). OSC submitted a report of prohibited personnel practices to the VA Secretary in November 2024. Despite the report's findings, the VA did not agree to reinstate the employee. OSC then filed a complaint with MSPB seeking corrective action.
 
 Special Counsel Hampton Dellinger offered credit and thanks to the OSC attorneys who worked on this matter, including Dustin Frankel.
-
-\*\*\*​

@@ -1,9 +1,10 @@
 ---
 title: OSC Files Hatch Act Complaint Against VA Doctor
 date: 2017-11-22
+tags:
+  - hatch act
 ---
 
-Hatch Act
 
 OSC has filed a complaint for disciplinary action with the Merit Systems Protection Board against a VA doctor, charging him with 15 counts of violating the Hatch Act.
 
@@ -14,5 +15,3 @@ The Hatch Act generally prohibits federal employees from being candidates in par
 OSC’s complaint asks the MSPB to find that the doctor engaged in prohibited political activity as charged and to order appropriate disciplinary action. Penalties for Hatch Act violations range from reprimand or suspension to removal and debarment from federal employment.
 
 “Federal employees should remember their restrictions under the Hatch Act,” Special Counsel Henry J. Kerner said. “Those who have questions should contact the Office of Special Counsel or their relevant agency officials for advice.”
-
-​\*\*\*

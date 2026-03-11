@@ -1,9 +1,10 @@
 ---
 title: MSPB Agrees with OSC on Key Issue in Whistleblower Retaliation Case, Upholding Protections for Federal Workers
 date: 2024-04-10
+tags:
+  - general
 ---
 
-General
 
 OSC is highlighting the impact of OSC’s amicus curiae brief in a recent MSPB decision.
 
@@ -19,6 +20,4 @@ The MSPB's decision cited to OSC's brief, agreeing that the AJ erred in finding 
 
 “Federal employees should not have to wonder whether cooperation with OSC or a comparable investigative entity will jeopardize their careers. The MSPB's reiteration that such cooperation is broadly protected provides welcome reassurance for investigators and witnesses alike," said Amicus Working Group co-lead Emilee Collier.
 
-Special Counsel Hampton Dellinger extended particular appreciation to the brief's author, attorney Rachel Davakis. 
-
-\*\*\*​
+Special Counsel Hampton Dellinger extended particular appreciation to the brief's author, attorney Rachel Davakis.

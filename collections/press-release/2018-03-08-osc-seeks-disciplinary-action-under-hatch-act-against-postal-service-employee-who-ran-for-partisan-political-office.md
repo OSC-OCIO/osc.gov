@@ -1,13 +1,14 @@
 ---
 title: OSC Seeks Disciplinary Action Under Hatch Act Against Postal Service Employee Who Ran for Partisan Political Office
 date: 2018-03-08
+tags:
+  - hatch act
 ---
 
-Hatch Act
 
 OSC is  seeking  disciplinary  action  against  a  United  States  Postal  Service  (USPS)  employee  who  ran  for  two  partisan   political offices.
 
-​The U.S. Office of Special Counsel (OSC) is seeking disciplinary action against a United States Postal Service (USPS) employee who ran for two partisan political offices. OSC filed the complaint of Hatch Act violations with the Merit Systems Protection Board.
+The U.S. Office of Special Counsel (OSC) is seeking disciplinary action against a United States Postal Service (USPS) employee who ran for two partisan political offices. OSC filed the complaint of Hatch Act violations with the Merit Systems Protection Board.
 
 The complaint alleges that in 2017, a USPS employee at the Philadelphia Processing and  Distribution Center twice ran as a candidate for partisan political office and was elected to a position in which the employee currently serves. The complaint alleges that the employee pursued partisan elected office after receiving guidance and warnings from OSC about potential Hatch Act violations, and failed to respond to OSC’s requests to comply with the law.
 
@@ -17,10 +18,6 @@ The complaint seeks appropriate disciplinary action against the employee on two 
 
 Penalties for Hatch Act violations range from reprimand or suspension to removal and debarment from federal employment and may include a civil fine.
 
-Federal employees generally fall under the jurisdiction of the Hatch Act with few exceptions. The President and Vice President are exempt. Members of the uniformed military services fall under separate rules for political activity. Some federal employees, such as those in law enforcement, are “further  restricted” from political activities than other federal employees under the Hatch Act. More information is available [here​](../../pages/hatchact.md).  
+Federal employees generally fall under the jurisdiction of the Hatch Act with few exceptions. The President and Vice President are exempt. Members of the uniformed military services fall under separate rules for political activity. Some federal employees, such as those in law enforcement, are “further  restricted” from political activities than other federal employees under the Hatch Act. More information is available [here](../../pages/hatchact.md).  
 
-​“Federal employees should abide by their restrictions under the Hatch Act,” Special Counsel Henry J. Kerner said. “Those who have questions should contact the Office of Special Counsel or their relevant agency officials for advice.”
-
-\*\*\*
-
-​
+“Federal employees should abide by their restrictions under the Hatch Act,” Special Counsel Henry J. Kerner said. “Those who have questions should contact the Office of Special Counsel or their relevant agency officials for advice.”

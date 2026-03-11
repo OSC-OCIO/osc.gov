@@ -1,9 +1,10 @@
 ---
 title: OSC Announces Discipline for Federal Employees who Violated the Hatch Act
 date: 2021-02-22
+tags:
+  - hatch act
 ---
 
-Hatch Act
 
 OSC today announced settlement agreements reached with several federal employees who admitted to violating the Hatch Act.
 
@@ -22,7 +23,3 @@ The U.S. Office of Special Counsel (OSC) today announced settlement agreements r
 **U.S. Department of Agriculture (USDA)**:
 
 - A USDA employee, while on duty, posted numerous partisan political messages to his personal Facebook account expressing opposition towards presidential candidates and a political party. The employee had knowledge of the Hatch Act and knew his conduct violated the law. He had also previously been disciplined twice for posting on social media while on duty.  The employee agreed to serve a 30-day unpaid suspension.
-
-\*\*\*​
-
-​

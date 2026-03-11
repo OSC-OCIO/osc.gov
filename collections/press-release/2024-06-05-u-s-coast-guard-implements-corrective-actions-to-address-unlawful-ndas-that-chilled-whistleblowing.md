@@ -1,9 +1,10 @@
 ---
 title: U.S. Coast Guard Implements Corrective Actions to Address Unlawful NDAs that Chilled Whistleblowing
 date: 2024-06-05
+tags:
+  - prohibited personnel practices
 ---
 
-Prohibited Personnel Practices
 
 OSC today announced corrective actions taken by the U.S. Coast Guard to address its use of unlawful non-disclosure agreements entered into with sexual assault survivors and others.
 
@@ -16,5 +17,3 @@ Specifically, the USCG issued a public notice of correction, accessible to all c
 “I thank Senator Cruz for bringing this important matter to our attention and anticipate that the measures taken by the U.S. Coast Guard will help avoid future violations," said Special Counsel Hampton Dellinger. “I also want to thank Travis Millsaps, our senior advisor for legislative affairs and policy, who assisted with this matter. Travis will be assisting my esteemed predecessor Henry Kerner as Henry joins the Merit Systems Protection Board.  I am grateful to Travis for his work on this matter and his years of service to OSC."
 
 Dellinger also extended appreciation to OSC attorneys Rachel Venier, Julie Figueira, and Corrie Weiss who handled the case.
-
-\*\*\*​

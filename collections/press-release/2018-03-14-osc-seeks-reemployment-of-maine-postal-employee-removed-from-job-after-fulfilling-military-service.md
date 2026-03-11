@@ -1,9 +1,10 @@
 ---
 title: OSC Seeks Reemployment of Maine Postal Employee Removed from Job After Fulfilling Military Service
 date: 2018-03-14
+tags:
+  - userra
 ---
 
-USERRA
 
 OSC sought reinstatement of a United States Postal Service (USPS) employee who was removed from his job  upon completing his military service.
 
@@ -17,6 +18,4 @@ OSC’s petition says Mr. Patrie met all of the requirements under USERRA to be 
 
 “The law is clear that military service and employment must be compatible,” Special Counsel Henry J. Kerner said. “OSC will continue to pursue cases in which federal agencies fail to meet their obligations to employees who also serve in the military.”
 
-USERRA is a federal law, passed in 1994, that protects military service members and veterans from employment discrimination on the basis of their service and allows them to regain their civilian jobs following a period of uniformed service. It applies to members of the Armed Forces, Reserves, National Guard, and other “Uniformed Services” (including the National Disaster Medical System and the Commissioned Corps of the Public Health Service). USERRA applies to both public and private employers. OSC, in conjunction with the Department of Labor, investigates and enforces USERRA claims involving federal government employers. The Departments of Labor and Justice handle USERRA claims involving private employers as well as state and local governments. More information on USERRA is available [here​](https://https//osc.gov/Pages/USERRA.aspx) or at [http://sp19-app-02/Pages/USERRA.aspx](../../pages/userra.md).
-
-\*\*\* ​
+USERRA is a federal law, passed in 1994, that protects military service members and veterans from employment discrimination on the basis of their service and allows them to regain their civilian jobs following a period of uniformed service. It applies to members of the Armed Forces, Reserves, National Guard, and other “Uniformed Services” (including the National Disaster Medical System and the Commissioned Corps of the Public Health Service). USERRA applies to both public and private employers. OSC, in conjunction with the Department of Labor, investigates and enforces USERRA claims involving federal government employers. The Departments of Labor and Justice handle USERRA claims involving private employers as well as state and local governments. More information on USERRA is available [here](https://https//osc.gov/Pages/USERRA.aspx) or at [http://sp19-app-02/Pages/USERRA.aspx](../../pages/userra.md).

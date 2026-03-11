@@ -1,9 +1,10 @@
 ---
 title: OSC Wins Legal Victory for 9/11 Veteran Wrongfully Denied Reemployment by USPS
 date: 2023-08-30
+tags:
+  - userra
 ---
 
-USERRA
 
 OSC today announced a legal victory in its longstanding effort to obtain relief for a veteran wrongfully denied reinstatement in his Postal Service job following his post-9/11 military duty.
 
@@ -17,6 +18,4 @@ Mr. Patrie then filed a complaint with the U.S. Department of Labor (DOL), which
 
 “We are pleased with the MSPB's ruling but remain dismayed that the Postal Service refused to provide Mr. Patrie with any interim relief, as the Administrative Judge ordered, and seemingly exploited the Board's lack of a quorum in an attempt to delay justice for Mr. Patrie for as long as possible," said **Special Counsel Henry J. Kerner**. “We intend to get Mr. Patrie everything he is owed, no matter how long it takes.  Federal government employers, especially, must do right by our veterans, and if they don't, OSC stands ready to hold them accountable."
 
-​USERRA is a federal law, passed in 1994, that protects military service members and veterans from employment discrimination and allows them to regain their civilian jobs following periods of uniformed service. It applies to members of the Armed Forces, Reserves, and National Guard, among others, and covers both public and private employers. OSC, in conjunction with DOL, enforces USERRA claims involving federal government employers. The Department of Justice enforces USERRA claims involving private employers as well as state and local governments. More information about USERRA is available at: [http://sp19-app-02/Pages/USERRA.aspx](https://gcc02.safelinks.protection.outlook.com/?url=http://sp19-app-02/Pages/USERRA.aspx&data=05%7c01%7cZKurz%40osc.gov%7c32da5872a79b4f8d499508dba97f99d2%7c39dcbe17c0694d7c8ad7efbbedb5fc55%7c0%7c0%7c638290137754528634%7cUnknown%7cTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7c3000%7c%7c%7c&sdata=9Q%2BkdDOgBi7hTsgpsPJ/g4LK4gtn%2BvK4rK6kRvEM4JU%3D&reserved=0).
-
-\*\*\*
+USERRA is a federal law, passed in 1994, that protects military service members and veterans from employment discrimination and allows them to regain their civilian jobs following periods of uniformed service. It applies to members of the Armed Forces, Reserves, and National Guard, among others, and covers both public and private employers. OSC, in conjunction with DOL, enforces USERRA claims involving federal government employers. The Department of Justice enforces USERRA claims involving private employers as well as state and local governments. More information about USERRA is available at: [http://sp19-app-02/Pages/USERRA.aspx](https://gcc02.safelinks.protection.outlook.com/?url=http://sp19-app-02/Pages/USERRA.aspx&data=05%7c01%7cZKurz%40osc.gov%7c32da5872a79b4f8d499508dba97f99d2%7c39dcbe17c0694d7c8ad7efbbedb5fc55%7c0%7c0%7c638290137754528634%7cUnknown%7cTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7c3000%7c%7c%7c&sdata=9Q%2BkdDOgBi7hTsgpsPJ/g4LK4gtn%2BvK4rK6kRvEM4JU%3D&reserved=0).

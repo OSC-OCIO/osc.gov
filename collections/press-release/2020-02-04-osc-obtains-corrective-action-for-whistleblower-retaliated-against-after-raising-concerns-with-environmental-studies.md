@@ -1,13 +1,14 @@
 ---
 title: OSC Obtains Corrective Action for Whistleblower Retaliated Against After Raising Concerns with Environmental Studies
 date: 2020-02-04
+tags:
+  - prohibited personnel practices
 ---
 
-Prohibited Personnel Practices
 
 OSC has resolved through a settlement agreement with the U.S. Department of Interior a case before the MSPB involving a whistleblower who was retaliated against.
 
-​The U.S. Office of Special Counsel (OSC) today announced it has resolved through a settlement agreement with the U.S. Department of Interior (DOI) a case before the Merit Systems Protection Board (MSPB) involving an employee who was retaliated against after he complained about insufficient environmental impact studies of Alaska drilling sites.
+The U.S. Office of Special Counsel (OSC) today announced it has resolved through a settlement agreement with the U.S. Department of Interior (DOI) a case before the Merit Systems Protection Board (MSPB) involving an employee who was retaliated against after he complained about insufficient environmental impact studies of Alaska drilling sites.
 
 After disclosing to his agency's Inspector General that DOI employed an abnormal process for the environmental review, the employee was subjected to an internal investigation. The investigation uncovered violations of department policies by the employee that were used as a basis for his removal. The employee filed a whistleblower complaint with OSC alleging that the investigation and his removal were conducted in retaliation for his protected disclosure and OSC, in turn, took his case to the MSPB. The hearing judge approved a settlement with DOI returning the employee to his prior position and restoring his benefits to where they would be had the wrongful removal never taken place.
 
@@ -16,5 +17,3 @@ After disclosing to his agency's Inspector General that DOI employed an abnormal
 The settlement provides the whistleblower with reinstatement to his environmental protection specialist position at DOI, backpay with benefits, a retroactive promotion, placement in a modified chain-of-command, restored annual and sick leave, a time-off award, increases in past performance ratings, two-year priority consideration for any qualified vacancy at DOI, $180,000 in compensatory damages, and attorney's fees.
 
 OSC's redacted _Report of Prohibited Personnel Practices_ can be [found here](/~assets/docs/prohibited-personnel-practices-report-5-usc-2302b8-and-9-281a35e9.pdf).
-
-\*\*\*

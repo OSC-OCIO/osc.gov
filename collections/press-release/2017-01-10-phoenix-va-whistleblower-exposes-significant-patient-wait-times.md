@@ -1,9 +1,10 @@
 ---
 title: Phoenix VA Whistleblower Exposes Significant Patient Wait Times
 date: 2017-01-10
+tags:
+  - disclosure of wrongdoing
 ---
 
-Disclosure of Wrongdoing
 
 The Department of Veterans Affairs (VA) hospital in Phoenix, Arizona continues to struggle with significant patient wait times, according to confirmed whistleblower disclosures.
 
@@ -15,7 +16,7 @@ chief of specialty care clinics at the Phoenix VA. The U.S. Office of Special Co
 
 to the White House and Congress today. The VA documented serious delays and their impact on care:
 
-- ​ In one case, the VA found that a veteran who died of cardiovascular disease did not receive a cardiology exam his VA physician ordered. The VA determined that had he received the exam in a timely fashion, further testing and interventions could have prevented his death. 
+-  In one case, the VA found that a veteran who died of cardiovascular disease did not receive a cardiology exam his VA physician ordered. The VA determined that had he received the exam in a timely fashion, further testing and interventions could have prevented his death. 
 - During a week in October 2015, nearly 3,900 appointments were cancelled. Of those, 59 should have been rescheduled and were not. Of those 59 patients, 12 may have experienced harm that could have been prevented without the delay in care. 
 - On an average day, the Phoenix VA has 1,100 patients waiting longer than 30 days for appointments. 
 - There are especially significant wait times for psychotherapy appointments, with patients waiting an average of 75 days. 

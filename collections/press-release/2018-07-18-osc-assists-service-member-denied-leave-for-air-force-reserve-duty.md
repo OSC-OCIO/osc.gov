@@ -1,9 +1,10 @@
 ---
 title: OSC Assists Service Member Denied Leave for Air Force Reserve Duty
 date: 2018-07-18
+tags:
+  - userra
 ---
 
-USERRA
 
 OSC, as part of its efforts to enforce USERRA, announced today that it successfully resolved a complaint on behalf of a service member.
 
@@ -14,5 +15,3 @@ Jerome Conway, a civilian Navy employee stationed in Singapore, requested to use
 Under USERRA, service members are not to be denied any benefit of civilian employment based on their service in uniform. OSC informed the Navy that its denial of “home leave” to Mr. Conway potentially violated USERRA because (1) he had met the eligibility requirements for its use and (2) its denial was based solely on the fact that he was using it to perform Air Force Reserve duty. The Navy agreed to retroactively award the requested “home leave” to Mr. Conway, and to adjust his pay records accordingly.
 
 “OSC is committed to ensuring that service members employed by the federal government receive their full rights and benefits under USERRA,” Special Counsel Henry J. Kerner said. “We are pleased to have achieved a positive outcome for Mr. Conway.”
-
-\*\*\*

@@ -1,9 +1,10 @@
 ---
 title: OSC Obtains Corrective Action for USCIS Whistleblower Fired in Retaliation for Reporting a Manager’s Misconduct
 date: 2024-03-21
+tags:
+  - prohibited personnel practices
 ---
 
-Prohibited Personnel Practices
 
 OSC announced that it has settled its complaint for corrective action filed with the MSPB against USCIS.
 

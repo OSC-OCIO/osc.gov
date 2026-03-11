@@ -1,9 +1,10 @@
 ---
 title: OSC Achieved Historic Results for Whistleblowers in FY 2017
 date: 2018-06-12
+tags:
+  - general
 ---
 
-General
 
 OSC today released its FY 2017 Annual Report to Congress, highlighting the agency’s great successes and record-breaking favorable actions on behalf of whistleblowers.
 
@@ -18,7 +19,7 @@ Favorable actions include stays, corrective actions, disciplinary actions, and s
 - Last year, OSC obtained 323 favorable actions, an agency record and a 16 percent increase over FY 2016 levels. This translates into improved accountability and fairness in government, as well as jobs saved, whistleblowers protected, and rights restored.
 - Out of these, 241 involved instances of whistleblower retaliation, a top priority for OSC.
 - OSC negotiated 44 stays with agencies to protect employees from premature or improper personnel actions.
-- ​OSC obtained 15 stays or stay extensions from the Merit Systems Protection Board (MSPB).
+- OSC obtained 15 stays or stay extensions from the Merit Systems Protection Board (MSPB).
 - OSC negotiated 16 disciplinary actions, upholding accountability and sending a warning to supervisors about the serious repercussions for unacceptable conduct.
 
 **Performance Highlights**:
@@ -26,7 +27,3 @@ Favorable actions include stays, corrective actions, disciplinary actions, and s
 In FY 2017, OSC continued to see elevated levels of new cases. For the third year in a row, OSC received around 6,000 new matters, a substantial portion of which concerned scheduling and patient care revelations at the U.S. Department of Veterans Affairs. While operating with just a modest increase in resources to perform its mission, OSC has skillfully enhanced accountability, integrity, and fairness in the federal workplace.
 
 OSC continues to set records in achieving favorable results. In PPP cases this past year, the 323 favorable actions are more than triple the number in an average year. During FY 2016-17, OSC obtained favorable results in 459 whistleblower retaliation actions, which is also triple the rate of an average two-year span. Further, OSC achieved a record 47 systemic corrective actions in FY 2017, which will result in significant policy changes or larger training efforts to proactively prevent future violations at the agencies involved.
-
-​
-
-\*\*\*

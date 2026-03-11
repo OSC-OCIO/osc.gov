@@ -1,9 +1,10 @@
 ---
 title: OSC Concludes Review of Airline Safety Allegations with Special Counsel Questioning Some Agency Conclusions
 date: 2025-01-15
+tags:
+  - disclosure of wrongdoing
 ---
 
-Disclosure of Wrongdoing
 
 OSC today alerted the President and Congress of findings issued in response to several allegations brought to OSC by Transportation and Security Administration (TSA) whistleblower Robert MacLean.
 
@@ -34,5 +35,3 @@ Given the totality of the circumstances, Special Counsel Dellinger was unable to
 **Religious Food Trucks:**
 
 The whistleblower alleged that TSA failed to prevent significant security breaches because of its policy exempting religious food trucks from airport inspections. The agency did not substantiate the whistleblower's allegations. In its [report](https://gcc02.safelinks.protection.outlook.com/?url=https://osc.gov/Documents/Public%2520Files/FY25/DI-18-5205/DI-18-5205%2520and%2520DI-19-0778%2520-%2520DHS%2520Report.pdf&data=05%7c02%7c%7cc0f430ad479042215fdf08dd35a13c6f%7c39dcbe17c0694d7c8ad7efbbedb5fc55%7c0%7c0%7c638725688821037956%7cUnknown%7cTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7c0%7c%7c%7c&sdata=ODNueWcvHZguK/GyOoDauSw0A3ZGq3jaVOPhibgaF3E%3D&reserved=0), TSA explained that there is no difference in requirements for "religious food trucks" vis-a-vis any other catering truck. As there is an insider threat risk throughout the transportation sector, TSA has a layered security approach to secure catering trucks. Further, the report confirmed that catering operations are consistently subjected to inspections, testing, and oversight. Special Counsel Dellinger determined these findings to be reasonable.
-
-\*\*\*​

@@ -1,9 +1,10 @@
 ---
 title: OSC Files MSPB Amicus Brief Advocating for Broad Protections for Employees Contacting Investigators
 date: 2024-05-28
+tags:
+  - prohibited personnel practices
 ---
 
-Prohibited Personnel Practices
 
 As the agency responsible for protecting federal employee whistleblowers, OSC’s brief advocates for an expansive reading of the statute to maximize protections for employees .
 
@@ -11,6 +12,4 @@ The U.S. Office of Special Counsel (OSC) replied to a request from the Merit Sys
 
 As the agency responsible for protecting federal employee whistleblowers, OSC's brief advocates for an expansive reading of the statute to maximize protections for employees and preserve OSC's ability to obtain credible testimony. It is critical to OSC's mission that federal employees have broad protections to obtain complete, candid participation in its investigations.
 
-OSC is grateful to Julie Yeagle and Gregory Giaccio who drafted the brief encouraging an approach that is consistent with the remedial purpose of the Whistleblower Protection Act. 
-
-\*\*\*​​
+OSC is grateful to Julie Yeagle and Gregory Giaccio who drafted the brief encouraging an approach that is consistent with the remedial purpose of the Whistleblower Protection Act.

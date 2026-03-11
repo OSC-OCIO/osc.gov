@@ -1,9 +1,10 @@
 ---
 title: Judge Orders Removal of NOAA Employee for Hatch Act Violations
 date: 2017-12-31
+tags:
+  - hatch act
 ---
 
-Hatch Act
 
 OSC prevailed in a disciplinary action against a NOAA employee who repeatedly ran as a candidate in primary elections for the state of Washington.
 
@@ -23,6 +24,4 @@ ordered Mr. Arnold’s removal from his federal job because of the “conspicuou
 
 Most federal employees can engage in a wide variety of political activities while off duty and out of the federal
 
-workplace. This [one‐page factsheet](/~assets/docs/the-hatch-act-and-most-federal-employees-poster.pdf) details the permitted and prohibited activities for most federal employees. A small subset of federal employees—mostly in law enforcement and the intelligence community—are subject to additional restrictions. This [factsheet](/~assets/docs/the-hatch-act-and-further-restricted-employees-poster.pdf)​ lists those additional limitations and to which employees they apply. Agencies may have additional rules that restrict their employees apart from the Hatch Act.
-
-\*\*\*
+workplace. This [one‐page factsheet](/~assets/docs/the-hatch-act-and-most-federal-employees-poster.pdf) details the permitted and prohibited activities for most federal employees. A small subset of federal employees—mostly in law enforcement and the intelligence community—are subject to additional restrictions. This [factsheet](/~assets/docs/the-hatch-act-and-further-restricted-employees-poster.pdf) lists those additional limitations and to which employees they apply. Agencies may have additional rules that restrict their employees apart from the Hatch Act.

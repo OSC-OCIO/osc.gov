@@ -1,9 +1,10 @@
 ---
 title: OSC Pledges to Implement GAO Recommendations to More Efficiently Process Whistleblower Complaints
 date: 2018-07-17
+tags:
+  - general
 ---
 
-General
 
 Special Counsel Henry J. Kerner today released the following statement in response to a GA report recommending steps to improve its efficiency.
 
@@ -12,5 +13,3 @@ Special Counsel Henry J. Kerner today released the following statement in respon
 **Special Counsel Henry J. Kerner**: “OSC appreciates the significant time and effort GAO expended reviewing our processes and generating this thoughtful report, and we are committed to robust enforcement of the laws entrusted to us. I want to thank Chairman Johnson for his continued support and for requesting that GAO evaluate ways OSC can be even more effective in carrying out its critical mission to protect and support whistleblowers. We concur with all seven GAO recommendations and have already undertaken steps to begin implementing them.”
 
 The full report can be [found here](https://www.gao.gov/products/GAO-18-400)
-
-\*\*\*

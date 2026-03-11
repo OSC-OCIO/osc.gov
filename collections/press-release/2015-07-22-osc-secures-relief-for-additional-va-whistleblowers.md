@@ -1,9 +1,10 @@
 ---
 title: OSC Secures Relief for Additional VA Whistleblowers
 date: 2015-07-22
+tags:
+  - prohibited personnel practices
 ---
 
-Prohibited Personnel Practices
 
 OSC has recently facilitated settlements for Department of Veterans Affairs (VA) whistleblowers alleging problems with patient care and other health concerns.
 

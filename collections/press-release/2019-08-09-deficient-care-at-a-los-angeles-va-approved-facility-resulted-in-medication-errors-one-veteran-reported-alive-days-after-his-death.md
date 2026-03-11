@@ -1,9 +1,10 @@
 ---
 title: Deficient Care at a Los Angeles VA-Approved Facility Resulted in Medication Errors, One Veteran Reported Alive Days after His Death
 date: 2019-08-09
+tags:
+  - disclosure of wrongdoing
 ---
 
-Disclosure of Wrongdoing
 
 OSC has alerted the President and Congress to deficient patient care at a Los Angeles VA-approved community care facility where staff were unable to correctly identify a veteran who died days earlier.
 
@@ -16,5 +17,3 @@ The VA's [report](/~assets/docs/di-17-4331-and-di-17-4242-agency-report.pdf) als
 The VA's report recommended that the community care program coordinator conduct monthly visits to all VA-approved facilities, and that the position be made full-time. The agency also recommended an independent review of all VA-approved community care facilities, including inspection reports. These recommendations were all completed as of June 2019.
 
 “When the VA partners with community care facilities, our veterans should be confident that their medical care will be top-notch," said **Special Counsel Henry J. Kerner**. “If staff at these facilities are unable to properly identify residents, veterans will not be receiving their proper medications. Because whistleblowers spoke up, the VA has taken strong steps to ensure these community care facilities are closely monitored to provide appropriate care."
-
-\*\*\*

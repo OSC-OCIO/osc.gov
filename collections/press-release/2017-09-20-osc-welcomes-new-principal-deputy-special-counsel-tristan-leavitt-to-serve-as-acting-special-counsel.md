@@ -1,11 +1,12 @@
 ---
 title: OSC Welcomes New Principal Deputy Special Counsel Tristan Leavitt to serve as Acting Special Counsel
 date: 2017-09-20
+tags:
+  - general
 ---
 
-General
 
-​​The U.S. Office of Special Counsel (OSC) is pleased to announce that Tristan Leavitt joined the agency in June as Principal Deputy Special Counsel, and is currently serving as Acting Special Counsel.
+The U.S. Office of Special Counsel (OSC) is pleased to announce that Tristan Leavitt joined the agency in June as Principal Deputy Special Counsel, and is currently serving as Acting Special Counsel.
 
 Mr. Leavitt comes to OSC with a deep policy and investigative background. He spent eight years on Capitol Hill, before and after attending law school, including for the House Oversight and Government Reform Committee under then-Chairman Jason Chaffetz, and for the Senate Judiciary Committee under then-Ranking Member Chuck Grassley.
 
@@ -16,5 +17,3 @@ He also handled whistleblower policy for Senator Grassley and then-Chairman Chaf
 “OSC does excellent work and I’m thrilled to have joined the office,” said Mr. Leavitt. “I am honored to serve in the role of Acting Special Counsel, and I look forward to working closely with the new Special Counsel, when confirmed, to fulfill OSC’s important mission.”
 
 Mr. Leavitt received his Bachelor of Arts degree in Political Science from Brigham Young University and his Juris Doctor degree from Georgetown University Law Center. The nominee for the Special Counsel position, Henry Kerner, awaits Senate confirmation.
-
-\*\*\*

@@ -1,13 +1,14 @@
 ---
 title: Federal Agencies Are Required to Educate Employees on Whistleblower Protections
 date: 2017-01-05
+tags:
+  - outreach training
 ---
 
-Outreach Training
 
 OSC reminds agencies across the federal government about their obligation to participate in OSC’s 2302(c) Certification Program. Agencies are required to become certified under OSC’s program.
 
-The U.S. Office of Special Counsel (OSC) reminds agencies across the federal government about their obligation to participate in OSC’s 2​302(c) Certification Program. Agencies are required to become certified under OSC’s program. It is named after the section of the U.S. Code (5 U.S.C. § 2302(c)) that requires agency heads, in consultation with OSC, to ensure that “agency employees are informed of the rights and remedies available to them” under civil service and whistleblower protection laws. Congress created this provision after finding that many federal employees had limited understanding of their right to be free from prohibited personnel practices (PPPs), especially retaliation for whistleblowing.
+The U.S. Office of Special Counsel (OSC) reminds agencies across the federal government about their obligation to participate in OSC’s 2302(c) Certification Program. Agencies are required to become certified under OSC’s program. It is named after the section of the U.S. Code (5 U.S.C. § 2302(c)) that requires agency heads, in consultation with OSC, to ensure that “agency employees are informed of the rights and remedies available to them” under civil service and whistleblower protection laws. Congress created this provision after finding that many federal employees had limited understanding of their right to be free from prohibited personnel practices (PPPs), especially retaliation for whistleblowing.
 
 The certification process begins with registering and consulting with OSC. Then, the certification steps include:
 
@@ -31,7 +32,7 @@ agencies has doubled since [February 2016](<16-02-osc-urges-agencies-to-become-2
 
 While not required under OSC’s 2302(c) program, OSC highly recommends the dissemination of information
 
-regarding [prohibited and permitted political activities](/~assets/docs/the-hatch-act-and-most-federal-employees-poster.pdf) under the [Hatch Act​](../../services/pages/hatchact-federal.md). OSC staff are also available to provide
+regarding [prohibited and permitted political activities](/~assets/docs/the-hatch-act-and-most-federal-employees-poster.pdf) under the [Hatch Act](../../services/pages/hatchact-federal.md). OSC staff are also available to provide
 
 Hatch Act training.
 

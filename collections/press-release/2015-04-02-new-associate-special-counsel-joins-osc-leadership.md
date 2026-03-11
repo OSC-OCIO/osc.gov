@@ -1,13 +1,14 @@
 ---
 title: New Associate Special Counsel Joins OSC Leadership
 date: 2015-04-02
+tags:
+  - general
 ---
 
-General
 
 OSC) welcomes Anne M. Wagner, a new Associate Special Counsel. Ms. Wagner is a career member of the Senior Executive Service and will have a diverse portfolio at OSC.
 
-​The U.S. Office of Special Counsel (OSC) welcomes Anne M. Wagner, a new Associate Special Counsel. Ms. Wagner is a career member of the Senior Executive Service and will have a diverse portfolio at OSC. She begins at OSC next week.
+The U.S. Office of Special Counsel (OSC) welcomes Anne M. Wagner, a new Associate Special Counsel. Ms. Wagner is a career member of the Senior Executive Service and will have a diverse portfolio at OSC. She begins at OSC next week.
 
 “We are pleased to welcome Anne Wagner to OSC. She brings a wealth of experience and expertise on the federal workplace and the merit system,” said Special Counsel Carolyn Lerner. “She has a strong track record of upholding the legal rights of federal employees.”
 
@@ -18,5 +19,3 @@ Before her term at the MSPB, Ms. Wagner served as Chair, Vice Chair, Member, and
 “I’m thrilled to be working with Special Counsel Carolyn Lerner and the talented and committed staff at OSC,” said Ms. Wagner. “I firmly believe in OSC’s mission to protect federal merit system principles.”
 
 Ms. Wagner received her bachelor’s degree from the University of Notre Dame and her law degree from the George Washington University School of Law.
-
-\*\*\*

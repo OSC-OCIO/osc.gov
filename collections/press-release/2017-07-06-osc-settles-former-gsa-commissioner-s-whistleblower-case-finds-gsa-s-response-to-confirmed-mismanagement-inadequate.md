@@ -1,9 +1,10 @@
 ---
 title: OSC Settles Former GSA Commissioner’s Whistleblower Case; Finds GSA’s Response to Confirmed Mismanagement Inadequate
 date: 2017-07-06
+tags:
+  - disclosure of wrongdoing
 ---
 
-Disclosure of Wrongdoing
 
 The GSA grossly mismanaged its Technology Transformation Service, according to a report submitted by GSA to OSC.
 
@@ -16,5 +17,3 @@ TTS is a GSA-run service that provides technology and software solutions to fede
 Earlier in June 2017, the GSA notified OSC of its intent to move TTS under FAS, stating that the move “is intended to address the funding and management control issues identified” in the initial GSA report to OSC. In a letter to the President and Congress, Acting Special Counsel Adam Miles noted, “The realignment of TTS may resolve concerns about the legal framework for these services.” However, OSC’s letter continues, “without additional details on improved management controls, the realignment does not address Mr. Sharpe’s broader, substantiated concerns about mismanagement, and his related questions about whether the taxpayers are receiving a solid benefit from this program.”
 
 OSC’s letter to the President and Congress, the GSA reports, and Mr. Sharpe’s comments can be found here. OSC thanks the GSA OIG for its efforts to protect Mr. Sharpe from retaliation and for referring its report to OSC for resolution.
-
-\*\*\*

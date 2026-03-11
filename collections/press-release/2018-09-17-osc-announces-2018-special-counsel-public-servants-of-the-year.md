@@ -1,9 +1,10 @@
 ---
 title: OSC Announces 2018 Special Counsel Public Servants of the Year
 date: 2018-09-17
+tags:
+  - general
 ---
 
-General
 
 OSC today announced the recipients of the 2018 Special Counsel Public Servants of the Year award.
 
@@ -18,5 +19,3 @@ Less than two weeks later, all three were punitively reassigned. Ms. Mata was in
 Unfortunately, these three were not the only individuals to suffer from involuntary directed reassignments at TSA. Thanks to whistleblowers, in late 2015 the House Committee on Oversight and Government Reform launched an investigation into this practice and other challenges that whistleblowers alleged constituted a culture of retaliation. The practice of directed reassignments was ultimately suspended by TSA at the end of February 2016.
 
 Mr. Abreu served as a police officer for 17 years before joining TSA first as a Federal Air Marshal. Before her reassignment, Ms. Callahan Chuck had worked for TSA for 13 years, the majority of her career. Ms. Mata has 24 years of federal service, working in disaster relief before joining TSA.
-
-\*\*\*​

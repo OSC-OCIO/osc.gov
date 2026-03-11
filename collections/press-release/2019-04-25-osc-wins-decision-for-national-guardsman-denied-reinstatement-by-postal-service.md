@@ -1,9 +1,10 @@
 ---
 title: OSC Wins Decision for National Guardsman Denied Reinstatement by Postal Service
 date: 2019-04-25
+tags:
+  - userra
 ---
 
-USERRA
 
 OSC announced that it won a legal ruling forcing the U.S. Postal Service to reinstate a National Guardsman in his civilian job following his post-9/11 military service.
 
@@ -16,5 +17,3 @@ After USPS denied him reinstatement, Mr. Patrie filed a complaint with the U.S. 
 “We are very pleased to have won this victory not just for Mr. Patrie but for service members everywhere,” **Special Counsel Henry J. Kerner** said. “Our country must honor its commitments to those who serve in uniform and defend our freedoms.”
 
 USERRA is a federal law, passed in 1994, that protects military service members and veterans from employment discrimination and allows them to regain their civilian jobs following periods of uniformed service. It applies to members of the Armed Forces, Reserves, and National Guard, among others, and covers both public and private employers. OSC, in conjunction with DOL, enforces USERRA claims involving federal government employers. The Department of Justice enforces USERRA claims involving private employers as well as state and local governments.
-
-\*\*\*

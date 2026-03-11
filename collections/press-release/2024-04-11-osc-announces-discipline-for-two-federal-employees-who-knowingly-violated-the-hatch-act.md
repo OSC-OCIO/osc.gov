@@ -1,9 +1,10 @@
 ---
 title: OSC Announces Discipline for Two Federal Employees Who Knowingly Violated the Hatch Act
 date: 2024-04-11
+tags:
+  - hatch act
 ---
 
-Hatch Act
 
 OSC today announced discipline, including a 90-day unpaid suspension and a 130-day unpaid suspension, for two federal employees who violated the Hatch Act.
 
@@ -22,5 +23,3 @@ An OSC investigation determined that a U.S. Coast Guard (USCG) civilian employee
 Between 2019 and 2021, while on duty or while located at USCG headquarters, the employee shared approximately 18 posts on her personal Facebook account that supported or opposed candidates in the 2020 presidential election, candidates for congressional office, or political parties. In addition, OSC found evidence showing that the employee shared 11 posts on her personal Facebook account that she knew included requests for donations to political candidates or political groups.  Prior to most of the violations, OSC had directly advised the employee about the law's applicability to her social media use. The employee agreed to a 90-day unpaid suspension for her violations.
 
 “Federal employees must understand and fulfill their obligations under the Hatch Act, which include a prohibition on political activity while on-duty, and a 24-7 prohibition on soliciting donations for partisan political campaigns," said Special Counsel Hampton Dellinger.
-
-\*\*\*

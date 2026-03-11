@@ -1,9 +1,10 @@
 ---
 title: OSC Resolves Case for Military Civilian Employee Retaliated Against after Reporting Sexual Assault
 date: 2018-08-14
+tags:
+  - prohibited personnel practices
 ---
 
-Prohibited Personnel Practices
 
 OSC has resolved a whistleblower retaliation case for a military civilian employee who was removed from their position and issued a “no contact” order after reporting a sexual assault.
 

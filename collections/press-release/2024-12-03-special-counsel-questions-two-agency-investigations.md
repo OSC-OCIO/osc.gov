@@ -1,13 +1,14 @@
 ---
 title: Special Counsel Questions Two Agency Investigations
 date: 2024-12-03
+tags:
+  - disclosure of wrongdoing
 ---
 
-Disclosure of Wrongdoing
 
 Reports Reviewing FAA Flight Safety at Detroit Metropolitan Airport and CBP Emergency Responses in Texas Do Not Appear Reasonable 
 
-***​ Reports Reviewing FAA Flight Safety at Detroit Metropolitan Airport and CBP Emergency Responses in Texas Do Not Appear Reasonable***  
+*** Reports Reviewing FAA Flight Safety at Detroit Metropolitan Airport and CBP Emergency Responses in Texas Do Not Appear Reasonable***  
 
 The U.S. Office of Special Counsel (OSC) today alerted the President and Congress that agency findings issued in response to two separate whistleblower-initiated investigations do not appear reasonable.
 
@@ -30,7 +31,3 @@ OSC [referred](/~assets/docs/redacted-referral-di-20-001009.pdf) the whistleblow
 OSC asked the agency to explain documents and statements contradicting the agency's finding that a senior CBP official never ordered Command Duty Officers (CDOs) to deny DAU's requests to launch air support. The Special Counsel determined the agency failed to adequately reconcile the contradicting facts.
 
 “I am concerned with the agency's findings," said Special Counsel Dellinger.  “Despite evidence to the contrary, the agency's findings maintain that each denial of DAU's requests to launch was a decision by the assigned CDO alone.  I do not think the agency's conclusion is reasonable."
-
- 
-
-\*\*\*

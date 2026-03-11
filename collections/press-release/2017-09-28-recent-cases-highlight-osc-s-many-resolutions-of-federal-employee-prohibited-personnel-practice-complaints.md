@@ -1,13 +1,14 @@
 ---
 title: Recent Cases Highlight OSC’s Many Resolutions of Federal Employee Prohibited Personnel Practice Complaints
 date: 2017-09-28
+tags:
+  - prohibited personnel practices
 ---
 
-Prohibited Personnel Practices
 
 OSC has resolved cases involving alleged violations of the Whistleblower Protection Act at a variety of federal agencies.
 
-​​​​​​​The U.S. Office of Special Counsel (OSC) recently resolved cases involving alleged violations of the Whistleblower Protection Act at a variety of federal agencies. OSC obtained relief for employees in cases involving pregnancy discrimination, improper hiring practices, whistleblower retaliation, and other violations. The following cases highlight OSC’s work protecting whistleblowers and safeguarding the merit system:
+The U.S. Office of Special Counsel (OSC) recently resolved cases involving alleged violations of the Whistleblower Protection Act at a variety of federal agencies. OSC obtained relief for employees in cases involving pregnancy discrimination, improper hiring practices, whistleblower retaliation, and other violations. The following cases highlight OSC’s work protecting whistleblowers and safeguarding the merit system:
 
 Alleging discrimination, an employee was removed from her probationary supervisory position after telling her supervisor she was pregnant. The parties entered into a settlement agreement that included her voluntary return to a non-supervisory position and a performance award.
 
@@ -18,5 +19,3 @@ In an unfair hiring practices case, an employee alleged that an agency official 
 In two related cases, employees alleged retaliation for reporting security concerns. They claimed that the agency subjected them to management directed inquiries (MDIs), reassigned one of them, and included negative information in their performance evaluations. With OSC’s assistance, the parties entered into a settlement agreement that included destroying all copies of the MDIs and removing all references to the MDIs from the performance evaluations.
 
 OSC applauds the parties for their willingness to resolve these matters.
-
-\*\*\*

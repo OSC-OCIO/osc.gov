@@ -1,9 +1,10 @@
 ---
 title: OSC Announces Artificial Intelligence Policy to Promote Safety, Enhance Efficiency, and Protect Rights
 date: 2024-10-16
+tags:
+  - general
 ---
 
-General
 
 The policy ensures that OSC is equipped to safely and responsibly manage artificial intelligence within the agency. 
 
@@ -24,5 +25,3 @@ Second, OSC's AI policy places transparency at the core.  OSC recognizes that t
 Third, OSC's AI policy ensures the agency may harness AI to increase efficiency.  For example, AI can accelerate basic and applied research across the agency.  “Where AI can be used responsibly to expand our capacity, we will explore how to take full advantage of the technology," said Special Counsel Dellinger. “And where AI has the potential to affect basic rights and safety, we will proceed responsibly and transparently."
 
 For additional information about OSC uses of AI, please visit [https://osc.gov/ai](https://gcc02.safelinks.protection.outlook.com/?url=https://osc.gov/ai&data=05%7c02%7c%7cf76da6e6eb5947c3943a08dcee0391f0%7c39dcbe17c0694d7c8ad7efbbedb5fc55%7c0%7c0%7c638646946325287875%7cUnknown%7cTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7c0%7c%7c%7c&sdata=h9jKsNPojtNtauGj9UeOKIHoDI45pRpI/gQ/X8/Jets%3D&reserved=0).
-
-​\*\*\*

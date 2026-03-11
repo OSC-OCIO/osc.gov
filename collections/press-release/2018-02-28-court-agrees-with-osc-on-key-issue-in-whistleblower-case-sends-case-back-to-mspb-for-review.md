@@ -1,9 +1,10 @@
 ---
 title: Court Agrees With OSC on Key Issue in Whistleblower Case, Sends Case Back to MSPB for Review
 date: 2018-02-28
+tags:
+  - general
 ---
 
-General
 
 The U.S. Court of Appeals for the Ninth Circuit has agreed  with  the argument OSC made in an amicus curiae brief against restricting whistleblower protections.
 
@@ -13,10 +14,6 @@ Michael Johnen alleged in a complaint to OSC that the Army terminated him from c
 
 The court agreed and held that Johnen’s OSC complaint encompassed his oral disclosures to Army officials and gave OSC “sufficiently detailed and clear notice” of the whistleblower retaliation claim to investigate. The court remanded the case to the Board for reconsideration of Johnen’s claim as it related to his oral disclosures to Army officials.
 
-“This is a positive development for this whistleblower,” Special Counsel Henry J. Kerner  said. “Whistleblowers are looking for and deserve fair treatment of their claims without unnecessary  administrative hurdles.” ​
+“This is a positive development for this whistleblower,” Special Counsel Henry J. Kerner  said. “Whistleblowers are looking for and deserve fair treatment of their claims without unnecessary  administrative hurdles.” 
 
 The brief is among three amicus curiae briefs filed by OSC last year regarding the Board’s  interpretation of the administrative exhaustion issue.
-
-\*\*\*
-
-​

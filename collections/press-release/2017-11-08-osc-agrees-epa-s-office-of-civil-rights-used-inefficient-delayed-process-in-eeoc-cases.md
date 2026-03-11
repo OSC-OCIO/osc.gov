@@ -1,13 +1,14 @@
 ---
 title: OSC Agrees EPA’s Office of Civil Rights Used Inefficient, Delayed Process in EEOC Cases
 date: 2017-11-08
+tags:
+  - disclosure of wrongdoing
 ---
 
-Disclosure of Wrongdoing
 
 OSC sent a letter to President Trump agreeing with an EPA whistleblower who alleged serious process deficiencies in the handling of cases under EEOC regulations.
 
-​The Office of Special Counsel today sent a [letter](/~assets/docs/di-17-1431-letter-to-president.pdf)​ to President Trump agreeing with an Environmental Protection Agency (EPA) whistleblower who alleged serious process deficiencies in the handling of cases under Equal Employment Opportunity Commission (EEOC) regulations by the EPA’s Office of Civil Rights (OCR).
+The Office of Special Counsel today sent a [letter](/~assets/docs/di-17-1431-letter-to-president.pdf) to President Trump agreeing with an Environmental Protection Agency (EPA) whistleblower who alleged serious process deficiencies in the handling of cases under Equal Employment Opportunity Commission (EEOC) regulations by the EPA’s Office of Civil Rights (OCR).
 
 “Notably, OCR’s mission involves protecting EPA employees from discrimination,” Special Counsel Henry J. Kerner wrote to the President. “By allowing a highly inefficient process to remain uncorrected over a period of at least six years, while thereby adversely affecting the statutory and due process rights of EPA employees, OCR has engaged in management inaction that has a deleterious effect on its ability to accomplish its mission. While EPA has made positive steps to remediate these issues, the established history of delays and their potential consequences are troubling.”
 
@@ -15,6 +16,4 @@ The whistleblower, Susan Lees, a former EPA information technology specialist, w
 
 The whistleblower disputed the assertion that no gross mismanagement occurred. After reviewing the materials, OSC determined that while the EPA report meets all statutory requirements, “the finding that gross mismanagement did not occur is unreasonable.”
 
-As required by law, OSC sent a copy of its letter, an unredacted version of the agency report, and the whistleblower’s comments to the Senate Committee on Environment and Public Works and the House Committee on Science, Space, and Technology. 
-
-\*\*\*
+As required by law, OSC sent a copy of its letter, an unredacted version of the agency report, and the whistleblower’s comments to the Senate Committee on Environment and Public Works and the House Committee on Science, Space, and Technology.

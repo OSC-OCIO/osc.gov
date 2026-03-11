@@ -1,9 +1,10 @@
 ---
 title: Special Counsel Dellinger, Colleagues Discuss Speech Rights of Federal Employees
 date: 2024-12-05
+tags:
+  - prohibited personnel practices
 ---
 
-Prohibited Personnel Practices
 
 Special Counsel Hampton Dellinger today participated in a panel discussion hosted by the American Bar Association on speech rights of federal employees.
 
@@ -20,5 +21,3 @@ OSC also enforces the Hatch Act, a federal law that limits certain political act
 “My focus is balancing meaningful Hatch Act enforcement with careful consideration of government employee speech rights," Dellinger said. “That's what Congress and the courts have directed and it's what OSC delivers."
 
 A video of the panel discussion is available on ABA's [YouTube Channel](https://gcc02.safelinks.protection.outlook.com/?url=https://www.youtube.com/watch?v%3DznyglvbAgu4&data=05%7c02%7c%7c35f915855431455ddabc08dd156e868a%7c39dcbe17c0694d7c8ad7efbbedb5fc55%7c0%7c0%7c638690286640794799%7cUnknown%7cTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7c0%7c%7c%7c&sdata=7tlMo1wIEA3XdZD9tqF0d7yxNfiGbDzEsjliuIkdfm4%3D&reserved=0).
-
-\*\*\*​

@@ -1,9 +1,10 @@
 ---
 title: MSPB Orders Removal of Employee for Hatch Act Violations
 date: 2015-06-18
+tags:
+  - hatch act
 ---
 
-Hatch Act
 
 In response to an OSC complaint, an administrative law judge with the MSPB ordered the removal of an Army Corps of Engineers employee from federal service for violating the Hatch Act.
 
@@ -14,5 +15,3 @@ OSC filed its complaint for disciplinary action with the MSPB in October 2014 af
 In another significant Hatch Act enforcement case, OSC found that a GS-15 employee with the Federal Emergency Management Agency hosted a political fundraiser for a U.S. Senate candidate (who did not win her party’s nomination in 2012) and invited others to attend or make contributions to the campaign. The candidate attended the fundraiser and the employee introduced her. He also forwarded fundraising invitations – sometimes while he was at work – for a state senate candidate and a state attorney general candidate. While at work, the employee also recruited political campaign volunteers, planned political events, and posted several political messages to a party committee’s Facebook page. The Hatch Act generally allows most federal employees to participate in partisan political campaigns as long as they do so while not on duty or in the workplace. Despite receiving general information about the Hatch Act from the agency and a specific warning from his supervisor to stop his prohibited activities, the employee continued to solicit contributions and engage in political activity while on duty. The employee admitted to OSC that he violated the Hatch Act’s prohibitions. As a penalty for his violations, he agreed to accept a 112-day suspension without pay.
 
 "These cases should remind federal employees that the Hatch Act restricts their political activities, particularly while at the workplace and with regard to running for office. When put on notice that they may be in violation of the law, employees should cease their unlawful activities,” said Special Counsel Carolyn Lerner.
-
-​

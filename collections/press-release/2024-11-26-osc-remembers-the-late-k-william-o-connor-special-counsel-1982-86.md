@@ -1,9 +1,10 @@
 ---
 title: OSC Remembers the late K. William O’Connor, Special Counsel (1982-86)
 date: 2024-11-26
+tags:
+  - general
 ---
 
-General
 
 OSC recognizes the passing of K. William "Bill" O'Connor who served as Special Counsel from 1982-86. O’Connor passed away in October at the age of 93.
 
@@ -13,6 +14,4 @@ Appointed by [President Ronald Reagan](https://gcc02.safelinks.protection.outloo
 
 O'Connor received both his undergraduate and law degrees from the University of Virginia. He served in the U.S. Marine Corps and was discharged in 1955 as first lieutenant.
 
-O'Connor was the first Special Counsel to serve a full five-year term. He is credited with turning the nascent agency around after it had weathered intense congressional scrutiny. Under O'Connor, OSC won its first whistleblower cases. He successfully reorganized the agency to handle increased complaint filings, establishing an intake unit that would serve the agency for over three decades. A proud Marine, O'Connor is often remembered at OSC for hosting an annual celebration of the Marine Corps on November 10, leading a chorus of the “Battle Hymn of the Republic," and using a Marine saber to cut a birthday cake adorned with the Marine Corps emblem and seal. 
-
-\*\*\*​
+O'Connor was the first Special Counsel to serve a full five-year term. He is credited with turning the nascent agency around after it had weathered intense congressional scrutiny. Under O'Connor, OSC won its first whistleblower cases. He successfully reorganized the agency to handle increased complaint filings, establishing an intake unit that would serve the agency for over three decades. A proud Marine, O'Connor is often remembered at OSC for hosting an annual celebration of the Marine Corps on November 10, leading a chorus of the “Battle Hymn of the Republic," and using a Marine saber to cut a birthday cake adorned with the Marine Corps emblem and seal.

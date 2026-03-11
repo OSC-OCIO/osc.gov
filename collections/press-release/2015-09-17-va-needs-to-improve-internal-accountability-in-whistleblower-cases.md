@@ -1,9 +1,10 @@
 ---
 title: VA Needs to Improve Internal Accountability in Whistleblower Cases
 date: 2015-09-17
+tags:
+  - prohibited personnel practices
 ---
 
-Prohibited Personnel Practices
 
 In a letter to the White House and Congress, OSC reported that the VA failed to adequately discipline employees for endangering the health and safety of veterans and other wrongdoing.
 
@@ -17,11 +18,11 @@ Dr. Mitchell raised these and other concerns with her superiors beginning in 200
 
 Distinct from her disclosure case, Dr. Mitchell settled her whistleblower reprisal claim with the VA last year.
 
-In addition, today, OSC also closed [the case](/~assets/docs/di-14-3337-letter-to-president.pdf) of Jonathan Wicks, a former clinical social worker at the Vet Center in Federal Way, Washington. Mr. Wicks disclosed that the manager of a VA clinic intentionally falsified government records, repeatedly overstating the amount of time she spent in face-to-face counseling sessions with veterans. The VA’s OMI [substantiated](/~assets/docs/di-14-3337-agency-report.pdf)​ Mr. Wicks’ disclosures. Before OMI’s investigation, regional leaders were aware of the manager’s misconduct due to earlier reviews, yet failed to take action to address it at the time. After OMI substantiated Mr. Wicks’ allegations, the manager and regional leaders received only a reprimand, the lowest form of discipline.
+In addition, today, OSC also closed [the case](/~assets/docs/di-14-3337-letter-to-president.pdf) of Jonathan Wicks, a former clinical social worker at the Vet Center in Federal Way, Washington. Mr. Wicks disclosed that the manager of a VA clinic intentionally falsified government records, repeatedly overstating the amount of time she spent in face-to-face counseling sessions with veterans. The VA’s OMI [substantiated](/~assets/docs/di-14-3337-agency-report.pdf) Mr. Wicks’ disclosures. Before OMI’s investigation, regional leaders were aware of the manager’s misconduct due to earlier reviews, yet failed to take action to address it at the time. After OMI substantiated Mr. Wicks’ allegations, the manager and regional leaders received only a reprimand, the lowest form of discipline.
 
 OSC’s letter also summarized the following cases where the VA failed to impose appropriate discipline:
 
-- ​The director of a VA clinic in Maryland improperly monitored witness testimony through a video feed to a conference room during an OMI investigation of patient care problems. The director then asked a witness about his testimony to OMI. When interviewed by OMI about his actions, the director failed to provide credible testimony. The director’s actions could create a chilling effect on the willingness of employees to participate in investigations that promote better care for veterans. However, the director received only a written counseling.
+- The director of a VA clinic in Maryland improperly monitored witness testimony through a video feed to a conference room during an OMI investigation of patient care problems. The director then asked a witness about his testimony to OMI. When interviewed by OMI about his actions, the director failed to provide credible testimony. The director’s actions could create a chilling effect on the willingness of employees to participate in investigations that promote better care for veterans. However, the director received only a written counseling.
 - In Montgomery, Alabama, a staff pulmonologist copied and pasted prior provider notes for veterans, rather than taking current readings, which violated VA rules and resulted in inaccurate recordings of vital patient health information. An investigation confirmed that the pulmonologist copied and pasted health information in 1,241 separate patient records. Yet the physician received only a reprimand. While the VA explained that managers attempted to issue a 30-day suspension, management apparently did not provide the appropriate information to Human Resources, which only approved a reprimand.
 - Officials at the Beckley, West Virginia VAMC attempted to meet cost savings goals by substituting prescriptions for veterans, requiring mental health providers to prescribe older, cheaper, and less effective antipsychotic medications. These actions violated VA policies, undermined effective treatment of veterans, and placed their health and safety at risk. To date, no one has been disciplined.
 

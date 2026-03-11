@@ -1,9 +1,10 @@
 ---
 title: Whistleblower Disclosures to OSC Lead to VA Reforms, 40 Disciplinary Actions against Responsible Officials
 date: 2015-07-29
+tags:
+  - disclosure of wrongdoing
 ---
 
-Disclosure of Wrongdoing
 
 OSC) reported to the White House and Congress that the Cheyenne Veterans Affairs Medical Center (VAMC) violated Department of Veterans Affairs (VA) policies by improperly scheduling patient appointmen
 
@@ -13,7 +14,7 @@ Special Counsel Carolyn Lerner previously discussed the VA’s findings in a Jun
 
 Including the disciplinary actions in Fort Collins and Cheyenne, over the last two years the VA has taken or proposed disciplinary actions against 40 officials who engaged in misconduct identified in whistleblower disclosures to OSC. Some of the other actions include:
 
-- ​Four pharmacy employees were suspended for the improper handling of a rescription drugs as identified by a whistleblower in West Palm Beach, Florida.
+- Four pharmacy employees were suspended for the improper handling of a rescription drugs as identified by a whistleblower in West Palm Beach, Florida.
 - Two employees were disciplined, including one receiving a notice of proposed removal, for not properly reporting an alleged sexual assault, as disclosed by a whistleblower in Syracuse, New York.
 - A manager was disciplined for misrepresenting time spent in counseling sessions with veterans. The VA is currently reviewing the regional leadership’s responsibility for lack of oversight on this issue in a case brought to OSC by a whistleblower in Federal Way, Washington.
 - A physician received a reprimand and ultimately resigned after a whistleblower in Montgomery, Alabama, exposed that the physician had cut and pasted medical records and vital signs, rather than taking current readings. OSC has requested that the VA review the appropriateness of the level of disciplinary action taken in this case.

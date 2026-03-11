@@ -1,17 +1,18 @@
 ---
 title: OSC Continues to Enforce USERRA in the Federal Sector
 date: 2015-11-09
+tags:
+  - userra
 ---
 
-USERRA
 
 Since 1994, OSC has enforced the Uniformed Services Employment and Reemployment Rights Act (USERRA) through successfully resolving several cases
 
-​​In fiscal year 2015, the U.S. Office of Special Counsel (OSC) protected the job rights of National Guardsmen, veterans, and Reservists employed by the federal government. Since 1994, OSC has enforced the Uniformed Services Employment and Reemployment Rights Act (USERRA). USERRA protects service members and veterans from employment discrimination and allows them​​ to regain their civilian jobs and benefits upon their return from service. OSC’s jurisdiction is limited to USERRA cases filed by service members and veterans who hold jobs (or apply for jobs) with federal executive agencies. OSC receives USERRA cases from the Department of Labor (DOL) following an initial investigation and attempted resolution by DOL.  
+In fiscal year 2015, the U.S. Office of Special Counsel (OSC) protected the job rights of National Guardsmen, veterans, and Reservists employed by the federal government. Since 1994, OSC has enforced the Uniformed Services Employment and Reemployment Rights Act (USERRA). USERRA protects service members and veterans from employment discrimination and allows them to regain their civilian jobs and benefits upon their return from service. OSC’s jurisdiction is limited to USERRA cases filed by service members and veterans who hold jobs (or apply for jobs) with federal executive agencies. OSC receives USERRA cases from the Department of Labor (DOL) following an initial investigation and attempted resolution by DOL.  
 
 Some examples of USERRA cases OSC successfully resolved during the fiscal year are: 
 
-- ​An Army Reservist sustained injuries during military service, rendering him unable to perform his former duties as a Federal Air Marshal after his discharge. OSC intervened and negotiated a settlement whereby the agency agreed to place the Reservist on paid light duty for approximately six months while his disability retirement application was processed.   
+- An Army Reservist sustained injuries during military service, rendering him unable to perform his former duties as a Federal Air Marshal after his discharge. OSC intervened and negotiated a settlement whereby the agency agreed to place the Reservist on paid light duty for approximately six months while his disability retirement application was processed.   
 
 - The Air Force refused to allow the reemployment of an Army National Guard member as a federal contractor following his return from active duty. As a result, he was unemployed for several months before finding a new job. OSC informed the Air Force that it could be liable for improperly interfering with the Guardsman’s reemployment rights under USERRA. After OSC’s intervention, the Air Force agreed to pay the Guardsman $18,500 in lost wages as compensation. 
 
@@ -25,4 +26,4 @@ Some examples of USERRA cases OSC successfully resolved during the fiscal year a
 
 “OSC will continue to fight for the civilian job rights of veterans and members of the National Guard and Reserves,” said Special Counsel Carolyn Lerner. “We are committed to ensuring that the Federal government is a model employer for those who serve our country in uniform.” 
 
-​In addition to protecting their federal civilian employment rights, OSC has worked in its other program areas to improve the federal government’s treatment of veterans, such as working with Department of Veterans Affairs (VA) whistleblowers to remove threats to patient health and safety in VA medical facilities and protecting VA whistleblowers from retaliation. ​
+In addition to protecting their federal civilian employment rights, OSC has worked in its other program areas to improve the federal government’s treatment of veterans, such as working with Department of Veterans Affairs (VA) whistleblowers to remove threats to patient health and safety in VA medical facilities and protecting VA whistleblowers from retaliation.

@@ -1,9 +1,10 @@
 ---
 title: FAA Confirms Whistleblower Disclosures of Flight Safety Risk
 date: 2015-09-15
+tags:
+  - disclosure of wrongdoing
 ---
 
-Disclosure of Wrongdoing
 
 OSC sent findings to the White House and Congress regarding a safety risk in the nation’s air traffic control system.
 
@@ -13,10 +14,10 @@ The whistleblowers raised concerns about the FAA’s failure to adequately addre
 
 In response to the whistleblower’s confirmed disclosures, in December 2014, the FAA alerted flight crews and controllers to the risk, stating that it is seeing an “[increasing trend](/~assets/docs/di-13-4206-fourth-supplemental-report.pdf)” of multiple flight plans nationwide. If air traffic controllers are unaware of the most current flight plan, this could lead to situations where there is a “loss of separation” between aircraft—i.e., the safe distance that reduces the risk of collision or accidents due to wake turbulence. Multiple flight plans also add to controller and pilot workloads as they reconcile conflicting information.
 
-The FAA’s [investigation](/~assets/docs/di-13-4206-agency-report.pdf)​ found that multiple flight plans are entered into the National Airspace System because the “FAA does not have statutory requirements or enforcement mechanisms in place to ensure flight plans are filed using established protocols.” The FAA’s system does not automatically identify multiple flight plans and notify the controller. As a consequence, controllers have to review flight plans, call pilots, and search through paper flight progress strips to compare and contrast prior plans against new information displayed in the system. The work of combing through this information can create delays. The FAA also found that some airline dispatchers are not following proper protocols for entering new data on flight plans.
+The FAA’s [investigation](/~assets/docs/di-13-4206-agency-report.pdf) found that multiple flight plans are entered into the National Airspace System because the “FAA does not have statutory requirements or enforcement mechanisms in place to ensure flight plans are filed using established protocols.” The FAA’s system does not automatically identify multiple flight plans and notify the controller. As a consequence, controllers have to review flight plans, call pilots, and search through paper flight progress strips to compare and contrast prior plans against new information displayed in the system. The work of combing through this information can create delays. The FAA also found that some airline dispatchers are not following proper protocols for entering new data on flight plans.
 
 In 2012, the FAA created a working group to address the multiple flight plan problem. However, according to the FAA, “the group has had little impact.” The FAA also states that some senior officials “either were not aware of, or did not perceive the significance of the problem.”
 
 In response to the whistleblower’s disclosures, the FAA has revived its working group to address multiple flight plans. However, a 2015 audit confirmed that problems still remain.
 
-“The whistleblowers in Detroit deserve our deep gratitude. While more work needs to be done, their actions reignited efforts to address the problems,” said Special Counsel Carolyn Lerner.​
+“The whistleblowers in Detroit deserve our deep gratitude. While more work needs to be done, their actions reignited efforts to address the problems,” said Special Counsel Carolyn Lerner.

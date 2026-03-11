@@ -1,13 +1,14 @@
 ---
 title: EPA Whistleblower Prompts Fixes to Address Faulty Lead Paint Inspections that Put Public at Risk
 date: 2018-11-15
+tags:
+  - disclosure of wrongdoing
 ---
 
-Disclosure of Wrongdoing
 
 Elizabeth Wilde is an EPA whistleblower who exposed widespread faulty lead paint inspections across several southern states who worked with OSC to achieve corrective action.
 
-***Elizabeth Wilde is an EPA whistleblower who exposed widespread faulty lead paint inspections across several southern states, so she worked with OSC to achieve corrective action.* ​**
+***Elizabeth Wilde is an EPA whistleblower who exposed widespread faulty lead paint inspections across several southern states, so she worked with OSC to achieve corrective action.* **
 
 **Elizabeth Wilde**: “Childhood Lead Poisoning is, tragically, a far too common occurrence in this Country, despite being a completely preventable condition. The irreversible condition of lead poisoning can short circuit the child's normal emotional and intellectual development and instead lead to learning disabilities, emotional instability, and even incarceration: robbing children of productive lives and society of productive citizens.
 
@@ -17,4 +18,4 @@ Elizabeth Wilde is an EPA whistleblower who exposed widespread faulty lead paint
 
 “OSC listened to my story, looked at the documents, and asked the questions necessary to refer my whistleblower claim for investigation. As a direct result, EPA substantiated my claim, remedied the deficiencies, and is now committed to better protect mothers and their children from lead-based paint poisoning.” 
 
-[Learn more about her case here​](18-35-epa-lead-paint-inspections.md).
+[Learn more about her case here](18-35-epa-lead-paint-inspections.md).

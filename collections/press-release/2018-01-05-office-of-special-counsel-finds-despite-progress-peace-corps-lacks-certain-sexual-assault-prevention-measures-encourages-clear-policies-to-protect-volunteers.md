@@ -1,13 +1,14 @@
 ---
 title: Office of Special Counsel Finds Despite Progress, Peace Corps Lacks Certain Sexual Assault Prevention Measures, Encourages Clear Policies to Protect Volunteers
 date: 2018-01-05
+tags:
+  - disclosure of wrongdoing
 ---
 
-Disclosure of Wrongdoing
 
 OSC concluded that despite  significant progress, the Peace Corps has failed to implement certain sexual assault prevention measures and  encouraged  clearer  policies  and  training.
 
-​​The U.S. Office of Special Counsel (OSC) concluded that despite significant progress, the Peace Corps has failed to implement certain sexual assault prevention measures. OSC also encouraged clearer policies and training to 
+The U.S. Office of Special Counsel (OSC) concluded that despite significant progress, the Peace Corps has failed to implement certain sexual assault prevention measures. OSC also encouraged clearer policies and training to 
 
 better protect volunteers. The conclusions came after the Peace Corps completed a report prompted by whistleblower disclosures to OSC.
 
@@ -37,8 +38,4 @@ Two, the report stated that it has not identified a need for additional training
 
  
 
-In addition to submitting the report and Greene's comments to the President, OSC submitted the materials to the House Foreign Affairs Committee and the Senate Committee on Foreign Relations. The documents also are publicly available [here​](https://https//osc.gov/Pages/Public-Files-FY2018.aspx) at [www.osc.gov​](../../index.md).
-
-\*\*\*
-
-​
+In addition to submitting the report and Greene's comments to the President, OSC submitted the materials to the House Foreign Affairs Committee and the Senate Committee on Foreign Relations. The documents also are publicly available [here](https://https//osc.gov/Pages/Public-Files-FY2018.aspx) at [www.osc.gov](../../index.md).

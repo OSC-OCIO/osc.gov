@@ -1,9 +1,10 @@
 ---
 title: OSC Files Hatch Act Complaint Against Immigration Judge
 date: 2018-06-27
+tags:
+  - hatch act
 ---
 
-Hatch Act
 
 OSC filed a Hatch Act complaint requesting disciplinary action against an immigration judge who promoted Hillary Clinton’s plan for immigration reform during a deportation hearing.
 
@@ -14,5 +15,3 @@ According to the complaint, the respondent at the hearing was facing deportation
 “When a federal immigration judge in a public setting uses her position to advocate for partisan campaign outcomes, that’s a real problem,” said **Special Counsel Henry J. Kerner**. “Judge DePaolo appears to be in clear violation of the Hatch Act and we believe she should face significant disciplinary action.”
 
 OSC charged DePaolo with violating the Hatch Act’s prohibitions against engaging in political activity while on duty or in the federal workplace and using her official authority or influence to interfere with or affect the result of an election. Hatch Act violations can result in a range of penalties, including demotion, suspension, removal from employment, and debarment.
-
-\*\*\*

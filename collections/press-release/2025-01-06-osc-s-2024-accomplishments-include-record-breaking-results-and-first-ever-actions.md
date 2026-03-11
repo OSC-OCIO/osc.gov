@@ -1,9 +1,10 @@
 ---
 title: OSC’s 2024 Accomplishments Include Record Breaking Results and First Ever Actions
 date: 2025-01-06
+tags:
+  - general
 ---
 
-General
 
 OSC today released a summary of the agency’s accomplishments during the 2024 fiscal and calendar year..
 
@@ -73,7 +74,7 @@ Significant cases:
 - The Department of Justice, Executive Office for Immigration Review (EOIR) issued immigration judges a policy on speaking engagements that did not include the anti-gag order language and emailed two judges a message referencing the speaking engagements policy that was perceived as a gag order. Based on OSC's recommendations, EOIR agreed to revise the policy to include the required language, sent an email with the revised policy that clarified that the policy does not restrict employees' rights to make protected disclosures or engage in protected activity, and to have OSC conduct training.
 - The U.S. Coast Guard (USCG) took corrective action to address its use of NDAs entered into with sexual assault survivors and others. The assaults and other misconduct come to light during a now [exposed](https://gcc02.safelinks.protection.outlook.com/?url=https://www.cnn.com/2023/06/30/politics/coast-guard-academy-secret-sexual-assault-investigation-invs/index.html&data=05%7c02%7c%7cccc97ddfdd7d4cbd756708dd2e63debb%7c39dcbe17c0694d7c8ad7efbbedb5fc55%7c0%7c0%7c638717728707797560%7cUnknown%7cTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7c0%7c%7c%7c&sdata=GbKzIsFuCYo1LsAiMjrP5YgrCeASiSiQ28T5hcPu/%2Bc%3D&reserved=0) internal USCG investigation known as “Operation Fouled Anchor." U.S. Senator Ted Cruz alerted OSC to the issue. Shortly after OSC commenced investigating, OSC learned that the USCG notified all current and former employees that any NDA executed with the USCG was subject to the requirements of the anti-gag order provision of the law.
 
-**​Supporting Military Veterans:**
+**Supporting Military Veterans:**
 
 OSC supports America's veterans and is committed to helping improve military retiree care and ensure the employment rights of our returning uniformed service members. One way OSC supports veterans is through its enforcement of the Uniformed Services Employment and Reemployment Rights Act (USERRA), which protects military service members and veterans from employment discrimination on the basis of their service, and allows them to regain their civilian jobs following their service.
 
@@ -96,5 +97,3 @@ Additionally, OSC enhanced its Section 2302(c) Certification Program by introduc
 **Additional 2024 Accomplishments**
 
 Read more about OSC's accomplishments in our annual [Performance and Accountability Report to Congress](https://gcc02.safelinks.protection.outlook.com/?url=https://osc.gov/Documents/Resources/Statutory%2520Reports%2520and%2520Notices/Performance%2520and%2520Accountability%2520Reports%2520%28PAR%29/Performance%2520Reports/FY%25202024%2520Performance%2520and%2520Accountability%2520Report.pdf&data=05%7c02%7c%7cccc97ddfdd7d4cbd756708dd2e63debb%7c39dcbe17c0694d7c8ad7efbbedb5fc55%7c0%7c0%7c638717728707837927%7cUnknown%7cTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7c0%7c%7c%7c&sdata=YL9s7m2Z%2BuXX5RVR59vUDrsEnbTG6OMAfc0Jg2Lxteo%3D&reserved=0).
-
-\*\*\*​
