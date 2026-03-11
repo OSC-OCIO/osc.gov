@@ -133,3 +133,54 @@ img {
   max-height: 25rem;
   width: 100%;
 }
+
+@include at-media("desktop") {
+  .complaint {
+    @include u-bg("accent-cool");
+    align-items: center;
+    color: #fff !important;
+    cursor: pointer;
+    display: flex;
+    @include u-text("bold");
+    padding-bottom: 0.5rem;
+    padding-top: 0.5rem;
+    padding-left: 1rem;
+    padding-right: 1.5rem;
+    text-decoration: none;
+  }
+
+  .complaint:hover {
+    @include u-bg("accent-cool-dark");
+    text-decoration: none;
+  }
+
+  .usa-header .complaint {
+    border-radius: 0;
+    margin-top: 0;
+    height: 76px;
+  }
+
+  .complaint_wrapper {
+    display: inline-block;
+  }
+
+  .usa-header .complaint_wrapper {
+    width: auto;
+    position: absolute;
+    right: 2rem;
+    top: -14px;
+  }
+
+  .usa-header .complaint_wrapper::before {
+    position: absolute;
+    width: 0;
+    height: 0;
+    border-style: solid;
+    border-width: 0 0 14px 14px;
+    border-color: rgba(0, 0, 0, 0) rgba(0, 0, 0, 0) color("accent-cool-darker")
+      rgba(0, 0, 0, 0);
+    transform: rotate(0deg);
+    left: -14px;
+    content: "";
+  }
+}
