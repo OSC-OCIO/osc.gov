@@ -3,6 +3,7 @@ title: Additional Resources for Hatch Act
 layout: layouts/resource-index
 eleventyNavigation:
   order: 9
+  title: Additional resources
 reports:
   - heading: "Hatch Act Reports"
     items:
@@ -51,6 +52,7 @@ reports:
       - name: "The Hatch Act and Most Federal Employees Poster"
         url: "/~assets/docs/the-hatch-act-and-most-federal-employees-poster.pdf"
 ---
+
 <h2 class="font-heading-xl padding-top-1">Hatch Act Videos</h2>
 
 <div class="video-grid" style="display: grid; grid-template-columns: 1fr 1fr; gap: 1.5rem; margin-top: 2rem;">
@@ -70,6 +72,7 @@ reports:
 </ul>
 
 {%- for section in reports -%}
+
   <h2 id="{{- section.heading | slugify -}}">{{- section.heading -}}</h2>
   <ul class="usa-icon-list">
     {%- for item in section.items -%}

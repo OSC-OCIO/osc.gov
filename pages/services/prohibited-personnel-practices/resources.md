@@ -3,6 +3,7 @@ title: Additional Resources for Prohibited Personnel Practices
 layout: layouts/resource-index
 eleventyNavigation:
   order: 9
+  title: Additional resources
 reports:
   - heading: "Amicus Curiae Briefs"
     items:

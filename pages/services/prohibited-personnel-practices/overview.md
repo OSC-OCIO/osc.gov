@@ -3,6 +3,7 @@ title: Prohibited Personnel Practices Overview
 layout: layouts/faq-accordion
 eleventyNavigation:
   order: 0
+  title: Overview
 faqSections:
   - items:
       - question: Discrimination

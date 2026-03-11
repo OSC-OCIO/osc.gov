@@ -4,5 +4,5 @@ layout: layouts/faq-accordion
 faqTag: dow
 eleventyNavigation:
   order: 6
+  title: FAQs
 ---
-

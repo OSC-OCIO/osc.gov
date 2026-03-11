@@ -2,6 +2,7 @@
 title: USERRA Enforcement by OSC
 eleventyNavigation:
   order: 4
+  title: Enforcement by OSC
 ---
 
 ​OSC has authority to bring cases before the Merit Systems Protection Board (MSPB) for prosecution.

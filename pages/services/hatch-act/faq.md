@@ -7,4 +7,5 @@ faqTag:
   - ha_state_local_nonprofit_employees
 eleventyNavigation:
   order: 8
+  title: FAQs
 ---

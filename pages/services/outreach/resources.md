@@ -3,6 +3,7 @@ title: Additional Resources for Outreach, Training, & Certification
 layout: layouts/faq-accordion
 eleventyNavigation:
   order: 8
+  title: Additional resources
 faqSections:
   - items:
       - question: Handouts

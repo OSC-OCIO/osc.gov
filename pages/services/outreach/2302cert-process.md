@@ -2,6 +2,7 @@
 title: 2302(c) Certification Process
 eleventyNavigation:
   order: 2
+  title: Process
 faqItems:
   - title: 1. Place informational posters at agency facilities
     answer: |-

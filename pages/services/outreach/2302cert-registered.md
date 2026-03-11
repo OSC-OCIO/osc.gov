@@ -2,6 +2,7 @@
 title: 2302(c) Registered Agencies
 eleventyNavigation:
   order: 5
+  title: Registered agencies
 items:
   - agency: "AmeriCorps OIG"
     regdate: "April 2025"

@@ -3,6 +3,7 @@ title: Additional Resources for Disclosure of Wrongdoing
 layout: layouts/resource-index
 eleventyNavigation:
   order: 7
+  title: Additional Resources
 reports:
   - heading: "DU Posters, Handouts, & Training Materials"
     items:

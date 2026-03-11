@@ -2,6 +2,7 @@
 title: State, D.C., or Local Employee Hatch Act Information
 eleventyNavigation:
   order: 2
+  title: State, D.C., or local employee information
 coverageItems:
   - question: Who is Covered?
     answer: |-

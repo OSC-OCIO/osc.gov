@@ -2,6 +2,7 @@
 title: How to File a Prohibited Personnel Practices Complaint
 eleventyNavigation:
   order: 2
+  title: How to file a complaint
 ---
 
 Prohibited personnel practices (PPPs) are employment-related activities that are banned in the federal workforce because they violate the merit system through some form of employment discrimination, retaliation, improper hiring practices, or failure to adhere to laws, rules, or regulations that directly concern the merit system principles.
