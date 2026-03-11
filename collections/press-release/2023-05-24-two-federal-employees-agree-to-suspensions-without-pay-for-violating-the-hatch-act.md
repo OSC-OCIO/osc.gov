@@ -1,15 +1,14 @@
 ---
-
 title: Two Federal Employees Agree to Suspensions Without Pay for Violating the Hatch Act
 date: 2023-05-24
+tags:
+  - hatch act
 ---
-Hatch Act
+
 
 OSC today announced two settlement agreements reached with federal employees charged with violating the Hatch Act.
 
-Page Content
-
-​The U.S. Office of Special Counsel (OSC) today announced two settlement agreements reached with federal employees charged with violating the Hatch Act. A summary of each case is below:  
+The U.S. Office of Special Counsel (OSC) today announced two settlement agreements reached with federal employees charged with violating the Hatch Act. A summary of each case is below:
 
 **U.S. Department of Labor (DOL)**:
 
@@ -22,5 +21,3 @@ The interaction violated the Hatch Act's prohibition against engaging in politic
 OSC filed a complaint for disciplinary action with the U.S. Merit Systems Protection Board alleging that a VA employee violated the Hatch Act by soliciting a political contribution on a social media account.  The social media post read, in part, “Give $20 NOW to \[a candidate's\] campaign . . . I did!  Join me . . . $20." 
 
 The Hatch Act prohibits federal employees from knowingly soliciting, accepting, or receiving a political contribution. The employee agreed to settle the case by accepting a three-day suspension without pay.
-
-\*\*\*

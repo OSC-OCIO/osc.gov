@@ -1,13 +1,12 @@
 ---
-
 title: OSC Makes Public Findings on VA Failure to Secure Firearms Used in Kansas Killings
 date: 2025-02-28
+tags:
+  - disclosure of wrongdoing
 ---
-Disclosure of Wrongdoing
+
 
 OSC alerted the President that management at a VA Police Dept in Kansas failed to remove access to agency firearms from an officer following the issuance of a protective order, resulting in tragedy.
-
-Page Content
 
 The U.S. Office of Special Counsel (OSC) today [alerted](https://gcc02.safelinks.protection.outlook.com/?url=https://osc.gov/Documents/Public%2520Files/FY25/DI-24-000869/OSC%2520File%2520No%2520DI-24-000869%2520Letter%2520to%2520the%2520President_Redacted.pdf&data=05%7c02%7c%7c963502cbaf0949171f4d08dd5818ce19%7c39dcbe17c0694d7c8ad7efbbedb5fc55%7c0%7c0%7c638763585747841359%7cUnknown%7cTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7c0%7c%7c%7c&sdata=BAYWznuY%2BS2yGu%2B%2BU0pqgjZLMCDCdLMcX8icTDKgSmk%3D&reserved=0) the President and Congress that management at a U.S. Department of Veterans Affairs (VA) Police Department in Eastern Kansas failed to remove access to agency firearms from officer Jerel McGeachy following the issuance of a protective order, resulting in tragedy. The [findings](https://gcc02.safelinks.protection.outlook.com/?url=https://osc.gov/Documents/Public%2520Files/FY25/DI-24-000869/OSC%2520File%2520No.%252024-000869%2520Agency%2520Report_Redacted.pdf&data=05%7c02%7c%7c963502cbaf0949171f4d08dd5818ce19%7c39dcbe17c0694d7c8ad7efbbedb5fc55%7c0%7c0%7c638763585747853592%7cUnknown%7cTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7c0%7c%7c%7c&sdata=VNZU%2BOi6rZaa1AhV8aYQeXzIWTIGfCfBLfBirHT/k58%3D&reserved=0) were issued to OSC by the VA in response to OSC's transmittal of whistleblower allegations of wrongdoing at the Dwight D. Eisenhower Department of Veterans Affairs Medical Center (Eisenhower VAMC) in Leavenworth, Kansas.
 
@@ -18,5 +17,3 @@ The whistleblower, a VA police officer, [alleged](https://gcc02.safelinks.protec
 Other security deficiencies were also identified. Following the investigation, the physical security deficiencies were corrected immediately and the VA outlined additional safety measures for staff to take when a VA police officer's arrest and weapons authority is suspended.
 
 In February 2025, OSC received an update on the status of disciplinary action taken against VA employees. In its response, the VA informed OSC that disciplinary action was taken, or is pending, against the Eisenhower VAMC Chief of Police, Deputy Chief, and a Lieutenant, all of whom are no longer in police service.
-
-\*\*\*​

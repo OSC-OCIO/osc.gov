@@ -1,13 +1,12 @@
 ---
-
 title: Special Counsel Dellinger Advocates Equivalent Pay for Federal Employee Military Reservists Called to Duty
 date: 2024-10-24
+tags:
+  - userra
 ---
-USERRA
+
 
 Special Counsel Hampton Dellinger urges fair compensation for federal government employees who also serve part-time in the military.
-
-Page Content
 
 In an [op-ed](https://www.militarytimes.com/opinion/2024/10/23/reservists-in-federal-jobs-deserve-same-pay-for-both-roles/) published in _Military Times_, Special Counsel Hampton Dellinger urges fair compensation for federal government employees who also serve part-time in the military. To achieve this goal, Congress enacted a “differential pay" statute to support federal workers performing National Guard or Reserve duty (collectively, “reservists"). Under this law, federal employee reservists do not have to incur a pay cut when they serve in uniform because the statute requires the government to pay the difference if their military pay is less than their civilian pay.  Many private employers also provide differential pay to employees who serve.
 
@@ -16,5 +15,3 @@ Federal executive branch employees constitute [almost 20 percent](https://gcc02.
 “Military personnel should not suffer financial hardship while they are serving," Dellinger said. “If the Supreme Court does not rule in the employees' favor, I urge Congress to once again act to protect our service members."
 
 For more information, please see Dellinger's [opinion column](https://www.militarytimes.com/opinion/2024/10/23/reservists-in-federal-jobs-deserve-same-pay-for-both-roles/) published at _Military Times_.
-
-\*\*\*

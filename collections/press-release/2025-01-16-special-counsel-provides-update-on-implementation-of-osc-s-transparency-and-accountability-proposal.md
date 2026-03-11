@@ -1,13 +1,12 @@
 ---
-
 title: Special Counsel Provides Update on Implementation of OSC’s Transparency and Accountability Proposal
 date: 2025-01-16
+tags:
+  - general
 ---
-General
+
 
 After review and consideration of feedback received in response to his transparency and accountability proposal, Special Counsel Hampton Dellinger today announced updates to OSC’s procedures.
-
-Page Content
 
 After review and consideration of  feedback received in response to his transparency and accountability [proposal](https://gcc02.safelinks.protection.outlook.com/?url=https://osc.gov/News/Pages/24-32-OSC-Transparency-Propsal.aspx&data=05%7c02%7c%7c043d8d003726429c0c4f08dd364ae98f%7c39dcbe17c0694d7c8ad7efbbedb5fc55%7c0%7c0%7c638726417571291223%7cUnknown%7cTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7c0%7c%7c%7c&sdata=paCjUz6iEszrfo3HdQ3VK%2Bhixs0hCjKwDpMjm%2Bja2h0%3D&reserved=0), Special Counsel Hampton Dellinger today announced updates to OSC's procedures. These changes are intended to enhance government accountability and provide more public visibility when agencies' review of potential misconduct takes longer than Congressional expectations.
 
@@ -26,5 +25,3 @@ To see an initial posted summary, please visit the [work in progress webpage](ht
 **Agency Head 'Review and Sign' Requirement**:
 
 The Special Counsel's view is that agency heads are statutorily required to review and sign investigative reports of whistleblower allegations submitted to OSC. The statutory text clearly assigns agency heads this responsibility pursuant to 5 U.S.C. § 1213, the law that gives OSC authority to mandate investigations of whistleblower allegations. This clarification is in response to some agency heads electing to delegate signing authority to subordinate agency officials.
-
-\*\*\*​

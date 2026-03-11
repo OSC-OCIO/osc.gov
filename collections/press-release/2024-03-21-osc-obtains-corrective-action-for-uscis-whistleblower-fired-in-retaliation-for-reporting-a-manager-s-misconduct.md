@@ -1,13 +1,12 @@
 ---
-
 title: OSC Obtains Corrective Action for USCIS Whistleblower Fired in Retaliation for Reporting a Manager’s Misconduct
 date: 2024-03-21
+tags:
+  - prohibited personnel practices
 ---
-Prohibited Personnel Practices
+
 
 OSC announced that it has settled its complaint for corrective action filed with the MSPB against USCIS.
-
-Page Content
 
 The U.S. Office of Special Counsel (OSC) today announced that it has settled its complaint for corrective action filed with the U.S. Merit Systems Protection Board (MSPB) against U.S. Citizenship and Immigration Services (USCIS).  An administrative law judge for MSPB approved and entered the settlement into the record and, as a result, dismissed the case this week.  The complaint alleged that the agency fired Kenneth Langley, an analyst at its Wichita, Kansas office, for blowing the whistle on an official who divulged confidential, identifying information about employees who had filed agency grievances.
 

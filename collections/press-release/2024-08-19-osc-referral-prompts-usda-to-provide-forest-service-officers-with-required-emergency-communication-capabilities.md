@@ -1,13 +1,12 @@
 ---
 title: OSC Referral Prompts USDA to Provide Forest Service Officers with Required Emergency Communication Capabilities
 date: 2024-08-19
+tags:
+  - disclosure of wrongdoing
 ---
 
-Disclosure of Wrongdoing
 
 OSC today alerted the President and Congress that the U.S. Forest Service failed to provide required emergency communication capabilities to agency law enforcement officers.
-
-Page Content
 
 The U.S. Office of Special Counsel (OSC), today [alerted](/~assets/docs/letter-to-the-president.pdf) the President and Congress that the U.S. Forest Service (FS) failed to provide required emergency communication capabilities to agency law enforcement officers (LEO) working in national forests in Georgia and South Carolina.
 
@@ -18,5 +17,3 @@ Since the investigation, USDA made significant improvements to LEO communication
 Finally, the FS Chief Information Officer has sent weekly reports to the FS's Law Enforcement and Investigations Division to ensure timely resolution of any remaining communications issues.
 
 “I thank the whistleblowers for bringing these serious allegations to OSC's attention and thank Secretary Vilsack for taking them seriously," said Special Counsel Hampton Dellinger. “As we have seen in the massive Park Fire in California and the numerous forest fires affecting National Forests throughout the Northwest, U.S. Forest Service employees manage hazardous situations in remote areas. It is critical that the Forest Service provide effective emergency communication to ensure the safety of their employees and visitors to our National Forests."
-
-\*\*\*​

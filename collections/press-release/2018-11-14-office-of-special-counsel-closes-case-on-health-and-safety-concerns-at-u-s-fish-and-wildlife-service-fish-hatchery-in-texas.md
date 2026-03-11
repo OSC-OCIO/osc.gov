@@ -1,13 +1,12 @@
 ---
 title: Office of Special Counsel Closes Case on Health and Safety Concerns at U.S. Fish and Wildlife Service Fish Hatchery in Texas
 date: 2018-11-14
+tags:
+  - disclosure of wrongdoing
 ---
 
-Disclosure of Wrongdoing
 
 OSC today closed a case over allegations of health and safety violations at a U.S. Fish and Wildlife Service fish hatchery in Texas.
-
-Page Content
 
 The Office of Special Counsel (OSC) today closed a case over allegations of health and safety violations at a U.S. Fish and Wildlife Service fish hatchery in Texas. Concerns brought forward by a whistleblower, who chose to remain anonymous, generally were substantiated by a Department of the Interior Office of the Inspector General investigation initiated by OSC’s referral. The case resulted in a department-wide memo reiterating the importance of safety and training when using chemicals and pesticides and a separate asbestos abatement investigation.
 
@@ -15,8 +14,6 @@ The Office of Special Counsel (OSC) today closed a case over allegations of heal
 
 The allegations involved practices at the Inks Dam National Fish Hatchery in Burnet, Texas. The whistleblower alleged that an agency supervisor required employees to disinfect their hands with a potentially irritating disinfectant. Another allegation involved the incorrect handling of asbestos pipe abatement. A third allegation covered the inadequate approval of herbicide use.
 
-​OSC referred the whistleblower’s concerns to the Department of the Interior, which investigated via its inspector general and completed a report. The report noted that an unrelated investigation in June 2016 found similar wrongdoing. The subject supervisor retired but Fish and Wildlife Service regional management failed to address fully the deficiencies uncovered by the June 2016 investigation. The department-wide actions address those shortcomings.
+OSC referred the whistleblower’s concerns to the Department of the Interior, which investigated via its inspector general and completed a report. The report noted that an unrelated investigation in June 2016 found similar wrongdoing. The subject supervisor retired but Fish and Wildlife Service regional management failed to address fully the deficiencies uncovered by the June 2016 investigation. The department-wide actions address those shortcomings.
 
-In addition to writing to the president, OSC sent a copy of the special counsel’s [letter](/~assets/docs/di-16-4054-letter-to-the-president.pdf) and the agency’s [report](/~assets/docs/di-16-4054-agency-report.pdf)​ to the chairmen and ranking members of the Senate Committee on Energy and Natural Resources and the House Committee on Natural Resources.
-
-\*\*\*
+In addition to writing to the president, OSC sent a copy of the special counsel’s [letter](/~assets/docs/di-16-4054-letter-to-the-president.pdf) and the agency’s [report](/~assets/docs/di-16-4054-agency-report.pdf) to the chairmen and ranking members of the Senate Committee on Energy and Natural Resources and the House Committee on Natural Resources.

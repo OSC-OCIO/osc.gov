@@ -1,13 +1,12 @@
 ---
-
 title: Three VA Whistleblowers Receive OSC’s 2024 Public Servant Award for Disclosing Improper Handling of Veterans’ Personal Information
 date: 2024-10-10
+tags:
+  - disclosure of wrongdoing
 ---
-Disclosure of Wrongdoing
+
 
 OSC today announces three U.S. Department of Veterans Affairs whistleblowers as recipients of the 2024 OSC Public Servant award.
-
-Page Content
 
 The U.S. Office of Special Counsel (OSC) today announces three U.S. Department of Veterans Affairs (VA) whistleblowers as recipients of the 2024 OSC Public Servant award.
 
@@ -20,5 +19,3 @@ The VA uses VIEWS CCM to conduct administrative and correspondence work. Roughly
 The investigation [substantiated](https://gcc02.safelinks.protection.outlook.com/?url=https://osc.gov/Documents/Public%2520Files/FY24/DI-22-000680%3b%2520DI-22-000682%3b%2520DI-22-000742/President%2520Letter%2520DI-22-000680%2520000682%2520000742_Redacted.pdf&data=05%7c02%7c%7c63d7c3c246e14198e3a408dce92f1611%7c39dcbe17c0694d7c8ad7efbbedb5fc55%7c0%7c0%7c638641635692813615%7cUnknown%7cTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7c0%7c%7c%7c&sdata=c1xn/kif8c6Pe30G/q%2BT6N5mTBpmltx7rOC5lbJCbA4%3D&reserved=0) that searching in VIEWS CCM returned numerous cases containing PII that any user could view. The investigation also discovered that VIEWS CCM has a Veterans Contacts Database that contains veterans' PII such as DOBs, SSNs, personal addresses, and phone numbers.
 
 In response to these findings, the VA implemented several corrective actions to protect open and closed cases containing PII in the relevant systems, to ensure employees properly designate and protect cases in the future, and to provide appropriate tracking and user oversight. The changes include: converting all open and closed cases in VIEWS CCM to “Sensitive" status; changing all archived cases to “Sensitive" status; restricting access to only users with a validated business need for the information; and changing the default indicator to “Sensitive" for all correspondence received from OSC, the Office of Accountability and Whistleblower Protection, and Offices of Inspectors General.
-
-\*\*\*​

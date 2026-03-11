@@ -1,13 +1,12 @@
 ---
 title: VA Whistleblower, Office of Special Counsel Obtain VA Fixes to Provide Better Care to Suicidal Veterans Nationwide
 date: 2017-12-07
+tags:
+  - disclosure of wrongdoing
 ---
 
-Disclosure of Wrongdoing
 
 OSC has notified President Trump that it resolved a case of a VA whistleblower’s allegations of unsatisfactory care for suicidal veterans at a VA medical center in Albuquerque, New Mexico.
-
-Page Content
 
 The U.S. Office of Special Counsel has notified President Trump that it resolved a case of a VA whistleblower’s allegations of unsatisfactory care for suicidal veterans at the Raymond G. Murphy VA Medical Center of Albuquerque, New Mexico. After a slow start, the U.S. Department of Veterans Affairs (VA) acknowledged shortcomings in flagging suicide risk in patient medical records and initiated agency-wide corrective actions to help veterans across the country. The whistleblower helped the Office of Special Counsel uncover that the VA had no timeframe for flagging suicide risk in a veteran’s medical record. Now, the agency plans to flag suicide risk within 24 hours or much less time.
 
@@ -23,6 +22,4 @@ The agency said it reviewed the suicide prevention team workload, another concer
 
 manageable. The agency noted that the suicide prevention team is currently successfully meeting the demands and requirements of the program.
 
-The special counsel sent a copy of his letter, the unredacted agency reports, and the whistleblower comments to the chairmen and ranking members of the Senate and House Committees on Veterans Affairs. He also filed copies of the [letter](/~assets/docs/di-15-4906-letter-to-president-redacted.pdf)​, the redacted agency reports, and the whistleblower comments in OSC’s public file, available at [www.osc.gov​](https://www.osc.gov/).
-
-\*\*\*
+The special counsel sent a copy of his letter, the unredacted agency reports, and the whistleblower comments to the chairmen and ranking members of the Senate and House Committees on Veterans Affairs. He also filed copies of the [letter](/~assets/docs/di-15-4906-letter-to-president-redacted.pdf), the redacted agency reports, and the whistleblower comments in OSC’s public file, available at [www.osc.gov](https://www.osc.gov/).

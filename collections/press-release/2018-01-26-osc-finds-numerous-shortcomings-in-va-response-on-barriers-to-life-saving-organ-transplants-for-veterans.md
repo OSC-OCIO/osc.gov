@@ -1,13 +1,12 @@
 ---
 title: OSC Finds Numerous Shortcomings in VA Response on Barriers to Life-saving Organ Transplants for Veterans
 date: 2018-01-26
+tags:
+  - disclosure of wrongdoing
 ---
 
-Disclosure of Wrongdoing
 
 OSC noted numerous shortcomings  and  unanswered  questions in the VA's response to whistleblower disclosures of limited access to life‐saving  transplants.
-
-Page Content
 
 The U.S. Office of Special Counsel (OSC) today noted numerous shortcomings and unanswered questions in the Department of Veterans Affairs (VA) response to whistleblower disclosures of flaws and limited access to life
 
@@ -45,8 +44,4 @@ OSC sent a copy of the [letter](/~assets/docs/di-14-3637-letter-to-president.pdf
 
 OSC also filed a copy of the letter to the President, redacted reports, and whistleblower comments in its
 
-public file, available at [www.osc.gov](https://www.osc.gov/).  
-
-\*\*\*
-
-​
+public file, available at [www.osc.gov](https://www.osc.gov/).

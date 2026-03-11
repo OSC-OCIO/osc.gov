@@ -1,15 +1,14 @@
 ---
-
 title: OSC Statement Regarding the MSPB Decision in Special Counsel v. Cowan
 date: 2022-04-14
+tags:
+  - hatch act
 ---
-Hatch Act
+
 
 OSC has received numerous questions about this case and its implications for the Hatch Act. OSC is therefore issuing this statement to clarify its view of the parameters.
 
-Page Content
-
-​On March 29, 2022, the Merit Systems Protection Board (MSPB) issued a decision in OSC's favor in _Special Counsel v. Cowan_, which involved an employee who ran for a partisan political office in violation of the Hatch Act.  OSC welcomes the reconstituted MSPB's quick action to address this long-pending Hatch Act case, which OSC filed in 2016 but that the MSPB was unable to decide until recently due to lack of a quorum.  Shortly after filing the complaint, OSC reached a settlement agreement with the employee under which the employee agreed to a significant disciplinary action—a 180-day unpaid suspension.  The MSPB decision affirmed that OSC may resolve Hatch Act cases by settlement agreement provided the settlement is freely entered into, lawful on its face, and the associated penalty is one authorized under 5 U.S.C. § 7326.  In OSC's view, the precedential effect of the ruling is limited to those cases that resolve by settlement agreement.
+On March 29, 2022, the Merit Systems Protection Board (MSPB) issued a decision in OSC's favor in _Special Counsel v. Cowan_, which involved an employee who ran for a partisan political office in violation of the Hatch Act.  OSC welcomes the reconstituted MSPB's quick action to address this long-pending Hatch Act case, which OSC filed in 2016 but that the MSPB was unable to decide until recently due to lack of a quorum.  Shortly after filing the complaint, OSC reached a settlement agreement with the employee under which the employee agreed to a significant disciplinary action—a 180-day unpaid suspension.  The MSPB decision affirmed that OSC may resolve Hatch Act cases by settlement agreement provided the settlement is freely entered into, lawful on its face, and the associated penalty is one authorized under 5 U.S.C. § 7326.  In OSC's view, the precedential effect of the ruling is limited to those cases that resolve by settlement agreement.
 
 Since the decision was issued, OSC has received numerous questions about the case and its implications for the Hatch Act.  OSC is therefore issuing this statement to clarify its view of the parameters of the decision. 
 

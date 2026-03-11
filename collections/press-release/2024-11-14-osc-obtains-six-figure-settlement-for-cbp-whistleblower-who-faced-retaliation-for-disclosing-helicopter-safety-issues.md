@@ -1,13 +1,12 @@
 ---
-
 title: OSC Obtains Six-Figure Settlement for CBP Whistleblower Who Faced Retaliation for Disclosing Helicopter Safety Issues
 date: 2024-11-14
+tags:
+  - prohibited personnel practices disclosure of wrongdoing
 ---
-Prohibited Personnel Practices Disclosure of Wrongdoing
+
 
 OSC today announced a settlement agreement that OSC facilitated between U.S. Customs and Border Protection and a whistleblower, including significant compensatory damages for retaliation.
-
-Page Content
 
 The U.S. Office of Special Counsel (OSC) today announced a settlement agreement that OSC facilitated between U.S. Customs and Border Protection (CBP) and a whistleblower, including significant compensatory damages for retaliation after he disclosed safety issues involving CBP's helicopter fleet.
 
@@ -24,5 +23,3 @@ OSC [referred](https://gcc02.safelinks.protection.outlook.com/?url=https://osc.g
 In response, CBP requested that U.S. Coast Guard conduct an independent review of AMO's safety and crash investigation policies and procedures. In addition, AMO's Training, Safety, and Standards Directorate revised the policy and standard operating procedures regarding accident investigations to ensure better communication between safety officers and executive leadership.
 
 Special Counsel Hampton Dellinger offered credit and thanks to the OSC attorneys who worked on this matter, including Lisa Thomas, David Tuteur, Sheri Shilling, and Rachel Venier.
-
-\*\*\*​

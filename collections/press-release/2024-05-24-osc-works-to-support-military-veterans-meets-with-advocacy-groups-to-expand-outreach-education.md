@@ -1,17 +1,16 @@
 ---
-
 title: OSC Works to Support Military Veterans, Meets with Advocacy Groups to Expand Outreach & Education
 date: 2024-05-24
+tags:
+  - general
 ---
-General
+
 
 OSC supports America’s veterans and is committed to helping improve military retiree care and ensure the employment rights of our returning uniformed service members.
 
-Page Content
-
 ![](file:///C:/Users/ZKurz/AppData/Local/Temp/msohtmlclip1/01/clip_image002.jpg)
 
-​The U.S. Office of Special Counsel (OSC) supports America's veterans and is committed to helping improve military retiree care and ensure the employment rights of our returning uniformed service members.  
+The U.S. Office of Special Counsel (OSC) supports America's veterans and is committed to helping improve military retiree care and ensure the employment rights of our returning uniformed service members.
 
 This week, Special Counsel Hampton Dellinger and senior OSC leaders met with veterans' advocacy groups to discuss OSC's work, and to explore ways to enhance connections with veterans and expand the agency's outreach. Attendees at the roundtable included the Reserve Organization of America, Vietnam Veterans of America, AMVETS (American Veterans), and Veterans of Foreign Wars. OSC is committed to a continuing dialogue with these groups and working with the U.S. Department of Veterans Affairs (VA) and civilian Department of Defense (DoD) employees to make OSC's services more accessible to those who need them.
 
@@ -27,4 +26,4 @@ Over the past several years, OSC has worked with many VA whistleblowers to ident
 
 OSC is committed to supporting veterans by helping agencies, including the VA and DoD, create a positive culture of whistleblowing. When whistleblowers are empowered to speak up about potential misconduct without fear of reprisal, we can best protect the health and safety of our veterans, and honor those who have served.
 
-\*\*\*_​_
+\*\*\*__

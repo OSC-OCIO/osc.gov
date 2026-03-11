@@ -1,15 +1,12 @@
 ---
 title: OSC Announces Hatch Act Enforcement Decisions
 date: 2024-09-05
+tags:
+  - hatch act
 ---
 
-Hatch Act
 
 Navy Secretary Del Toro Found in Violation; Other Matters Closed, Including Involving Secretary Cardona and Former Attorney General Barr
-
-Page Content
-
-​​​
 
 **_Navy Secretary Del Toro Found in Violation; Other Matters Closed, Including Involving Secretary Cardona and Former Attorney General Barr_**
 
@@ -44,5 +41,3 @@ During this election season, OSC continues to identify Hatch Act violations by f
 In another case, an employee with a U.S. Attorneys' Office shared on Facebook at least two messages that solicited financial contributions for a partisan political campaign. The messages solicited donations for the campaign of the employee's father, a candidate in a partisan primary election. In a settlement agreement, the employee admitted to violating the Hatch Act and agreed to a seven-day unpaid suspension as a penalty for their political activity.
 
 Special Counsel Hampton Dellinger: “While OSC deals with some close calls in its Hatch Act enforcement, federal employees soliciting donations for a political campaign is express advocacy and a clear-cut violation. We urge federal employees not to cross these brightest of lines. When it happens, OSC will take action."
-
-\*\*\*

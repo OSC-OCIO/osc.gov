@@ -1,13 +1,12 @@
 ---
-
 title: On National Whistleblower Appreciation Day, Special Counsel Offers Thanks and Recognizes Female Athletes, Tuskegee Syphilis Study Whistleblower
 date: 2024-07-30
+tags:
+  - disclosure of wrongdoing
 ---
-Disclosure of Wrongdoing
+
 
 On behalf of OSC, Special Counsel Hampton Dellinger today released the following statement in honor of National Whistleblower Appreciation Day.
-
-Page Content
 
 On behalf of the Office of Special Counsel (OSC), Special Counsel Hampton Dellinger today released the following statement in honor of National Whistleblower Appreciation Day (NWAD):
 
@@ -26,5 +25,3 @@ On behalf of the Office of Special Counsel (OSC), Special Counsel Hampton Dellin
 “While the damage from physical or emotional abuse can never be undone, the individuals who blew the whistle made a positive impact by telling their stories. Mr. Buxtun's disclosures led to congressional hearings, and ultimately, a class-action lawsuit that benefited survivors of the study and their heirs.  Because of Rachael Denhollander and other brave gymnasts who came forward, a predator was sentenced to life in prison and, earlier this year, the Justice Department acknowledged, and paid [settlements](https://gcc02.safelinks.protection.outlook.com/?url=https://www.justice.gov/opa/pr/justice-department-reaches-civil-settlement-victims-abused-lawrence-nassar&data=05%7c02%7c%7c641e8e5fb05f446b8c8008dcb0989865%7c39dcbe17c0694d7c8ad7efbbedb5fc55%7c0%7c0%7c638579416691970070%7cUnknown%7cTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7c0%7c%7c%7c&sdata=DsYNo51RCdSUDIPJ5wpExrrKWzkmOD24bBW5%2B8ediW0%3D&reserved=0) for serious governmental failures. And soccer player disclosures of sexual misconduct led to the [Yates Report](https://gcc02.safelinks.protection.outlook.com/?url=https://www.kslaw.com/attachments/000/009/931/original/King___Spalding_-_Full_Report_to_USSF.pdf?1664809048&data=05%7c02%7c%7c641e8e5fb05f446b8c8008dcb0989865%7c39dcbe17c0694d7c8ad7efbbedb5fc55%7c0%7c0%7c638579416691975818%7cUnknown%7cTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7c0%7c%7c%7c&sdata=6w/KfOPRsoE9jJuAcCz4u5ghLcHJLkmySj%2BRq7H1LRk%3D&reserved=0), the firing of coaches, and other reforms.
 
 “On National Whistleblower Appreciation Day, we honor these heroes and all whistleblowers who come forward to expose wrongdoing and protect others from harm.  And it is past time to make NWAD permanent."
-
-\*\*\*

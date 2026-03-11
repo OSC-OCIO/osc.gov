@@ -1,13 +1,12 @@
 ---
-
 title: OSC Gets Positive Resolutions in Recent Retaliation Cases
 date: 2024-10-02
+tags:
+  - prohibited personnel practices
 ---
-Prohibited Personnel Practices
+
 
 OSC highlights recent cases facilitating positive resolutions of PPP matters involving federal employees, including whistleblower retaliation.
-
-Page Content
 
 The U.S. Office of Special Counsel (OSC) today highlights recent cases in which OSC succeeded in facilitating positive resolutions of prohibited personnel practice matters involving federal employees, including whistleblower retaliation complaints.
 
@@ -26,5 +25,3 @@ An employee at the Department of the Air Force made protected disclosures regard
 An employee alleged that the agency did not provide her with a career ladder promotion for which she was eligible in retaliation for taking Family Medical Leave Act (FMLA) leave. OSC investigated and concluded that the agency had violated the FMLA. The agency agreed to provide the employee with a retroactive promotion and backpay, conduct FMLA training, and change its career ladder promotion guidance to clarify that taking FMLA leave may not be used as a negative factor.
 
 OSC applauds the parties for their willingness to resolve these matters.
-
-\*\*\*​

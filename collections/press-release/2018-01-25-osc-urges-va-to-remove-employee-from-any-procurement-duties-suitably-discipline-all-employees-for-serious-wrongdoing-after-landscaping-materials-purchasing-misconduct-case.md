@@ -1,19 +1,18 @@
 ---
 title: OSC Urges VA to Remove Employee from Any Procurement Duties, Suitably Discipline All Employees for Serious Wrongdoing After Landscaping Materials Purchasing Misconduct Case
 date: 2018-01-25
+tags:
+  - disclosure of wrongdoing
 ---
 
-Disclosure of Wrongdoing
 
 OSC notified President Trump that it is urging the VA to remove an employee  from  contact  with  her  former  division .
 
-Page Content
+ The Office of Special Counsel (OSC) today notified President Trump that it is urging the Department of Veterans Affairs (VA) to remove an employee from contact with her former division and any involvement in procurement matters at the Bedford, Mass., VA Medical Center. The employee kept her federal employment and was demoted only one pay grade, despite her significant role in steering government purchases to  her brother’s landscaping business and concealing her conduct. OSC also encouraged the VA to suitably discipline employees who have committed serious wrongdoing.
 
-​​ The Office of Special Counsel (OSC) today notified President Trump that it is urging the Department of Veterans Affairs (VA) to remove an employee from contact with her former division and any involvement in procurement matters at the Bedford, Mass., VA Medi​cal Center. The employee kept her federal employm​ent and was demoted only one pay grade, despite her significant role in steering government purchases to  her brother’s landscaping business and concealing her conduct. OSC also encouraged the VA to suitably discipline employees who have committed serious wrongdoing.
+“By allowing an employee who engaged in this conduct to remain with the agency, the VA demonstrates a shocking degree of indifference to government ethical standards,  procurement regulations, and public integrity,”  Special Counsel Henry J. Kerner wrote to the  President.
 
-“By allowing an employee who engaged in this conduct to remain with the agency, the VA demonstrates a shocking degree of indifference to government ethical standards,  procurement regulations, and public integrity,”  Special Counsel Henry J. Kerner wrote to the​  President.
-
-The landscaping scheme came to OSC from a persistent whistleblower who led investigators to nearly $1 million in improperly spent or documented purchases at the Bedford VA. The whistleblower disclosed suspicious, frequent, and significant purchase orders for landscaping materials, such as rock salt, mulch, and crushed stone, and that the majority of these orders were never delivered to the facility, despite payment. Ultimately, the VA largely substantiated the whistleblower’s allegations. The VA found that Dennis J. Garneau and his  daughter, Heather Garneau-Harvey,​ as Bedford VA employees, steered snow removal and  grounds keeping materials to a business owned by a family member, their son and brother. Ms. Garneau-Harvey denied knowledge of family ownership to criminal investigators. Emails later  proved her knowledge.
+The landscaping scheme came to OSC from a persistent whistleblower who led investigators to nearly $1 million in improperly spent or documented purchases at the Bedford VA. The whistleblower disclosed suspicious, frequent, and significant purchase orders for landscaping materials, such as rock salt, mulch, and crushed stone, and that the majority of these orders were never delivered to the facility, despite payment. Ultimately, the VA largely substantiated the whistleblower’s allegations. The VA found that Dennis J. Garneau and his  daughter, Heather Garneau-Harvey, as Bedford VA employees, steered snow removal and  grounds keeping materials to a business owned by a family member, their son and brother. Ms. Garneau-Harvey denied knowledge of family ownership to criminal investigators. Emails later  proved her knowledge.
 
 Mr. Garneau directed the purchase of more than $200,000 for snow removal and grounds keeping materials from a company owned by his son. Ms. Garneau-Harvey was directly involved in purchase orders made to the company. Helping the financial interest of a family member is a violation of VA and government ethics regulations.
 
@@ -25,6 +24,4 @@ Ms. Garneau-Harvey was reassigned to another division at the Bedford VA hospital
 
 The whistleblower, Kevin Cornellier, a tool and parts attendant, persisted for years in the face of rejection of his disclosures by local authorities before he came to OSC. “Mr. Cornellier persevered and was ultimately successful in stopping serious procurement fraud,” Kerner  wrote. “He should be commended for his efforts.”
 
-Kerner sent a copy of the [letter](/~assets/docs/di-14-4602-and-di-17-3402-letter-to-president.pdf) to the President, redacted versions of the agency reports, and the whistleblower’s comments to the Chairmen and Ranking Members of the Senate and House Committees on Veterans’ Affairs. He also filed redacted copies of these documents in OSC’s public file at [www.osc.gov](https://www.osc.gov/). 
-
-​\*\*\*
+Kerner sent a copy of the [letter](/~assets/docs/di-14-4602-and-di-17-3402-letter-to-president.pdf) to the President, redacted versions of the agency reports, and the whistleblower’s comments to the Chairmen and Ranking Members of the Senate and House Committees on Veterans’ Affairs. He also filed redacted copies of these documents in OSC’s public file at [www.osc.gov](https://www.osc.gov/).

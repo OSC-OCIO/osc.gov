@@ -1,15 +1,14 @@
 ---
-
 title: OSC Announces Discipline for Federal Employees who Violated the Hatch Act
 date: 2022-06-23
+tags:
+  - hatch act
 ---
-Hatch Act
+
 
 OSC today announced settlement agreements reached with three federal employees who violated the Hatch Act.
 
-Page Content
-
-​The U.S. Office of Special Counsel (OSC) today announced settlement agreements reached with three federal employees who violated the Hatch Act. A summary of the violations and settlements is below:  
+The U.S. Office of Special Counsel (OSC) today announced settlement agreements reached with three federal employees who violated the Hatch Act. A summary of the violations and settlements is below:
 
 **U.S. Postal Service (USPS)**:
 
@@ -22,5 +21,3 @@ A VA employee in Pennsylvania ran in the 2021 election for township commissioner
 **U.S. Defense Information Systems Agency (DISA)**:
 
 A DISA employee posted 12 partisan political Facebook messages while at work that were directed at the success or failure of political parties and/or candidates for partisan political office.  The activity took place over a one-year period, between May 2020 and May 2021.  The case settled for a three-day unpaid suspension.
-
-\*\*\*

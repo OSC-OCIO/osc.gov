@@ -1,13 +1,12 @@
 ---
-
 title: OSC Files Hatch Act Complaint Against Senior White House Official for Soliciting Political Contributions
 date: 2024-11-07
+tags:
+  - hatch act
 ---
-Hatch Act
+
 
 OSC has filed a Hatch Act complaint with the MSPB against Neera Tanden, the White House Domestic Policy Advisor, for soliciting political contributions on social media.
-
-Page Content
 
 The U.S. Office of Special Counsel (OSC) has filed a Hatch Act [complaint](https://gcc02.safelinks.protection.outlook.com/?url=https://osc.gov/Documents/Hatch%2520Act/24.11.06%2520Complaint%2520for%2520Disciplinary%2520Action%2520%28Tanden%29%2520-%2520for%2520release.pdf&data=05%7c02%7c%7c2dbd992b1a224d22e09908dcff56d7ad%7c39dcbe17c0694d7c8ad7efbbedb5fc55%7c0%7c0%7c638665995666647541%7cUnknown%7cTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7c0%7c%7c%7c&sdata=Vxxqau7CYUUpJBzDcDbFHihgp8FpKJCqcvdyoTPZLgg%3D&reserved=0) with the U.S. Merit Systems Protection Board (MSPB) against Neera Tanden, the White House Domestic Policy Advisor, for soliciting political contributions on social media. All federal employees—including White House commissioned officers—are at all times prohibited from soliciting political contributions for partisan political candidates.
 
@@ -20,5 +19,3 @@ On September 26, OSC sent Ms. Tanden written questions related to the investigat
 Special Counsel Dellinger added: “My office is asking the Merit Systems Protection Board to hold Ms. Tanden accountable just as we have in instances of similar violations by federal employees who do not work in the White House."
 
 On September 5, 2024, OSC [announced](https://gcc02.safelinks.protection.outlook.com/?url=https://osc.gov/News/Pages/24-33-Hatch-Act-Enforcement-Decisions.aspx&data=05%7c02%7c%7c2dbd992b1a224d22e09908dcff56d7ad%7c39dcbe17c0694d7c8ad7efbbedb5fc55%7c0%7c0%7c638665995666697996%7cUnknown%7cTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7c0%7c%7c%7c&sdata=kurNIhJmUX7lehzLgAnK4WfoRNHSmj96FsjozTC%2Bnqo%3D&reserved=0) several Hatch Act enforcement decisions including settlements where multiple federal employees accepted disciplinary action for soliciting political contributions on social media.  Special Counsel Dellinger noted at the time that while OSC deals with some close calls in its Hatch Act enforcement, federal employees soliciting donations for a political campaign is a clear-cut violation.
-
-\*\*\*​
