@@ -18,7 +18,7 @@ faqItems:
 
   - question: How do I make a FOIA request to OSC?
     answer: |-
-      Requests must be submitted in writing by U.S. postal mail or other delivery service, e-mail, fax, or through our [*Public Access Link (PAL) portal*](https://efoia.osc.gov/). The PAL allows you to submit a FOIA request online, as well as receive confirmations and updates on your pending request. We encourage use of the [*PAL*](https://efoia.osc.gov/) for a more efficient response to requests. (Online request will require creation of an access account which can be completed by [clicking here](https://efoia.osc.gov/palMain.aspx).)
+      Requests must be submitted in writing by U.S. postal mail or other delivery service, e-mail, fax, or through our [*Public Access Link (PAL) portal*](https://efoia.osc.gov/). The PAL allows you to submit a FOIA request online, as well as receive confirmations and updates on your pending request. We encourage use of the [*PAL*](https://efoia.osc.gov/) for a more efficient response to requests. (Online request will require creation of an access account which can be completed by [clicking here](https://efoia.osc.gov/).)
 
       If sent by U.S. postal mail or other delivery service, your letter should clearly be marked "FOIA Request" and be addressed to:
 
