@@ -156,7 +156,7 @@ highlights:
               </div>
             </li>
           {%- endfor -%}
-          <a class="usa-button usa-button--outline" href="/news/index">View More News</a>
+          <a class="usa-button usa-button--outline" href="/news/">View More News</a>
         </ul>
       </div>
     </div>
