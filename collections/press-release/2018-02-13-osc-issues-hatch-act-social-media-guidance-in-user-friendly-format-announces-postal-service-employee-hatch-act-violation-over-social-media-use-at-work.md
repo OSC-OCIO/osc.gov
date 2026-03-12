@@ -18,7 +18,7 @@ Here’s an example quoted in the guidance: “You stay at work during your lunc
 
 The “Social Media Quick Guide” is the first of its kind from OSC. This quick reference tool has a checklist for allowed and disallowed social media activity for all federal employees and  those who are further restricted from actively participating in partisan political management or campaigns under the Hatch Act.
 
-In addition to the new materials, OSC’s [website](../../pages/hatchact.md) has comprehensive information on Hatch Act restrictions. OSC also is available by phone and email to answer questions and help federal employees adhere to the Hatch Act.
+In addition to the new materials, OSC’s [website](/services/hatch-act/) has comprehensive information on Hatch Act restrictions. OSC also is available by phone and email to answer questions and help federal employees adhere to the Hatch Act.
 
 The recently settled USPS case, which resulted in a 50‐day suspension, illustrates prohibited social media activity.
 

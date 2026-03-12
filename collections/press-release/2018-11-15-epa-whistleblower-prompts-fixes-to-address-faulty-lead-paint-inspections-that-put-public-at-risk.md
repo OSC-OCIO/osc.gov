@@ -18,4 +18,4 @@ Elizabeth Wilde is an EPA whistleblower who exposed widespread faulty lead paint
 
 “OSC listened to my story, looked at the documents, and asked the questions necessary to refer my whistleblower claim for investigation. As a direct result, EPA substantiated my claim, remedied the deficiencies, and is now committed to better protect mothers and their children from lead-based paint poisoning.” 
 
-[Learn more about her case here](18-35-epa-lead-paint-inspections.md).
+[Learn more about her case here](/news/2018-06-14/epa-whistleblower-prompts-fixes-to-address-faulty-lead-paint-inspections-that-put-public-at-risk/).

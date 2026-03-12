@@ -8,7 +8,7 @@ tags:
 
 An investigation by the Nuclear Regulatory Commission found that 19 nuclear power stations failed to protect against the risk of flooding.
 
-Today, the U.S. Office of Special Counsel (OSC) [reported](../../documents/public%20files.md) to the White House and Congress on an internal investigation by the Nuclear Regulatory Commission (NRC). OSC requested the investigation and report after receiving information from NRC engineer Lawrence Criscione that NRC failed to require the Oconee Nuclear Station in South Carolina, and 18 other nuclear power stations located downstream from dams, to act appropriately to protect against the risk of flooding in the event of dam failures.
+Today, the U.S. Office of Special Counsel (OSC) [reported](/resources/all/) to the White House and Congress on an internal investigation by the Nuclear Regulatory Commission (NRC). OSC requested the investigation and report after receiving information from NRC engineer Lawrence Criscione that NRC failed to require the Oconee Nuclear Station in South Carolina, and 18 other nuclear power stations located downstream from dams, to act appropriately to protect against the risk of flooding in the event of dam failures.
 
 NRC’s internal investigation found that the regulatory and oversight agency acted appropriately and within the scope of its authority to ensure that the public is adequately protected. After multiple, detailed assessments of potential flood scenarios, NRC concluded that the current flood protection barrier at the Oconee Nuclear Station provides adequate protection. At each of the 19 sites identified, plants are implementing strategies to mitigate the effects of potential external floods.
 

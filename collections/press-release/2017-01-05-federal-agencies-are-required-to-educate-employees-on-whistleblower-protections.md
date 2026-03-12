@@ -32,7 +32,7 @@ agencies has doubled since [February 2016](<16-02-osc-urges-agencies-to-become-2
 
 While not required under OSC’s 2302(c) program, OSC highly recommends the dissemination of information
 
-regarding [prohibited and permitted political activities](/~assets/docs/the-hatch-act-and-most-federal-employees-poster.pdf) under the [Hatch Act](../../services/pages/hatchact-federal.md). OSC staff are also available to provide
+regarding [prohibited and permitted political activities](/~assets/docs/the-hatch-act-and-most-federal-employees-poster.pdf) under the [Hatch Act](/services/hatch-act/federal/). OSC staff are also available to provide
 
 Hatch Act training.
 

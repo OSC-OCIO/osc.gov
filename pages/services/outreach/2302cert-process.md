@@ -35,7 +35,7 @@ faqItems:
       - PPP and Whistleblower Disclosures Training Quiz (Please contact OSC at [certification@osc.gov](mailto:certification@osc.gov) if your agency would like to use the quiz and has over 1,000 supervisors and managers.)
   - title: 5. Display a link to OSC’s website on the agency’s website and intranet
     answer: |-
-      Provide a link from the agency’s website and intranet site to OSC’s website [(https://osc.gov)](../../services.md).
+      Provide a link from the agency’s website and intranet site to OSC’s website [(https://osc.gov)](/services/).
 ---
 
 ### ​STEP 1: Registration​

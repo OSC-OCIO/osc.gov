@@ -18,6 +18,6 @@ The complaint seeks appropriate disciplinary action against the employee on two 
 
 Penalties for Hatch Act violations range from reprimand or suspension to removal and debarment from federal employment and may include a civil fine.
 
-Federal employees generally fall under the jurisdiction of the Hatch Act with few exceptions. The President and Vice President are exempt. Members of the uniformed military services fall under separate rules for political activity. Some federal employees, such as those in law enforcement, are “further  restricted” from political activities than other federal employees under the Hatch Act. More information is available [here](../../pages/hatchact.md).  
+Federal employees generally fall under the jurisdiction of the Hatch Act with few exceptions. The President and Vice President are exempt. Members of the uniformed military services fall under separate rules for political activity. Some federal employees, such as those in law enforcement, are “further  restricted” from political activities than other federal employees under the Hatch Act. More information is available [here](/services/hatch-act/).  
 
 “Federal employees should abide by their restrictions under the Hatch Act,” Special Counsel Henry J. Kerner said. “Those who have questions should contact the Office of Special Counsel or their relevant agency officials for advice.”

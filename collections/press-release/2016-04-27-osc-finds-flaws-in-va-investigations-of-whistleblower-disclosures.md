@@ -18,7 +18,7 @@ Virgie Hardeman, a whistleblower from the VA medical center in Temple, Texas, [d
 
 An anonymous whistleblower, also at the Temple VA medical center, [alleged](/Documents/Public%20Files/FY16/DI-14-2763/DI-14-2763%20Analysis%20%233.pdf) that a senior staff member at Temple inappropriately canceled and rescheduled radiology consults in order to shorten patient wait times and directed others to do the same. The VA OIG did not substantiate the whistleblower’s allegations, but its [investigation ](/~assets/cases/di-14-2763-agency-report.pdf)failed to fully address all of the allegations that OSC referred and also failed to reconcile seemingly contradictory information. 
 
-OSC [found](16-05-va-whistleblowers-disclose-wait-times.md) similar problems in two other OIG reports involving scheduling and access to care in February. 
+OSC [found](/news/2016-02-25/va-whistleblowers-disclose-ongoing-mental-health-wait-times/) similar problems in two other OIG reports involving scheduling and access to care in February. 
 
 In response to OSC’s concerns about the completeness and quality of its reports, the VA reiterated that it will examine and improve its processes for investigating OSC whistleblower disclosure referrals. In pending cases, the VA said it will consult with the OIG and ensure that the the investigations address all allegations OSC referred. The VA also restated its intent to facilitate greater communication between its investigative teams and OSC. These process changes, implemented, will help ensure that the VA fully investigates and resolves serious issues that whistleblowers raise.   
 

@@ -10,7 +10,7 @@ OSC today announced a settlement agreement reached with the Federal Aviation Adm
 
 The U.S. Office of Special Counsel (OSC) today announced a recent settlement agreement reached with the Federal Aviation Administration (FAA), including $90,000 in compensatory damages, for an Aviation Safety Inspector who was retaliated against for blowing the whistle on unqualified flight safety inspectors.
 
-The whistleblower [disclosed](19-18-faa-inspectors-training.md) that flight inspectors were certifying pilots and conducting safety “check rides" even though they lacked the necessary formal training and certifications required to perform that oversight.
+The whistleblower [disclosed](/news/2019-09-24/whistleblower-reveals-faa-safety-inspectors-lacked-sufficient-training-to-certify-airline-pilots/) that flight inspectors were certifying pilots and conducting safety “check rides" even though they lacked the necessary formal training and certifications required to perform that oversight.
 
 The FAA Office of Audit & Evaluation (AAE) substantiated the whistleblower's allegations, calling into question the operational review of several aircraft, including the Boeing 737 MAX and the Gulfstream VII.
 

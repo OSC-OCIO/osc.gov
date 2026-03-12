@@ -20,4 +20,4 @@ The decision states:
 
 **Special Counsel Henry J. Kerner**: “We are very pleased with the outcome of this case and believe the significant disciplinary action imposed against Judge DePaolo is appropriate and warranted."
 
-In June 2018, OSC [filed the Complaint](18-37--hatch-act-immigration-judge.md) charging DePaolo with violating the Hatch Act's prohibitions against engaging in political activity while on duty or in the federal workplace and using her official authority or influence to interfere with or affect the result of an election.
+In June 2018, OSC [filed the Complaint](/news/2018-06-27/osc-files-hatch-act-complaint-against-immigration-judge/) charging DePaolo with violating the Hatch Act's prohibitions against engaging in political activity while on duty or in the federal workplace and using her official authority or influence to interfere with or affect the result of an election.

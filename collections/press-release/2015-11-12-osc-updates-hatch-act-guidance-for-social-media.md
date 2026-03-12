@@ -8,7 +8,7 @@ tags:
 
 In advance of the upcoming presidential election year, the U.S. Office of Special Counsel (OSC) has revised its guidance regarding the Hatch Act and federal employee use of social media and email.
 
-In advance of the upcoming presidential election year, the U.S. Office of Special Counsel (OSC) has revised its guidance regarding the Hatch Act and federal employee use of social media and email. The guidance can be found online [here](../../services/pages/hatchact-media.md). 
+In advance of the upcoming presidential election year, the U.S. Office of Special Counsel (OSC) has revised its guidance regarding the Hatch Act and federal employee use of social media and email. The guidance can be found online [here](/services/hatch-act/resources/). 
 
 The Hatch Act limits certain political activities of federal employees. Under the Hatch Act, “political activity” refers to any activity directed at the success or failure of a political party or partisan political group (collectively referred to as “partisan groups”), or candidate in a partisan race. Given the unique challenges social media poses to federal employees, OSC crafted guidance to help federal employees understand what is and is not allowed under the Hatch Act. Generally, federal employees can avoid violating the Hatch Act if they (1) do not engage in political activity while on duty or in the workplace; (2) do not engage in political activity in an official capacity at any time; and (3) do not solicit or receive political contributions at any time. 
 

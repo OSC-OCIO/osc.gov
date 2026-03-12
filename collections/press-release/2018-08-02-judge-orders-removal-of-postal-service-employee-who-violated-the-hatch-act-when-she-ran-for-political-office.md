@@ -8,7 +8,7 @@ tags:
 
 OSC today announced that USPS employee who ran for two partisan political offices has been ordered removed from her employment.
 
-The U.S. Office of Special Counsel (OSC) today announced that a U.S. Postal Service (USPS) employee who ran for two partisan political offices has been ordered removed from her USPS employment. OSC filed a [complaint](18-25-disciplinary-action-under-hatch-act.md) of Hatch Act violations with the Merit Systems Protection Board (MSPB) in March 2018 after the employee, a postal mail processing clerk, ran in two 2017 partisan elections. The Hatch Act specifically prohibits USPS employees from running for election to a partisan political office.
+The U.S. Office of Special Counsel (OSC) today announced that a U.S. Postal Service (USPS) employee who ran for two partisan political offices has been ordered removed from her USPS employment. OSC filed a [complaint](/news/2018-03-08/osc-seeks-disciplinary-action-under-hatch-act-against-postal-service-employee-who-ran-for-partisan-political-office/) of Hatch Act violations with the Merit Systems Protection Board (MSPB) in March 2018 after the employee, a postal mail processing clerk, ran in two 2017 partisan elections. The Hatch Act specifically prohibits USPS employees from running for election to a partisan political office.
 
 OSC provided the employee several opportunities to come into compliance with the law, but she failed to do so and won one of her elections while remaining a USPS employee. This week, an MSPB Administrative Law Judge granted OSC’s motion and ordered the employee removed from her employment.
 

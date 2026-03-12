@@ -14,4 +14,4 @@ Factors that OSC will consider when recommending an agency grant a cash reward t
 
 “OSC is committed to ensuring whistleblowers are protected and heard, and, when appropriate, they should be rewarded for their contributions to public service,” said Senior Counsel Charles Baldis.   
 
-Whistleblowers help keep the federal government honest, efficient and accountable and save lives and American taxpayer dollars. For more information on how current and former federal employees or applicants for employment can blow the whistle, please see [OSC’s Disclosure of Wrongdoing Overview](../../services/pages/du.md).
+Whistleblowers help keep the federal government honest, efficient and accountable and save lives and American taxpayer dollars. For more information on how current and former federal employees or applicants for employment can blow the whistle, please see [OSC’s Disclosure of Wrongdoing Overview](/services/disclosure-of-wrongdoing/).

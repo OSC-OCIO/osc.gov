@@ -37,7 +37,7 @@ We use this information for statistical purposes (e.g., to determine the number 
 ## Privacy Act Implementation Rule​s and Exemptions to the Privacy Act​​​​​​
 
 - [OSC's Privacy Act Implementation rules: See 5 C.F.R. part 1830](https://www.federalregister.gov/documents/2007/10/04/E7-19571/privacy-act-of-1974-implementation).
-- See here for [**instructions on submitting a Privacy Act and/or a Freedom of Information Act (FOIA) request**](foia.md) . ​
+- See here for [**instructions on submitting a Privacy Act and/or a Freedom of Information Act (FOIA) request**](/about/foia/) . ​
 - [Federal Register](https://www.federalregister.gov/documents/2022/10/19/2022-22155/prohibited-personnel-practices-disclosures-of-information-evidencing-wrongdoing-foia-production-of)
 
 ## Privacy Program Reports
