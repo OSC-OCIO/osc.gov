@@ -16,4 +16,4 @@ The whistleblowers, Patrick Barney, an Assistant District Manager, and Troy Van 
 
 Each year, OSC bestows its Outstanding Public Servant Award to deserving federal employees in celebration of the anniversary of the first whistleblower protection law enacted on July 30, 1778. The day serves to honor the bravery of whistleblowers who disclose government waste, fraud, and abuse, including substantial and specific dangers to public health and safety. 
 
-On July 1, 2025, OSC issued a [press release](/news/2025-06-30/whistleblowers-expose-lack-of-mine-inspections-raising-serious-safety-concerns/) on the MSHA mine safety case in conjunction with its report to the President and Congress.
+On July 1, 2025, OSC issued a [press release](/news/2025-07-01/whistleblowers-expose-lack-of-mine-inspections-raising-serious-safety-concerns/) on the MSHA mine safety case in conjunction with its report to the President and Congress.

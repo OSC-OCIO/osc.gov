@@ -5,7 +5,6 @@ tags:
   - disclosure of wrongdoing
 ---
 
-
 OSC concluded that despite  significant progress, the Peace Corps has failed to implement certain sexual assault prevention measures and  encouraged  clearer  policies  and  training.
 
 The U.S. Office of Special Counsel (OSC) concluded that despite significant progress, the Peace Corps has failed to implement certain sexual assault prevention measures. OSC also encouraged clearer policies and training to 
@@ -38,4 +37,4 @@ Two, the report stated that it has not identified a need for additional training
 
  
 
-In addition to submitting the report and Greene's comments to the President, OSC submitted the materials to the House Foreign Affairs Committee and the Senate Committee on Foreign Relations. The documents also are publicly available [here](https://https//osc.gov/Pages/Public-Files-FY2018.aspx) at [www.osc.gov](/).
+In addition to submitting the report and Greene's comments to the President, OSC submitted the materials to the House Foreign Affairs Committee and the Senate Committee on Foreign Relations. The documents also are publicly available [here](/cases) at [www.osc.gov](/).
