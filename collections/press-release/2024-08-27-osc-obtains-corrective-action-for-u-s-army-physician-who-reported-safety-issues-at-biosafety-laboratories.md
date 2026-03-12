@@ -5,12 +5,11 @@ tags:
   - general
 ---
 
-
 OSC today announced it settled a complaint against the U.S. Army seeking corrective action for a whistleblower who was retaliated against.
 
 **_Agreement is one of the largest compensatory damage settlements OSC has ever secured_**
 
-The U.S. Office of Special Counsel (OSC) today announced it settled a complaint against the U.S. Army seeking corrective action for a whistleblower who was retaliated against after raising concerns about substandard inspections of biosafety laboratories. OSC [filed](https://gcc02.safelinks.protection.outlook.com/?url=https://osc.gov/News/Pages/21-05-Complaint-Army-Whistleblower-Retaliation.aspx&data=05%7c02%7c%7c228f2862edcf44cbcf0b08dcc6a07859%7c39dcbe17c0694d7c8ad7efbbedb5fc55%7c0%7c0%7c638603639745822870%7cUnknown%7cTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7c0%7c%7c%7c&sdata=98n4XiZoIrzB35UiyKzTjJ50ySyZrpGyyaxTU04/d7Y%3D&reserved=0) its complaint with the U.S. Merit Systems Protection Board (MSPB) in March 2022.
+The U.S. Office of Special Counsel (OSC) today announced it settled a complaint against the U.S. Army seeking corrective action for a whistleblower who was retaliated against after raising concerns about substandard inspections of biosafety laboratories. OSC [filed](https://osc.gov/News/Pages/21-05-Complaint-Army-Whistleblower-Retaliation.aspx&data=05%7c02%7c%7c228f2862edcf44cbcf0b08dcc6a07859%7c39dcbe17c0694d7c8ad7efbbedb5fc55%7c0%7c0%7c638603639745822870%7cUnknown%7cTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7c0%7c%7c%7c&sdata=98n4XiZoIrzB35UiyKzTjJ50ySyZrpGyyaxTU04/d7Y%3D&reserved=0) its complaint with the U.S. Merit Systems Protection Board (MSPB) in March 2022.
 
 The whistleblower, Dr. Patricia Dillon, is a former medical director at the Barquist Army Health Clinic and former director of the Biological Personnel Reliability Program at the U.S. Army Medical Research Institute of Infectious Diseases at Fort Detrick, Maryland. 
 

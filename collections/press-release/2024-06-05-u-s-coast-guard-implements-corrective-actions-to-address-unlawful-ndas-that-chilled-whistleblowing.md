@@ -5,10 +5,9 @@ tags:
   - prohibited personnel practices
 ---
 
-
 OSC today announced corrective actions taken by the U.S. Coast Guard to address its use of unlawful non-disclosure agreements entered into with sexual assault survivors and others.
 
-The U.S. Office of Special Counsel (OSC) today announced corrective actions taken by the U.S. Coast Guard (USCG) to address its use of unlawful non-disclosure agreements (NDAs) entered into with sexual assault survivors and others.  The assaults and other misconduct come to light during a now [exposed](https://gcc02.safelinks.protection.outlook.com/?url=https://www.cnn.com/2023/06/30/politics/coast-guard-academy-secret-sexual-assault-investigation-invs/index.html&data=05%7c02%7c%7c9f465d5ae35a49acca8108dc85857f62%7c39dcbe17c0694d7c8ad7efbbedb5fc55%7c0%7c0%7c638532055651874398%7cUnknown%7cTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7c0%7c%7c%7c&sdata=e95GB1%2BzoxQKGYxHzbgrA9dTF8NtIJiiFBEZHKC8A3c%3D&reserved=0) internal USCG investigation known as “Operation Fouled Anchor."
+The U.S. Office of Special Counsel (OSC) today announced corrective actions taken by the U.S. Coast Guard (USCG) to address its use of unlawful non-disclosure agreements (NDAs) entered into with sexual assault survivors and others.  The assaults and other misconduct come to light during a now [exposed](https://www.cnn.com/2023/06/30/politics/coast-guard-academy-secret-sexual-assault-investigation-invs/index.html&data=05%7c02%7c%7c9f465d5ae35a49acca8108dc85857f62%7c39dcbe17c0694d7c8ad7efbbedb5fc55%7c0%7c0%7c638532055651874398%7cUnknown%7cTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7c0%7c%7c%7c&sdata=e95GB1%2BzoxQKGYxHzbgrA9dTF8NtIJiiFBEZHKC8A3c%3D&reserved=0) internal USCG investigation known as “Operation Fouled Anchor."
 
 U.S. Senator Ted Cruz alerted OSC to the issue and OSC opened an investigation on whether the NDAs violated 5 U.S.C. § 2302(b)(13) by failing to include language mandated by Congress that explicitly protects whistleblower activity. Shortly after OSC commenced investigating, OSC learned that the USCG notified all current and former employees that any NDA executed with the USCG was subject to the requirements of the anti-gag order provision of the law. 
 

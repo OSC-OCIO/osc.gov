@@ -5,7 +5,6 @@ tags:
   - disclosure of wrongdoing
 ---
 
-
 Special Counsel Hampton Dellinger today released the following statement after the assassination attempt injuring former President Donald Trump.
 
 Special Counsel Hampton Dellinger today released the following statement after the assassination attempt injuring former President Donald Trump.
@@ -23,4 +22,4 @@ OSC reviews whistleblower disclosures within the executive branch reported by cu
 
 Federal law establishes protections for disclosures made to OSC. This process is intended to safeguard the confidentiality of the whistleblower and ensure that any potential wrongdoing is investigated and, where necessary, corrected. 
 
-For more information, please visit [https://osc.gov](https://gcc02.safelinks.protection.outlook.com/?url=https://osc.gov/&data=05%7c02%7c%7c08848fdff8c0443a865508dca802526f%7c39dcbe17c0694d7c8ad7efbbedb5fc55%7c0%7c0%7c638569975149235761%7cUnknown%7cTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7c0%7c%7c%7c&sdata=5rddr2dlcM9tezPxsTYn72E0T9OgvUP/ocbLxOwGh5s%3D&reserved=0)
+For more information, please visit [https://osc.gov](https://osc.gov/&data=05%7c02%7c%7c08848fdff8c0443a865508dca802526f%7c39dcbe17c0694d7c8ad7efbbedb5fc55%7c0%7c0%7c638569975149235761%7cUnknown%7cTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7c0%7c%7c%7c&sdata=5rddr2dlcM9tezPxsTYn72E0T9OgvUP/ocbLxOwGh5s%3D&reserved=0)

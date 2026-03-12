@@ -5,7 +5,6 @@ tags:
   - general
 ---
 
-
 The policy ensures that OSC is equipped to safely and responsibly manage artificial intelligence within the agency. 
 
 The U.S. Office of Special Counsel (OSC) today unveiled a new policy governing the use of artificial intelligence (AI). 
@@ -20,8 +19,8 @@ The policy itself has three core components.  First, OSC is committed to rigoro
 
 OSC has convened an official AI task force.  The task force will focus on the intersection of artificial intelligence and OSC's mission, ensuring the agency is prepared to identify and assess unlawful AI use—and to pursue corrective action and remedies where appropriate. 
 
-Second, OSC's AI policy places transparency at the core.  OSC recognizes that transparency builds trust in government and creates important safeguards.  Transparency starts with meeting reporting deadlines and maintaining inventories of covered AI uses for review by oversight entities, but it does not end there.  OSC has also created its own webpage with information on OSC's AI Policy and its submission to OMB regarding AI use cases, available to watchdogs and the American public at [https://osc.gov/ai](https://gcc02.safelinks.protection.outlook.com/?url=https://osc.gov/ai&data=05%7c02%7c%7cf76da6e6eb5947c3943a08dcee0391f0%7c39dcbe17c0694d7c8ad7efbbedb5fc55%7c0%7c0%7c638646946325275038%7cUnknown%7cTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7c0%7c%7c%7c&sdata=RH/oNBdVwROqzW8H5ronCu7%2B/1%2BqMyBmQoYCv%2BlxtgQ%3D&reserved=0). 
+Second, OSC's AI policy places transparency at the core.  OSC recognizes that transparency builds trust in government and creates important safeguards.  Transparency starts with meeting reporting deadlines and maintaining inventories of covered AI uses for review by oversight entities, but it does not end there.  OSC has also created its own webpage with information on OSC's AI Policy and its submission to OMB regarding AI use cases, available to watchdogs and the American public at [https://osc.gov/ai](https://osc.gov/ai&data=05%7c02%7c%7cf76da6e6eb5947c3943a08dcee0391f0%7c39dcbe17c0694d7c8ad7efbbedb5fc55%7c0%7c0%7c638646946325275038%7cUnknown%7cTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7c0%7c%7c%7c&sdata=RH/oNBdVwROqzW8H5ronCu7%2B/1%2BqMyBmQoYCv%2BlxtgQ%3D&reserved=0). 
 
 Third, OSC's AI policy ensures the agency may harness AI to increase efficiency.  For example, AI can accelerate basic and applied research across the agency.  “Where AI can be used responsibly to expand our capacity, we will explore how to take full advantage of the technology," said Special Counsel Dellinger. “And where AI has the potential to affect basic rights and safety, we will proceed responsibly and transparently."
 
-For additional information about OSC uses of AI, please visit [https://osc.gov/ai](https://gcc02.safelinks.protection.outlook.com/?url=https://osc.gov/ai&data=05%7c02%7c%7cf76da6e6eb5947c3943a08dcee0391f0%7c39dcbe17c0694d7c8ad7efbbedb5fc55%7c0%7c0%7c638646946325287875%7cUnknown%7cTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7c0%7c%7c%7c&sdata=h9jKsNPojtNtauGj9UeOKIHoDI45pRpI/gQ/X8/Jets%3D&reserved=0).
+For additional information about OSC uses of AI, please visit [https://osc.gov/ai](https://osc.gov/ai&data=05%7c02%7c%7cf76da6e6eb5947c3943a08dcee0391f0%7c39dcbe17c0694d7c8ad7efbbedb5fc55%7c0%7c0%7c638646946325287875%7cUnknown%7cTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7c0%7c%7c%7c&sdata=h9jKsNPojtNtauGj9UeOKIHoDI45pRpI/gQ/X8/Jets%3D&reserved=0).

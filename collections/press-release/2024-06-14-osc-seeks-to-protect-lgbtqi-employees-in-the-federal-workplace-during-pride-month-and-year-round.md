@@ -5,7 +5,6 @@ tags:
   - prohibited personnel practices
 ---
 
-
 OSC reminds federal employees that if they believe they have been subjected to a prohibited personnel practice (PPP) based on sexual orientation or gender identity, they may seek assistance from OSC.
 
 During Pride Month, the U.S. Office of Special Counsel (OSC) reminds federal employees that if they believe they have been subjected to a prohibited personnel practice (PPP) based on sexual orientation or gender identity, they may seek assistance from OSC.
@@ -20,6 +19,6 @@ OSC strongly supports the protections passed by Congress ensuring that no govern
 
 OSC has authority to seek stays of personnel actions against complainants while investigations are pending. If OSC determines a PPP has occurred, it can obtain full corrective action for complainants and seek disciplinary action against alleged wrongdoers.
 
-To file a PPP complaint with OSC or ask questions about the PPP process, please visit OSC's website at [www.osc.gov](https://gcc02.safelinks.protection.outlook.com/?url=http://www.osc.gov/&data=05%7c02%7c%7c1bade756b87943f8d84208dc8c7d7ef2%7c39dcbe17c0694d7c8ad7efbbedb5fc55%7c0%7c0%7c638539717853535375%7cUnknown%7cTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7c0%7c%7c%7c&sdata=RMO0Lr9lzaH1mUAyPn8aY1MW0qK%2BaPIRFCg3n6BclgM%3D&reserved=0).
+To file a PPP complaint with OSC or ask questions about the PPP process, please visit OSC's website at [www.osc.gov](http://www.osc.gov/&data=05%7c02%7c%7c1bade756b87943f8d84208dc8c7d7ef2%7c39dcbe17c0694d7c8ad7efbbedb5fc55%7c0%7c0%7c638539717853535375%7cUnknown%7cTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7c0%7c%7c%7c&sdata=RMO0Lr9lzaH1mUAyPn8aY1MW0qK%2BaPIRFCg3n6BclgM%3D&reserved=0).
 
-Resources for LGBTQI+ related PPPs are [available here](https://gcc02.safelinks.protection.outlook.com/?url=https://osc.gov/Services/Pages/PPP-LGBT.aspx&data=05%7c02%7c%7c1bade756b87943f8d84208dc8c7d7ef2%7c39dcbe17c0694d7c8ad7efbbedb5fc55%7c0%7c0%7c638539717853541587%7cUnknown%7cTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7c0%7c%7c%7c&sdata=s1rKGAxyo1rvfi4LI1SvrJjv9uWECcDpLa4R2BhOHNw%3D&reserved=0).
+Resources for LGBTQI+ related PPPs are [available here](https://osc.gov/Services/Pages/PPP-LGBT.aspx&data=05%7c02%7c%7c1bade756b87943f8d84208dc8c7d7ef2%7c39dcbe17c0694d7c8ad7efbbedb5fc55%7c0%7c0%7c638539717853541587%7cUnknown%7cTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7c0%7c%7c%7c&sdata=s1rKGAxyo1rvfi4LI1SvrJjv9uWECcDpLa4R2BhOHNw%3D&reserved=0).
