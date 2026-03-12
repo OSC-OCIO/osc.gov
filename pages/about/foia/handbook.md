@@ -35,7 +35,7 @@ faqItems:
 
   - question: Are there records I can obtain without a FOIA request?
     answer: |-
-      Yes. You can obtain many OSC forms, publications, press releases, reports, and other records directly through our web site, at [Forms](../../resources/forms), [Resources](resources), and [News](../../news/press-releases). Links to frequently requested and other records and information are provided under [FOIA Reports](reports) and [Proactive Disclosures](readingroom).
+      Yes. You can obtain many OSC forms, publications, press releases, reports, and other records directly through our web site, at [Forms](/resources/forms/), [Resources](/resources/all/), and [News](/news/). Links to frequently requested and other records and information are provided under [FOIA Reports](/about//foia/reports/) and [Proactive Disclosures](/about/foia/readingroom/).
 
   - question: What do I need to know to make an appropriate and effective FOIA request?
     answer: |-
