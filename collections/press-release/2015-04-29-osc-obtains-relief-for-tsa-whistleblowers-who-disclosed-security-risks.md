@@ -5,8 +5,7 @@ tags:
   - prohibited personnel practices
 ---
 
-
-OSC) blocked proposed personnel actions involving two Transportation Security Administration (TSA) employees at the Minneapolis-St. Paul International Airport who reported security risks.
+OSC blocked proposed personnel actions involving two Transportation Security Administration (TSA) employees at the Minneapolis-St. Paul International Airport who reported security risks.
 
 The U.S. Office of Special Counsel (OSC) blocked proposed personnel actions involving two Transportation Security Administration (TSA) employees at the Minneapolis-St. Paul International Airport who reported security risks.
 

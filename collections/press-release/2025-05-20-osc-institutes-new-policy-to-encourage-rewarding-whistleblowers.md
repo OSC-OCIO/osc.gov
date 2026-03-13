@@ -2,9 +2,9 @@
 title: OSC Institutes New Policy to Encourage Rewarding Whistleblowers
 date: 2025-05-20
 tags:
-  - general disclosure of wrongdoing
+  - general
+  - disclosure of wrongdoing
 ---
-
 
 OSC Institutes New Policy to Encourage Rewarding Whistleblowers
 

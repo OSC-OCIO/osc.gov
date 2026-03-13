@@ -5,8 +5,7 @@ tags:
   - prohibited personnel practices
 ---
 
-
-OSC) has filed an amicus curiae brief with MSPB arguing for the removal of improper evidentiary barriers for federal employees who bring whistleblower retaliation claims.
+OSC has filed an amicus curiae brief with MSPB arguing for the removal of improper evidentiary barriers for federal employees who bring whistleblower retaliation claims.
 
 The U.S. Office of Special Counsel (OSC) has filed an [_amicus curiae_](</documents/ppp/amicus%20curiae%20briefs/osc%20amicus%20curiae%20brief%20in%20salazar%20v.%20u.s.%20department%20of%20veterans%20affairs%20(mspb)%20filed%20February%2012,%202021.pdf>) (friend of the court) brief with the Merit Systems Protection Board (Board), arguing for the removal of improper evidentiary barriers for federal employees who bring whistleblower retaliation claims.
 

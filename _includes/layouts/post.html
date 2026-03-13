@@ -4,4 +4,10 @@ layout: layouts/default
 
 <p class="text-gray-50">{{ date | date: '%B %d, %Y' }}</p>
 
-{{ content }}
+{% if tags %}
+<div class="margin-bottom-2">
+  {% for tag in tags %} {% if tag != "press-release" %}
+  <span class="usa-tag">{{ tag }}</span>
+  {% endif %} {% endfor %}
+</div>
+{% endif %} {{ content }}
