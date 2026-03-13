@@ -2,9 +2,9 @@
 title: OSC Recognizes Two Whistleblowers with 2025 Outstanding Public Servant Awards to Commemorate National Whistleblower Day
 date: 2025-07-30
 tags:
-  - general disclosure of wrongdoing
+  - general
+  - disclosure of wrongdoing
 ---
-
 
 OSC Recognizes Two Whistleblowers with 2025 Outstanding Public Servant Awards
 
