@@ -22,5 +22,3 @@ Through its whistleblower disclosure [program](/services/disclosure-of-wrongdoin
 Over the past several years, OSC has worked with many VA whistleblowers to identify waste, achieve significant cost savings, and ensure the safety of VA workers and veterans receiving care. For example, a VA medical center in Richmond, Virginia recently implemented corrective action to improve the safety of Laundry Service operations after a whistleblower disclosed to OSC an uptick in contaminated needles found in laundry bins ([_read more_](/news/2024-02-14/va-implements-corrective-action-to-protect-laundry-staff-from-contaminated-needles-after-whistleblower-discloses-safety-hazard/)).
 
 OSC is committed to supporting veterans by helping agencies, including the VA and DoD, create a positive culture of whistleblowing. When whistleblowers are empowered to speak up about potential misconduct without fear of reprisal, we can best protect the health and safety of our veterans, and honor those who have served.
-
-\*\*\*\_\_
