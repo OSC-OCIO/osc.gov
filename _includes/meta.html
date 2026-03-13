@@ -23,7 +23,10 @@
   -->
   {% assign pageTitle = title | append: ' | ' | append: site.title -%}
   {%- assign pageDesc = page.description | default: site.description -%}
-  {%- assign pageUrl = site.url | append: page.url -%}
+  {%- assign pageUrl = canonical_url | default: page.url -%}
+  {%- unless pageUrl contains '://' -%}
+    {%- assign pageUrl = site.url | append: pageUrl -%}
+  {%- endunless -%}
   {%- assign socialImagePath = page.social_image | default: '/img/brand/osc-social-1200x630.png' -%}
   {%- assign twitterImagePath = page.twitter_image | default: socialImagePath -%}
   {%- assign socialImageAlt = page.social_image_alt | default: 'Seal of the U.S. Office of Special Counsel over a branded gradient background' -%}
@@ -53,6 +56,12 @@
   <meta property="og:type" content="article">
   <link rel="canonical" href="{{ pageUrl }}">
   <meta property="og:url" content="{{ pageUrl }}">
+  {%- if robots -%}
+    <meta name="robots" content="{{ robots }}">
+  {%- endif -%}
+  {%- if meta_refresh -%}
+    <meta http-equiv="refresh" content="{{ meta_refresh }}">
+  {%- endif -%}
   <meta name="theme-color" content="#112e51">
 
   <link rel="apple-touch-icon" sizes="180x180" href="/img/apple-touch-icon.png">
