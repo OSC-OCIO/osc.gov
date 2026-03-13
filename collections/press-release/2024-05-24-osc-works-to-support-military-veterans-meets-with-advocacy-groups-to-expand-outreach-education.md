@@ -5,10 +5,7 @@ tags:
   - general
 ---
 
-
 OSC supports America’s veterans and is committed to helping improve military retiree care and ensure the employment rights of our returning uniformed service members.
-
-![](file:///C:/Users/ZKurz/AppData/Local/Temp/msohtmlclip1/01/clip_image002.jpg)
 
 The U.S. Office of Special Counsel (OSC) supports America's veterans and is committed to helping improve military retiree care and ensure the employment rights of our returning uniformed service members.
 
@@ -26,4 +23,4 @@ Over the past several years, OSC has worked with many VA whistleblowers to ident
 
 OSC is committed to supporting veterans by helping agencies, including the VA and DoD, create a positive culture of whistleblowing. When whistleblowers are empowered to speak up about potential misconduct without fear of reprisal, we can best protect the health and safety of our veterans, and honor those who have served.
 
-\*\*\*__
+\*\*\*\_\_

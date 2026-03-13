@@ -5,8 +5,7 @@ tags:
   - general
 ---
 
-
-OSC) welcomes Anne M. Wagner, a new Associate Special Counsel. Ms. Wagner is a career member of the Senior Executive Service and will have a diverse portfolio at OSC.
+OSC welcomes Anne M. Wagner, a new Associate Special Counsel. Ms. Wagner is a career member of the Senior Executive Service and will have a diverse portfolio at OSC.
 
 The U.S. Office of Special Counsel (OSC) welcomes Anne M. Wagner, a new Associate Special Counsel. Ms. Wagner is a career member of the Senior Executive Service and will have a diverse portfolio at OSC. She begins at OSC next week.
 

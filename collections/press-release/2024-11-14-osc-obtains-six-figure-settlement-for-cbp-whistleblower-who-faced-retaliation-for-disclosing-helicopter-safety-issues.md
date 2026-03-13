@@ -2,7 +2,8 @@
 title: OSC Obtains Six-Figure Settlement for CBP Whistleblower Who Faced Retaliation for Disclosing Helicopter Safety Issues
 date: 2024-11-14
 tags:
-  - prohibited personnel practices disclosure of wrongdoing
+  - prohibited personnel practices
+  - disclosure of wrongdoing
 ---
 
 OSC today announced a settlement agreement that OSC facilitated between U.S. Customs and Border Protection and a whistleblower, including significant compensatory damages for retaliation.

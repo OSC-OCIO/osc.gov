@@ -5,7 +5,6 @@ tags:
   - prohibited personnel practices
 ---
 
-
 OSC recently obtained several favorable resolutions in Department of Veterans Affairs (VA) whistleblower retaliation cases.
 
 The U.S. Office of Special Counsel (OSC) recently obtained several favorable resolutions in Department of Veterans Affairs (VA) whistleblower retaliation cases, including:
