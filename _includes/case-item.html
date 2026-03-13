@@ -16,6 +16,11 @@
     <header class="usa-card__header">
       <h3 class="usa-card__heading">
         <span data-pagefind-meta="title">{{- case_title -}}</span>
+        {%- if case_numbers and case_numbers.size > 0 -%}
+          <span class="usa-sr-only" data-pagefind-meta="case-number">
+            {{- case_numbers | join: '|' -}}
+          </span>
+        {%- endif -%}
       </h3>
     </header>
     <div class="usa-card__body">
