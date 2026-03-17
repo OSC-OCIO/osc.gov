@@ -120,6 +120,19 @@ function normalizeCaseLookupValue(value) {
     .toLowerCase();
 }
 
+function exactCaseMatch(metaValue, caseNumber) {
+  const expected = normalizeCaseLookupValue(caseNumber);
+  if (!expected) {
+    return true;
+  }
+
+  return String(metaValue || "")
+    .split("|")
+    .some(function (value) {
+      return normalizeCaseLookupValue(value) === expected;
+    });
+}
+
 function buildCaseLookupKey(title, date) {
   const normalizedTitle = normalizeCaseLookupValue(title);
   const normalizedDate = normalizeCaseLookupValue(date);
@@ -316,11 +329,21 @@ async function initializeCaseSearch() {
   }
   const initialListMarkup = listContainer.innerHTML;
   const initialStatusText = status.textContent;
+  const url = new URL(window.location.href);
+  const initialParams = url.searchParams;
 
   const selects = {
     agency: document.querySelector("#case-filter-agency"),
     year: document.querySelector("#case-filter-year"),
   };
+  let exactCaseNumber = initialParams.get("case") || "";
+
+  queryInput.value = initialParams.get("query") || exactCaseNumber || "";
+  for (const key of Object.keys(selects)) {
+    if (initialParams.has(key) && selects[key]) {
+      selects[key].value = initialParams.get(key) || "";
+    }
+  }
 
   let pagefind;
   try {
@@ -366,6 +389,42 @@ async function initializeCaseSearch() {
   let currentDocs = [];
   let currentPage = 1;
   let searchModeActive = false;
+
+  const syncSearchParams = function () {
+    const nextUrl = new URL(window.location.href);
+    const query = queryInput.value.trim();
+    const filters = activeFilters(selects);
+
+    if (query) {
+      nextUrl.searchParams.set("query", query);
+    } else {
+      nextUrl.searchParams.delete("query");
+    }
+
+    for (const key of Object.keys(selects)) {
+      if (filters[key] && filters[key][0]) {
+        nextUrl.searchParams.set(key, filters[key][0]);
+      } else {
+        nextUrl.searchParams.delete(key);
+      }
+    }
+
+    if (
+      exactCaseNumber &&
+      normalizeCaseLookupValue(query) === normalizeCaseLookupValue(exactCaseNumber)
+    ) {
+      nextUrl.searchParams.set("case", exactCaseNumber);
+    } else {
+      nextUrl.searchParams.delete("case");
+      exactCaseNumber = "";
+    }
+
+    const nextPath = `${nextUrl.pathname}${nextUrl.search}${nextUrl.hash}`;
+    const currentPath = `${window.location.pathname}${window.location.search}${window.location.hash}`;
+    if (nextPath !== currentPath) {
+      window.history.replaceState({}, "", nextPath);
+    }
+  };
 
   const hasSearchCriteria = function () {
     const hasQuery = queryInput.value.trim().length > 0;
@@ -440,6 +499,7 @@ async function initializeCaseSearch() {
 
     const query = queryInput.value.trim() || null;
     const filters = activeFilters(selects);
+    syncSearchParams();
 
     status.textContent = "Searching...";
     if (pagination) {
@@ -483,7 +543,13 @@ async function initializeCaseSearch() {
       }),
     );
 
-    currentDocs = docs;
+    currentDocs = docs.filter(function (doc) {
+      if (!exactCaseNumber) {
+        return true;
+      }
+
+      return exactCaseMatch(doc.meta && doc.meta["case-number"], exactCaseNumber);
+    });
     currentPage = 1;
     renderCurrentPage();
   };
@@ -501,11 +567,17 @@ async function initializeCaseSearch() {
   form.addEventListener("change", runSearch);
   clearButton.addEventListener("click", function () {
     queryInput.value = "";
+    exactCaseNumber = "";
     for (const key of Object.keys(selects)) {
       selects[key].value = "";
     }
+    syncSearchParams();
     exitSearchMode();
   });
+
+  if (hasSearchCriteria()) {
+    runSearch();
+  }
 }
 
 document.addEventListener("DOMContentLoaded", function () {
