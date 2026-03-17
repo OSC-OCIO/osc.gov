@@ -54,7 +54,8 @@ highlights:
         <div class="border border-base radius-lg padding-4 bg-primary shadow-3">
           <img
             class="display-block margin-x-auto"
-            src="/img/osc-logo.png"
+            src="/img/osc-logo.svg"
+            eleventy:ignore
             alt="Seal of the U.S. Office of Special Counsel"
             width="220"
             height="220"
