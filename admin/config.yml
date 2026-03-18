@@ -42,7 +42,7 @@ collections:
         widget: "object"
         fields:
           - {
-              label: "Agency",
+              label: "Agency (choose all that apply)",
               name: "agency",
               widget: "select",
               multiple: true,
@@ -79,7 +79,7 @@ collections:
                 ],
             }
           - {
-              label: "Subgency",
+              label: "Subagency (choose all that apply or leave blank)",
               name: "subagency",
               widget: "select",
               multiple: true,
@@ -118,19 +118,19 @@ collections:
                   "Veterans Health Administration",
                 ],
             }
-      - label: "Cases"
+      - label: "Case(s)"
         name: "cases"
         widget: "list"
         allow_add: true
         summary: "{{fields.case}}"
         field: { label: Case Number, name: case, widget: string }
-      - label: "Locations"
+      - label: "Location(s)"
         name: "locations"
         widget: "list"
         allow_add: true
         summary: "{{fields.location}}"
         field: { label: "Location", name: location, widget: string }
-      - label: "Results"
+      - label: "Result(s)"
         name: "results"
         widget: "select"
         multiple: true
@@ -155,7 +155,7 @@ collections:
           date_format: "YYYY-MM-DD",
           widget: "datetime",
         }
-      - label: "Files"
+      - label: "File(s)"
         name: "files"
         widget: "list"
         summary: "{{fields.label}}"
