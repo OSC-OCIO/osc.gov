@@ -28,9 +28,143 @@ editor:
   preview: false
 
 collections:
-  - name: "announcements"
-    label: "Announcements"
-    folder: "collections/announcements"
+  - name: "case"
+    label: "Case"
+    folder: "collections/case"
+    create: true
+    editor:
+      preview: false
+    slug: "{{cases}}"
+    summary: "{{cases}}"
+    fields:
+      - label: "Source"
+        name: "source"
+        widget: "object"
+        fields:
+          - {
+              label: "Agency (choose all that apply)",
+              name: "agency",
+              widget: "select",
+              multiple: true,
+              options:
+                [
+                  "Agriculture",
+                  "Customs and Border Protection",
+                  "Defense/Air Force",
+                  "Defense/Army",
+                  "Defense/Navy",
+                  "Department of Defense",
+                  "Education",
+                  "Energy",
+                  "Environmental Protection Agency",
+                  "Federal Aviation Administration",
+                  "General Services Administration",
+                  "Health and Human Services",
+                  "Homeland Security",
+                  "Housing and Urban Development",
+                  "Interior",
+                  "Justice",
+                  "Labor",
+                  "Naval Supply Systems Command",
+                  "Other/Independent Agency",
+                  "Selective Service System",
+                  "Social Security Administration",
+                  "State",
+                  "Transportation",
+                  "Treasury",
+                  "U.S. Air Force",
+                  "U.S. Army",
+                  "U.S. Navy",
+                  "Veterans Affairs",
+                ],
+            }
+          - {
+              label: "Subagency (choose all that apply or leave blank)",
+              name: "subagency",
+              widget: "select",
+              multiple: true,
+              options:
+                [
+                  "Agricultural Research Service",
+                  "Assistant Secretary for Human Resources Management",
+                  "Bureau of Alcohol, Tobacco, Firearms, and Explosives",
+                  "Bureau of Land Management",
+                  "Bureau of Prisons/Federal Prison System",
+                  "Bureau of Safety and Environmental Enforcement",
+                  "Centers for Medicare and Medicaid Services",
+                  "Customs and Border Protection",
+                  "Defense Health Agency",
+                  "Department of Defense",
+                  "Drug Enforcement Administration",
+                  "Federal Aviation Administration",
+                  "Federal Bureau of Investigation",
+                  "Federal Emergency Management Agency",
+                  "Federal Railroad Administration",
+                  "Federal Student Aid",
+                  "Forest Service",
+                  "Homeland Security",
+                  "Immigration and Customs Enforcement",
+                  "Internal Revenue Service",
+                  "Mine Safety and Health Administration",
+                  "Office of the Chief Financial Officer",
+                  "Office of the Inspector General",
+                  "Office of the Under Secretary",
+                  "Transportation",
+                  "Transportation Security Administration",
+                  "U.S. Army",
+                  "U.S. Army Aviation and Missile Command",
+                  "U.S. Marshals Service",
+                  "U.S. Navy",
+                  "Veterans Health Administration",
+                ],
+            }
+      - label: "Case(s)"
+        name: "cases"
+        widget: "list"
+        allow_add: true
+        summary: "{{fields.case}}"
+        field: { label: Case Number, name: case, widget: string }
+      - label: "Location(s)"
+        name: "locations"
+        widget: "list"
+        allow_add: true
+        summary: "{{fields.location}}"
+        field: { label: "Location", name: location, widget: string }
+      - label: "Result(s)"
+        name: "results"
+        widget: "select"
+        multiple: true
+        options:
+          [
+            "Substantiated",
+            "Partially substantiated",
+            "Totally unsubstantiated",
+            "Unsubstantiated but led to agency changes",
+            "Changes in agency rules, regulations, policy or practices",
+            "Improved health and/or safety",
+            "Disciplinary action against any employee",
+            "Cost savings to the government and/or accountability",
+            "Special Counsel found report not reasonable",
+            "Referral of criminal matter to the Attorney General",
+            "Agency takes systemic corrective action after OSC invovlement",
+            "Other actions",
+          ]
+      - {
+          label: "Date Closed",
+          name: "date",
+          date_format: "YYYY-MM-DD",
+          widget: "datetime",
+        }
+      - label: "File(s)"
+        name: "files"
+        widget: "list"
+        summary: "{{fields.label}}"
+        fields:
+          - { label: Label, name: label, widget: string }
+          - { label: href, name: href, widget: string }
+  - name: "press-release"
+    label: "Press Release"
+    folder: "collections/press-release"
     create: true
     editor:
       preview: false
@@ -39,100 +173,26 @@ collections:
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - {
-          label: "Created",
+          label: "Date",
           name: "date",
           date_format: "YYYY-MM-DD",
           default: "{{now}}",
           widget: "datetime",
         }
       - { label: "Body", name: "body", widget: "markdown" }
-  - name: "media"
-    label: "Media Gallery"
-    folder: "collections/media"
-    create: true
-    editor:
-      preview: false
-    slug: "{{slug}}"
-    summary: "{{title}}"
-    fields:
-      - { label: "Title", name: "title", widget: "string" }
       - {
-          label: "Created",
-          name: "date",
-          date_format: "YYYY-MM-DD",
-          default: "{{now}}",
-          widget: "datetime",
+          label: "Tags",
+          name: "tags",
+          widget: "select",
+          multiple: true,
+          options:
+            [
+              "hatch act",
+              "prohibited personnel practices",
+              "disclosure of wrongdoing",
+              "general",
+              "userra",
+              "outreach training",
+              "alternative dispute resolution",
+            ],
         }
-      - {
-          label: "Vimeo ID",
-          name: "vimeoId",
-          widget: "string",
-          hint: "The numeric ID from the Vimeo URL (e.g. https://vimeo.com/123456789 -> 123456789)",
-        }
-      - {
-          label: "Description",
-          name: "description",
-          widget: "text",
-          hint: "Short teaser shown on the gallery card.",
-          required: false,
-        }
-      - {
-          label: "Thumbnail",
-          name: "thumbnail",
-          widget: "image",
-          required: true,
-          hint: "Upload a thumbnail image for this video.",
-          allow_multiple: false,
-          choose_url: false,
-        }
-      - {
-          label: "Thumbnail Alt Text",
-          name: "thumbnail_alt",
-          widget: "string",
-          required: false,
-          hint: "Describe the thumbnail image for accessibility.",
-        }
-      - {
-          label: "Video Caption",
-          name: "video_caption",
-          widget: "string",
-          required: false,
-          hint: "Optional caption displayed under the player.",
-        }
-      - {
-          label: "Aspect Ratio",
-          name: "aspect_ratio",
-          widget: "string",
-          required: false,
-          default: "16/9",
-          hint: "Format like 16/9 to control the embed aspect ratio.",
-        }
-      - {
-          label: "Autoplay",
-          name: "autoplay",
-          widget: "boolean",
-          default: false,
-          required: false,
-        }
-      - {
-          label: "Muted",
-          name: "muted",
-          widget: "boolean",
-          default: false,
-          required: false,
-        }
-      - {
-          label: "Loop",
-          name: "loop",
-          widget: "boolean",
-          default: false,
-          required: false,
-        }
-      - {
-          label: "Plays Inline",
-          name: "playsinline",
-          widget: "boolean",
-          default: false,
-          required: false,
-        }
-      - { label: "Body", name: "body", widget: "markdown", required: false }
