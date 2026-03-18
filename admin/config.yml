@@ -28,9 +28,9 @@ editor:
   preview: false
 
 collections:
-  - name: "announcements"
-    label: "Announcements"
-    folder: "collections/announcements"
+  - name: "press-release"
+    label: "Press Release"
+    folder: "collections/press-release"
     create: true
     editor:
       preview: false
@@ -39,100 +39,26 @@ collections:
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - {
-          label: "Created",
+          label: "Date",
           name: "date",
           date_format: "YYYY-MM-DD",
           default: "{{now}}",
           widget: "datetime",
         }
       - { label: "Body", name: "body", widget: "markdown" }
-  - name: "media"
-    label: "Media Gallery"
-    folder: "collections/media"
-    create: true
-    editor:
-      preview: false
-    slug: "{{slug}}"
-    summary: "{{title}}"
-    fields:
-      - { label: "Title", name: "title", widget: "string" }
       - {
-          label: "Created",
-          name: "date",
-          date_format: "YYYY-MM-DD",
-          default: "{{now}}",
-          widget: "datetime",
+          label: "Tags",
+          name: "tags",
+          widget: "select",
+          multiple: true,
+          options:
+            [
+              "hatch act",
+              "prohibited personnel practices",
+              "disclosure of wrongdoing",
+              "general",
+              "userra",
+              "outreach training",
+              "alternative dispute resolution",
+            ],
         }
-      - {
-          label: "Vimeo ID",
-          name: "vimeoId",
-          widget: "string",
-          hint: "The numeric ID from the Vimeo URL (e.g. https://vimeo.com/123456789 -> 123456789)",
-        }
-      - {
-          label: "Description",
-          name: "description",
-          widget: "text",
-          hint: "Short teaser shown on the gallery card.",
-          required: false,
-        }
-      - {
-          label: "Thumbnail",
-          name: "thumbnail",
-          widget: "image",
-          required: true,
-          hint: "Upload a thumbnail image for this video.",
-          allow_multiple: false,
-          choose_url: false,
-        }
-      - {
-          label: "Thumbnail Alt Text",
-          name: "thumbnail_alt",
-          widget: "string",
-          required: false,
-          hint: "Describe the thumbnail image for accessibility.",
-        }
-      - {
-          label: "Video Caption",
-          name: "video_caption",
-          widget: "string",
-          required: false,
-          hint: "Optional caption displayed under the player.",
-        }
-      - {
-          label: "Aspect Ratio",
-          name: "aspect_ratio",
-          widget: "string",
-          required: false,
-          default: "16/9",
-          hint: "Format like 16/9 to control the embed aspect ratio.",
-        }
-      - {
-          label: "Autoplay",
-          name: "autoplay",
-          widget: "boolean",
-          default: false,
-          required: false,
-        }
-      - {
-          label: "Muted",
-          name: "muted",
-          widget: "boolean",
-          default: false,
-          required: false,
-        }
-      - {
-          label: "Loop",
-          name: "loop",
-          widget: "boolean",
-          default: false,
-          required: false,
-        }
-      - {
-          label: "Plays Inline",
-          name: "playsinline",
-          widget: "boolean",
-          default: false,
-          required: false,
-        }
-      - { label: "Body", name: "body", widget: "markdown", required: false }
