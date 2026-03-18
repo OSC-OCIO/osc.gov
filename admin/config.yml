@@ -28,6 +28,140 @@ editor:
   preview: false
 
 collections:
+  - name: "case"
+    label: "Case"
+    folder: "collections/case"
+    create: true
+    editor:
+      preview: false
+    slug: "{{cases}}"
+    summary: "{{cases}}"
+    fields:
+      - label: "Source"
+        name: "source"
+        widget: "object"
+        fields:
+          - {
+              label: "Agency",
+              name: "agency",
+              widget: "select",
+              multiple: true,
+              options:
+                [
+                  "Agriculture",
+                  "Customs and Border Protection",
+                  "Defense/Air Force",
+                  "Defense/Army",
+                  "Defense/Navy",
+                  "Department of Defense",
+                  "Education",
+                  "Energy",
+                  "Environmental Protection Agency",
+                  "Federal Aviation Administration",
+                  "General Services Administration",
+                  "Health and Human Services",
+                  "Homeland Security",
+                  "Housing and Urban Development",
+                  "Interior",
+                  "Justice",
+                  "Labor",
+                  "Naval Supply Systems Command",
+                  "Other/Independent Agency",
+                  "Selective Service System",
+                  "Social Security Administration",
+                  "State",
+                  "Transportation",
+                  "Treasury",
+                  "U.S. Air Force",
+                  "U.S. Army",
+                  "U.S. Navy",
+                  "Veterans Affairs",
+                ],
+            }
+          - {
+              label: "Subgency",
+              name: "subagency",
+              widget: "select",
+              multiple: true,
+              options:
+                [
+                  "Agricultural Research Service",
+                  "Assistant Secretary for Human Resources Management",
+                  "Bureau of Alcohol, Tobacco, Firearms, and Explosives",
+                  "Bureau of Land Management",
+                  "Bureau of Prisons/Federal Prison System",
+                  "Bureau of Safety and Environmental Enforcement",
+                  "Centers for Medicare and Medicaid Services",
+                  "Customs and Border Protection",
+                  "Defense Health Agency",
+                  "Department of Defense",
+                  "Drug Enforcement Administration",
+                  "Federal Aviation Administration",
+                  "Federal Bureau of Investigation",
+                  "Federal Emergency Management Agency",
+                  "Federal Railroad Administration",
+                  "Federal Student Aid",
+                  "Forest Service",
+                  "Homeland Security",
+                  "Immigration and Customs Enforcement",
+                  "Internal Revenue Service",
+                  "Mine Safety and Health Administration",
+                  "Office of the Chief Financial Officer",
+                  "Office of the Inspector General",
+                  "Office of the Under Secretary",
+                  "Transportation",
+                  "Transportation Security Administration",
+                  "U.S. Army",
+                  "U.S. Army Aviation and Missile Command",
+                  "U.S. Marshals Service",
+                  "U.S. Navy",
+                  "Veterans Health Administration",
+                ],
+            }
+      - label: "Cases"
+        name: "cases"
+        widget: "list"
+        allow_add: true
+        summary: "{{fields.case}}"
+        field: { label: Case Number, name: case, widget: string }
+      - label: "Locations"
+        name: "locations"
+        widget: "list"
+        allow_add: true
+        summary: "{{fields.location}}"
+        field: { label: "Location", name: location, widget: string }
+      - label: "Results"
+        name: "results"
+        widget: "select"
+        multiple: true
+        options:
+          [
+            "Substantiated",
+            "Partially substantiated",
+            "Totally unsubstantiated",
+            "Unsubstantiated but led to agency changes",
+            "Changes in agency rules, regulations, policy or practices",
+            "Improved health and/or safety",
+            "Disciplinary action against any employee",
+            "Cost savings to the government and/or accountability",
+            "Special Counsel found report not reasonable",
+            "Referral of criminal matter to the Attorney General",
+            "Agency takes systemic corrective action after OSC invovlement",
+            "Other actions",
+          ]
+      - {
+          label: "Date Closed",
+          name: "date",
+          date_format: "YYYY-MM-DD",
+          widget: "datetime",
+        }
+      - label: "Files"
+        name: "files"
+        widget: "list"
+        summary: "{{fields.label}}"
+        fields:
+          - { label: Label, name: label, widget: string }
+          - { label: href, name: href, widget: string }
   - name: "press-release"
     label: "Press Release"
     folder: "collections/press-release"
