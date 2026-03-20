@@ -2,7 +2,7 @@
 title: 2302(c) Certification for Government Corporations
 eleventyNavigation:
   order: 3
-  title: Government corporations
+  title: Certification and Recertification for Government Corporations
 ---
 
 ## ​​​​​​​​​​​​​​Background
