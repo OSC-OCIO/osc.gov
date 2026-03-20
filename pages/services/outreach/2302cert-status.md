@@ -2,7 +2,7 @@
 title: 2302(c) Certified Agencies
 eleventyNavigation:
   order: 6
-  title: Certified agencies
+  title: 2302(c) Certified Agencies List
 items:
   - agency: "AbilityOne Commission and Office of Inspector General"
     poc: "Syed Kamil Ali (202) 603-2248"
