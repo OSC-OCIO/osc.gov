@@ -2,7 +2,7 @@
 title: 2302(c) Certification Process
 eleventyNavigation:
   order: 2
-  title: Process
+  title: 2302(c) Certification Process
 faqItems:
   - title: 1. Place informational posters at agency facilities
     answer: |-
@@ -32,10 +32,9 @@ faqItems:
       Supervisory training should be tracked to ensure that all supervisors have been trained prior to filling out the compliance form. Please note that agencies must obtain prior approval from OSC before disseminating forms or training materials created by an agency or outside entity to satisfy the training requirements of the Certification Program.
 
       - [Annual Supervisory Training PowerPoint Presentation](/~assets/docs/fy25-agency-conducted-annual-supervisory-training.pdf) (PDF)
-      - PPP and Whistleblower Disclosures Training Quiz (Please contact OSC at [certification@osc.gov](mailto:certification@osc.gov) if your agency would like to use the quiz and has over 1,000 supervisors and managers.)
-  - title: 5. Display a link to OSC’s website on the agency’s website and intranet
+  - title: 5. Add a direct link to OSC’s website on the agency’s website and intranet
     answer: |-
-      Provide a link from the agency’s website and intranet site to OSC’s website [(https://osc.gov)](/services/).
+      Provide a link from the agency’s website and intranet site to OSC’s website [(https://osc.gov)](/services/) on the agency website and intranet to ensure easy access to OSC resources.
 ---
 
 ### ​STEP 1: Registration​
@@ -52,4 +51,4 @@ To begin the certification process, please fill out the [registration form](/~a
 
 ### STEP 4: Sub​​mit the compliance form (every three years)​
 
-After completing the five requirements of the program, complete the [complian​ce form](/~assets/docs/compliance-form-v2025.pdf)​​​​ and email the form and supporting documentation to [certification@osc.gov](mailto:certification@osc.gov). After OSC reviews the submission and ensures satisfaction of the five requirements, we will grant the agency a certificate of compliance indicating the agency's fulfillment of the statutory obligation under section 2302(c) as well as compliance with the Dr. Chris Kirkpatrick Whistleblower Protection Act of 2017 and the NDAA. Additionally, we list certified agencies on OSC’s website and report federal agencies’ compliance with OSC’​s 2302(c) ​Certification Program annually to Congress. Agencies will request recertification by submitting a compliance form (along with supporting documentation) every three years.​​
+After completing the five requirements of the program, complete the [complian​ce form](/~assets/docs/compliance-form-v2025.pdf)​​​​ and email the form and supporting documentation to [certification@osc.gov](mailto:certification@osc.gov). After OSC reviews the submission and ensures satisfaction of the five requirements, we will grant the agency a certificate of compliance indicating the agency's fulfillment of the statutory obligation under section 2302(c) as well as compliance with the Dr. Chris Kirkpatrick Whistleblower Protection Act of 2017 and the NDAA. Additionally, we list certified agencies on OSC’s website and report federal agencies’ compliance with OSC’​s 2302(c) ​Certification Program annually to Congress. Agencies will request recertification by [submitting a compliance form](/services/outreach/2302cert-recertification/) (along with supporting documentation) every three years.​​
