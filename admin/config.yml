@@ -38,7 +38,7 @@ collections:
     fields:
       - label: "Source"
         name: "source"
-        widget: "object"
+        widget: "list"
         fields:
           - { label: "Agency", name: "agency", widget: "string" }
           - { label: "Subagency", name: "subagency", widget: "string" }
