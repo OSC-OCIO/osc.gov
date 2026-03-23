@@ -29,11 +29,10 @@ editor:
 
 collections:
   - name: "case"
-    label: "Case"
+    label: "Cases"
+    label_singular: "Case"
     folder: "collections/case"
     create: true
-    editor:
-      preview: false
     slug: "{{cases[0]}}{{cases[1] | ternary('--multi', '')}}"
     summary: "{{cases[0]}}{{cases[1] | ternary(' + additional cases', '')}}"
     fields:
@@ -79,10 +78,11 @@ collections:
                 ],
             }
           - {
-              label: "Subagency (optional)",
+              label: "Subagency",
               name: "subagency",
               widget: "select",
               multiple: false,
+              required: false,
               options:
                 [
                   "Agricultural Research Service",
@@ -136,17 +136,17 @@ collections:
         multiple: true
         options:
           [
-            "Substantiated",
+            "Agency takes systemic corrective action after OSC invovlement",
+            "Changes in agency rules, regulations, policy or practices",
+            "Cost savings to the government and/or accountability",
+            "Disciplinary action against any employee",
+            "Improved health and/or safety",
             "Partially substantiated",
+            "Referral of criminal matter to the Attorney General",
+            "Special Counsel found report not reasonable",
+            "Substantiated",
             "Totally unsubstantiated",
             "Unsubstantiated but led to agency changes",
-            "Changes in agency rules, regulations, policy or practices",
-            "Improved health and/or safety",
-            "Disciplinary action against any employee",
-            "Cost savings to the government and/or accountability",
-            "Special Counsel found report not reasonable",
-            "Referral of criminal matter to the Attorney General",
-            "Agency takes systemic corrective action after OSC invovlement",
             "Other actions",
           ]
       - {
@@ -161,13 +161,12 @@ collections:
         summary: "{{fields.label}}"
         fields:
           - { label: Label, name: label, widget: string }
-          - { label: href, name: href, widget: string }
+          - { label: Link, name: href, widget: string }
   - name: "press-release"
+    label_singular: "Press Release"
     label: "Press Release"
     folder: "collections/press-release"
     create: true
-    editor:
-      preview: false
     slug: "{{date}}-{{slug}}"
     summary: "[{{date}}] {{title}}"
     fields:
@@ -187,12 +186,21 @@ collections:
           multiple: true,
           options:
             [
-              "hatch act",
-              "prohibited personnel practices",
-              "disclosure of wrongdoing",
-              "general",
-              "userra",
-              "outreach training",
-              "alternative dispute resolution",
+              {
+                label: "Alternative Dispute Resolution",
+                value: "alternative dispute resolution",
+              },
+              {
+                label: "Disclosure of Wrongdoing",
+                value: "disclosure of wrongdoing",
+              },
+              { label: "General", value: "general" },
+              { label: "Hatch Act", value: "hatch act" },
+              { label: "Outreach Training", value: "outreach training" },
+              {
+                label: "Prohibited Personnel Practices",
+                value: "prohibited personnel practices",
+              },
+              { label: "USERRA", value: "userra" },
             ],
         }
