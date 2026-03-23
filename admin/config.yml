@@ -1,12 +1,12 @@
 ## Comment out when doing local development
-# backend:
-#   name: github
-#   repo: MyAgency/site
-#   base_url: https://pages.cloud.gov
-#   auth_endpoint: external/auth/github
-#   preview_context: pages/build
-#   branch: main
-#   use_graphql: true
+backend:
+  name: github
+  repo: MyAgency/site
+  base_url: https://pages.cloud.gov
+  auth_endpoint: external/auth/github
+  preview_context: pages/build
+  branch: main
+  use_graphql: true
 
 ##
 ## Uncomment when doing local development on Netlify CMS
@@ -15,9 +15,9 @@
 ## See https://www.netlifycms.org/docs/beta-features/#working-with-a-local-git-repository
 ##
 
-backend:
-  name: git-gateway
-local_backend: true
+# backend:
+#  name: git-gateway
+# local_backend: true
 
 media_folder: img
 public_folder: /img
@@ -29,10 +29,11 @@ editor:
 
 collections:
   - name: "case"
-    label: "Cases"
-    label_singular: "Case"
+    label: "Case"
     folder: "collections/case"
     create: true
+    editor:
+      preview: false
     slug: "{{cases[0]}}{{cases[1] | ternary('--multi', '')}}"
     summary: "{{cases[0]}}{{cases[1] | ternary(' + additional cases', '')}}"
     fields:
@@ -40,8 +41,83 @@ collections:
         name: "source"
         widget: "list"
         fields:
-          - { label: "Agency", name: "agency", widget: "string" }
-          - { label: "Subagency", name: "subagency", widget: "string" }
+          - {
+              label: "Agency",
+              name: "agency",
+              widget: "select",
+              multiple: false,
+              options:
+                [
+                  "Agriculture",
+                  "Customs and Border Protection",
+                  "Defense/Air Force",
+                  "Defense/Army",
+                  "Defense/Navy",
+                  "Department of Defense",
+                  "Education",
+                  "Energy",
+                  "Environmental Protection Agency",
+                  "Federal Aviation Administration",
+                  "General Services Administration",
+                  "Health and Human Services",
+                  "Homeland Security",
+                  "Housing and Urban Development",
+                  "Interior",
+                  "Justice",
+                  "Labor",
+                  "Naval Supply Systems Command",
+                  "Other/Independent Agency",
+                  "Selective Service System",
+                  "Social Security Administration",
+                  "State",
+                  "Transportation",
+                  "Treasury",
+                  "U.S. Air Force",
+                  "U.S. Army",
+                  "U.S. Navy",
+                  "Veterans Affairs",
+                ],
+            }
+          - {
+              label: "Subagency (optional)",
+              name: "subagency",
+              widget: "select",
+              multiple: false,
+              options:
+                [
+                  "Agricultural Research Service",
+                  "Assistant Secretary for Human Resources Management",
+                  "Bureau of Alcohol, Tobacco, Firearms, and Explosives",
+                  "Bureau of Land Management",
+                  "Bureau of Prisons/Federal Prison System",
+                  "Bureau of Safety and Environmental Enforcement",
+                  "Centers for Medicare and Medicaid Services",
+                  "Customs and Border Protection",
+                  "Defense Health Agency",
+                  "Department of Defense",
+                  "Drug Enforcement Administration",
+                  "Federal Aviation Administration",
+                  "Federal Bureau of Investigation",
+                  "Federal Emergency Management Agency",
+                  "Federal Railroad Administration",
+                  "Federal Student Aid",
+                  "Forest Service",
+                  "Homeland Security",
+                  "Immigration and Customs Enforcement",
+                  "Internal Revenue Service",
+                  "Mine Safety and Health Administration",
+                  "Office of the Chief Financial Officer",
+                  "Office of the Inspector General",
+                  "Office of the Under Secretary",
+                  "Transportation",
+                  "Transportation Security Administration",
+                  "U.S. Army",
+                  "U.S. Army Aviation and Missile Command",
+                  "U.S. Marshals Service",
+                  "U.S. Navy",
+                  "Veterans Health Administration",
+                ],
+            }
       - label: "Case(s)"
         name: "cases"
         widget: "list"
@@ -60,17 +136,17 @@ collections:
         multiple: true
         options:
           [
-            "Agency takes systemic corrective action after OSC invovlement",
-            "Changes in agency rules, regulations, policy or practices",
-            "Cost savings to the government and/or accountability",
-            "Disciplinary action against any employee",
-            "Improved health and/or safety",
-            "Partially substantiated",
-            "Referral of criminal matter to the Attorney General",
-            "Special Counsel found report not reasonable",
             "Substantiated",
+            "Partially substantiated",
             "Totally unsubstantiated",
             "Unsubstantiated but led to agency changes",
+            "Changes in agency rules, regulations, policy or practices",
+            "Improved health and/or safety",
+            "Disciplinary action against any employee",
+            "Cost savings to the government and/or accountability",
+            "Special Counsel found report not reasonable",
+            "Referral of criminal matter to the Attorney General",
+            "Agency takes systemic corrective action after OSC invovlement",
             "Other actions",
           ]
       - {
@@ -85,12 +161,13 @@ collections:
         summary: "{{fields.label}}"
         fields:
           - { label: Label, name: label, widget: string }
-          - { label: Link, name: href, widget: string }
+          - { label: href, name: href, widget: string }
   - name: "press-release"
-    label: "Press Releases"
-    label_singular: "Press Release"
+    label: "Press Release"
     folder: "collections/press-release"
     create: true
+    editor:
+      preview: false
     slug: "{{date}}-{{slug}}"
     summary: "[{{date}}] {{title}}"
     fields:
@@ -102,6 +179,7 @@ collections:
           default: "{{now}}",
           widget: "datetime",
         }
+      - { label: "Body", name: "body", widget: "markdown" }
       - {
           label: "Tags",
           name: "tags",
@@ -109,22 +187,12 @@ collections:
           multiple: true,
           options:
             [
-              {
-                label: "Alternative Dispute Resolution",
-                value: "alternative dispute resolution",
-              },
-              {
-                label: "Disclosure of Wrongdoing",
-                value: "disclosure of wrongdoing",
-              },
-              { label: "General", value: "general" },
-              { label: "Hatch Act", value: "hatch act" },
-              { label: "Outreach Training", value: "outreach training" },
-              {
-                label: "Prohibited Personnel Practices",
-                value: "prohibited personnel practices",
-              },
-              { label: "USERRA", value: "userra" },
+              "hatch act",
+              "prohibited personnel practices",
+              "disclosure of wrongdoing",
+              "general",
+              "userra",
+              "outreach training",
+              "alternative dispute resolution",
             ],
         }
-      - { label: "Body", name: "body", widget: "markdown" }
