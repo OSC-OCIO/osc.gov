@@ -1,12 +1,12 @@
 ## Comment out when doing local development
-backend:
-  name: github
-  repo: MyAgency/site
-  base_url: https://pages.cloud.gov
-  auth_endpoint: external/auth/github
-  preview_context: pages/build
-  branch: main
-  use_graphql: true
+# backend:
+#  name: github
+#  repo: MyAgency/site
+#  base_url: https://pages.cloud.gov
+#  auth_endpoint: external/auth/github
+#  preview_context: pages/build
+#  branch: main
+#  use_graphql: true
 
 ##
 ## Uncomment when doing local development on Netlify CMS
@@ -15,9 +15,9 @@ backend:
 ## See https://www.netlifycms.org/docs/beta-features/#working-with-a-local-git-repository
 ##
 
-# backend:
-#  name: git-gateway
-# local_backend: true
+backend:
+  name: git-gateway
+local_backend: true
 
 media_folder: img
 public_folder: /img
@@ -204,3 +204,61 @@ collections:
               { label: "USERRA", value: "userra" },
             ],
         }
+  - label: Homepage
+    name: homepage
+    files:
+      - label: Home
+        name: home
+        file: "pages/index.md"
+        create: false
+        fields:
+          - label: Hero Section
+            name: hero
+            widget: object
+            required: false
+            fields:
+              - { label: Header, name: header, widget: string }
+              - { label: Body, name: body, widget: string }
+              - label: "Button 1 (Left)"
+                name: "button_left"
+                widget: "object"
+                required: false
+                fields:
+                  - { label: Text, name: text, widget: string }
+                  - { label: Link, name: link, widget: string }
+              - label: "Button 2 (Right)"
+                name: "button_right"
+                widget: "object"
+                required: false
+                fields:
+                  - { label: Text, name: text, widget: string }
+                  - { label: Link, name: link, widget: string }
+              - label: "Hero Image"
+                name: "hero_image"
+                widget: "object"
+                required: false
+                fields:
+                  - { label: Image, name: image, widget: image }
+                  - { label: "Alt text", name: "alt_text", widget: "string" }
+          - label: Agency Highlights
+            name: highlights
+            widget: list
+            min: 3
+            max: 3
+            fields:
+              - { label: "Title", name: "title", widget: "string" }
+              - { label: "Body", name: "body", widget: "string" }
+              - { label: "Image", name: "image", widget: "image" }
+              - { label: "Alt text", name: "alt", widget: "string" }
+              - { label: "Button Text", name: "cta_text", widget: "string" }
+              - { label: "Button Link", name: "cta_url", widget: "string" }
+          - label: Featured Video
+            name: video
+            widget: object
+            fields:
+              - { label: Header, name: header, widget: string }
+              - { label: Video Title, name: title, widget: string }
+              - { label: "Body", name: "body", widget: "string" }
+              - { label: "Video Link", name: "url", widget: "string" }
+              - { label: "Button Text", name: "button_text", widget: "string" }
+              - { label: "Button Link", name: "button_url", widget: "string" }
