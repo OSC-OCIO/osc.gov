@@ -128,7 +128,7 @@ video:
           </ul>
         {%- endif -%}
 
-        {%- if resmaining_cards and remaining_cards.size > 0 -%}
+        {%- if remaining_cards and remaining_cards.size > 0 -%}
           <ul class="usa-card-group">
             {%- for card in remaining_cards -%}
               {%- assign card_image = card.image | default: '/img/home-card-default.png' -%}
@@ -203,7 +203,7 @@ video:
         >
       </div>
       <div class="tablet:grid-col-7">
-        {% youtube "https://www.youtube.com/watch?v=-zibQh-A4KY" "{{ video.title }}" %}
+        {% youtube "{{ video.url }}" "{{ video.title }}" %}
       </div>
     </div>
   </div>
