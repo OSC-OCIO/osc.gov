@@ -3,11 +3,71 @@ layout: layouts/default
 ---
 {{ content }}
 
-<ul class="usa-icon-list">
-  {%- for item in items -%}
-    {%- include 'resource-item.html' -%}
-  {%- endfor -%}
-</ul>
+{%- if reports and reports.size > 0 -%}
+  <ul class="usa-list margin-top-2">
+    {%- if reports[0].topics -%}
+      {%- for category in reports -%}
+        <li>
+          <a href="#{{- category.heading | slugify -}}">{{- category.heading -}}</a>
+          <ul class="usa-list">
+            {%- for section in category.topics -%}
+              {%- assign categorySlug = category.heading | slugify -%}
+              {%- assign sectionSlug = section.heading | slugify -%}
+              {%- assign sectionId = sectionSlug -%}
+              {%- if category.heading == "State & Local" -%}
+                {%- assign sectionId = categorySlug | append: "-" | append: sectionSlug -%}
+              {%- endif -%}
+              <li>
+                <a href="#{{- sectionId -}}">{{- section.heading -}}</a>
+              </li>
+            {%- endfor -%}
+          </ul>
+        </li>
+      {%- endfor -%}
+    {%- else -%}
+      {%- for section in reports -%}
+        <li>
+          <a href="#{{- section.heading | slugify -}}">{{- section.heading -}}</a>
+        </li>
+      {%- endfor -%}
+    {%- endif -%}
+  </ul>
+
+  {%- if reports[0].topics -%}
+    {%- for category in reports -%}
+      <h2 id="{{- category.heading | slugify -}}">{{- category.heading -}}</h2>
+      {%- for section in category.topics -%}
+        {%- assign categorySlug = category.heading | slugify -%}
+        {%- assign sectionSlug = section.heading | slugify -%}
+        {%- assign sectionId = sectionSlug -%}
+        {%- if category.heading == "State & Local" -%}
+          {%- assign sectionId = categorySlug | append: "-" | append: sectionSlug -%}
+        {%- endif -%}
+        <h3 id="{{- sectionId -}}">{{- section.heading -}}</h3>
+        <ul class="usa-icon-list">
+          {%- for item in section.items -%}
+            {%- include 'resource-item.html' -%}
+          {%- endfor -%}
+        </ul>
+      {%- endfor -%}
+    {%- endfor -%}
+  {%- else -%}
+    {%- for section in reports -%}
+      <h2 id="{{- section.heading | slugify -}}">{{- section.heading -}}</h2>
+      <ul class="usa-icon-list">
+        {%- for item in section.items -%}
+          {%- include 'resource-item.html' -%}
+        {%- endfor -%}
+      </ul>
+    {%- endfor -%}
+  {%- endif -%}
+{%- elsif items and items.size > 0 -%}
+  <ul class="usa-icon-list">
+    {%- for item in items -%}
+      {%- include 'resource-item.html' -%}
+    {%- endfor -%}
+  </ul>
+{%- endif -%}
 
 {% if footnote %}
   {{ footnote | markdownify }}

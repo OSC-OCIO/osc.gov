@@ -62,21 +62,3 @@ reports:
   <div>{% youtube "https://www.youtube.com/watch?v=hYOeYXnfV4o" %}</div>
   <div>{% youtube "https://www.youtube.com/watch?v=JdozmUcbK6E" %}</div>
 </div>
-
-<ul class="usa-list margin-top-2">
-  {%- for section in reports -%}
-    <li>
-      <a href="#{{- section.heading | slugify -}}">{{- section.heading -}}</a>
-    </li>
-  {%- endfor -%}
-</ul>
-
-{%- for section in reports -%}
-
-  <h2 id="{{- section.heading | slugify -}}">{{- section.heading -}}</h2>
-  <ul class="usa-icon-list">
-    {%- for item in section.items -%}
-      {%- include 'resource-item.html' -%}
-    {%- endfor -%}
-  </ul>
-{%- endfor -%}

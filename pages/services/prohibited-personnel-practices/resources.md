@@ -71,6 +71,8 @@ reports:
         url: "/~assets/docs/how-complaints-are-investigated-and-prosecuted.pdf"
       - name: "How Complaints are Received and Processed"
         url: "/~assets/docs/how-complaints-are-received-and-processed.pdf"
+footnote: |
+  The Reports of Investigation have been changed from their original version and some details have been withheld to protect confidential information, including the identity of the parties involved. All Freedom of Information Act (FOIA) and/or Privacy Act (PA) inquiries regarding these reports should be referred to OSC via email at [FOIArequest@OSC.gov](mailto:FOIArequest@OSC.gov).
 ---
 
 <div class="video-grid">
@@ -81,23 +83,3 @@ reports:
 <div>{% youtube "https://www.youtube.com/watch?v=b7AxzrnFrZY&t=21s" %}</div>
 <div>{% youtube "https://www.youtube.com/watch?v=p0O16LLCSmE" %}</div>
 </div>
-
-<ul class="usa-list margin-top-2">
-  {%- for section in reports -%}
-    <li>
-      <a href="#{{- section.heading | slugify -}}">{{- section.heading -}}</a>
-    </li>
-  {%- endfor -%}
-</ul>
-
-{%- for section in reports -%}
-
-  <h2 id="{{- section.heading | slugify -}}">{{- section.heading -}}</h2>
-  <ul class="usa-icon-list">
-    {%- for item in section.items -%}
-      {%- include 'resource-item.html' -%}
-    {%- endfor -%}
-  </ul>
-{%- endfor -%}
-
-<p>The Reports of Investigation have been changed from their original version and some details have been withheld to protect confidential information, including the identity of the parties involved. All Freedom of Information Act (FOIA) and/or Privacy Act (PA) inquiries regarding these reports should be referred to OSC via email at <a href="mailto:FOIArequest@OSC.gov">FOIArequest@OSC.gov</a></p>
