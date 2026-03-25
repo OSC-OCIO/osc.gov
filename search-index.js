@@ -1,31 +1,16 @@
 const fs = require("node:fs/promises");
 const path = require("node:path");
 const yaml = require("js-yaml");
+const {
+  buildResourceRecordKey,
+  normalizePageUrl,
+  stringValue,
+} = require("./search-shared");
 
 const ROOT = __dirname;
 const PAGES_DIR = path.join(ROOT, "pages");
 const SITE_DIR = path.join(ROOT, "_site");
 const OUTPUT_DIR = path.join(SITE_DIR, "pagefind");
-
-function normalizePageUrl(url) {
-  const value = String(url || "").trim();
-  if (!value) {
-    return "/";
-  }
-
-  let normalized = value.replace(/\\/g, "/");
-  if (!normalized.startsWith("/")) {
-    normalized = `/${normalized}`;
-  }
-  normalized = normalized.replace(/\/index\.html$/i, "/");
-  normalized = normalized.replace(/\/{2,}/g, "/");
-
-  if (!normalized.endsWith("/") && !normalized.endsWith(".html")) {
-    normalized = `${normalized}/`;
-  }
-
-  return normalized.toLowerCase();
-}
 
 function sourcePathToUrl(sourcePath, frontmatter) {
   const permalink = frontmatter && frontmatter.permalink;
@@ -76,17 +61,6 @@ async function listMarkdownFiles(dir) {
   return files;
 }
 
-function stringValue(value) {
-  return String(value || "").trim();
-}
-
-function buildRecordKey(pageUrl, categoryIndex, sectionIndex, itemIndex) {
-  if (categoryIndex === null) {
-    return `${pageUrl}::${sectionIndex}::${itemIndex}`;
-  }
-  return `${pageUrl}::${categoryIndex}::${sectionIndex}::${itemIndex}`;
-}
-
 function flattenResourceRecords(frontmatter, pageUrl) {
   const pageTitle = stringValue(frontmatter.title);
   const records = [];
@@ -94,8 +68,7 @@ function flattenResourceRecords(frontmatter, pageUrl) {
   if (Array.isArray(frontmatter.reports) && frontmatter.reports.length > 0) {
     const nested =
       frontmatter.reports[0] &&
-      Array.isArray(frontmatter.reports[0].topics) &&
-      frontmatter.reports[0].topics.length >= 0;
+      Array.isArray(frontmatter.reports[0].topics);
 
     if (nested) {
       frontmatter.reports.forEach(function (category, categoryIndex) {
@@ -112,7 +85,12 @@ function flattenResourceRecords(frontmatter, pageUrl) {
             }
 
             records.push({
-              key: buildRecordKey(pageUrl, categoryIndex, sectionIndex, itemIndex),
+              key: buildResourceRecordKey(
+                pageUrl,
+                categoryIndex,
+                sectionIndex,
+                itemIndex,
+              ),
               url,
               name,
               pageTitle,
@@ -135,7 +113,7 @@ function flattenResourceRecords(frontmatter, pageUrl) {
           }
 
           records.push({
-            key: buildRecordKey(pageUrl, null, sectionIndex, itemIndex),
+            key: buildResourceRecordKey(pageUrl, sectionIndex, itemIndex),
             url,
             name,
             pageTitle,
@@ -155,7 +133,7 @@ function flattenResourceRecords(frontmatter, pageUrl) {
       }
 
       records.push({
-        key: `${pageUrl}::items::${itemIndex}`,
+        key: buildResourceRecordKey(pageUrl, "items", itemIndex),
         url,
         name,
         pageTitle,
@@ -178,6 +156,10 @@ async function loadResourceRecords() {
     const frontmatter = parseFrontmatter(raw);
 
     if (frontmatter.layout !== "layouts/resource-index") {
+      continue;
+    }
+
+    if (!frontmatter.pagefind_filtering) {
       continue;
     }
 

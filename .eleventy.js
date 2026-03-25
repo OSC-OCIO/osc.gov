@@ -5,6 +5,10 @@ const markdownItNamedHeadings = require("markdown-it-named-headings");
 const yaml = require("js-yaml");
 const svgSprite = require("eleventy-plugin-svg-sprite");
 const { eleventyImageTransformPlugin } = require("@11ty/eleventy-img");
+const {
+  buildResourceRecordKey,
+  normalizePageUrl,
+} = require("./search-shared");
 
 module.exports = async function (config) {
   const { EleventyHtmlBasePlugin } = await import("@11ty/eleventy");
@@ -63,6 +67,10 @@ module.exports = async function (config) {
   config.addFilter("htmlDateString", (dateObj) => {
     return DateTime.fromJSDate(dateObj, { zone: "utc" }).toFormat("yyyy-LL-dd");
   });
+  config.addFilter("resourcePageUrl", (value) => normalizePageUrl(value));
+  config.addFilter("resourceRecordKey", (pageUrl, ...segments) =>
+    buildResourceRecordKey(pageUrl, ...segments),
+  );
 
   // Customize Markdown library and settings:
   let markdownLibrary = markdownIt({

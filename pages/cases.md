@@ -51,10 +51,4 @@ lead: ​OSC receives and reviews [disclosures of wrongdoing](/services/disclosu
 {%- include 'case-list.html', items: posts, pagefind_ignore: true -%}
 </section>
 <div id="case-search-pagination" class="display-none"></div>
-
-{%- if pagination.pageNumber == 0 -%}
-
-<section class="display-none" aria-hidden="true">
-{%- include 'case-list.html', items: collections.case, list_id: 'case-template-bank', pagefind_ignore: true -%}
-</section>
-{%- endif -%}
+{%- include 'case-record-bank.html', items: collections.case -%}

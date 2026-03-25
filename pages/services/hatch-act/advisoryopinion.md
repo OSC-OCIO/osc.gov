@@ -1,6 +1,7 @@
 ---
 title: Hatch Act Advisory Opinions
 layout: layouts/resource-index
+pagefind_filtering: true
 eleventyNavigation:
   order: 3
   title: Advisory opinions
