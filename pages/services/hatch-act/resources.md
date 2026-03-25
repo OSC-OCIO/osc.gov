@@ -3,8 +3,26 @@ title: Additional Resources for Hatch Act
 layout: layouts/resource-index
 eleventyNavigation:
   order: 9
-  title: Additional resources
+  title: Additional Resources
 reports:
+  - heading: "Hatch Act Posters, Handouts, and Training Materials"
+    items:
+      - name: "The Hatch Act and Further Restricted Employees Poster"
+        url: "/~assets/docs/the-hatch-act-and-further-restricted-employees-poster.pdf"
+      - name: "The Hatch Act and State, D.C., and Local Employees Poster"
+        url: "/~assets/docs/the-hatch-act-and-state-dc-and-local-employees-poster.pdf"
+      - name: "Hatch Act Agencies and Social Media FAQs"
+        url: "/~assets/docs/hatch-act-agencies-and-social-media-faqs.pdf"
+      - name: "Hatch Act social media handout"
+        url: "/~assets/docs/hatch-act-social-media-handout.pdf"
+      - name: "Social Media Quick Guide"
+        url: "/~assets/docs/social-media-quick-guide.pdf"
+      - name: "A Guide to the Hatch Act for Federal Employees"
+        url: "/~assets/docs/a-guide-to-the-hatch-act-for-federal-employees.pdf"
+      - name: "Hatch Act Social Media Handout"
+        url: "/~assets/docs/hatch-act-social-media-handout-1.pdf"
+      - name: "The Hatch Act and Most Federal Employees Poster"
+        url: "/~assets/docs/the-hatch-act-and-most-federal-employees-poster.pdf"
   - heading: "Hatch Act Reports"
     items:
       - name: "Report of Prohibited Political Activity, Carlos Del Toro (HA-24-000104)"
@@ -33,25 +51,15 @@ reports:
         url: "/~assets/docs/report-of-prohibited-political-activity-kathleen-sebelius-ha-12-1989.pdf"
       - name: "Response, Kathleen Sebelius (HA-12-1989)"
         url: "/~assets/docs/response-kathleen-sebelius-ha-12-1989.pdf"
-  - heading: "Hatch Act Posters, Handouts, and Training Materials"
-    items:
-      - name: "The Hatch Act and Further Restricted Employees Poster"
-        url: "/~assets/docs/the-hatch-act-and-further-restricted-employees-poster.pdf"
-      - name: "The Hatch Act and State, D.C., and Local Employees Poster"
-        url: "/~assets/docs/the-hatch-act-and-state-dc-and-local-employees-poster.pdf"
-      - name: "Hatch Act Agencies and Social Media FAQs"
-        url: "/~assets/docs/hatch-act-agencies-and-social-media-faqs.pdf"
-      - name: "Hatch Act social media handout"
-        url: "/~assets/docs/hatch-act-social-media-handout.pdf"
-      - name: "Social Media Quick Guide"
-        url: "/~assets/docs/social-media-quick-guide.pdf"
-      - name: "A Guide to the Hatch Act for Federal Employees"
-        url: "/~assets/docs/a-guide-to-the-hatch-act-for-federal-employees.pdf"
-      - name: "Hatch Act Social Media Handout"
-        url: "/~assets/docs/hatch-act-social-media-handout-1.pdf"
-      - name: "The Hatch Act and Most Federal Employees Poster"
-        url: "/~assets/docs/the-hatch-act-and-most-federal-employees-poster.pdf"
 ---
+
+<ul class="usa-list margin-top-2">
+  {%- for section in reports -%}
+    <li>
+      <a href="#{{- section.heading | slugify -}}">{{- section.heading -}}</a>
+    </li>
+  {%- endfor -%}
+</ul>
 
 <h2 class="font-heading-xl padding-top-1">Hatch Act Videos</h2>
 
