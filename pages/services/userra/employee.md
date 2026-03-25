@@ -2,7 +2,7 @@
 title: Your USERRA Rights as an Employee
 eleventyNavigation:
   order: 1
-  title: Your rights as an employee
+  title: Your Rights As An Employee
 ---
 
 ​Service members who are in the civilian workforce fall into one of the following employment categories:

@@ -6,46 +6,71 @@ eleventyNavigation:
   key: /
   title: Home
   order: 0
+hero:
+  header: Welcome to OSC.gov
+  body: The U.S. Office of Special Counsel (OSC) safeguards the merit system in
+    federal employment by protecting whistleblowers, enforcing the Hatch Act,
+    and providing secure channels for disclosures of wrongdoing.
+  button_left:
+    text: File a Complaint
+    link: /file-complaint/onlineportal
+  button_right:
+    text: Explore Services
+    link: /services/services/
+  hero_image:
+    image: /img/osc-logo.svg
+    alt_text: Seal of the U.S. Office of Special Counsel
 highlights:
-  - title: "Protecting Whistleblowers"
-    alt: "American flag"
-    image: "/img/whistleblower.jpg"
-    body: "Learn what protections are available when federal employees disclose wrongdoing, safety hazards, or abuse of authority."
-    cta_text: "Explore Whistleblower Protections"
-    cta_url: "/services/disclosure-of-wrongdoing/overview/"
-  - title: "Hatch Act Guidance"
-    alt: "Gavel"
-    image: "/img/hatchact.jpg"
-    body: "Review practical Hatch Act rules, guidance, and recent enforcement resources for federal employees and agencies."
-    cta_text: "Read Hatch Act Resources"
-    cta_url: "/services/hatch-act/overview/"
-  - title: "Agency Certification and Training"
-    alt: "Person using laptop"
-    image: "/img/training.jpg"
-    body: "Find outreach tools, training options, and 2302(c) certification resources to help agencies strengthen compliance."
-    cta_text: "View Outreach Services"
-    cta_url: "/services/outreach/overview/"
+  - title: Protecting Whistleblowers
+    alt: American flag
+    image: /img/whistleblower.jpg
+    body: Learn what protections are available when federal employees disclose
+      wrongdoing, safety hazards, or abuse of authority.
+    cta_text: Explore Whistleblower Protections
+    cta_url: /services/disclosure-of-wrongdoing/overview/
+  - title: Hatch Act Guidance
+    alt: Gavel
+    image: /img/hatchact.jpg
+    body: Review practical Hatch Act rules, guidance, and recent enforcement
+      resources for federal employees and agencies.
+    cta_text: Read Hatch Act Resources
+    cta_url: /services/hatch-act/overview/
+  - title: Agency Certification and Training
+    alt: Person using laptop
+    image: /img/training.jpg
+    body:
+      Find outreach tools, training options, and 2302(c) certification resources
+      to help agencies strengthen compliance.
+    cta_text: View Outreach Services
+    cta_url: /services/outreach/overview/
+video:
+  header: Featured Video
+  title: Introduction to Prohibited Personnel Practices
+  body: Learn about common prohibited personnel practices and how OSC helps
+    protect federal employees and applicants.
+  url: "https://www.youtube.com/watch?v=-zibQh-A4KY"
+  button_text: View More Videos
+  button_url: "https://www.youtube.com/channel/UCx5trnGvaEc-tuytqNwafpA"
 ---
 
 <section class="hero bg-primary-darker text-white">
   <div class="grid-container padding-y-8">
     <div class="grid-row grid-gap-lg flex-align-center">
       <div class="tablet:grid-col-8 desktop:grid-col-7">
-        <h1 class="font-sans-xl margin-top-0 margin-bottom-2">Welcome to OSC.gov</h1>
+        <h1 class="font-sans-xl margin-top-0 margin-bottom-2">{{ hero.header }}</h1>
         <p class="font-sans-md line-height-sans-5 margin-top-0 margin-bottom-4 maxw-tablet">
-          The U.S. Office of Special Counsel (OSC) safeguards the merit system in federal employment by protecting
-          whistleblowers, enforcing the Hatch Act, and providing secure channels for disclosures of wrongdoing.
+          {{ hero.body }}
         </p>
         <ul class="usa-button-group margin-top-0 margin-bottom-2">
           <li class="usa-button-group__item">
-            <a class="usa-button usa-button--accent-cool" href="/file-complaint/onlineportal">
+            <a class="usa-button usa-button--accent-cool" href="{{ hero.button_left.link }}">
               <span class="margin-right-1px">{% uswds_icon "report" "usa-icon--size-3" %}</span>
-              <span>File a Complaint</span>
+              <span>{{ hero.button_left.text }}</span>
             </a>
           </li>
           <li class="usa-button-group__item">
-            <a class="usa-button usa-button--outline usa-button--inverse outline-white" href="/services/services/"
-              >Explore Services</a
+            <a class="usa-button usa-button--outline usa-button--inverse outline-white" href="{{ hero.button_right.link }}"
+              >{{ hero.button_right.text }}</a
             >
           </li>
         </ul>
@@ -54,9 +79,9 @@ highlights:
         <div class="border border-base radius-lg padding-4 bg-primary shadow-3">
           <img
             class="display-block margin-x-auto"
-            src="/img/osc-logo.svg"
+            src="{{ hero.hero_image.image }}"
             eleventy:ignore
-            alt="Seal of the U.S. Office of Special Counsel"
+            alt="{{ hero.hero_image.alt_text }}"
             width="220"
             height="220"
           >
@@ -168,17 +193,17 @@ highlights:
   <div class="grid-container">
     <div class="grid-row grid-gap-lg flex-align-center">
       <div class="tablet:grid-col-5">
-        <h2 class="font-heading-lg margin-top-0 margin-bottom-2">Featured Video</h2>
-        <p class="margin-top-0 margin-bottom-2 text-bold">Introduction to Prohibited Personnel Practices</p>
+        <h2 class="font-heading-lg margin-top-0 margin-bottom-2">{{ video.header }}</h2>
+        <p class="margin-top-0 margin-bottom-2 text-bold">{{ video.title }}</p>
         <p class="margin-top-0 margin-bottom-3">
-          Learn about common prohibited personnel practices and how OSC helps protect federal employees and applicants.
+          {{ video.body }}
         </p>
-        <a class="usa-button usa-button--outline" href="https://www.youtube.com/channel/UCx5trnGvaEc-tuytqNwafpA"
-          >View More Videos</a
+        <a class="usa-button usa-button--outline" href="{{ video.button_url }}"
+          >{{ video.button_text }}</a
         >
       </div>
       <div class="tablet:grid-col-7">
-        {% youtube "https://www.youtube.com/watch?v=-zibQh-A4KY" "Introduction to Prohibited Personnel Practices" %}
+        {% youtube video.url video.title %}
       </div>
     </div>
   </div>

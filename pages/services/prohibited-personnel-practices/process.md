@@ -2,7 +2,7 @@
 title: What Happens When an Employee Files a Prohibited Personnel Practices Complaint?
 eleventyNavigation:
   order: 4
-  title: What happens when an employee files a complaint?
+  title: What Happens When An Employee Files A Complaint?
 ---
 
 # ​​Our Process

@@ -2,7 +2,7 @@
 title: Your USERRA Rights as an Employer
 eleventyNavigation:
   order: 2
-  title: Your rights as an employer
+  title: Your Rights As An Employer
 ---
 
 ​USERRA includes guidelines for the employers of service members, such as the following:
