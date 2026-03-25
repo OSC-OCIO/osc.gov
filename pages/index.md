@@ -7,7 +7,7 @@ eleventyNavigation:
   title: Home
   order: 0
 hero:
-  header: OSC.gov
+  header: Welcome to OSC.gov
   body: The U.S. Office of Special Counsel (OSC) safeguards the merit system in
     federal employment by protecting whistleblowers, enforcing the Hatch Act,
     and providing secure channels for disclosures of wrongdoing.
@@ -38,7 +38,8 @@ highlights:
   - title: Agency Certification and Training
     alt: Person using laptop
     image: /img/training.jpg
-    body: Find outreach tools, training options, and 2302(c) certification resources
+    body:
+      Find outreach tools, training options, and 2302(c) certification resources
       to help agencies strengthen compliance.
     cta_text: View Outreach Services
     cta_url: /services/outreach/overview/
@@ -47,9 +48,9 @@ video:
   title: Introduction to Prohibited Personnel Practices
   body: Learn about common prohibited personnel practices and how OSC helps
     protect federal employees and applicants.
-  url: https://www.youtube.com/watch?v=-zibQh-A4KY
+  url: "https://www.youtube.com/watch?v=-zibQh-A4KY"
   button_text: View More Videos
-  button_url: https://www.youtube.com/channel/UCx5trnGvaEc-tuytqNwafpA
+  button_url: "https://www.youtube.com/channel/UCx5trnGvaEc-tuytqNwafpA"
 ---
 
 <section class="hero bg-primary-darker text-white">
