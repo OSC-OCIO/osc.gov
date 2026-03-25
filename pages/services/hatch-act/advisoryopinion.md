@@ -3,7 +3,7 @@ title: Hatch Act Advisory Opinions
 layout: layouts/resource-index
 eleventyNavigation:
   order: 3
-  title: Advisory opinions
+  title: Advisory Opinions
 reports:
   - heading: "Coverage"
     items:

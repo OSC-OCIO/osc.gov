@@ -3,7 +3,7 @@ title: Additional Resources for Hatch Act
 layout: layouts/resource-index
 eleventyNavigation:
   order: 9
-  title: Additional resources
+  title: Additional Resources
 reports:
   - heading: "Hatch Act Posters, Handouts, and Training Materials"
     items:
