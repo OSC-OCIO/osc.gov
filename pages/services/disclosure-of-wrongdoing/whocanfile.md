@@ -2,7 +2,7 @@
 title: Who Can File a Disclosure of Wrongdoing Complaint
 eleventyNavigation:
   order: 1
-  title: Who can file a complaint?
+  title: Who Can File A Complaint?
 ---
 
 ​The Disclosure Unit accepts disclosures from current federal employees, former federal employees, and applicants for federal employment (executive branch only). OSC does not have jurisdiction over disclosures filed by:

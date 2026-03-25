@@ -2,21 +2,15 @@
 title: How to File a Disclosure Claim
 eleventyNavigation:
   order: 2
-  title: How to file a claim
+  title: How To File A Claim
 ---
 
-​Eligible federal employees may report wrongdoing online using OSC Form 14​​​​ by clicking the green File a Complaint button in the top right-hand corner, via fax number (202) 804-7004, or (800) 572-2249, or by mail to:
+The Office of Special Counsel (OSC) handles disclosures of wrongdoing within the executive branch of the federal government from current federal employees, former federal employees, and applicants for federal employment. (For purposes of this section, former and current employees, and applicants for federal employment are all “employees" or “whistleblowers"). Filers wishing to make a disclosure can use OSC's Online Filing Portal by clicking the green File a Complaint button in the top right-hand corner of this screen.
 
-Office of Special Counsel  
-1730 M Street NW  
-Suite 218  
-Washington, DC 20036
+The Online Filing Portal includes a series of questions designed to elicit specific information regarding your disclosure. Please answer each question as completely as possible. Please also attach any evidence supporting your disclosure (for example, documents, newspaper articles, photographs, etc.) to your onli​ne form.
 
-Filers may, in addition, use any written format to submit a disclosure to OSC, but the submission should include:
+Consistent with OSC’s commitment to privacy, the Online Filing Portal also includes a section where filers can indicate whether they consent to the disclosure of their identity for any purpose.​ ​
 
-- The name, mailing address, telephone numbers(s) and e-mail of the person(s) making the disclosure, and a time when OSC can contact that person about his or her disclosure;
-- The department or agency, location and organizational unit complained of;
-- A brief description of the allegations; and
-- A statement as to whether the filer consents to disclosure of his or her identity by OSC to the agency involved, in connection with any OSC referral to that agency.
+The Online Filing Portal CANNOT be used to submit classified information. If you believe classified information is required to support your disclosure, please discuss your options with the attorney assigned to your case.
 
-Disclosures are handled separately and differently than complaints involving personnel decisions, such as whistleblower retaliation or an otherwise improper personnel action. Please follow the instructions on OSC Form 14 regarding the filing of disclosures of wrongdoing and reports of prohibited personnel practices. ​
+OSC strongly encourages the use of the Online Filing Portal, as it improves both efficiency and accuracy. However, if you do not wish to file online, you can complete a PDF form and submit ​it via mail or email. The link to the PDF is on the File a Complaint information page.

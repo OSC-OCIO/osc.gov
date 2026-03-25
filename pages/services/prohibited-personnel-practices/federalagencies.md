@@ -2,7 +2,7 @@
 title: Federal Agency Responsibilities Regarding Prohibited Personnel Practices
 eleventyNavigation:
   order: 5
-  title: Federal agency responsibilities
+  title: Federal Agency Responsibilities
 ---
 
 ## ​What legal responsibilities does a federal agency have to prevent prohibited person​​nel practices?
