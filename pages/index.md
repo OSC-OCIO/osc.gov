@@ -15,7 +15,7 @@ hero:
     text: File a Complaint
     link: /file-complaint/onlineportal
   button_right:
-    text: Explore Service
+    text: Explore Services
     link: /services/services/
   hero_image:
     image: /img/osc-logo.svg
