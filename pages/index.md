@@ -21,7 +21,7 @@ hero:
     image: /img/osc-logo.svg
     alt_text: Seal of the U.S. Office of Special Counsel
 highlights:
-  - title: TEST
+  - title: Protecting Whistleblowers
     alt: American flag
     image: /img/whistleblower.jpg
     body: Learn what protections are available when federal employees disclose
