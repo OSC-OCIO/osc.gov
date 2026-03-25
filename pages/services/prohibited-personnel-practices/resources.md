@@ -3,7 +3,7 @@ title: Additional Resources for Prohibited Personnel Practices
 layout: layouts/resource-index
 eleventyNavigation:
   order: 9
-  title: Additional resources
+  title: Additional Resources
 reports:
   - heading: "Complaint Processing Guidance"
     items:
