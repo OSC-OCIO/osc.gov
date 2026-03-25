@@ -2,7 +2,7 @@
 title: Hatch Act Policies & Procedures
 eleventyNavigation:
   order: 6
-  title: Policies & procedures
+  title: Policies & Procedures
 ---
 
 #### ​​Are federal employees required to cooperate with OSC investigations?
