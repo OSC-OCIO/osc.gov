@@ -1,22 +1,37 @@
 require("@uswds/uswds");
 
 const CASES_PER_PAGE = 10;
-const FILTER_LABELS = {
+const CASE_FILTER_LABELS = {
   agency: "All agencies",
   year: "All years",
 };
+const RESOURCE_FILTER_LABELS = {
+  parent: "All categories",
+  topic: "All topics",
+};
 
 function waitForPagefind() {
+  if (window.sitePagefind) {
+    return Promise.resolve(window.sitePagefind);
+  }
+
   if (window.casePagefind) {
     return Promise.resolve(window.casePagefind);
   }
 
   return new Promise(function (resolve) {
+    const resolvePagefind = function () {
+      resolve(window.sitePagefind || window.casePagefind);
+    };
+
+    window.addEventListener(
+      "sitePagefindReady",
+      resolvePagefind,
+      { once: true },
+    );
     window.addEventListener(
       "casePagefindReady",
-      function () {
-        resolve(window.casePagefind);
-      },
+      resolvePagefind,
       { once: true },
     );
   });
@@ -35,12 +50,19 @@ function sortFilterEntries(filterName, values) {
   });
 }
 
-function populateFilterSelect(select, filterName, values, selectedValue) {
+function populateFilterSelect(
+  select,
+  filterName,
+  values,
+  selectedValue,
+  labelMap,
+) {
   select.innerHTML = "";
 
   const defaultOption = document.createElement("option");
   defaultOption.value = "";
-  defaultOption.textContent = FILTER_LABELS[filterName];
+  defaultOption.textContent =
+    (labelMap && labelMap[filterName]) || "All options";
   select.appendChild(defaultOption);
 
   const options = sortFilterEntries(filterName, values);
@@ -76,7 +98,12 @@ function responseFilters(response) {
     return {};
   }
 
-  return response.filters || response.totalFilters || {};
+  const filtered = response.filters || {};
+  const totals = response.totalFilters || {};
+  return {
+    ...totals,
+    ...filtered,
+  };
 }
 
 function normalizePath(url) {
@@ -308,6 +335,253 @@ function renderSearchPagination(
   container.appendChild(nav);
 }
 
+function normalizeResourcePageValue(value) {
+  return normalizePath(value || "/").toLowerCase();
+}
+
+function allResourceKeys() {
+  const keys = new Set();
+  const items = document.querySelectorAll(".resource-item[data-resource-key]");
+  for (const item of items) {
+    if (item.dataset.resourceKey) {
+      keys.add(item.dataset.resourceKey);
+    }
+  }
+  return keys;
+}
+
+function applyResourceVisibility(visibleKeys) {
+  const items = document.querySelectorAll(".resource-item[data-resource-key]");
+  let visibleCount = 0;
+
+  for (const item of items) {
+    const key = item.dataset.resourceKey || "";
+    const isVisible = visibleKeys.has(key);
+    item.classList.toggle("display-none", !isVisible);
+    if (isVisible) {
+      visibleCount += 1;
+    }
+  }
+
+  const sections = document.querySelectorAll(".resource-section");
+  for (const section of sections) {
+    const hasVisibleItem = Array.from(
+      section.querySelectorAll(".resource-item[data-resource-key]"),
+    ).some(function (item) {
+      return !item.classList.contains("display-none");
+    });
+
+    section.classList.toggle("display-none", !hasVisibleItem);
+  }
+
+  const categories = document.querySelectorAll(".resource-category");
+  for (const category of categories) {
+    const hasVisibleSection = Array.from(
+      category.querySelectorAll(".resource-section"),
+    ).some(function (section) {
+      return !section.classList.contains("display-none");
+    });
+
+    category.classList.toggle("display-none", !hasVisibleSection);
+  }
+
+  return visibleCount;
+}
+
+function countMetaValues(docs, metaKey) {
+  const counts = {};
+  for (const doc of docs) {
+    const rawValue = doc && doc.meta ? doc.meta[metaKey] : "";
+    const value = String(rawValue || "").trim();
+    if (!value) {
+      continue;
+    }
+
+    counts[value] = (counts[value] || 0) + 1;
+  }
+
+  return counts;
+}
+
+async function initializeResourceSearch() {
+  const root = document.querySelector("#resource-search");
+  if (!root) {
+    return;
+  }
+
+  const form = document.querySelector("#resource-search-form");
+  const status = document.querySelector("#resource-search-status");
+  const clearButton = document.querySelector("#resource-search-clear");
+  const parentSelect = document.querySelector("#resource-filter-parent");
+  const topicSelect = document.querySelector("#resource-filter-topic");
+
+  if (!form || !status || !clearButton || !topicSelect) {
+    return;
+  }
+
+  let pagefind;
+  try {
+    pagefind = await waitForPagefind();
+    const basePath =
+      window.sitePagefindBasePath || window.casePagefindBasePath || "/pagefind/";
+    await pagefind.options({ basePath });
+  } catch (error) {
+    status.textContent = "Filtering is temporarily unavailable.";
+    return;
+  }
+
+  const resourcePage = normalizeResourcePageValue(root.dataset.resourcePage);
+  const scopedFilters = { resource_page: [resourcePage] };
+  let requestId = 0;
+
+  const runFilterSearch = async function () {
+    requestId += 1;
+    const thisRequest = requestId;
+
+    try {
+      const selectedParent = parentSelect ? parentSelect.value : "";
+      const selectedTopic = topicSelect ? topicSelect.value : "";
+      const hasActiveFilters = Boolean(selectedParent || selectedTopic);
+
+      let parentValues = {};
+      if (parentSelect) {
+        const parentResponse = await pagefind.search(null, {
+          filters: scopedFilters,
+        });
+        if (thisRequest !== requestId) {
+          return;
+        }
+
+        const parentDocs = await Promise.all(
+          parentResponse.results.map(function (result) {
+            return result.data();
+          }),
+        );
+        if (thisRequest !== requestId) {
+          return;
+        }
+
+        parentValues = countMetaValues(parentDocs, "resource_parent");
+        populateFilterSelect(
+          parentSelect,
+          "parent",
+          parentValues,
+          selectedParent,
+          RESOURCE_FILTER_LABELS,
+        );
+      }
+
+      const topicScope = { ...scopedFilters };
+      if (parentSelect && parentSelect.value) {
+        topicScope.resource_parent = [parentSelect.value];
+      }
+
+      const topicResponse = await pagefind.search(null, {
+        filters: topicScope,
+      });
+      if (thisRequest !== requestId) {
+        return;
+      }
+
+      const topicDocs = await Promise.all(
+        topicResponse.results.map(function (result) {
+          return result.data();
+        }),
+      );
+      if (thisRequest !== requestId) {
+        return;
+      }
+
+      const topicValues = countMetaValues(topicDocs, "resource_topic");
+      populateFilterSelect(
+        topicSelect,
+        "topic",
+        topicValues,
+        selectedTopic,
+        RESOURCE_FILTER_LABELS,
+      );
+
+      const resultFilters = { ...scopedFilters };
+      if (parentSelect && parentSelect.value) {
+        resultFilters.resource_parent = [parentSelect.value];
+      }
+      if (topicSelect.value) {
+        resultFilters.resource_topic = [topicSelect.value];
+      }
+
+      const resultResponse = await pagefind.search(null, {
+        filters: resultFilters,
+      });
+      if (thisRequest !== requestId) {
+        return;
+      }
+
+      const docs = await Promise.all(
+        resultResponse.results.map(function (result) {
+          return result.data();
+        }),
+      );
+      if (thisRequest !== requestId) {
+        return;
+      }
+
+      const visibleKeys = new Set(
+        docs
+          .map(function (doc) {
+            return doc.meta && doc.meta.resource_key;
+          })
+          .filter(Boolean),
+      );
+
+      const visibleCount = applyResourceVisibility(visibleKeys);
+
+      if (!hasActiveFilters && visibleCount > 0) {
+        status.textContent = "";
+        return;
+      }
+
+      if (visibleCount === 0) {
+        status.textContent = "No matching resources found.";
+        return;
+      }
+
+      status.textContent = `Showing ${visibleCount} matching resource${visibleCount === 1 ? "" : "s"}.`;
+    } catch (error) {
+      if (thisRequest !== requestId) {
+        return;
+      }
+      status.textContent = "Filtering is temporarily unavailable.";
+    }
+  };
+
+  clearButton.addEventListener("click", function () {
+    if (parentSelect) {
+      parentSelect.value = "";
+    }
+    topicSelect.value = "";
+    runFilterSearch();
+  });
+
+  form.addEventListener("change", runFilterSearch);
+
+  try {
+    const bootstrapResponse = await pagefind.search(null, {
+      filters: scopedFilters,
+    });
+    if (!bootstrapResponse.results.length) {
+      // Keep static lists visible if this page is not currently indexed.
+      applyResourceVisibility(allResourceKeys());
+      status.textContent = "";
+      return;
+    }
+
+    runFilterSearch();
+  } catch (error) {
+    applyResourceVisibility(allResourceKeys());
+    status.textContent = "Filtering is temporarily unavailable.";
+  }
+}
+
 async function initializeCaseSearch() {
   const root = document.querySelector("#case-search");
   if (!root) {
@@ -348,7 +622,8 @@ async function initializeCaseSearch() {
   let pagefind;
   try {
     pagefind = await waitForPagefind();
-    const basePath = window.casePagefindBasePath || "/pagefind/";
+    const basePath =
+      window.sitePagefindBasePath || window.casePagefindBasePath || "/pagefind/";
     await pagefind.options({ basePath });
   } catch (error) {
     status.textContent = "Search is temporarily unavailable.";
@@ -363,7 +638,7 @@ async function initializeCaseSearch() {
       filters = {};
     }
 
-    const hasAnyFilters = Object.keys(FILTER_LABELS).some(function (key) {
+    const hasAnyFilters = Object.keys(CASE_FILTER_LABELS).some(function (key) {
       return filters[key] && Object.keys(filters[key]).length;
     });
 
@@ -379,7 +654,13 @@ async function initializeCaseSearch() {
     }
 
     for (const key of Object.keys(selects)) {
-      populateFilterSelect(selects[key], key, filters[key], selects[key].value);
+      populateFilterSelect(
+        selects[key],
+        key,
+        filters[key],
+        selects[key].value,
+        CASE_FILTER_LABELS,
+      );
     }
   };
 
@@ -534,6 +815,7 @@ async function initializeCaseSearch() {
         key,
         filterValues[key],
         selects[key].value,
+        CASE_FILTER_LABELS,
       );
     }
 
@@ -543,13 +825,17 @@ async function initializeCaseSearch() {
       }),
     );
 
-    currentDocs = docs.filter(function (doc) {
-      if (!exactCaseNumber) {
-        return true;
-      }
+    currentDocs = docs
+      .filter(function (doc) {
+        return Boolean(doc.meta && doc.meta["case-number"]);
+      })
+      .filter(function (doc) {
+        if (!exactCaseNumber) {
+          return true;
+        }
 
-      return exactCaseMatch(doc.meta && doc.meta["case-number"], exactCaseNumber);
-    });
+        return exactCaseMatch(doc.meta && doc.meta["case-number"], exactCaseNumber);
+      });
     currentPage = 1;
     renderCurrentPage();
   };
@@ -580,6 +866,13 @@ async function initializeCaseSearch() {
   }
 }
 
-document.addEventListener("DOMContentLoaded", function () {
+function initializeSearchFeatures() {
+  initializeResourceSearch();
   initializeCaseSearch();
-});
+}
+
+if (document.readyState === "loading") {
+  document.addEventListener("DOMContentLoaded", initializeSearchFeatures);
+} else {
+  initializeSearchFeatures();
+}
