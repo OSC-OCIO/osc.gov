@@ -1,12 +1,12 @@
 ## Comment out when doing local development
-backend:
-  name: github
-  repo: MyAgency/site
-  base_url: https://pages.cloud.gov
-  auth_endpoint: external/auth/github
-  preview_context: pages/build
-  branch: main
-  use_graphql: true
+#backend:
+#  name: github
+#  repo: MyAgency/site
+#  base_url: https://pages.cloud.gov
+#  auth_endpoint: external/auth/github
+#  preview_context: pages/build
+#  branch: main
+#  use_graphql: true
 
 ##
 ## Uncomment when doing local development on Netlify CMS
@@ -15,9 +15,9 @@ backend:
 ## See https://www.netlifycms.org/docs/beta-features/#working-with-a-local-git-repository
 ##
 
-# backend:
-#  name: git-gateway
-# local_backend: true
+backend:
+  name: git-gateway
+local_backend: true
 
 media_folder: img
 public_folder: /img
@@ -262,3 +262,54 @@ collections:
               - { label: "Video Link", name: "url", widget: "string" }
               - { label: "Button Text", name: "button_text", widget: "string" }
               - { label: "Button Link", name: "button_url", widget: "string" }
+  - name: faqs
+    label: All FAQs
+    format: yaml
+    extension: yaml
+    files:
+      - label: FAQs
+        name: faqs
+        file: "_data/faqs.yaml"
+        fields:
+          - label: FAQs
+            label_singular: FAQ
+            name: faqs
+            widget: list
+            summary: "{{fields.question}}"
+            fields:
+              - {
+                  label: Question,
+                  name: question,
+                  widget: string,
+                  required: false,
+                }
+              - {
+                  label: Answer,
+                  name: answer,
+                  widget: markdown,
+                  required: false,
+                }
+              - {
+                  label: "Tags",
+                  name: "tags",
+                  widget: "select",
+                  required: false,
+                  multiple: true,
+                  options:
+                    [
+                      { label: "Alternative Dispute Resolution", value: "adr" },
+                      { label: "Disclosure of Wrongdoing", value: "dow" },
+                      { label: "Hatch Act General", value: "ha_general" },
+                      {
+                        label: "Hatch Act Federal Employees",
+                        value: "ha_federal_employees",
+                      },
+                      {
+                        label: "Hatch Act State, Local, Nonprofit Employyes",
+                        value: "ha_state_local_nonprofit_employees",
+                      },
+                      { label: "Outreach Training", value: "otc" },
+                      { label: "Prohibited Personnel Practices", value: "ppp" },
+                      { label: "USERRA", value: "userra" },
+                    ],
+                }

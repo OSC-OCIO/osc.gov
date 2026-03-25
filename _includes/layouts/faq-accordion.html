@@ -3,7 +3,7 @@ layout: layouts/default
 ---
 {% assign page_faq_items = faqItems | default: faqsList | default: page.faqItems | default: page.faqsList %}
 {% assign page_faq_sections = faqSections | default: page.faqSections %}
-{% assign faq_items = page_faq_items | default: faqs %}
+{% assign faq_items = page_faq_items | default: faqs.faqs | default: faqs %}
 {% assign filter_tags = faqTag | default: '' %}
 {% assign tags_list = '' %}
 {% assign faq_id_base = page.fileSlug | default: page.url | default: 'faq' | slugify %}
