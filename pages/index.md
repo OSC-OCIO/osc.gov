@@ -203,7 +203,7 @@ video:
         >
       </div>
       <div class="tablet:grid-col-7">
-        {% youtube "{{ video.url }}" "{{ video.title }}" %}
+        {% youtube video.url video.title %}
       </div>
     </div>
   </div>
