@@ -61,16 +61,14 @@ items:
         url: "/~assets/docs/prohibited-personnel-practices-report-5-usc-2302b4-and-12-8383c90f.pdf"
       - name: "Prohibited Personnel Practices Report, 5 U.S.C. 2302(b)(5), (b)(6) and (b)(11), Corrective and Disciplinary Action"
         url: "/~assets/docs/prohibited-personnel-practices-report-5-usc-2302b5-b6-2692676d.pdf"
-  - heading: "PPP Posters, Handouts, & Training Materials"
+  - heading: "PPP Posters, Handouts, and Training Materials"
     items:
-      - name: "Fact Sheet_How OSC's Mediation Program Works"
+      - name: "Fact Sheet: How OSC's Mediation Program Works"
         url: "/~assets/docs/fact-sheet_how-oscs-mediation-program-works.pdf"
       - name: "Your Role in an OSC Investigation"
         url: "/~assets/docs/your-role-in-an-osc-investigation.pdf"
       - name: "How Complaints are Investigated and Prosecuted"
         url: "/~assets/docs/how-complaints-are-investigated-and-prosecuted.pdf"
-      - name: "How Complaints are Received and Processed"
-        url: "/~assets/docs/how-complaints-are-received-and-processed.pdf"
 footnote: |
   The Reports of Investigation have been changed from their original version and some details have been withheld to protect confidential information, including the identity of the parties involved. All Freedom of Information Act (FOIA) and/or Privacy Act (PA) inquiries regarding these reports should be referred to OSC via email at [FOIArequest@OSC.gov](mailto:FOIArequest@OSC.gov).
 ---

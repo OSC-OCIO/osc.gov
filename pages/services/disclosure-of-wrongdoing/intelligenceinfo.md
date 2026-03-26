@@ -1,5 +1,5 @@
 ---
-title: When a Dislosure Involves Counterintelligence or Foreign Intelligence Information
+title: When a Disclosure Involves Counterintelligence or Foreign Intelligence Information
 eleventyNavigation:
   order: 5
 ---

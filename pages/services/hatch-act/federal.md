@@ -3,7 +3,7 @@ title: Federal Employee Hatch Act Information
 layout: layouts/faq-accordion
 eleventyNavigation:
   order: 1
-  title: Federal employee information
+  title: Federal Employee Information
 faqs:
   - heading: Less Restricted Employees
     items:

@@ -102,7 +102,7 @@ faqs:
       No. OSC cannot change a final ruling by the Merit Systems Protection Board (MSPB) or a federal court. If your PPP case is or can be appealed, OSC may submit an amicus curiae brief before the MSPB regarding any PPP case, or before a federal court regarding only a case's impact on the PPPs involving whistleblower retaliation law (see above). OSC cannot provide legal advice on whether to appeal your case, or whether your case may be appealed.
   - question: How can I disclose fraud, waste, and abuse?
     answer: |
-      If you choose to make a disclosure at OSC, please submit it through our online system (under "[file a complaint](/file-complaint/onlineportal)") or by printing form [OSC-14](/~assets/docs/osc-form-14.pdf) and emailing it to [info@osc.gov](mailto:info@osc.gov).
+      If you choose to make a disclosure at OSC, please submit it through our online system (under "[file a complaint](/file-complaint)") or by printing form [OSC-14](/~assets/docs/osc-form-14.pdf) and emailing it to [info@osc.gov](mailto:info@osc.gov).
   - question: What is the difference between filing a PPP complaint with OSC and making a whistleblower disclosure to OSC?
     answer: |
       OSC investigates and prosecutes PPP complaints involving 13 specific practices that have been made illegal in the federal workforce. 5 U.S.C.  2302(b). In most cases, PPP complaints are filed to challenge a personnel action that directly affects an employee for a prohibited reason.

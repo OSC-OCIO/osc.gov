@@ -13,7 +13,7 @@ hero:
     and providing secure channels for disclosures of wrongdoing.
   button_left:
     text: File a Complaint
-    link: /file-complaint/onlineportal
+    link: /file-complaint
   button_right:
     text: Explore Services
     link: /services/services/

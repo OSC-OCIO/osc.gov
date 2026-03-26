@@ -23,7 +23,7 @@ dap:
 
 # Site Navigation
 secondary_navigation:
-  - name: Contact us
+  - name: Contact Us
     url: "/contact"
 
 footer_navigation:
