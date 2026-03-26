@@ -192,12 +192,15 @@ function normalizeCaseRecord(record) {
   };
 }
 
-function buildCaseRecordLookup() {
+function buildCaseRecordBank() {
   const bank = document.querySelector("#case-record-bank");
-  const lookup = new Map();
+  const recordBank = {
+    lookup: new Map(),
+    records: [],
+  };
 
   if (!bank) {
-    return lookup;
+    return recordBank;
   }
 
   try {
@@ -205,14 +208,15 @@ function buildCaseRecordLookup() {
     for (const record of records) {
       const normalized = normalizeCaseRecord(record);
       if (normalized.url) {
-        lookup.set(normalizePageUrl(normalized.url), normalized);
+        recordBank.lookup.set(normalizePageUrl(normalized.url), normalized);
       }
+      recordBank.records.push(normalized);
     }
   } catch (error) {
-    return lookup;
+    return recordBank;
   }
 
-  return lookup;
+  return recordBank;
 }
 
 function buildFallbackCaseRecord(doc) {
@@ -384,6 +388,25 @@ function renderCaseList(container, records) {
   }
 }
 
+function parsePageNumber(value) {
+  const parsed = Number.parseInt(String(value || ""), 10);
+  return Number.isFinite(parsed) && parsed > 0 ? parsed : 1;
+}
+
+function focusResultsRegion() {
+  const mainContent = document.querySelector("#main-content");
+  if (!mainContent) {
+    return;
+  }
+
+  if (!mainContent.hasAttribute("tabindex")) {
+    mainContent.setAttribute("tabindex", "-1");
+  }
+
+  mainContent.scrollIntoView({ block: "start" });
+  mainContent.focus();
+}
+
 async function initializeCaseSearch() {
   const root = document.querySelector("#case-search");
   if (!root) {
@@ -397,13 +420,14 @@ async function initializeCaseSearch() {
   const listContainer = document.querySelector(
     "#case-results .usa-card-group, #case-results .usa-collection",
   );
-  const staticPagination = document.querySelector(".usa-prose > .usa-pagination");
   const searchPagination = document.querySelector("#case-search-pagination");
   if (!listContainer || !queryInput || !form || !clearButton || !status) {
     return;
   }
 
-  const caseRecordLookup = buildCaseRecordLookup();
+  const caseRecordBank = buildCaseRecordBank();
+  const browseRecords = caseRecordBank.records;
+  const caseRecordLookup = caseRecordBank.lookup;
   const initialListMarkup = listContainer.innerHTML;
   const initialStatusText = status.textContent;
   const url = new URL(window.location.href);
@@ -470,8 +494,8 @@ async function initializeCaseSearch() {
   await hydrateFilters();
 
   let requestId = 0;
-  let currentRecords = [];
-  let currentPage = 1;
+  let currentRecords = browseRecords;
+  let currentPage = parsePageNumber(initialParams.get("page"));
   let searchModeActive = false;
 
   const syncSearchParams = function () {
@@ -503,6 +527,12 @@ async function initializeCaseSearch() {
       exactCaseNumber = "";
     }
 
+    if (currentPage > 1) {
+      nextUrl.searchParams.set("page", String(currentPage));
+    } else {
+      nextUrl.searchParams.delete("page");
+    }
+
     const nextPath = `${nextUrl.pathname}${nextUrl.search}${nextUrl.hash}`;
     const currentPath = `${window.location.pathname}${window.location.search}${window.location.hash}`;
     if (nextPath !== currentPath) {
@@ -523,21 +553,25 @@ async function initializeCaseSearch() {
 
     searchModeActive = false;
     requestId += 1;
-    listContainer.innerHTML = initialListMarkup;
-    status.textContent = initialStatusText;
+    currentRecords = browseRecords;
+    currentPage = parsePageNumber(new URL(window.location.href).searchParams.get("page"));
 
-    if (staticPagination) {
-      staticPagination.classList.remove("display-none");
-    }
-    if (searchPagination) {
-      searchPagination.classList.add("display-none");
-      searchPagination.innerHTML = "";
+    if (!currentRecords.length) {
+      listContainer.innerHTML = initialListMarkup;
+      status.textContent = initialStatusText;
+      if (searchPagination) {
+        searchPagination.classList.add("display-none");
+        searchPagination.innerHTML = "";
+      }
+      return;
     }
 
+    renderCurrentPage();
     hydrateFilters();
   };
 
-  const renderCurrentPage = function () {
+  const renderCurrentPage = function (options) {
+    const settings = options || {};
     const total = currentRecords.length;
     const totalPages = Math.max(Math.ceil(total / CASES_PER_PAGE), 1);
     currentPage = Math.min(Math.max(currentPage, 1), totalPages);
@@ -549,13 +583,21 @@ async function initializeCaseSearch() {
     );
     renderCaseList(listContainer, visibleRecords);
 
-    if (total === 0) {
+    if (!searchModeActive) {
+      if (totalPages > 1) {
+        status.textContent = `Showing ${total} cases. Page ${currentPage} of ${totalPages}.`;
+      } else {
+        status.textContent = initialStatusText;
+      }
+    } else if (total === 0) {
       status.textContent = "No matching cases found.";
     } else if (totalPages > 1) {
       status.textContent = `Showing ${total} matching cases. Page ${currentPage} of ${totalPages}.`;
     } else {
       status.textContent = `Showing ${total} matching cases.`;
     }
+
+    syncSearchParams();
 
     if (searchPagination) {
       renderSearchPagination(
@@ -564,9 +606,13 @@ async function initializeCaseSearch() {
         currentPage,
         function (nextPage) {
           currentPage = nextPage;
-          renderCurrentPage();
+          renderCurrentPage({ focusResults: true });
         },
       );
+    }
+
+    if (settings.focusResults) {
+      focusResultsRegion();
     }
   };
 
@@ -582,12 +628,10 @@ async function initializeCaseSearch() {
 
     const query = queryInput.value.trim() || null;
     const filters = activeFilters(selects);
+    currentPage = 1;
     syncSearchParams();
 
     status.textContent = "Searching...";
-    if (staticPagination) {
-      staticPagination.classList.add("display-none");
-    }
     if (searchPagination) {
       searchPagination.classList.add("display-none");
     }
@@ -628,7 +672,10 @@ async function initializeCaseSearch() {
 
     currentRecords = searchResult.docs
       .map(function (doc) {
-        return caseRecordLookup.get(normalizePageUrl(doc.url)) || buildFallbackCaseRecord(doc);
+        return (
+          caseRecordLookup.get(normalizePageUrl(doc.url)) ||
+          buildFallbackCaseRecord(doc)
+        );
       })
       .filter(function (record) {
         if (!exactCaseNumber) {
@@ -657,17 +704,19 @@ async function initializeCaseSearch() {
     debouncedSearch.cancel();
     queryInput.value = "";
     exactCaseNumber = "";
+    currentPage = 1;
     for (const key of Object.keys(selects)) {
       if (selects[key]) {
         selects[key].value = "";
       }
     }
-    syncSearchParams();
     exitSearchMode();
   });
 
   if (hasSearchCriteria()) {
     runSearch();
+  } else if (browseRecords.length) {
+    renderCurrentPage();
   }
 }
 

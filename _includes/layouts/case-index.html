@@ -10,7 +10,9 @@ layout: layouts/base
           <div class="usa-intro margin-bottom-4">{{ lead | markdownify }}</div>
         {% endif %}
         {{ content }}
-        {%- include 'pagination-links.html' -%}
+        {%- if pagination and pagination.pages -%}
+          {%- include 'pagination-links.html' -%}
+        {%- endif -%}
       </div>
     </div>
   </div>

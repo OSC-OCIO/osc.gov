@@ -3,14 +3,11 @@ layout: layouts/case-index
 title: Public Files
 eleventyNavigation:
   order: 4
-permalink: "/cases{% if pagination.pageNumber > 0 %}/page/{{ pagination.pageNumber }}{% endif %}/index.html"
-pagination:
-  data: collections.case
-  size: 10
-  alias: posts
-  reverse: true
 lead: ​OSC receives and reviews [disclosures of wrongdoing](/services/disclosure-of-wrongdoing/overview/) from federal whistleblowers. OSC publishes the reports in cases referred for investigation under 5 U.S.C. 1213(c) in its public file. The redacted reports, whistleblower comments, and letter referring the allegations to the agency are posted in chronological order as they are transmitted to the President. ​
 ---
+
+{%- assign case_records = collections.case | reverse -%}
+{%- assign initial_case_records = case_records | slice: 0, 10 -%}
 
 <section id="case-search" class="margin-y-4">
   <form id="case-search-form" class="usa-form maxw-none" role="search">
@@ -48,7 +45,7 @@ lead: ​OSC receives and reviews [disclosures of wrongdoing](/services/disclosu
 <p id="case-search-status" class="margin-top-2 text-base-darkest" aria-live="polite"></p>
 
 <section id="case-results">
-{%- include 'case-list.html', items: posts, pagefind_ignore: true -%}
+{%- include 'case-list.html', items: initial_case_records, pagefind_ignore: true -%}
 </section>
 <div id="case-search-pagination" class="display-none"></div>
-{%- include 'case-record-bank.html', items: collections.case -%}
+{%- include 'case-record-bank.html', items: case_records -%}
