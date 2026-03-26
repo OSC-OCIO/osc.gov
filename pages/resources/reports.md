@@ -1,8 +1,9 @@
 ---
 title: Reports
+layout: layouts/resource-index
 eleventyNavigation:
   order: 5
-reports:
+items:
   - heading: "Annual Reports to Congress"
     items:
       - name: "FY 2024 Annual Report to Congress"
@@ -240,19 +241,3 @@ reports:
       - name: "ADR Program Evaluation March 2020"
         url: "/~assets/docs/adr-program-evaluation-march-2020.pdf"
 ---
-<ul class="usa-list margin-top-2">
-  {%- for section in reports -%}
-    <li>
-      <a href="#{{- section.heading | slugify -}}">{{- section.heading -}}</a>
-    </li>
-  {%- endfor -%}
-</ul>
-
-{%- for section in reports -%}
-  <h2 id="{{- section.heading | slugify -}}">{{- section.heading -}}</h2>
-  <ul class="usa-icon-list">
-    {%- for item in section.items -%}
-      {%- include 'resource-item.html' -%}
-    {%- endfor -%}
-  </ul>
-{%- endfor -%}

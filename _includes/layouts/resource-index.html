@@ -1,13 +1,100 @@
 ---
 layout: layouts/default
 ---
+
 {{ content }}
 
-<ul class="usa-icon-list">
-  {%- for item in items -%}
-    {%- include 'resource-item.html' -%}
-  {%- endfor -%}
-</ul>
+{%- if items and items.size > 0 -%}
+  {%- assign nested_items = items[0].topics -%}
+  {%- if resource_filtering -%}
+    <section id="resource-search" class="margin-y-4">
+      <form id="resource-search-form" class="usa-form maxw-none" role="search">
+        <div class="grid-row grid-gap">
+          {%- if nested_items -%}
+            <div class="tablet:grid-col-5">
+              <label class="usa-label margin-top-0" for="resource-filter-parent">Category</label>
+              <select class="usa-select" id="resource-filter-parent" name="parent">
+                <option value="">All categories</option>
+              </select>
+            </div>
+            <div class="tablet:grid-col-5">
+              <label class="usa-label margin-top-0" for="resource-filter-topic">Topic</label>
+              <select class="usa-select" id="resource-filter-topic" name="topic">
+                <option value="">All topics</option>
+              </select>
+            </div>
+            <div class="tablet:grid-col-2 display-flex flex-align-end">
+              <button type="button" class="usa-button usa-button--outline width-full" id="resource-search-clear">
+                Clear
+              </button>
+            </div>
+          {%- else -%}
+            <div class="tablet:grid-col-10">
+              <label class="usa-label margin-top-0" for="resource-filter-topic">Topic</label>
+              <select class="usa-select" id="resource-filter-topic" name="topic">
+                <option value="">All topics</option>
+              </select>
+            </div>
+            <div class="tablet:grid-col-2 display-flex flex-align-end">
+              <button type="button" class="usa-button usa-button--outline width-full" id="resource-search-clear">
+                Clear
+              </button>
+            </div>
+          {%- endif -%}
+        </div>
+      </form>
+    </section>
+    <p id="resource-search-status" class="margin-top-2 text-base-darkest" aria-live="polite"></p>
+  {%- endif -%}
+
+  {%- if nested_items -%}
+    {%- for category in items -%}
+      <div class="resource-category" data-resource-parent="{{- category.heading | escape -}}">
+        <h2 id="{{- category.heading | slugify -}}">{{- category.heading -}}</h2>
+        {%- for section in category.topics -%}
+          {%- assign category_slug = category.heading | slugify -%}
+          {%- assign section_slug = section.heading | slugify -%}
+          {%- assign section_id = section_slug -%}
+          {%- if category.heading == "State & Local" -%}
+            {%- assign section_id = category_slug | append: "-" | append: section_slug -%}
+          {%- endif -%}
+          <section
+            class="resource-section"
+            data-resource-parent="{{- category.heading | escape -}}"
+            data-resource-topic="{{- section.heading | escape -}}"
+          >
+            <h3 id="{{- section_id -}}">{{- section.heading -}}</h3>
+            <ul class="usa-icon-list">
+              {%- for item in section.items -%}
+                {%- include 'resource-item.html', item: item, resource_parent: category.heading, resource_topic: section.heading -%}
+              {%- endfor -%}
+            </ul>
+          </section>
+        {%- endfor -%}
+      </div>
+    {%- endfor -%}
+  {%- else -%}
+    {%- assign sectioned_items = items[0].heading -%}
+    {%- if sectioned_items -%}
+      {%- for section in items -%}
+        <section class="resource-section" data-resource-topic="{{- section.heading | escape -}}">
+          <h2 id="{{- section.heading | slugify -}}">{{- section.heading -}}</h2>
+          <ul class="usa-icon-list">
+            {%- for item in section.items -%}
+              {%- include 'resource-item.html', item: item, resource_topic: section.heading -%}
+            {%- endfor -%}
+          </ul>
+        </section>
+      {%- endfor -%}
+    {%- else -%}
+      <ul class="usa-icon-list">
+        {%- for item in items -%}
+          {%- include 'resource-item.html', item: item -%}
+        {%- endfor -%}
+      </ul>
+    {%- endif -%}
+  {%- endif -%}
+{%- endif -%}
 
 {% if footnote %}
   {{ footnote | markdownify }}

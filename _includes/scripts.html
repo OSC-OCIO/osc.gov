@@ -40,8 +40,8 @@
 <script type="module">
   import * as pagefind from '{{ "/pagefind/pagefind.js" | url }}';
 
-  window.casePagefind = pagefind;
-  window.casePagefindBasePath = '{{ "/pagefind/" | url }}';
-  window.dispatchEvent(new CustomEvent("casePagefindReady"));
+  window.sitePagefind = pagefind;
+  window.sitePagefindBasePath = '{{ "/pagefind/" | url }}';
+  window.dispatchEvent(new CustomEvent("sitePagefindReady"));
 </script>
 {% endif %}

@@ -4,7 +4,7 @@ layout: layouts/resource-index
 eleventyNavigation:
   order: 4
   title: Reports
-reports:
+items:
   - heading: "Annual Reports"
     items:
       - name: "Annual FOIA Report Fiscal 2024 Raw Data"
@@ -196,21 +196,3 @@ reports:
       - name: "Chief FOIA Officer Report Fiscal Year 2010"
         url: "/~assets/docs/chief-foia-officer-report-fiscal-year-2010.pdf"
 ---
-
-<ul class="usa-list margin-top-2">
-  {%- for section in reports -%}
-    <li>
-      <a href="#{{- section.heading | slugify -}}">{{- section.heading -}}</a>
-    </li>
-  {%- endfor -%}
-</ul>
-
-{%- for section in reports -%}
-
-  <h2 id="{{- section.heading | slugify -}}">{{- section.heading -}}</h2>
-  <ul class="usa-icon-list">
-    {%- for item in section.items -%}
-      {%- include 'resource-item.html' -%}
-    {%- endfor -%}
-  </ul>
-{%- endfor -%}

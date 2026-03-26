@@ -1,7 +1,7 @@
 ## Comment out when doing local development
 backend:
   name: github
-  repo: MyAgency/site
+  repo: OSC-OCIO/osc.gov
   base_url: https://pages.cloud.gov
   auth_endpoint: external/auth/github
   preview_context: pages/build
@@ -16,7 +16,7 @@ backend:
 ##
 
 # backend:
-#  name: git-gateway
+#   name: git-gateway
 # local_backend: true
 
 media_folder: img
