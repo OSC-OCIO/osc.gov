@@ -1,8 +1,16 @@
 ---
 title: Privacy Policies & Reports
+layout: layouts/resource-index
 eleventyNavigation:
   order: 5
   title: Policies & Reports
+items:
+  - heading: Privacy Program Reports
+    items:
+      - name: OSC’s Privacy Regulations – October 2007
+        url: /~assets/docs/oscs-privacy-regulations-october-2007.pdf
+      - name: OSC's Privacy Regulation - October 2022.pdf
+        url: /~assets/docs/oscs-privacy-regulation-october-2022.pdf
 ---
 
 Thank you for visiting the U.S. Office of Special Counsel (OSC) Web site, and for reviewing our Internet privacy policy. The privacy policy, in brief, is clear: We collect no personal information about you when you visit this site unless you choose to provide it to us. Any information that we receive depends upon what you do when you visit the site. Further details of the policy are provided below.
@@ -39,9 +47,3 @@ We use this information for statistical purposes (e.g., to determine the number 
 - [OSC's Privacy Act Implementation rules: See 5 C.F.R. part 1830](https://www.federalregister.gov/documents/2007/10/04/E7-19571/privacy-act-of-1974-implementation).
 - See here for [**instructions on submitting a Privacy Act and/or a Freedom of Information Act (FOIA) request**](/about/foia/) . ​
 - [Federal Register](https://www.federalregister.gov/documents/2022/10/19/2022-22155/prohibited-personnel-practices-disclosures-of-information-evidencing-wrongdoing-foia-production-of)
-
-## Privacy Program Reports
-
-[OSC’s Privacy Regulations – October 2007](/~assets/docs/oscs-privacy-regulations-october-2007.pdf)
-
-​[![](/~assets/images/icpdf.png)OSC's Privacy Regulation - October 2022.pdf](/~assets/docs/oscs-privacy-regulation-october-2022.pdf)
