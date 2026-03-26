@@ -11,6 +11,7 @@ const {
   runPagefindSearch,
 } = require("./common");
 const { loadPagefind } = require("./pagefind");
+const CASE_SORT = { "date-iso": "desc" };
 
 function exactCaseMatch(caseNumbers, caseNumber) {
   const expected = normalizeLookupValue(caseNumber);
@@ -460,7 +461,7 @@ async function initializeCaseSearch() {
         const bootstrapSearch = await runPagefindSearch(
           pagefind,
           null,
-          { sort: { date: "desc" } },
+          { sort: CASE_SORT },
           false,
         );
         filters = responseFilters(bootstrapSearch.response);
@@ -486,7 +487,7 @@ async function initializeCaseSearch() {
     const browseSearch = await runPagefindSearch(
       pagefind,
       null,
-      { sort: { date: "desc" } },
+      { sort: CASE_SORT },
       true,
     );
     browseRecords = browseSearch.docs.map(buildCaseRecordFromDoc);
@@ -644,7 +645,7 @@ async function initializeCaseSearch() {
         query,
         {
           filters,
-          sort: { date: "desc" },
+          sort: CASE_SORT,
         },
         true,
       );

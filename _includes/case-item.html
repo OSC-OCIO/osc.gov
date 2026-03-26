@@ -56,7 +56,7 @@
             datetime="{{ case_date_iso }}"
             data-year="{{ case_year }}"
             data-pagefind-meta="date"
-            data-pagefind-sort="date"
+            data-pagefind-sort="date-iso[datetime]"
             data-pagefind-filter="year[data-year]"
           >
             {{- case_date | date: '%B %d, %Y' -}}
