@@ -13,14 +13,12 @@ items:
         url: "/~assets/docs/the-hatch-act-and-state-dc-and-local-employees-poster.pdf"
       - name: "Hatch Act Agencies and Social Media FAQs"
         url: "/~assets/docs/hatch-act-agencies-and-social-media-faqs.pdf"
-      - name: "Hatch Act social media handout"
+      - name: "Hatch Act Social Media Handout"
         url: "/~assets/docs/hatch-act-social-media-handout.pdf"
       - name: "Social Media Quick Guide"
         url: "/~assets/docs/social-media-quick-guide.pdf"
       - name: "A Guide to the Hatch Act for Federal Employees"
         url: "/~assets/docs/a-guide-to-the-hatch-act-for-federal-employees.pdf"
-      - name: "Hatch Act Social Media Handout"
-        url: "/~assets/docs/hatch-act-social-media-handout-1.pdf"
       - name: "The Hatch Act and Most Federal Employees Poster"
         url: "/~assets/docs/the-hatch-act-and-most-federal-employees-poster.pdf"
   - heading: "Hatch Act Reports"
@@ -55,7 +53,7 @@ items:
 
 ## Hatch Act Videos
 
-<div class="video-grid" style="display: grid; grid-template-columns: 1fr 1fr; gap: 1.5rem; margin-top: 2rem;">
+<div class="video-grid">
   <div>{% youtube "https://www.youtube.com/watch?v=S0nMe1fGwNg&t=1s" %}</div>
   <div>{% youtube "https://www.youtube.com/watch?v=0Czxhg6xYkM&t=1s" %}</div>
   <div>{% youtube "https://www.youtube.com/watch?v=89WXjhMixpM" %}</div>

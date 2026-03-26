@@ -56,7 +56,7 @@
         <li class="usa-nav__primary-item complaint_wrapper">
           <a
             class="usa-button usa-button--accent-cool display-flex flex-align-center text-bold margin-right-0 radius-0 margin-top-1 desktop:margin-top-0"
-            href="/file-complaint/onlineportal"
+            href="/file-complaint"
           >
             <span class="margin-right-1px">{% uswds_icon "report" "usa-icon--size-3" %}</span>
             <span>File a Complaint</span>
@@ -69,7 +69,9 @@
         >
           {% include 'socialmedia.html' %}
           {% for nav_item in secondary_navigation %}
-            <li class="usa-nav__secondary-item display-flex flex-align-center padding-x-1 desktop:padding-x-0">
+            <li
+              class="usa-nav__secondary-item display-flex flex-align-center padding-x-1 desktop:padding-x-0"
+            >
               <a
                 href="{{ nav_item.url }}"
                 class="desktop:text-white hover:text-white"

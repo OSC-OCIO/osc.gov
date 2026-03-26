@@ -2,7 +2,7 @@
 title: Contact Us About Privacy
 eleventyNavigation:
   order: 7
-  title: Contact us
+  title: Contact Us
 units:
   - name: Mahala Dar
     contacts:

@@ -3,6 +3,7 @@ title: FOIA Handbook
 eleventyNavigation:
   order: 2
   title: Handbook
+layout: layouts/faq-accordion
 faqs:
   - question: What is the Freedom of Information Act?
     answer: |-
@@ -133,9 +134,3 @@ faqs:
       - ["Your Right to Federal Records, Questions and Answers on the Freedom of Information Act and the Privacy Act"](https://www.gsa.gov/cdnstatic/Your_Right_to_Federal_Records.pdf) [a guide issued by the U.S. Department of Justice (DOJ), and the U.S. General Services Administration in May 2006]
       - ["A Citizen's Guide on Using the Freedom of Information Act (FOIA) and the Privacy Act of 1974 to Request Government Records"](http://frwebgate.access.gpo.gov/cgi-bin/getdoc.cgi?dbname=109_cong_reports&docid=f:hr226.109) [a report by the U.S. House of Representative Committee on Government Reform, September 20, 2005]
 ---
-
-{% include 'accordion.html',
-  items: faqs,
-  class: 'padding-top-2',
-  id_prefix: 'foia-handbook'
-%}

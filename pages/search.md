@@ -1,5 +1,5 @@
 ---
-title: Search results
+title: Search Results
 layout: layouts/search
 eleventyNavigation: false
 sidenav: false

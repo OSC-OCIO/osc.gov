@@ -1,5 +1,5 @@
 ---
-title: Opportunities
+title: Law Clerk Opportunities
 terms:
   - season: "Fall"
     hours: "16"
@@ -14,8 +14,6 @@ terms:
     deadline: "Deadline: February 15"
     program: "May-August"
 ---
-
-## Law Clerk Opportunities
 
 OSC's Law Clerk Program provides challenging year-round remote and in-person training opportunities to motivated law students seeking to pursue a career in administrative law or government oversight and accountability. Some volunteer internships qualify either for course credit or as part of a law school's work-study program. Interested students can contact their law schools for specific requirements.
 
