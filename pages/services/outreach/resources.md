@@ -4,7 +4,7 @@ layout: layouts/faq-accordion
 eleventyNavigation:
   order: 8
   title: Additional resources
-faqSections:
+faqs:
   - items:
       - question: Handouts
         answer: |
