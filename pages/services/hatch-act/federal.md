@@ -4,8 +4,8 @@ layout: layouts/faq-accordion
 eleventyNavigation:
   order: 1
   title: Federal employee information
-faqSections:
-  - title: Less Restricted Employees
+faqs:
+  - heading: Less Restricted Employees
     items:
       - question: Who Are Less Restricted Employees?
         answer: |
@@ -52,7 +52,7 @@ faqSections:
           - Volunteer to work on a partisan political campaign
           - Express opinions about candidates and issues. If the expression is political activity, i.e., activity directed at the success or failure of a political party, candidate for partisan political office, or partisan political group, then the expression is not permitted while the employee is on duty, in any federal room or building, while wearing a uniform or official insignia, or using any federally owned or leased vehicle.
 
-  - title: Further Restricted Employees
+  - heading: Further Restricted Employees
     items:
       - question: Who Are Further Restricted Employees?
         answer: |
@@ -122,7 +122,7 @@ faqSections:
           - Be a candidate for public office in a nonpartisan election
           - Express opinions about candidates and issues. If the expression is political activity, i.e., activity directed at the success or failure of a political party, candidate for partisan political office, or partisan political group, then the expression is not permitted while the employee is on duty, in any federal room or building, while wearing a uniform or official insignia, or using any federally owned or leased vehicle.
 
-  - title: Penalties and Relevant Laws
+  - heading: Penalties and Relevant Laws
     items:
       - question: Penalties
         answer: |

@@ -4,7 +4,7 @@ layout: layouts/faq-accordion
 eleventyNavigation:
   order: 0
   title: Overview
-faqSections:
+faqs:
   - items:
       - question: Discrimination
         answer: |

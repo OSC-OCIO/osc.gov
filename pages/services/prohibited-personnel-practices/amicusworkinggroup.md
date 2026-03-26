@@ -3,7 +3,7 @@ title: Amicus Working Group
 layout: layouts/faq-accordion
 eleventyNavigation:
   order: 6
-faqSections:
+faqs:
   - items:
       - question: Amicus Curiae Briefs
         answer: |

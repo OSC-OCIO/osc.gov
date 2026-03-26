@@ -3,8 +3,8 @@ title: 2302(c) Certification Process
 eleventyNavigation:
   order: 2
   title: 2302(c) Certification Process
-faqItems:
-  - title: 1. Place informational posters at agency facilities
+faqs:
+  - question: 1. Place informational posters at agency facilities
     answer: |-
       Post the laws regarding Prohibited Personnel Practices (PPPs) as well as information regarding the process for making confidential disclosures to OSC. Posters containing this information should be displayed in all personnel and Equal Employment Opportunity (EEO) offices and in other prominent places throughout the agency.
 
@@ -17,13 +17,13 @@ faqItems:
       The following materials, though not required to obtain certification, are also highly recommended:
 
       - [The Hatch Act: Permitted and Prohibited Activities for Most Federal Employees (poster)](/~assets/docs/the-hatch-act-and-most-federal-employees-poster.pdf): Lists permitted and prohibited activities for employees who may engage in partisan activity.
-  - title: 2. Provide information about the 14 PPPs and whistleblower disclosures to new employees as part of the orientation process
+  - question: 2. Provide information about the 14 PPPs and whistleblower disclosures to new employees as part of the orientation process
     answer: |-
       Provide, in new employee orientation packets, written materials on PPPs and whistleblower disclosures. OSC has created informational materials, including an outline of PPP rights and remedies (“[Your Rights as a Federal Employee](</~assets/docs/your-rights-as-a-federal-employee-v2024.pdf>)” and “[Your Rights as a Whistleblower](</~assets/docs/your-rights-as-a-whistleblower-v2024.pdf>)”) that can either be printed or sent via e-mail.
-  - title: 3. Provide information to current employees about the 14 PPPs and whistleblower disclosures
+  - question: 3. Provide information to current employees about the 14 PPPs and whistleblower disclosures
     answer: |-
       Provide to all employees on an annual basis, written materials on PPPs, whistleblower disclosures, recognition of National Whistleblower Appreciation Day, and OSC’s role in enforcing the laws over which it has jurisdiction. Agencies should also include this information on agency websites. As noted above, OSC has developed materials that can be e-mailed to help agencies fulfill this requirement, including a [sample memo](/~assets/docs/sample-memo-for-annual-notification.pdf).
-  - title: 4. Train supervisors on the 14 PPPs and whistleblower disclosures
+  - question: 4. Train supervisors on the 14 PPPs and whistleblower disclosures
     answer: |-
       In consultation with OSC, train managers and supervisors on their responsibilities under the PPP and whistleblower protection provisions of Title 5. There are two required trainings: triennial training on the fourteen (14) PPPs and annual training on how to address disclosures of wrongdoing and respond to complaints of retaliation.
 
@@ -32,7 +32,7 @@ faqItems:
       Supervisory training should be tracked to ensure that all supervisors have been trained prior to filling out the compliance form. Please note that agencies must obtain prior approval from OSC before disseminating forms or training materials created by an agency or outside entity to satisfy the training requirements of the Certification Program.
 
       - [Annual Supervisory Training PowerPoint Presentation](/~assets/docs/fy25-agency-conducted-annual-supervisory-training.pdf) (PDF)
-  - title: 5. Add a direct link to OSC’s website on the agency’s website and intranet
+  - question: 5. Add a direct link to OSC’s website on the agency’s website and intranet
     answer: |-
       Provide a link from the agency’s website and intranet site to OSC’s website [(https://osc.gov)](/services/) on the agency website and intranet to ensure easy access to OSC resources.
 ---
@@ -43,7 +43,7 @@ To begin the certification process, please fill out the [registration form](/~a
 
 ### STEP 2: Complete the five certification requirements
 
-{% include 'accordion.html', items: faqItems, class: 'padding-top-2', id_prefix: 'outreach-2302cert-process-requirements' %}
+{% include 'accordion.html', items: faqs, class: 'padding-top-2', id_prefix: 'outreach-2302cert-process-requirements' %}
 
 ### STEP​ 3: Maintain certification by completing an Annual ​Certification Checklist 
 

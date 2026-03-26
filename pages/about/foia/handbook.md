@@ -3,7 +3,7 @@ title: FOIA Handbook
 eleventyNavigation:
   order: 2
   title: Handbook
-faqItems:
+faqs:
   - question: What is the Freedom of Information Act?
     answer: |-
       The Freedom of Information Act (FOIA) is the federal law that provides access to federal agency records, except for certain types of records protected from disclosure under the Act. The law applies only to agency records in existence at the time of a FOIA request. [Click here for text of the FOIA](http://uscode.house.gov/view.xhtml?hl=false&edition=prelim&req=granuleid:USC-prelim-title5-section552&num=0&saved=%7cKHRpdGxlOjUgc2VjdGlvbjo1NTIgZWRpdGlvbjpwcmVsaW0pIE9SIChncmFudWxlaWQ6VVNDLXByZWxpbS10aXRsZTUtc2VjdGlvbjU1Mik%3D%7cdHJlZXNvcnQ%3D%7c%7c0%7cfalse%7cpcmVsaW0) found at 5 U.S.C. § 552.
@@ -135,7 +135,7 @@ faqItems:
 ---
 
 {% include 'accordion.html',
-  items: faqItems,
+  items: faqs,
   class: 'padding-top-2',
   id_prefix: 'foia-handbook'
 %}
