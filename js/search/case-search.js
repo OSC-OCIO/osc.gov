@@ -1,6 +1,5 @@
 const {
   normalizeLookupValue,
-  normalizePageUrl,
 } = require("../../search-shared");
 const {
   CASES_PER_PAGE,
@@ -192,34 +191,24 @@ function normalizeCaseRecord(record) {
   };
 }
 
-function buildCaseRecordBank() {
-  const bank = document.querySelector("#case-record-bank");
-  const recordBank = {
-    lookup: new Map(),
-    records: [],
-  };
-
-  if (!bank) {
-    return recordBank;
+function parseJsonArray(value) {
+  if (!value) {
+    return [];
   }
 
   try {
-    const records = JSON.parse(bank.textContent || "[]");
-    for (const record of records) {
-      const normalized = normalizeCaseRecord(record);
-      if (normalized.url) {
-        recordBank.lookup.set(normalizePageUrl(normalized.url), normalized);
-      }
-      recordBank.records.push(normalized);
-    }
+    const parsed = JSON.parse(value);
+    return Array.isArray(parsed) ? parsed : [];
   } catch (error) {
-    return recordBank;
+    return [];
   }
-
-  return recordBank;
 }
 
-function buildFallbackCaseRecord(doc) {
+function normalizeLocationValue(value) {
+  return String(value || "").replace(/^location:\s*/i, "").trim();
+}
+
+function buildCaseRecordFromDoc(doc) {
   const meta = doc.meta || {};
   return normalizeCaseRecord({
     agency: meta.agency,
@@ -227,10 +216,12 @@ function buildFallbackCaseRecord(doc) {
       .split("|")
       .filter(Boolean),
     dateDisplay: meta.date,
-    dateIso: "",
-    files: [],
-    location: "",
-    results: [],
+    dateIso: meta["date-iso"] || "",
+    files: parseJsonArray(meta["case-files-json"]).filter(function (file) {
+      return file && file.href;
+    }),
+    location: normalizeLocationValue(meta["case-location"]),
+    results: parseJsonArray(meta["case-results-json"]),
     subagency: meta.subagency,
     title: meta.title,
     url: doc.url,
@@ -425,9 +416,7 @@ async function initializeCaseSearch() {
     return;
   }
 
-  const caseRecordBank = buildCaseRecordBank();
-  const browseRecords = caseRecordBank.records;
-  const caseRecordLookup = caseRecordBank.lookup;
+  let browseRecords = [];
   const initialListMarkup = listContainer.innerHTML;
   const initialStatusText = status.textContent;
   const url = new URL(window.location.href);
@@ -492,6 +481,18 @@ async function initializeCaseSearch() {
   };
 
   await hydrateFilters();
+
+  try {
+    const browseSearch = await runPagefindSearch(
+      pagefind,
+      null,
+      { sort: { date: "desc" } },
+      true,
+    );
+    browseRecords = browseSearch.docs.map(buildCaseRecordFromDoc);
+  } catch (error) {
+    browseRecords = [];
+  }
 
   let requestId = 0;
   let currentRecords = browseRecords;
@@ -671,12 +672,7 @@ async function initializeCaseSearch() {
     }
 
     currentRecords = searchResult.docs
-      .map(function (doc) {
-        return (
-          caseRecordLookup.get(normalizePageUrl(doc.url)) ||
-          buildFallbackCaseRecord(doc)
-        );
-      })
+      .map(buildCaseRecordFromDoc)
       .filter(function (record) {
         if (!exactCaseNumber) {
           return true;

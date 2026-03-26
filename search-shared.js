@@ -9,6 +9,16 @@ function normalizePageUrl(url) {
   }
 
   let normalized = value.replace(/\\/g, "/");
+  try {
+    const baseOrigin =
+      typeof window !== "undefined" && window.location
+        ? window.location.origin
+        : "https://example.com";
+    normalized = new URL(normalized, baseOrigin).pathname || "/";
+  } catch {
+    normalized = normalized.split("#")[0].split("?")[0];
+  }
+
   if (!normalized.startsWith("/")) {
     normalized = `/${normalized}`;
   }
