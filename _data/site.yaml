@@ -19,7 +19,7 @@ url: "https://www.osc.gov"
 
 # Digital Analytics Program (DAP) configuration
 dap:
-  agency:
+  agency: OSC
 
 # Site Navigation
 secondary_navigation:
