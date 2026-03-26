@@ -229,6 +229,40 @@ function buildCaseRecordFromDoc(doc) {
   });
 }
 
+function withSitePathPrefix(rawHref) {
+  const href = String(rawHref || "").trim();
+  if (!href) {
+    return "";
+  }
+
+  // Leave absolute/special links untouched.
+  if (
+    /^[a-z][a-z0-9+.-]*:/i.test(href) ||
+    href.startsWith("//") ||
+    href.startsWith("#")
+  ) {
+    return href;
+  }
+
+  const pagefindBasePath = String(window.sitePagefindBasePath || "").trim();
+  const pathPrefix = pagefindBasePath
+    ? pagefindBasePath.replace(/\/pagefind\/?$/, "/")
+    : "/";
+
+  if (!href.startsWith("/") || pathPrefix === "/") {
+    return href;
+  }
+
+  const normalizedPrefix = pathPrefix.endsWith("/")
+    ? pathPrefix.slice(0, -1)
+    : pathPrefix;
+  if (!normalizedPrefix || href.startsWith(`${normalizedPrefix}/`)) {
+    return href;
+  }
+
+  return `${normalizedPrefix}${href}`;
+}
+
 function renderCaseRecord(container, record) {
   const item = createElement("li", {
     className: "tablet:grid-col-6 usa-card",
@@ -377,7 +411,7 @@ function renderCaseRecord(container, record) {
       const fileLink = createElement("a", {
         textContent: file.label || file.href,
         attributes: {
-          href: file.href,
+          href: withSitePathPrefix(file.href),
           "data-case-file-link": "true",
         },
       });
