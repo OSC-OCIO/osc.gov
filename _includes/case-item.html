@@ -11,11 +11,18 @@
 {%- assign case_year = case_date | date: '%Y' -%}
 {%- assign case_date_iso = case_date | date: '%Y-%m-%d' -%}
 
-<li class="tablet:grid-col-6 usa-card" data-pagefind-body>
+<li
+  class="tablet:grid-col-6 usa-card"
+  data-pagefind-body
+  data-case-card="true"
+  {%- if case_numbers and case_numbers.size > 0 -%}
+    data-case-number="{{ case_numbers[0] }}"
+  {%- endif -%}
+>
   <div class="usa-card__container border-base-lightest shadow-3">
     <header class="usa-card__header">
       <h3 class="usa-card__heading">
-        <span data-pagefind-meta="title">{{- case_title -}}</span>
+        <span data-pagefind-meta="title" data-case-title="true">{{- case_title -}}</span>
         {%- if case_numbers and case_numbers.size > 0 -%}
           <span class="usa-sr-only" data-pagefind-meta="case-number">
             {{- case_numbers | join: '|' -}}
@@ -35,17 +42,28 @@
                 class="usa-tag"
                 data-pagefind-meta="agency"
                 data-pagefind-filter="agency"
+                data-case-agency="true"
               >
                 {{- case_agency -}}
               </span>
               {%- if case_subagency -%}
-                <span class="usa-tag" data-pagefind-meta="subagency">{{- case_subagency -}}</span>
+                <span
+                  class="usa-tag"
+                  data-pagefind-meta="subagency"
+                  data-case-subagency="true"
+                >
+                  {{- case_subagency -}}
+                </span>
               {%- endif -%}
             </span>
           </li>
         {%- endif -%}
         {%- if case_location_primary -%}
-          <li class="margin-bottom-1" data-pagefind-meta="case-location">
+          <li
+            class="margin-bottom-1"
+            data-pagefind-meta="case-location"
+            data-case-location="true"
+          >
             <span class="text-bold">Location:</span>{{ ' ' }}
             {{- case_location_primary -}}
           </li>
@@ -58,6 +76,7 @@
             data-pagefind-meta="date"
             data-pagefind-sort="date-iso[datetime]"
             data-pagefind-filter="year[data-year]"
+            data-case-date="true"
           >
             {{- case_date | date: '%B %d, %Y' -}}
           </time>
@@ -71,7 +90,7 @@
           data-case-results="{%- if case_results -%}{{ case_results | jsonify | escape }}{%- else -%}[]{%- endif -%}"
         >
           {%- for result in case_results -%}
-            <li>{{ result }}</li>
+            <li data-case-result="true">{{ result }}</li>
           {%- endfor -%}
         </ul>
       {%- endif -%}
@@ -86,7 +105,7 @@
             <li class="usa-icon-list__item">
               <div class="usa-icon-list__icon">{% uswds_icon "file_present" %}</div>
               <div class="usa-icon-list__content">
-                <a href="{{ file.href }}">{{ file.label }}</a>
+                <a href="{{ file.href }}" data-case-file-link="true">{{ file.label }}</a>
               </div>
             </li>
           {%- endfor -%}

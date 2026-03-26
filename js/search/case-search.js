@@ -232,13 +232,23 @@ function buildCaseRecordFromDoc(doc) {
 function renderCaseRecord(container, record) {
   const item = createElement("li", {
     className: "tablet:grid-col-6 usa-card",
+    attributes: {
+      "data-case-card": "true",
+      "data-case-number": record.caseNumbers[0] || "",
+    },
   });
   const card = createElement("div", {
     className: "usa-card__container border-base-lightest shadow-3",
   });
   const header = createElement("header", { className: "usa-card__header" });
   const heading = createElement("h3", { className: "usa-card__heading" });
-  heading.textContent = record.title;
+  const title = createElement("span", {
+    textContent: record.title,
+    attributes: {
+      "data-case-title": "true",
+    },
+  });
+  heading.appendChild(title);
   header.appendChild(heading);
 
   const body = createElement("div", { className: "usa-card__body" });
@@ -258,6 +268,9 @@ function renderCaseRecord(container, record) {
         createElement("span", {
           className: "usa-tag",
           textContent: record.agency,
+          attributes: {
+            "data-case-agency": "true",
+          },
         }),
       );
     }
@@ -267,6 +280,9 @@ function renderCaseRecord(container, record) {
         createElement("span", {
           className: "usa-tag margin-left-1",
           textContent: record.subagency,
+          attributes: {
+            "data-case-subagency": "true",
+          },
         }),
       );
     }
@@ -278,6 +294,7 @@ function renderCaseRecord(container, record) {
   if (record.location) {
     const locationItem = document.createElement("li");
     locationItem.className = "margin-bottom-1";
+    locationItem.setAttribute("data-case-location", "true");
 
     locationItem.appendChild(
       createElement("span", {
@@ -304,6 +321,7 @@ function renderCaseRecord(container, record) {
         textContent: record.dateDisplay,
         attributes: {
           datetime: record.dateIso,
+          "data-case-date": "true",
         },
       }),
     );
@@ -325,6 +343,9 @@ function renderCaseRecord(container, record) {
       resultList.appendChild(
         createElement("li", {
           textContent: result,
+          attributes: {
+            "data-case-result": "true",
+          },
         }),
       );
     }
@@ -357,6 +378,7 @@ function renderCaseRecord(container, record) {
         textContent: file.label || file.href,
         attributes: {
           href: file.href,
+          "data-case-file-link": "true",
         },
       });
       fileItem.appendChild(fileIcon);
