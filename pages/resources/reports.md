@@ -3,7 +3,7 @@ title: Reports
 layout: layouts/resource-index
 eleventyNavigation:
   order: 5
-reports:
+items:
   - heading: "Annual Reports to Congress"
     items:
       - name: "FY 2024 Annual Report to Congress"

@@ -4,7 +4,7 @@ layout: layouts/resource-index
 eleventyNavigation:
   order: 7
   title: Additional Resources
-reports:
+items:
   - heading: "DU Posters, Handouts, & Training Materials"
     items:
       - name: "Agency Monitoring Policies and Whistleblower Disclosures, February 1, 2018"

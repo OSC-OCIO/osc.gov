@@ -1,21 +1,16 @@
 ---
 layout: layouts/default
 ---
+
 {{ content }}
 
-{%- if reports and reports.size > 0 -%}
-  {%- assign nested_reports = reports[0].topics -%}
-  {%- assign resource_page_url = page.url | resourcePageUrl -%}
-  {%- if pagefind_filtering -%}
-    <section
-      id="resource-search"
-      class="margin-y-4"
-      data-resource-page="{{- resource_page_url -}}"
-      data-resource-mode="{%- if nested_reports -%}nested{%- else -%}flat{%- endif -%}"
-    >
+{%- if items and items.size > 0 -%}
+  {%- assign nested_items = items[0].topics -%}
+  {%- if resource_filtering -%}
+    <section id="resource-search" class="margin-y-4">
       <form id="resource-search-form" class="usa-form maxw-none" role="search">
         <div class="grid-row grid-gap">
-          {%- if nested_reports -%}
+          {%- if nested_items -%}
             <div class="tablet:grid-col-5">
               <label class="usa-label margin-top-0" for="resource-filter-parent">Category</label>
               <select class="usa-select" id="resource-filter-parent" name="parent">
@@ -52,29 +47,26 @@ layout: layouts/default
     <p id="resource-search-status" class="margin-top-2 text-base-darkest" aria-live="polite"></p>
   {%- endif -%}
 
-  {%- if nested_reports -%}
-    {%- for category in reports -%}
+  {%- if nested_items -%}
+    {%- for category in items -%}
       <div class="resource-category" data-resource-parent="{{- category.heading | escape -}}">
         <h2 id="{{- category.heading | slugify -}}">{{- category.heading -}}</h2>
-        {%- assign categoryIndex = forloop.index0 -%}
         {%- for section in category.topics -%}
-          {%- assign categorySlug = category.heading | slugify -%}
-          {%- assign sectionSlug = section.heading | slugify -%}
-          {%- assign sectionId = sectionSlug -%}
+          {%- assign category_slug = category.heading | slugify -%}
+          {%- assign section_slug = section.heading | slugify -%}
+          {%- assign section_id = section_slug -%}
           {%- if category.heading == "State & Local" -%}
-            {%- assign sectionId = categorySlug | append: "-" | append: sectionSlug -%}
+            {%- assign section_id = category_slug | append: "-" | append: section_slug -%}
           {%- endif -%}
           <section
             class="resource-section"
             data-resource-parent="{{- category.heading | escape -}}"
             data-resource-topic="{{- section.heading | escape -}}"
           >
-            <h3 id="{{- sectionId -}}">{{- section.heading -}}</h3>
+            <h3 id="{{- section_id -}}">{{- section.heading -}}</h3>
             <ul class="usa-icon-list">
-              {%- assign sectionIndex = forloop.index0 -%}
               {%- for item in section.items -%}
-                {%- assign recordKey = resource_page_url | resourceRecordKey: categoryIndex, sectionIndex, forloop.index0 -%}
-                {%- include 'resource-item.html', item: item, record_key: recordKey, resource_parent: category.heading, resource_topic: section.heading -%}
+                {%- include 'resource-item.html', item: item, resource_parent: category.heading, resource_topic: section.heading -%}
               {%- endfor -%}
             </ul>
           </section>
@@ -82,27 +74,26 @@ layout: layouts/default
       </div>
     {%- endfor -%}
   {%- else -%}
-    {%- for section in reports -%}
-      <section class="resource-section" data-resource-topic="{{- section.heading | escape -}}">
-        <h2 id="{{- section.heading | slugify -}}">{{- section.heading -}}</h2>
-        <ul class="usa-icon-list">
-          {%- assign sectionIndex = forloop.index0 -%}
-          {%- for item in section.items -%}
-            {%- assign recordKey = resource_page_url | resourceRecordKey: sectionIndex, forloop.index0 -%}
-            {%- include 'resource-item.html', item: item, record_key: recordKey, resource_topic: section.heading -%}
-          {%- endfor -%}
-        </ul>
-      </section>
-    {%- endfor -%}
+    {%- assign sectioned_items = items[0].heading -%}
+    {%- if sectioned_items -%}
+      {%- for section in items -%}
+        <section class="resource-section" data-resource-topic="{{- section.heading | escape -}}">
+          <h2 id="{{- section.heading | slugify -}}">{{- section.heading -}}</h2>
+          <ul class="usa-icon-list">
+            {%- for item in section.items -%}
+              {%- include 'resource-item.html', item: item, resource_topic: section.heading -%}
+            {%- endfor -%}
+          </ul>
+        </section>
+      {%- endfor -%}
+    {%- else -%}
+      <ul class="usa-icon-list">
+        {%- for item in items -%}
+          {%- include 'resource-item.html', item: item -%}
+        {%- endfor -%}
+      </ul>
+    {%- endif -%}
   {%- endif -%}
-{%- elsif items and items.size > 0 -%}
-  {%- assign resource_page_url = page.url | resourcePageUrl -%}
-  <ul class="usa-icon-list">
-    {%- for item in items -%}
-      {%- assign recordKey = resource_page_url | resourceRecordKey: "items", forloop.index0 -%}
-      {%- include 'resource-item.html', item: item, record_key: recordKey -%}
-    {%- endfor -%}
-  </ul>
 {%- endif -%}
 
 {% if footnote %}

@@ -1,18 +1,18 @@
-const { normalizePageUrl } = require("../../search-shared");
-const {
-  RESOURCE_FILTER_LABELS,
-  populateFilterSelect,
-  responseFilters,
-  runPagefindSearch,
-} = require("./common");
-const { loadPagefind } = require("./pagefind");
+const { RESOURCE_FILTER_LABELS, populateFilterSelect } = require("./common");
 
-function countMetaValues(docs, metaKey) {
+function collectResourceDom() {
+  return {
+    categories: Array.from(document.querySelectorAll(".resource-category")),
+    items: Array.from(document.querySelectorAll(".resource-item")),
+    sections: Array.from(document.querySelectorAll(".resource-section")),
+  };
+}
+
+function countValues(items, key) {
   const counts = {};
 
-  for (const doc of docs || []) {
-    const rawValue = doc && doc.meta ? doc.meta[metaKey] : "";
-    const value = String(rawValue || "").trim();
+  for (const item of items) {
+    const value = String(item.dataset[key] || "").trim();
     if (!value) {
       continue;
     }
@@ -23,42 +23,28 @@ function countMetaValues(docs, metaKey) {
   return counts;
 }
 
-function filterValues(response, docs, responseKey, metaKey) {
-  const values = responseFilters(response)[responseKey];
-  if (values && Object.keys(values).length) {
-    return values;
+function itemMatchesFilter(item, selectedParent, selectedTopic) {
+  const parent = String(item.dataset.resourceParent || "").trim();
+  const topic = String(item.dataset.resourceTopic || "").trim();
+
+  if (selectedParent && parent !== selectedParent) {
+    return false;
   }
 
-  return countMetaValues(docs, metaKey);
-}
-
-function collectResourceDom() {
-  return {
-    categories: Array.from(document.querySelectorAll(".resource-category")),
-    items: Array.from(
-      document.querySelectorAll(".resource-item[data-resource-key]"),
-    ),
-    sections: Array.from(document.querySelectorAll(".resource-section")),
-  };
-}
-
-function allResourceKeys(resourceDom) {
-  const keys = new Set();
-  for (const item of resourceDom.items) {
-    if (item.dataset.resourceKey) {
-      keys.add(item.dataset.resourceKey);
-    }
+  if (selectedTopic && topic !== selectedTopic) {
+    return false;
   }
-  return keys;
+
+  return true;
 }
 
-function applyResourceVisibility(visibleKeys, resourceDom) {
+function applyResourceVisibility(resourceDom, selectedParent, selectedTopic) {
   let visibleCount = 0;
 
   for (const item of resourceDom.items) {
-    const key = item.dataset.resourceKey || "";
-    const isVisible = visibleKeys.has(key);
+    const isVisible = itemMatchesFilter(item, selectedParent, selectedTopic);
     item.classList.toggle("display-none", !isVisible);
+
     if (isVisible) {
       visibleCount += 1;
     }
@@ -66,7 +52,7 @@ function applyResourceVisibility(visibleKeys, resourceDom) {
 
   for (const section of resourceDom.sections) {
     const hasVisibleItem = Array.from(
-      section.querySelectorAll(".resource-item[data-resource-key]"),
+      section.querySelectorAll(".resource-item"),
     ).some(function (item) {
       return !item.classList.contains("display-none");
     });
@@ -87,7 +73,7 @@ function applyResourceVisibility(visibleKeys, resourceDom) {
   return visibleCount;
 }
 
-async function initializeResourceSearch() {
+function initializeResourceSearch() {
   const root = document.querySelector("#resource-search");
   if (!root) {
     return;
@@ -102,161 +88,57 @@ async function initializeResourceSearch() {
     return;
   }
 
-  let pagefind;
-  try {
-    pagefind = await loadPagefind();
-  } catch (error) {
-    status.textContent = "Filtering is temporarily unavailable.";
-    return;
-  }
-
   const resourceDom = collectResourceDom();
-  const resourcePage = normalizePageUrl(root.dataset.resourcePage || "/");
-  const pageFilters = { resource_page: [resourcePage] };
-  let requestId = 0;
-  let parentFilterValues = {};
+  const parentValues = countValues(resourceDom.items, "resourceParent");
 
-  try {
-    const bootstrapSearch = await runPagefindSearch(
-      pagefind,
-      null,
-      { filters: pageFilters },
-      true,
-    );
-    if (!bootstrapSearch.response.results.length) {
-      applyResourceVisibility(allResourceKeys(resourceDom), resourceDom);
-      status.textContent = "";
-      return;
-    }
-
-    parentFilterValues = filterValues(
-      bootstrapSearch.response,
-      bootstrapSearch.docs,
-      "resource_parent",
-      "resource_parent",
-    );
-    const topicFilterValues = filterValues(
-      bootstrapSearch.response,
-      bootstrapSearch.docs,
-      "resource_topic",
-      "resource_topic",
-    );
+  const runFilterSearch = function () {
+    const selectedParent = parentSelect ? parentSelect.value : "";
+    const selectedTopic = topicSelect.value;
+    const hasActiveFilters = Boolean(selectedParent || selectedTopic);
 
     if (parentSelect) {
       populateFilterSelect(
         parentSelect,
         "parent",
-        parentFilterValues,
-        parentSelect.value,
+        parentValues,
+        selectedParent,
         RESOURCE_FILTER_LABELS,
       );
     }
+
+    const topicSourceItems = resourceDom.items.filter(function (item) {
+      if (!selectedParent) {
+        return true;
+      }
+
+      return String(item.dataset.resourceParent || "").trim() === selectedParent;
+    });
+    const topicValues = countValues(topicSourceItems, "resourceTopic");
     populateFilterSelect(
       topicSelect,
       "topic",
-      topicFilterValues,
-      topicSelect.value,
+      topicValues,
+      selectedTopic,
       RESOURCE_FILTER_LABELS,
     );
-  } catch (error) {
-    applyResourceVisibility(allResourceKeys(resourceDom), resourceDom);
-    status.textContent = "Filtering is temporarily unavailable.";
-    return;
-  }
 
-  const runFilterSearch = async function () {
-    requestId += 1;
-    const thisRequest = requestId;
+    const visibleCount = applyResourceVisibility(
+      resourceDom,
+      selectedParent,
+      topicSelect.value,
+    );
 
-    const selectedParent = parentSelect ? parentSelect.value : "";
-    const selectedTopic = topicSelect.value;
-    const hasActiveFilters = Boolean(selectedParent || selectedTopic);
-
-    const topicFilters = { ...pageFilters };
-    if (selectedParent) {
-      topicFilters.resource_parent = [selectedParent];
+    if (!hasActiveFilters && visibleCount > 0) {
+      status.textContent = "";
+      return;
     }
 
-    try {
-      const topicSearch = await runPagefindSearch(
-        pagefind,
-        null,
-        { filters: topicFilters },
-        true,
-      );
-      if (thisRequest !== requestId) {
-        return;
-      }
-
-      if (parentSelect) {
-        populateFilterSelect(
-          parentSelect,
-          "parent",
-          parentFilterValues,
-          selectedParent,
-          RESOURCE_FILTER_LABELS,
-        );
-      }
-
-      const topicValues = filterValues(
-        topicSearch.response,
-        topicSearch.docs,
-        "resource_topic",
-        "resource_topic",
-      );
-      populateFilterSelect(
-        topicSelect,
-        "topic",
-        topicValues,
-        selectedTopic,
-        RESOURCE_FILTER_LABELS,
-      );
-
-      let resultDocs = topicSearch.docs || [];
-      if (selectedTopic) {
-        const resultFilters = {
-          ...topicFilters,
-          resource_topic: [selectedTopic],
-        };
-        const resultSearch = await runPagefindSearch(
-          pagefind,
-          null,
-          { filters: resultFilters },
-          true,
-        );
-        if (thisRequest !== requestId) {
-          return;
-        }
-
-        resultDocs = resultSearch.docs || [];
-      }
-
-      const visibleKeys = new Set(
-        resultDocs
-          .map(function (doc) {
-            return doc.meta && doc.meta.resource_key;
-          })
-          .filter(Boolean),
-      );
-
-      const visibleCount = applyResourceVisibility(visibleKeys, resourceDom);
-      if (!hasActiveFilters && visibleCount > 0) {
-        status.textContent = "";
-        return;
-      }
-
-      if (visibleCount === 0) {
-        status.textContent = "No matching resources found.";
-        return;
-      }
-
-      status.textContent = `Showing ${visibleCount} matching resource${visibleCount === 1 ? "" : "s"}.`;
-    } catch (error) {
-      if (thisRequest !== requestId) {
-        return;
-      }
-      status.textContent = "Filtering is temporarily unavailable.";
+    if (visibleCount === 0) {
+      status.textContent = "No matching resources found.";
+      return;
     }
+
+    status.textContent = `Showing ${visibleCount} matching resource${visibleCount === 1 ? "" : "s"}.`;
   };
 
   clearButton.addEventListener("click", function () {

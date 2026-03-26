@@ -4,7 +4,7 @@ layout: layouts/resource-index
 eleventyNavigation:
   order: 9
   title: Additional Resources
-reports:
+items:
   - heading: "Complaint Processing Guidance"
     items:
       - name: "Designation of Personal Legal Representation Form"

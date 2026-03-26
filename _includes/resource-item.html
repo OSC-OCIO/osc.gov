@@ -1,7 +1,6 @@
 {%- assign icon = item.icon | default: 'file_present' -%}
 <li
   class="usa-icon-list__item resource-item border-white bg-base-lightest hover:bg-base-lighter radius-md padding-2"
-  {%- if record_key -%} data-resource-key="{{- record_key | escape -}}"{%- endif -%}
   {%- if resource_parent -%} data-resource-parent="{{- resource_parent | escape -}}"{%- endif -%}
   {%- if resource_topic -%} data-resource-topic="{{- resource_topic | escape -}}"{%- endif -%}
 >

@@ -4,7 +4,7 @@ layout: layouts/resource-index
 eleventyNavigation:
   order: 4
   title: Reports
-reports:
+items:
   - heading: "Annual Reports"
     items:
       - name: "Annual FOIA Report Fiscal 2024 Raw Data"

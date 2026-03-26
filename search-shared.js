@@ -27,24 +27,7 @@ function normalizeLookupValue(value) {
   return stringValue(value).replace(/\s+/g, " ").toLowerCase();
 }
 
-function buildResourceRecordKey(pageUrl) {
-  const segments = Array.prototype.slice.call(arguments, 1).filter(function (
-    segment,
-  ) {
-    return segment !== null && typeof segment !== "undefined" && segment !== "";
-  });
-
-  return [normalizePageUrl(pageUrl)]
-    .concat(
-      segments.map(function (segment) {
-        return String(segment);
-      }),
-    )
-    .join("::");
-}
-
 module.exports = {
-  buildResourceRecordKey,
   normalizeLookupValue,
   normalizePageUrl,
   stringValue,

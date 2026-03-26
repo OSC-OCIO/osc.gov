@@ -4,7 +4,7 @@ layout: layouts/resource-index
 eleventyNavigation:
   order: 9
   title: Additional Resources
-reports:
+items:
   - heading: "Hatch Act Posters, Handouts, and Training Materials"
     items:
       - name: "The Hatch Act and Further Restricted Employees Poster"
@@ -53,15 +53,7 @@ reports:
         url: "/~assets/docs/response-kathleen-sebelius-ha-12-1989.pdf"
 ---
 
-<ul class="usa-list margin-top-2">
-  {%- for section in reports -%}
-    <li>
-      <a href="#{{- section.heading | slugify -}}">{{- section.heading -}}</a>
-    </li>
-  {%- endfor -%}
-</ul>
-
-<h2 class="font-heading-xl padding-top-1">Hatch Act Videos</h2>
+## Hatch Act Videos
 
 <div class="video-grid" style="display: grid; grid-template-columns: 1fr 1fr; gap: 1.5rem; margin-top: 2rem;">
   <div>{% youtube "https://www.youtube.com/watch?v=S0nMe1fGwNg&t=1s" %}</div>
