@@ -7,12 +7,26 @@ function initializeSearchFeatures() {
   initializeResourceSearch();
   initializeCaseSearch();
 
-  const rawBaseHref = document.querySelector("base")?.getAttribute("href") || "/";
+  const rawBaseHref = document.querySelector("base")?.getAttribute("href");
+  const appScriptPath =
+    document
+      .querySelector('script[src$="/assets/js/app.js"]')
+      ?.getAttribute("src") || "";
+
   let pathPrefix = "/";
-  try {
-    pathPrefix = new URL(rawBaseHref, window.location.origin).pathname;
-  } catch (error) {
-    pathPrefix = rawBaseHref;
+  if (rawBaseHref) {
+    try {
+      pathPrefix = new URL(rawBaseHref, window.location.origin).pathname;
+    } catch (error) {
+      pathPrefix = rawBaseHref;
+    }
+  } else if (appScriptPath) {
+    try {
+      const scriptPathname = new URL(appScriptPath, window.location.origin).pathname;
+      pathPrefix = scriptPathname.replace(/\/assets\/js\/app\.js$/, "") || "/";
+    } catch (error) {
+      pathPrefix = appScriptPath.replace(/\/assets\/js\/app\.js$/, "") || "/";
+    }
   }
 
   if (!pathPrefix.startsWith("/")) {
