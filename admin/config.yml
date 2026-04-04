@@ -406,15 +406,18 @@ collections:
                   widget: "string",
                   required: false,
                 }
-  - name: "core-pages"
-    label: "Core Pages"
+  - name: "file-complaint-pages"
+    label: "File Complaint Pages"
+    folder: "pages/file-complaint"
+    preview_path: "file-complaint/{{slug}}"
+    create: false
     <<: *cms_editable_filter
+    identifier_field: "title"
+    summary: "{{title}}"
+    fields: *page_fields
+  - name: "homepage"
+    label: "Homepage"
     files:
-      - label: "Public Files"
-        name: "cases-page"
-        file: "pages/cases.md"
-        preview_path: "cases"
-        fields: *page_fields
       - label: Home
         name: "home"
         file: "pages/index.md"
@@ -470,15 +473,6 @@ collections:
               - { label: "Video Link", name: "url", widget: "string" }
               - { label: "Button Text", name: "button_text", widget: "string" }
               - { label: "Button Link", name: "button_url", widget: "string" }
-  - name: "file-complaint-pages"
-    label: "File Complaint Pages"
-    folder: "pages/file-complaint"
-    preview_path: "file-complaint/{{slug}}"
-    create: false
-    <<: *cms_editable_filter
-    identifier_field: "title"
-    summary: "{{title}}"
-    fields: *page_fields
   - name: "press-release"
     label_singular: "Press Release"
     label: "Press Release"
