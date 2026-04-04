@@ -4,7 +4,7 @@ date: 2026-04-03
 tags:
   - general
 ---
-Washington, D.C. — The U.S. Office of Special Counsel (OSC) releases its [Strategic Plan for Fiscal Years 2026–2030](<>), reflecting the agency’s enduring commitment to its statutory mandate to preventing prohibited personnel practices, serving as a safe channel for whistleblower disclosures, enforcing the Hatch Act, and protecting the job rights of uniformed service members. The plan centers on three goals: protecting and promoting the integrity and efficacy of the federal workplace; ensuring government accountability; and achieving organizational excellence.  
+Washington, D.C. — The U.S. Office of Special Counsel (OSC) releases its [Strategic Plan for Fiscal Years 2026–2030](/~assets/docs/fy-2026-2030-strategic-plan.pdf), reflecting the agency’s enduring commitment to its statutory mandate to preventing prohibited personnel practices, serving as a safe channel for whistleblower disclosures, enforcing the Hatch Act, and protecting the job rights of uniformed service members. The plan centers on three goals: protecting and promoting the integrity and efficacy of the federal workplace; ensuring government accountability; and achieving organizational excellence.  
 
 The Strategic Plan identifies rising demand for OSC’s services, reflected in a record **9,820 new cases received in FY2025—a 57 percent increase** over FY2024.  
 
