@@ -27,4 +27,4 @@ The following are the twelve (12) Privacy Act Exemptions when consent to release
 9.  to either House of Congress, or, to the extent of matter within its jurisdiction, any committee or subcommittee thereof, any joint committee of Congress or subcommittee of any such joint committee;
 10.  to the Comptroller General, or any of his authorized representatives, in the course of the performance of the duties of the Government Accountability Office;
 11.  pursuant to the order of a court of competent jurisdiction; or
-12.  to a consumer reporting agency in accordance with section 3711(e) of title 31.​
+12.  to a consumer reporting agency in accordance with section 3711(e) of title 31.

@@ -8,7 +8,7 @@ eleventyNavigation:
 
 ### OSC FOIA Office
 
-​U.S. Office of Special Counsel  
+U.S. Office of Special Counsel  
 Office of the Clerk
 1730 M St., N.W.
 Washington, DC 20036  

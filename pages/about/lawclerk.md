@@ -63,4 +63,4 @@ Full-time and part-time law students who have completed at least two full semest
 
 **HOW TO APPLY:**
 
-OSC accepts applications on a rolling basis. To be considered, please apply via [USAJobs](https://www.usajobs.gov/job/794209200)​.
+OSC accepts applications on a rolling basis. To be considered, please apply via [USAJobs](https://www.usajobs.gov/job/794209200).

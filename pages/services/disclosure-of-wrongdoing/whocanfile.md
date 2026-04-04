@@ -6,7 +6,7 @@ eleventyNavigation:
   title: Who Can File A Complaint?
 ---
 
-​The Disclosure Unit accepts disclosures from current federal employees, former federal employees, and applicants for federal employment (executive branch only). OSC does not have jurisdiction over disclosures filed by:
+The Disclosure Unit accepts disclosures from current federal employees, former federal employees, and applicants for federal employment (executive branch only). OSC does not have jurisdiction over disclosures filed by:
 
 - Employees of the U.S. Postal Service and the Postal Regulatory Commission;
 - Contractors

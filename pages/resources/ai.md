@@ -7,12 +7,12 @@ eleventyNavigation: false
 
 ## OSC Compliance Plan for OMB Memorandum M-25-21
 
-​**OVERVIEW**
+**OVERVIEW**
 The AI in Government Act of 2020 and Office of Management and Budget (OMB) Memorandum M-25-21, Accelerating Federal Use of AI through Innovation, Governance, and Public Trust, directed each agency to submit to OMB and post publicly on the agency's website either a plan to achieve consistency with OMB M-25-21, or a written determination that the agency does not use and does not anticipate using covered AI. Below is OSC's compliance plan for M-25-21
 
 **COMPLIANCE PLAN : [OSC Compliance Plan for OMB M-25-21.pdf](/~assets/docs/osc-compliance-plan-for-omb-m-25-21.pdf)**
 
-## OSC Polic​y ​on AI
+## OSC Policy on AI
 
 The Office of Special Counsel (OSC) establishes these principles and policies for the use of AI as it relates to OSC's mission, and in support of the President's Executive Order (EO) 14179—Removing Barriers to American Leadership in Artificial Intelligence14110, Office of Management and Budget (OMB) Memorandum M-25-21, and the Advancing American AI Act of 2022.
 
@@ -30,11 +30,11 @@ As the use of AI proliferates throughout government agencies over which OSC exer
 
 <u>OSC's Use of AI</u>
 
-OSC stands ready to embrace new technologies, including AI, if they are an efficient and effective means to further OSC's mission. When OSC identifies use cases for covered AI, a consolidated, machine-readable file of all publicly releasable use cases will be posted and maintained at [Artificial Intelligence (AI)](/resources/ai/)​ and sent to OMB, as required by OMB M-25-21.
+OSC stands ready to embrace new technologies, including AI, if they are an efficient and effective means to further OSC's mission. When OSC identifies use cases for covered AI, a consolidated, machine-readable file of all publicly releasable use cases will be posted and maintained at [Artificial Intelligence (AI)](/resources/ai/) and sent to OMB, as required by OMB M-25-21.
 
 As we explore the possible use of these AI technologies, data security and privacy are of the utmost importance. Prior to the deployment of any AI system into an OSC workflow, our technical professionals will thoroughly vet the technology to understand its behavior and to ensure the integrity of confidential information and will advise and train staff on its proper use. OSC places a particular emphasis on protecting the personal information of individuals who file complaints with OSC and the contents of OSC's ongoing investigations, as required by federal privacy regulations.
 
-OSC commits that any future use of AI technology by the agency will be efficiency-enhancing, compliant with existing federal requirements for security and privacy, and conformant with the rules outlined in EO 14179 and OMB M-25-21. ​
+OSC commits that any future use of AI technology by the agency will be efficiency-enhancing, compliant with existing federal requirements for security and privacy, and conformant with the rules outlined in EO 14179 and OMB M-25-21. 
 
 <u>Artificial Intelligence Use Case Inventories</u>
 
@@ -50,6 +50,6 @@ _2025 Individual AI Use Case_
 
 [OSC 2025 Individual AI Use Cases.xlsx](/~assets/docs/osc-2025-individual-ai-use-cases.xlsx)
 
-​
 
-​
+
+

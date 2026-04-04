@@ -28,6 +28,6 @@ items:
         url: /~assets/docs/2012-2016-results-for-core-fevs-questions_.pdf
 ---
 
-The U.S. Office of Personnel Management (OPM) defines employee engagement as "employees' sense of purpose that is evident in their display of dedication, persistence, and effort in their work and overall attachment to their organization and its mission." OSC strives to maximize all of its employees'​ engagement in the agency.​
+The U.S. Office of Personnel Management (OPM) defines employee engagement as "employees' sense of purpose that is evident in their display of dedication, persistence, and effort in their work and overall attachment to their organization and its mission." OSC strives to maximize all of its employees' engagement in the agency.
 
-The page contains links to OSC's Federal Employee Viewpoints Surveys (FEVS).​
+The page contains links to OSC's Federal Employee Viewpoints Surveys (FEVS).

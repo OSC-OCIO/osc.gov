@@ -10,6 +10,6 @@ OSC's primary mission is to safeguard the merit system by protecting federal emp
 
 OSC also operates as a secure channel for federal employees to blow the whistle by disclosing wrongdoing. Federal law establishes a unique process for disclosures made to OSC, intended to protect the confidentiality of the whistleblower and ensure that the alleged wrongdoing is investigated and, where necessary, corrected. For a description of the six types of covered wrongdoing, [click here](/services/disclosure-of-wrongdoing/overview).
 
-​In addition, OSC enforces the Hatch Act, which puts certain restrictions on partisan political activity by government employees ([learn more](/services/hatch-act/federal)​). It also protects the civilian employment and reemployment rights of military service members under USERRA ([learn more](/services/userra/overview)​).
+In addition, OSC enforces the Hatch Act, which puts certain restrictions on partisan political activity by government employees ([learn more](/services/hatch-act/federal)). It also protects the civilian employment and reemployment rights of military service members under USERRA ([learn more](/services/userra/overview)).
 
 {% youtube "https://www.youtube.com/watch?v=_2BNdZeKWYM" %}

@@ -4,7 +4,7 @@ title: Contact OSC
 sidenav: false
 ---
 
-## ​Uni​ts​
+## Units
 
 <ul class="usa-card-group">
   {%- for unit in contacts.units -%}  
