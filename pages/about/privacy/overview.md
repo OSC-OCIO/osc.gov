@@ -7,7 +7,7 @@ eleventyNavigation:
   title: Overview
 items:
   - heading: "Privacy Authorities:"
-    items:
+    links:
       - name: The Privacy Act of 1974, as amended
         url: http://www.archives.gov/about/laws/privacy-act-1974.html
       - name: The Paperwork Reduction Act of 1995
@@ -18,7 +18,7 @@ items:
         url: https://www.whitehouse.gov/omb/e-gov
       - name: Department of Justice, Overview of the Privacy Act of 1974 (2015 Edition)
         url: https://www.justice.gov/opcl/overview-privacy-act-1974-2015-edition
-      - name: Federal Information Security Modernization Act (FISMA) of 2014 (PDF)
+      - name: "Federal Information Security\_Modernization Act (FISMA) of 2014 (PDF)"
         url: /~assets/docs/fisma-final.pdf
 footnote: |
   ## Matching Notices and Agreements

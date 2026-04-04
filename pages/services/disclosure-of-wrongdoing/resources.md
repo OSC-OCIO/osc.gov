@@ -7,7 +7,7 @@ eleventyNavigation:
   title: Additional Resources
 items:
   - heading: Disclosure of Wrongdoing Resources
-    items:
+    links:
       - name: Agency Monitoring Policies and Whistleblower Disclosures (February 1, 2018)
         url: /~assets/docs/agency-monitoring-policies-and-whistleblower-disclosures-february-1-2018.pdf
       - name: OSC Monetary Policy Regarding Whistleblowers (May 20, 2025)

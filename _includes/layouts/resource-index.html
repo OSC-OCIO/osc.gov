@@ -5,12 +5,23 @@ layout: layouts/default
 {{ content }}
 
 {%- if items and items.size > 0 -%}
-  {%- assign nested_items = items[0].topics -%}
+  {%- assign has_nested_items = false -%}
+  {%- assign has_section_headings = false -%}
+  {%- for section in items -%}
+    {%- assign section_subsections = section.sections | default: section.topics -%}
+    {%- if section_subsections and section_subsections.size > 0 -%}
+      {%- assign has_nested_items = true -%}
+    {%- endif -%}
+    {%- if section.heading -%}
+      {%- assign has_section_headings = true -%}
+    {%- endif -%}
+  {%- endfor -%}
+
   {%- if resource_filtering -%}
     <section id="resource-search" class="margin-y-4">
       <form id="resource-search-form" class="usa-form maxw-none" role="search">
         <div class="grid-row grid-gap">
-          {%- if nested_items -%}
+          {%- if has_nested_items -%}
             <div class="tablet:grid-col-5">
               <label class="usa-label margin-top-0" for="resource-filter-parent">Category</label>
               <select class="usa-select" id="resource-filter-parent" name="parent">
@@ -47,49 +58,72 @@ layout: layouts/default
     <p id="resource-search-status" class="margin-top-2 text-base-darkest" aria-live="polite"></p>
   {%- endif -%}
 
-  {%- if nested_items -%}
+  {%- if has_nested_items -%}
     {%- for category in items -%}
-      <div class="resource-category" data-resource-parent="{{- category.heading | escape -}}">
-        <h2 id="{{- category.heading | slugify -}}">{{- category.heading -}}</h2>
-        {%- for section in category.topics -%}
-          {%- assign category_slug = category.heading | slugify -%}
-          {%- assign section_slug = section.heading | slugify -%}
-          {%- assign section_id = section_slug -%}
-          {%- if category.heading == "State & Local" -%}
-            {%- assign section_id = category_slug | append: "-" | append: section_slug -%}
+      {%- assign category_sections = category.sections | default: category.topics -%}
+      {%- assign category_heading = category.heading -%}
+      {%- assign category_label = category_heading | default: "General" -%}
+      {%- if category_sections and category_sections.size > 0 -%}
+        <div class="resource-category" data-resource-parent="{{- category_label | escape -}}">
+          {%- if category_heading -%}
+            <h2 id="{{- category_heading | slugify -}}">{{- category_heading -}}</h2>
           {%- endif -%}
-          <section
-            class="resource-section"
-            data-resource-parent="{{- category.heading | escape -}}"
-            data-resource-topic="{{- section.heading | escape -}}"
-          >
-            <h3 id="{{- section_id -}}">{{- section.heading -}}</h3>
+          {%- for section in category_sections -%}
+            {%- assign section_links = section.links | default: section.items -%}
+            {%- if section_links and section_links.size > 0 -%}
+              {%- assign category_slug = category_label | slugify -%}
+              {%- assign section_slug = section.heading | default: forloop.index | slugify -%}
+              {%- assign section_id = section_slug -%}
+              {%- if category_heading == "State & Local" -%}
+                {%- assign section_id = category_slug | append: "-" | append: section_slug -%}
+              {%- endif -%}
+              <section
+                class="resource-section"
+                data-resource-parent="{{- category_label | escape -}}"
+                data-resource-topic="{{- section.heading | escape -}}"
+              >
+                {%- if section.heading -%}
+                  <h3 id="{{- section_id -}}">{{- section.heading -}}</h3>
+                {%- endif -%}
+                <ul class="usa-icon-list">
+                  {%- for item in section_links -%}
+                    {%- include 'resource-item.html', item: item, resource_parent: category_label, resource_topic: section.heading -%}
+                  {%- endfor -%}
+                </ul>
+              </section>
+            {%- endif -%}
+          {%- endfor -%}
+        </div>
+      {%- endif -%}
+    {%- endfor -%}
+  {%- else -%}
+    {%- if has_section_headings -%}
+      {%- for section in items -%}
+        {%- assign section_links = section.links | default: section.items -%}
+        {%- if section_links and section_links.size > 0 -%}
+          <section class="resource-section" data-resource-topic="{{- section.heading | escape -}}">
+            {%- if section.heading -%}
+              <h2 id="{{- section.heading | slugify -}}">{{- section.heading -}}</h2>
+            {%- endif -%}
             <ul class="usa-icon-list">
-              {%- for item in section.items -%}
-                {%- include 'resource-item.html', item: item, resource_parent: category.heading, resource_topic: section.heading -%}
+              {%- for item in section_links -%}
+                {%- include 'resource-item.html', item: item, resource_topic: section.heading -%}
               {%- endfor -%}
             </ul>
           </section>
-        {%- endfor -%}
-      </div>
-    {%- endfor -%}
-  {%- else -%}
-    {%- assign sectioned_items = items[0].heading -%}
-    {%- if sectioned_items -%}
-      {%- for section in items -%}
-        <section class="resource-section" data-resource-topic="{{- section.heading | escape -}}">
-          <h2 id="{{- section.heading | slugify -}}">{{- section.heading -}}</h2>
-          <ul class="usa-icon-list">
-            {%- for item in section.items -%}
-              {%- include 'resource-item.html', item: item, resource_topic: section.heading -%}
-            {%- endfor -%}
-          </ul>
-        </section>
+        {%- endif -%}
       {%- endfor -%}
     {%- else -%}
       <ul class="usa-icon-list">
-        {%- for item in items -%}
-          {%- include 'resource-item.html', item: item -%}
+        {%- for section in items -%}
+          {%- assign section_links = section.links | default: section.items -%}
+          {%- if section_links and section_links.size > 0 -%}
+            {%- for item in section_links -%}
+              {%- include 'resource-item.html', item: item -%}
+            {%- endfor -%}
+          {%- elsif section.name and section.url -%}
+            {%- include 'resource-item.html', item: section -%}
+          {%- endif -%}
         {%- endfor -%}
       </ul>
     {%- endif -%}

@@ -1,5 +1,4 @@
 ---
-cms_editable: true
 title: OSC Services Overview
 eleventyNavigation:
   order: 0

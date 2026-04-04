@@ -50,43 +50,50 @@ collections:
               label: "Title",
               name: "title",
               widget: "string",
-              hint: "Main page heading (H1).",
+              hint: "The main heading people see at the top of the page."
             }
           - {
               label: "Lead Text",
               name: "lead",
               widget: "markdown",
               minimal: true,
-              hint: "Optional intro text shown beneath the page title on standard page layouts.",
+              hint: "Optional intro text shown under the page title.",
               required: false,
             }
-          - label: "FAQ Entries"
+          - {
+              label: "Body",
+              name: "body",
+              widget: "markdown",
+              hint: "Main content for this page.",
+              required: false,
+            }
+          - label: "FAQs"
             name: "faqs"
             widget: "list"
             required: false
             collapsed: true
-            hint: "Only rendered on pages using the `layouts/faq-accordion` template. Use either a simple FAQ row (Question + Answer) or a section row (Heading + Items)."
+            hint: "Used on pages with the `layouts/faq-accordion` template. Add either a simple FAQ (Question + Answer) or a section (Section Heading + Items)."
             summary: "{{fields.heading}}{{fields.question}}"
             fields:
               - {
                   label: "Section Heading",
                   name: "heading",
                   widget: "string",
-                  hint: "Use only for sectioned FAQs. Leave blank for a simple FAQ row.",
+                  hint: "Optional. Add this when you want to group FAQs in a section.",
                   required: false,
                 }
               - {
                   label: "Question",
                   name: "question",
                   widget: "string",
-                  hint: "Use for a simple FAQ row (without subsection items).",
+                  hint: "Use this for a simple FAQ item (no section items).",
                   required: false,
                 }
               - {
                   label: "Answer",
                   name: "answer",
                   widget: "text",
-                  hint: "Use for a simple FAQ row (without subsection items).",
+                  hint: "Use this for a simple FAQ item (no section items).",
                   required: false,
                 }
               - label: "Items"
@@ -94,124 +101,79 @@ collections:
                 widget: "list"
                 required: false
                 collapsed: true
-                hint: "Use for sectioned FAQs. Add the question/answer rows for this section."
+                hint: "Add the question-and-answer items for this section."
                 summary: "{{fields.question}}"
                 fields:
-                  - {
-                      label: "Question",
-                      name: "question",
-                      widget: "string",
-                    }
+                  - { label: "Question", name: "question", widget: "string" }
                   - { label: "Answer", name: "answer", widget: "text" }
-          - label: "List Items"
+          - label: "Link List"
             name: "items"
             widget: "list"
             required: false
             collapsed: true
-            hint: "Structured links/content for resource-style pages. Most useful with `layouts/resource-index`."
-            summary: "{{fields.heading}}{{fields.name}}{{fields.agency}}"
-            types:
-              - label: "Link"
-                name: "link"
-                widget: "object"
+            hint: "Add section content here. You can add items directly or organize them into subsections."
+            summary: "{{fields.heading}}"
+            fields:
+              - {
+                  label: "Section Heading",
+                  name: "heading",
+                  widget: "string",
+                  required: false,
+                  hint: "Optional. Add this when you want to group items in a section."
+                }
+              - label: "Items"
+                name: "links"
+                widget: "list"
+                required: false
+                collapsed: true
                 summary: "{{fields.name}}"
+                hint: "Add items directly in this section."
                 fields:
                   - { label: "Name", name: "name", widget: "string" }
                   - { label: "URL", name: "url", widget: "string" }
-              - label: "Icon Link"
-                name: "icon_link"
-                widget: "object"
-                summary: "{{fields.name}}"
-                fields:
-                  - { label: "Name", name: "name", widget: "string" }
-                  - { label: "URL", name: "url", widget: "string" }
-                  - { label: "Icon", name: "icon", widget: "string" }
-              - label: "Link Group"
-                name: "link_group"
-                widget: "object"
+                  - {
+                      label: "Icon",
+                      name: "icon",
+                      widget: "string",
+                      required: false,
+                      hint: "Optional USWDS icon name. Leave blank to use `file_present`."
+                    }
+              - label: "Subsections"
+                name: "sections"
+                widget: "list"
+                required: false
+                collapsed: true
                 summary: "{{fields.heading}}"
+                hint: "Optional. Use subsections when you want another level of grouping."
                 fields:
-                  - { label: "Heading", name: "heading", widget: "string" }
+                  - {
+                      label: "Subsection Heading",
+                      name: "heading",
+                      widget: "string",
+                      hint: "Use a short heading to group the items below."
+                    }
                   - label: "Items"
-                    name: "items"
+                    name: "links"
                     widget: "list"
+                    required: false
+                    collapsed: true
                     summary: "{{fields.name}}"
                     fields:
                       - { label: "Name", name: "name", widget: "string" }
                       - { label: "URL", name: "url", widget: "string" }
-              - label: "Topic Group"
-                name: "topic_group"
-                widget: "object"
-                summary: "{{fields.heading}}"
-                fields:
-                  - { label: "Heading", name: "heading", widget: "string" }
-                  - label: "Topics"
-                    name: "topics"
-                    widget: "list"
-                    summary: "{{fields.heading}}"
-                    fields:
-                      - { label: "Heading", name: "heading", widget: "string" }
-                      - label: "Items"
-                        name: "items"
-                        widget: "list"
-                        summary: "{{fields.name}}"
-                        fields:
-                          - { label: "Name", name: "name", widget: "string" }
-                          - { label: "URL", name: "url", widget: "string" }
-              - label: "Registered Agency Row"
-                name: "registered_agency"
-                widget: "object"
-                summary: "{{fields.agency}}"
-                fields:
-                  - { label: "Agency", name: "agency", widget: "string" }
-                  - {
-                      label: "Registration Date",
-                      name: "regdate",
-                      widget: "string",
-                    }
-              - label: "Certified Agency Row"
-                name: "certified_agency"
-                widget: "object"
-                summary: "{{fields.agency}}"
-                fields:
-                  - { label: "Agency", name: "agency", widget: "string" }
-                  - {
-                      label: "Certification Date",
-                      name: "certdate",
-                      widget: "string",
-                      required: false,
-                    }
-                  - {
-                      label: "Expiration",
-                      name: "expiration",
-                      widget: "string",
-                      required: false,
-                    }
-                  - {
-                      label: "Point of Contact",
-                      name: "poc",
-                      widget: "string",
-                      required: false,
-                    }
-                  - {
-                      label: "URL",
-                      name: "url",
-                      widget: "string",
-                      required: false,
-                    }
+                      - {
+                          label: "Icon",
+                          name: "icon",
+                          widget: "string",
+                          required: false,
+                          hint: "Optional USWDS icon name. Leave blank to use `file_present`."
+                        }
           - {
               label: "Footnote",
               name: "footnote",
               widget: "markdown",
               minimal: true,
-              hint: "Only rendered on pages using the `layouts/resource-index` template.",
-              required: false,
-            }
-          - {
-              label: "Body",
-              name: "body",
-              widget: "markdown",
-              hint: "Main page content area.",
+              hint: "Shown only on pages using the `layouts/resource-index` template.",
               required: false,
             }
       - label: "Engagement"
@@ -401,48 +363,37 @@ collections:
             summary: "{{fields.name}}"
             fields:
               - { label: "Unit Name", name: "name", widget: "string" }
-              - label: "Contacts"
-                name: "contacts"
-                widget: "list"
-                required: false
-                collapsed: true
-                fields:
-                  - {
-                      label: "Phone 1",
-                      name: "phone1",
-                      widget: "string",
-                      required: false,
-                    }
-                  - {
-                      label: "Phone 2",
-                      name: "phone2",
-                      widget: "string",
-                      required: false,
-                    }
-                  - {
-                      label: "Phone 3",
-                      name: "phone3",
-                      widget: "string",
-                      required: false,
-                    }
-                  - {
-                      label: "Fax",
-                      name: "fax",
-                      widget: "string",
-                      required: false,
-                    }
-                  - {
-                      label: "Email",
-                      name: "email",
-                      widget: "string",
-                      required: false,
-                    }
-                  - {
-                      label: "Address",
-                      name: "address",
-                      widget: "string",
-                      required: false,
-                    }
+              - {
+                  label: "Phone 1",
+                  name: "phone1",
+                  widget: "string",
+                  required: false,
+                }
+              - {
+                  label: "Phone 2",
+                  name: "phone2",
+                  widget: "string",
+                  required: false,
+                }
+              - {
+                  label: "Phone 3",
+                  name: "phone3",
+                  widget: "string",
+                  required: false,
+                }
+              - { label: "Fax", name: "fax", widget: "string", required: false }
+              - {
+                  label: "Email",
+                  name: "email",
+                  widget: "string",
+                  required: false,
+                }
+              - {
+                  label: "Address",
+                  name: "address",
+                  widget: "string",
+                  required: false,
+                }
   - name: "core-pages"
     label: "Core Pages"
     <<: *cms_editable_filter

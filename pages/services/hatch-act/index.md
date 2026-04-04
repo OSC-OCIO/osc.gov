@@ -1,5 +1,4 @@
 ---
-cms_editable: true
 title: Hatch Act
 eleventyNavigation:
   order: 4

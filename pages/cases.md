@@ -1,5 +1,4 @@
 ---
-cms_editable: true
 layout: layouts/case-index
 title: Public Files
 eleventyNavigation:

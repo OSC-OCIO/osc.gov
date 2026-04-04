@@ -1,18 +1,19 @@
-{%- assign icon = item.icon | default: 'file_present' -%}
+{%- assign resolved_item = item.link | default: item.icon_link | default: item -%}
+{%- assign icon = resolved_item.icon | default: 'file_present' -%}
 <li
   class="usa-icon-list__item resource-item border-white bg-base-lightest hover:bg-base-lighter radius-md padding-2"
   {%- if resource_parent -%} data-resource-parent="{{- resource_parent | escape -}}"{%- endif -%}
   {%- if resource_topic -%} data-resource-topic="{{- resource_topic | escape -}}"{%- endif -%}
 >
   <a
-    href="{{- item.url -}}"
+    href="{{- resolved_item.url -}}"
     class="display-flex flex-align-start width-full text-no-underline"
   >
     <div class="usa-icon-list__icon">
       {%- uswds_icon icon "height-3 width-3" -%}
     </div>
     <div class="usa-icon-list__content margin-left-1 text-primary">
-      {{- item.name -}}
+      {{- resolved_item.name -}}
     </div>
   </a>
 </li>

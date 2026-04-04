@@ -7,7 +7,7 @@ eleventyNavigation:
   title: Policies & Reports
 items:
   - heading: Privacy Program Reports
-    items:
+    links:
       - name: OSC’s Privacy Regulations – October 2007
         url: /~assets/docs/oscs-privacy-regulations-october-2007.pdf
       - name: OSC's Privacy Regulation - October 2022.pdf

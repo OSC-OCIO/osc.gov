@@ -1,5 +1,4 @@
 ---
-cms_editable: true
 title: Resources
 eleventyNavigation:
   order: 3

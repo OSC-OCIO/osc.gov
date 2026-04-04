@@ -7,7 +7,7 @@ eleventyNavigation:
   title: Additional Resources
 items:
   - heading: Handouts
-    items:
+    links:
       - name: Sample Memo for Annual Notification (FAA)
         url: /~assets/docs/sample-memo-for-annual-notification-faa.docx
       - name: Your Rights as a Whistleblower for a Government Corporation (v2024)
@@ -45,7 +45,7 @@ items:
       - name: Retaliation Fact Sheet (b)(8), Protected Disclosure
         url: /~assets/docs/retaliation-fact-sheet-b8-protected-disclosure.pdf
   - heading: Posters
-    items:
+    links:
       - name: The Hatch Act and Further Restricted Employees Poster
         url: /~assets/docs/the-hatch-act-and-further-restricted-employees-poster.pdf
       - name: The Hatch Act and State, D.C., and Local Employees Poster
@@ -65,13 +65,13 @@ items:
       - name: 2025 OSC EEO Poster (Letter Format)
         url: /~assets/docs/2025-osc-eeo-poster-letter-format.pdf
   - heading: Training Materials
-    items:
+    links:
       - name: The Unique Role of OSC in Protecting LGBT Rights in the Federal Workplace
         url: /~assets/docs/the-unique-role-of-osc-in-protecting-lgbt-rights-in-the-federal-workplace.pdf
       - name: FY25 Agency-Conducted Annual Supervisory Training
         url: /~assets/docs/fy25-agency-conducted-annual-supervisory-training.pdf
   - heading: Equal Employment Opportunity Resources
-    items:
+    links:
       - name: No FEAR Act Quarterly Data Q3 2025
         url: /~assets/docs/no-fear-act-quarterly-data-q3-2025.pdf
       - name: Federal Protections for Lesbian, Gay, Bisexual, and Transgender (LGBT) Individuals

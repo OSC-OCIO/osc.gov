@@ -6,53 +6,65 @@
       <div class="usa-card__heading font-body-s text-bold">{{ unit.name }}</div>
     </div>
     <div class="usa-card__body">
-      {%- for contact in unit.contacts -%} {%- if contact.phone1 -%}
+      {%- assign phone1 = unit.phone1 -%}
+      {%- assign phone2 = unit.phone2 -%}
+      {%- assign phone3 = unit.phone3 -%}
+      {%- assign fax = unit.fax -%}
+      {%- assign email = unit.email -%}
+      {%- assign address = unit.address -%}
+
+      {%- if phone1 -%}
       <div class="margin-0">
         <div class="display-flex flex-align-center margin-0">
           {% uswds_icon "phone" %}
-          <span class="font-body-xs padding-left-1">{{ contact.phone1 }}</span>
+          <span class="font-body-xs padding-left-1">{{ phone1 }}</span>
         </div>
       </div>
-      {%- endif -%} {%- if contact.phone2 -%}
+      {%- endif -%}
+      {%- if phone2 -%}
       <div class="margin-0">
         <div class="display-flex flex-align-center margin-0">
           {% uswds_icon "phone" %}
-          <span class="font-body-xs padding-left-1">{{ contact.phone2 }}</span>
+          <span class="font-body-xs padding-left-1">{{ phone2 }}</span>
         </div>
       </div>
-      {%- endif -%} {%- if contact.phone3 -%}
+      {%- endif -%}
+      {%- if phone3 -%}
       <div class="margin-0">
         <div class="display-flex flex-align-center margin-0">
           {% uswds_icon "phone" %}
-          <span class="font-body-xs padding-left-1">{{ contact.phone3 }}</span>
+          <span class="font-body-xs padding-left-1">{{ phone3 }}</span>
         </div>
       </div>
-      {%- endif -%} {%- if contact.fax -%}
+      {%- endif -%}
+      {%- if fax -%}
       <div class="margin-0">
         <div class="display-flex flex-align-center margin-0">
           {% uswds_icon "fax" %}
-          <span class="font-body-xs padding-left-1">{{ contact.fax }}</span>
+          <span class="font-body-xs padding-left-1">{{ fax }}</span>
         </div>
       </div>
-      {%- endif -%} {%- if contact.email -%}
+      {%- endif -%}
+      {%- if email -%}
       <div class="margin-0">
         <div class="display-flex flex-align-center margin-0">
           {% uswds_icon "mail" %}
           <a
-            href="mailto:{{ contact.email }}"
+            href="mailto:{{ email }}"
             class="font-body-xs padding-left-1"
-            >{{ contact.email }}</a
+            >{{ email }}</a
           >
         </div>
       </div>
-      {%- endif -%} {%- if contact.address -%}
+      {%- endif -%}
+      {%- if address -%}
       <div class="margin-0">
         <div class="display-flex flex-align-center margin-0">
           {% uswds_icon "location_on" %}
-          <span class="font-body-xs padding-left-1">{{ contact.address }}</span>
+          <span class="font-body-xs padding-left-1">{{ address }}</span>
         </div>
       </div>
-      {%- endif -%} {%- endfor -%}
+      {%- endif -%}
     </div>
   </div>
 </li>
