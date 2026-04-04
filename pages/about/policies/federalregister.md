@@ -1,11 +1,12 @@
 ---
+cms_editable: true
 title: OSC Federal Register Notices
 layout: layouts/resource-index
 eleventyNavigation:
   order: 2
 items:
   - heading: Federal Register Notices
-    items:
+    links:
       - name: OSC Draft Strategic Plan
         url: /~assets/docs/osc-draft-strategic-plan.pdf
       - name: OSC's Reasonable Accommodations, December 2021

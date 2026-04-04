@@ -7,9 +7,9 @@ tags:
 
 1/12/2026 Update: Please see Senior Counsel Charles Baldis' Op-ed in Government Executive titled "[Safeguarding the Federal Merit System at the U.S. Office of Special Counsel](https://www.govexec.com/oversight/2026/01/safeguarding-federal-merit-system-office-special-counsel/410590/?oref=ge-featured-river-secondary)," discussing how OSC has performed exceptionally well over the past year with performance numbers meeting or exceeding past trends across divisions, and how the agency will continue to safeguard the merit system in 2026.
 
-​------------ ​
+------------ 
 
-​​Once again, the U.S. Office of Special Counsel (OSC) has demonstrated an exceptional year of performance. By the numbers, Fiscal Year 2025 (FY 2025) has proven to be one of the most productive and impactful in OSC history. ​
+Once again, the U.S. Office of Special Counsel (OSC) has demonstrated an exceptional year of performance. By the numbers, Fiscal Year 2025 (FY 2025) has proven to be one of the most productive and impactful in OSC history. 
 
 OSC has four primary statutory enforcement programs: (1) investigating, prosecuting, and resolving prohibited personnel practices (PPPs), including whistleblower retaliation; (2) serving as a safe and secure channel for whistleblower disclosures; (3) investigating, litigating, and issuing guidance on improper political activity under the Hatch Act; and (4) litigating and resolving complaints under the Uniformed Services Employment and Reemployment Rights Act (USERRA).
 

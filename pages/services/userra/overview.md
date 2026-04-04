@@ -1,13 +1,14 @@
 ---
+cms_editable: true
 title: USERRA Overview
 eleventyNavigation:
   order: 0
   title: Overview
 ---
 
-​The Uniformed Services Employment and Reemployment Rights Act (USERRA) is a federal law, passed in 1994, that protects military service members and veterans from employment discrimination on the basis of their service, and allows them to regain their civilian jobs following a period of uniformed service.
+The Uniformed Services Employment and Reemployment Rights Act (USERRA) is a federal law, passed in 1994, that protects military service members and veterans from employment discrimination on the basis of their service, and allows them to regain their civilian jobs following a period of uniformed service.
 
-USERRA a​pplies to members and veterans of the Armed Forces, Reserves, National Guard, and other “Uniformed Services” (including the National Disaster Medical System, FEMA Urban Search & Rescue, FEMA Reservists, and the Commissioned Corps of both the Public Health Service and NOAA). The law ensures that service members:​
+USERRA applies to members and veterans of the Armed Forces, Reserves, National Guard, and other “Uniformed Services” (including the National Disaster Medical System, FEMA Urban Search & Rescue, FEMA Reservists, and the Commissioned Corps of both the Public Health Service and NOAA). The law ensures that service members:
 
 1.  Are not disadvantaged in their civilian careers because of their military service;
 2.  Are promptly re-employed in their civilian jobs upon return from duty;
@@ -17,10 +18,10 @@ USERRA applies to both public and private employers. The Office of Special Couns
 
 # OSC's Role
 
-A number of government agencies have roles in the education and enforcement of USERRA. OSC receives cases from the Department of Labor that may be appropriate for litigation. These are cases in which a federal employer is believed to have violated USERRA, but the issue could not be resolved by the Department of Labor. These cases are referred to OSC at the claimant’s request once the claimant has exhausted the Department of Labor’s process. The Department of Labor will inform claimants of their right of referral to OSC at the end of its own investigation. ​​​
+A number of government agencies have roles in the education and enforcement of USERRA. OSC receives cases from the Department of Labor that may be appropriate for litigation. These are cases in which a federal employer is believed to have violated USERRA, but the issue could not be resolved by the Department of Labor. These cases are referred to OSC at the claimant’s request once the claimant has exhausted the Department of Labor’s process. The Department of Labor will inform claimants of their right of referral to OSC at the end of its own investigation. 
 
-# How to Fi​le a Complaint
+# How to File a Complaint
 
 USERRA complaints must be filed with the [Department of Labor, Veterans Employment and Training Service (DOL-VETS)](http://www.dol.gov/vets/).
 
-If you are considering filing a USERRA complaint or simply want to learn more, OSC recommends that you first contact the [Employer Support of the Guard and Reserve (ESGR)](http://www.esgr.mil/)​​. ESGR is an agency within the Department of Defense established expressly to help resolve these kinds of issues.​
+If you are considering filing a USERRA complaint or simply want to learn more, OSC recommends that you first contact the [Employer Support of the Guard and Reserve (ESGR)](http://www.esgr.mil/). ESGR is an agency within the Department of Defense established expressly to help resolve these kinds of issues.

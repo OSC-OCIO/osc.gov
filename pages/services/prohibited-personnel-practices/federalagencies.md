@@ -1,4 +1,5 @@
 ---
+cms_editable: true
 title: Federal Agency Responsibilities Regarding Prohibited Personnel Practices
 layout: layouts/faq-accordion
 eleventyNavigation:

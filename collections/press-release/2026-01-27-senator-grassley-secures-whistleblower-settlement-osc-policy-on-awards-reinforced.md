@@ -11,4 +11,4 @@ Mr. Siwajuola's disclosures to OSC led to findings of systemic misclassification
 
 “I appreciate ATF's willingness to follow OSC's recommendation for a reward as part of this resolution," said Senior Counsel Charles Baldis.
 
-For more information on whistleblower protections and OSC's award recommendation policy, visit [osc.gov](osc.gov).​
+For more information on whistleblower protections and OSC's award recommendation policy, visit [osc.gov](osc.gov).

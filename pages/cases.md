@@ -3,7 +3,7 @@ layout: layouts/case-index
 title: Public Files
 eleventyNavigation:
   order: 4
-lead: ​OSC receives and reviews [disclosures of wrongdoing](/services/disclosure-of-wrongdoing/overview/) from federal whistleblowers. OSC publishes the reports in cases referred for investigation under 5 U.S.C. 1213(c) in its public file. The redacted reports, whistleblower comments, and letter referring the allegations to the agency are posted in chronological order as they are transmitted to the President. ​
+lead: OSC receives and reviews [disclosures of wrongdoing](/services/disclosure-of-wrongdoing/overview/) from federal whistleblowers. OSC publishes the reports in cases referred for investigation under 5 U.S.C. 1213(c) in its public file. The redacted reports, whistleblower comments, and letter referring the allegations to the agency are posted in chronological order as they are transmitted to the President. 
 ---
 
 {%- assign case_records = collections.case | reverse -%}

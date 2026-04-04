@@ -1,21 +1,22 @@
 ---
+cms_editable: true
 title: Your USERRA Rights as an Employee
 eleventyNavigation:
   order: 1
   title: Your Rights As An Employee
 ---
 
-​Service members who are in the civilian workforce fall into one of the following employment categories:
+Service members who are in the civilian workforce fall into one of the following employment categories:
 
-1.  S​eeking civilian employment
+1.  Seeking civilian employment
 2.  Actively engaged in civilian employment
 3.  Preparing for military deployment
 4.  Away on military deployment
-5.  Returning from military deployment​
+5.  Returning from military deployment
 
 As employees move among these categories, different parts of USERRA may apply.
 
-1.  S​​​eeking civilian employment. When seeking employment, an applicant may not be discriminated against based on past, present, or future uniformed service. Examples of discrimination include:
+1.  Seeking civilian employment. When seeking employment, an applicant may not be discriminated against based on past, present, or future uniformed service. Examples of discrimination include:
     - A job-seeker not being considered for a job because he may have a military obligation on the day his employer wants him to start work;
     - A candidate not being considered for a job because some of her Reserve duties conflict with the company’s normal working hours.
     - A job-seeker not being considered for a job because he may be required to perform extended periods of military service with the National Guard or Reserves (i.e., a deployment overseas).
@@ -29,7 +30,7 @@ As employees move among these categories, different parts of USERRA may apply.
     - An employee not being awarded a employer-wide raise or bonus because he was away on military duty for any or all of the applicable rating period;
     - An employee being disciplined because he had to perform military duty during working hours.
 
-3.  Preparing for military deployment. Before starting her military service, an employee must notify her employer verbally or in writing if the service conflicts with work. While it is often easier to give notice well in advance, there is no specific time limit required. ​If the period of service is more than 30 days, the employee may be required to provide copies of military orders after the period of military duty ends if she wishes to resume working, unless doing so is impossible or impracticable. The employee may also be required to provide orders after a period of military duty ends if she requested to use any type of paid leave while away on military duty.
+3.  Preparing for military deployment. Before starting her military service, an employee must notify her employer verbally or in writing if the service conflicts with work. While it is often easier to give notice well in advance, there is no specific time limit required. If the period of service is more than 30 days, the employee may be required to provide copies of military orders after the period of military duty ends if she wishes to resume working, unless doing so is impossible or impracticable. The employee may also be required to provide orders after a period of military duty ends if she requested to use any type of paid leave while away on military duty.
 4.  Away on military deployment. USERRA provides a number of protections for employees who are absent from civilian work due to voluntary or involuntary uniformed service. The goal is to treat the absent employee the same as if he had never left for military duty. During these absences, the employee is deemed to be on a leave of absence or furlough, although he may use paid leave if desired. The employee must be given the same benefits that are generally provided to a non-military employee who goes on a furlough or leave of absence.
 
     Uniformed service absences include:
@@ -41,10 +42,10 @@ As employees move among these categories, different parts of USERRA may apply.
     - Fitness for duty or other required examination
 
 5.  Returning from military deployment. USERRA entitles most returning service members to reemployment after a period of service. Provided a service member meets the criteria set forth above, he or she must simply request reemployment or report back to work in a timely manner. The timeframe depends on how long the service member has been absent:
-    - For absences of 1-30 days, the service member is allowed time to travel home, plus 8 hours of rest, and must then report to work on the next working day.​
+    - For absences of 1-30 days, the service member is allowed time to travel home, plus 8 hours of rest, and must then report to work on the next working day.
     - For absences of 31-180 days, the service member has 14 days to contact the employer and request reemployment.
     - For absences of more than 180 days, the service member has 90 days to contact the employer and request reemployment.
-    - Extra time is allowed if the service member is recovering from an injury suffered during military service.​​
+    - Extra time is allowed if the service member is recovering from an injury suffered during military service.
 
     Once a request for reemployment is made, the service member must be reemployed promptly (if federally employed, he must be reemployed no later than 30 days after his request). If a service member does not make a timely request for reemployment, she is still entitled to prompt reemployment, but may be subject to discipline by her employer in the same manner as other employees with unauthorized absences.
 
@@ -60,7 +61,7 @@ Once a service member is reemployed, USERRA provides guidelines on what position
 
 In some cases, where the employee was absent for more than 90 days due to military service, the employer may choose to reassign the employee, but it must be to a job of similar seniority, status, and pay as the employee’s former position.
 
-Returning service members are also entitled to receive benefits and seniority as ​though they had remained continuously employed. For instance, if an employee works at a company for two years and then completes one year of military service before returning, her employer must treat her as though she had worked continuously for three years when calculating the following benefits:
+Returning service members are also entitled to receive benefits and seniority as though they had remained continuously employed. For instance, if an employee works at a company for two years and then completes one year of military service before returning, her employer must treat her as though she had worked continuously for three years when calculating the following benefits:
 
 - Paid leave (although no leave is accrued while the employee is absent)
 - Salary
@@ -68,4 +69,4 @@ Returning service members are also entitled to receive benefits and seniority as
 - Eligibility for promotions
 - Anything else that is tied to the employee’s longevity at the workplace
 
-In addition, returning service members have added job security. If they were absent for 31-180 days, they are protected against being terminated without cause for six months. If they were absent for more than 180 days, they are protected against being terminated without cause for one year. However, all returning service members can be terminated for cause at any time. USERRA does not protect service members if, for instance, they improperly miss work for reasons not related to their military service.​
+In addition, returning service members have added job security. If they were absent for 31-180 days, they are protected against being terminated without cause for six months. If they were absent for more than 180 days, they are protected against being terminated without cause for one year. However, all returning service members can be terminated for cause at any time. USERRA does not protect service members if, for instance, they improperly miss work for reasons not related to their military service.

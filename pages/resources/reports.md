@@ -1,247 +1,248 @@
 ---
+cms_editable: true
 title: Reports
 layout: layouts/resource-index
 eleventyNavigation:
   order: 5
 items:
-  - heading: "Annual Reports to Congress"
-    items:
-      - name: "FY 2024 Annual Report to Congress"
-        url: "/~assets/docs/fy-2024-annual-report-to-congress.pdf"
-      - name: "FY 2023 Annual Report to Congress"
-        url: "/~assets/docs/fy-2023-annual-report-to-congress.pdf"
-      - name: "FY 2022 Annual Report to Congress"
-        url: "/~assets/docs/fy-2022-annual-report-to-congress.pdf"
-      - name: "FY 2021 Annual Report to Congress"
-        url: "/~assets/docs/fy-2021-annual-report-to-congress.pdf"
-      - name: "FY 2020 Annual Report to Congress"
-        url: "/~assets/docs/fy-2020-annual-report-to-congress.pdf"
-      - name: "FY 2019 Annual Report to Congress"
-        url: "/~assets/docs/fy-2019-annual-report-to-congress.pdf"
-      - name: "FY 2018 Annual Report to Congress"
-        url: "/~assets/docs/fy-2018-annual-report-to-congress.pdf"
-      - name: "FY 2017 Annual Report to Congress"
-        url: "/~assets/docs/fy-2017-annual-report-to-congress.pdf"
-      - name: "FY 2016 Annual Report to Congress"
-        url: "/~assets/docs/fy-2016-annual-report-to-congress.pdf"
-      - name: "FY 2015 Annual Report to Congress"
-        url: "/~assets/docs/fy-2015-annual-report-to-congress.pdf"
-      - name: "FY 2014 Annual Report to Congress"
-        url: "/~assets/docs/fy-2014-annual-report-to-congress.pdf"
-      - name: "FY 2013 Annual Report to Congress"
-        url: "/~assets/docs/fy-2013-annual-report-to-congress.pdf"
-      - name: "FY 2012 Annual Report to Congress"
-        url: "/~assets/docs/fy-2012-annual-report-to-congress.pdf"
-      - name: "FY 2011 Annual Report to Congress"
-        url: "/~assets/docs/fy-2011-annual-report-to-congress.pdf"
-      - name: "FY 2010 Annual Report to Congress"
-        url: "/~assets/docs/fy-2010-annual-report-to-congress.pdf"
-      - name: "FY 2009 Annual Report to Congress"
-        url: "/~assets/docs/fy-2009-annual-report-to-congress.pdf"
-      - name: "FY 2008 Annual Report to Congress"
-        url: "/~assets/docs/fy-2008-annual-report-to-congress.pdf"
-      - name: "FY 2007 Annual Report to Congress"
-        url: "/~assets/docs/fy-2007-annual-report-to-congress.pdf"
-      - name: "FY 2006 Annual Report to Congress"
-        url: "/~assets/docs/fy-2006-annual-report-to-congress.pdf"
-      - name: "FY 2005 Annual Report to Congress"
-        url: "/~assets/docs/fy-2005-annual-report-to-congress.pdf"
-      - name: "FY 2004 Annual Report to Congress"
-        url: "/~assets/docs/fy-2004-annual-report-to-congress.pdf"
-      - name: "FY 2003 Annual Report to Congress"
-        url: "/~assets/docs/fy-2003-annual-report-to-congress.pdf"
-      - name: "FY 2002 Annual Report to Congress"
-        url: "/~assets/docs/fy-2002-annual-report-to-congress.pdf"
-      - name: "FY 2001 Annual Report to Congress"
-        url: "/~assets/docs/fy-2001-annual-report-to-congress.pdf"
-      - name: "FY 2000 Annual Report to Congress"
-        url: "/~assets/docs/fy-2000-annual-report-to-congress.pdf"
-      - name: "FY 1999 Annual Report to Congress"
-        url: "/~assets/docs/fy-1999-annual-report-to-congress.pdf"
-      - name: "FY 1997 Annual Report to Congress"
-        url: "/~assets/docs/fy-1997-annual-report-to-congress.pdf"
-      - name: "FY 1996 Annual Report to Congress"
-        url: "/~assets/docs/fy-1996-annual-report-to-congress.pdf"
-      - name: "FY 1995 Annual Report to Congress"
-        url: "/~assets/docs/fy-1995-annual-report-to-congress.pdf"
-      - name: "FY 1994 Annual Report to Congress"
-        url: "/~assets/docs/fy-1994-annual-report-to-congress.pdf"
-      - name: "FY 1993 Annual Report to Congress"
-        url: "/~assets/docs/fy-1993-annual-report-to-congress.pdf"
-      - name: "FY 1992 Annual Report to Congress"
-        url: "/~assets/docs/fy-1992-annual-report-to-congress.pdf"
-      - name: "FY 1991 Annual Report to Congress"
-        url: "/~assets/docs/fy-1991-annual-report-to-congress.pdf"
-      - name: "FY 1990 Annual Report to Congress"
-        url: "/~assets/docs/fy-1990-annual-report-to-congress.pdf"
-      - name: "FY 1989 Annual Report to Congress"
-        url: "/~assets/docs/fy-1989-annual-report-to-congress.pdf"
-      - name: "FY 1988 Annual Report to Congress"
-        url: "/~assets/docs/fy-1988-annual-report-to-congress.pdf"
-      - name: "FY 1987 Annual Report to Congress"
-        url: "/~assets/docs/fy-1987-annual-report-to-congress.pdf"
-      - name: "FY 1986 Annual Report to Congress"
-        url: "/~assets/docs/fy-1986-annual-report-to-congress.pdf"
-      - name: "FY 1985 Annual Report to Congress"
-        url: "/~assets/docs/fy-1985-annual-report-to-congress.pdf"
-      - name: "FY 1984 Annual Report to Congress"
-        url: "/~assets/docs/fy-1984-annual-report-to-congress.pdf"
-      - name: "FY 1983 Annual Report to Congress"
-        url: "/~assets/docs/fy-1983-annual-report-to-congress.pdf"
-      - name: "FY 1982 Annual Report to Congress"
-        url: "/~assets/docs/fy-1982-annual-report-to-congress.pdf"
-      - name: "FY 1981 Annual Report to Congress"
-        url: "/~assets/docs/fy-1981-annual-report-to-congress.pdf"
-      - name: "FY 1980 Annual Report to Congress"
-        url: "/~assets/docs/fy-1980-annual-report-to-congress.pdf"
-      - name: "FY 1979 Annual Report to Congress"
-        url: "/~assets/docs/fy-1979-annual-report-to-congress.pdf"
-  - heading: "Congressional Budget Justifications"
-    items:
+  - heading: Annual Reports to Congress
+    links:
+      - name: FY 2024 Annual Report to Congress
+        url: /~assets/docs/fy-2024-annual-report-to-congress.pdf
+      - name: FY 2023 Annual Report to Congress
+        url: /~assets/docs/fy-2023-annual-report-to-congress.pdf
+      - name: FY 2022 Annual Report to Congress
+        url: /~assets/docs/fy-2022-annual-report-to-congress.pdf
+      - name: FY 2021 Annual Report to Congress
+        url: /~assets/docs/fy-2021-annual-report-to-congress.pdf
+      - name: FY 2020 Annual Report to Congress
+        url: /~assets/docs/fy-2020-annual-report-to-congress.pdf
+      - name: FY 2019 Annual Report to Congress
+        url: /~assets/docs/fy-2019-annual-report-to-congress.pdf
+      - name: FY 2018 Annual Report to Congress
+        url: /~assets/docs/fy-2018-annual-report-to-congress.pdf
+      - name: FY 2017 Annual Report to Congress
+        url: /~assets/docs/fy-2017-annual-report-to-congress.pdf
+      - name: FY 2016 Annual Report to Congress
+        url: /~assets/docs/fy-2016-annual-report-to-congress.pdf
+      - name: FY 2015 Annual Report to Congress
+        url: /~assets/docs/fy-2015-annual-report-to-congress.pdf
+      - name: FY 2014 Annual Report to Congress
+        url: /~assets/docs/fy-2014-annual-report-to-congress.pdf
+      - name: FY 2013 Annual Report to Congress
+        url: /~assets/docs/fy-2013-annual-report-to-congress.pdf
+      - name: FY 2012 Annual Report to Congress
+        url: /~assets/docs/fy-2012-annual-report-to-congress.pdf
+      - name: FY 2011 Annual Report to Congress
+        url: /~assets/docs/fy-2011-annual-report-to-congress.pdf
+      - name: FY 2010 Annual Report to Congress
+        url: /~assets/docs/fy-2010-annual-report-to-congress.pdf
+      - name: FY 2009 Annual Report to Congress
+        url: /~assets/docs/fy-2009-annual-report-to-congress.pdf
+      - name: FY 2008 Annual Report to Congress
+        url: /~assets/docs/fy-2008-annual-report-to-congress.pdf
+      - name: FY 2007 Annual Report to Congress
+        url: /~assets/docs/fy-2007-annual-report-to-congress.pdf
+      - name: FY 2006 Annual Report to Congress
+        url: /~assets/docs/fy-2006-annual-report-to-congress.pdf
+      - name: FY 2005 Annual Report to Congress
+        url: /~assets/docs/fy-2005-annual-report-to-congress.pdf
+      - name: FY 2004 Annual Report to Congress
+        url: /~assets/docs/fy-2004-annual-report-to-congress.pdf
+      - name: FY 2003 Annual Report to Congress
+        url: /~assets/docs/fy-2003-annual-report-to-congress.pdf
+      - name: FY 2002 Annual Report to Congress
+        url: /~assets/docs/fy-2002-annual-report-to-congress.pdf
+      - name: FY 2001 Annual Report to Congress
+        url: /~assets/docs/fy-2001-annual-report-to-congress.pdf
+      - name: FY 2000 Annual Report to Congress
+        url: /~assets/docs/fy-2000-annual-report-to-congress.pdf
+      - name: FY 1999 Annual Report to Congress
+        url: /~assets/docs/fy-1999-annual-report-to-congress.pdf
+      - name: FY 1997 Annual Report to Congress
+        url: /~assets/docs/fy-1997-annual-report-to-congress.pdf
+      - name: FY 1996 Annual Report to Congress
+        url: /~assets/docs/fy-1996-annual-report-to-congress.pdf
+      - name: FY 1995 Annual Report to Congress
+        url: /~assets/docs/fy-1995-annual-report-to-congress.pdf
+      - name: FY 1994 Annual Report to Congress
+        url: /~assets/docs/fy-1994-annual-report-to-congress.pdf
+      - name: FY 1993 Annual Report to Congress
+        url: /~assets/docs/fy-1993-annual-report-to-congress.pdf
+      - name: FY 1992 Annual Report to Congress
+        url: /~assets/docs/fy-1992-annual-report-to-congress.pdf
+      - name: FY 1991 Annual Report to Congress
+        url: /~assets/docs/fy-1991-annual-report-to-congress.pdf
+      - name: FY 1990 Annual Report to Congress
+        url: /~assets/docs/fy-1990-annual-report-to-congress.pdf
+      - name: FY 1989 Annual Report to Congress
+        url: /~assets/docs/fy-1989-annual-report-to-congress.pdf
+      - name: FY 1988 Annual Report to Congress
+        url: /~assets/docs/fy-1988-annual-report-to-congress.pdf
+      - name: FY 1987 Annual Report to Congress
+        url: /~assets/docs/fy-1987-annual-report-to-congress.pdf
+      - name: FY 1986 Annual Report to Congress
+        url: /~assets/docs/fy-1986-annual-report-to-congress.pdf
+      - name: FY 1985 Annual Report to Congress
+        url: /~assets/docs/fy-1985-annual-report-to-congress.pdf
+      - name: FY 1984 Annual Report to Congress
+        url: /~assets/docs/fy-1984-annual-report-to-congress.pdf
+      - name: FY 1983 Annual Report to Congress
+        url: /~assets/docs/fy-1983-annual-report-to-congress.pdf
+      - name: FY 1982 Annual Report to Congress
+        url: /~assets/docs/fy-1982-annual-report-to-congress.pdf
+      - name: FY 1981 Annual Report to Congress
+        url: /~assets/docs/fy-1981-annual-report-to-congress.pdf
+      - name: FY 1980 Annual Report to Congress
+        url: /~assets/docs/fy-1980-annual-report-to-congress.pdf
+      - name: FY 1979 Annual Report to Congress
+        url: /~assets/docs/fy-1979-annual-report-to-congress.pdf
+  - heading: Congressional Budget Justifications
+    links:
       - name: "FY 2027 Congressional Budget Justification"
         url: "/~assets/docs/fy-2027-congressional-budget-justification.pdf"
-      - name: "FY 2026 Congressional Budget Justification"
-        url: "/~assets/docs/fy-2026-congressional-budget-justification.pdf"
-      - name: "FY 2024 Congressional Budget Justification"
-        url: "/~assets/docs/fy-2024-congressional-budget-justification.pdf"
-      - name: "FY 2023 Congressional Budget Justification"
-        url: "/~assets/docs/fy-2023-congressional-budget-justification.pdf"
-      - name: "FY 2022 Congressional Budget Justification"
-        url: "/~assets/docs/fy-2022-congressional-budget-justification.pdf"
-      - name: "FY 2021 Congressional Budget Justification"
-        url: "/~assets/docs/fy-2021-congressional-budget-justification.pdf"
-      - name: "FY 2020 Congressional Budget Justification"
-        url: "/~assets/docs/fy-2020-congressional-budget-justification.pdf"
-      - name: "FY 2019 Congressional Budget Justification"
-        url: "/~assets/docs/fy-2019-congressional-budget-justification.pdf"
-      - name: "FY 2018 Congressional Budget Justification"
-        url: "/~assets/docs/fy-2018-congressional-budget-justification.pdf"
-      - name: "FY 2017 Congressional Budget Justification"
-        url: "/~assets/docs/fy-2017-congressional-budget-justification.pdf"
-      - name: "FY 2016 Congressional Budget Justification"
-        url: "/~assets/docs/fy-2016-congressional-budget-justification.pdf"
-      - name: "FY 2015 Congressional Budget Justification"
-        url: "/~assets/docs/fy-2015-congressional-budget-justification.pdf"
-      - name: "FY 2014 Congressional Budget Justification"
-        url: "/~assets/docs/fy-2014-congressional-budget-justification.pdf"
-      - name: "FY 2013 Congressional Budget Justification"
-        url: "/~assets/docs/fy-2013-congressional-budget-justification.pdf"
-      - name: "FY 2012 Congressional Budget Justification"
-        url: "/~assets/docs/fy-2012-congressional-budget-justification.pdf"
-      - name: "FY 2011 Congressional Budget Justification"
-        url: "/~assets/docs/fy-2011-congressional-budget-justification.pdf"
-      - name: "FY 2010 Congressional Budget Justification"
-        url: "/~assets/docs/fy-2010-congressional-budget-justification.pdf"
-      - name: "FY 2009 Congressional Budget Justification"
-        url: "/~assets/docs/fy-2009-congressional-budget-justification.pdf"
-      - name: "FY 2008 Congressional Budget Justification"
-        url: "/~assets/docs/fy-2008-congressional-budget-justification.pdf"
-      - name: "FY 2007 Congressional Budget Justification"
-        url: "/~assets/docs/fy-2007-congressional-budget-justification.pdf"
-  - heading: "Information Quality Reports"
-    items:
-      - name: "Information Quality (Oct 2 2002)"
-        url: "/~assets/docs/information-quality-oct-2-2002.pdf"
-      - name: "Information Quality (July 8 2002)"
-        url: "/~assets/docs/information-quality-july-8-2002.pdf"
-  - heading: "No FEAR Act Reports and EEO Reports"
-    items:
-      - name: "No FEAR Act Quarterly Data Q3 2025"
-        url: "/~assets/docs/no-fear-act-quarterly-data-q3-2025.pdf"
-  - heading: "Federal Activities Inventory Reform (FAIR) Act Reports"
-    items:
-      - name: "FAIR Act Inventory 2024"
-        url: "/~assets/docs/fair-act-inventory-2024.pdf"
-      - name: "FAIR Act Inventory Data FY 2021"
-        url: "/~assets/docs/fair-act-inventory-data-fy-2021.pdf"
-      - name: "FAIR Act Inventory Data FY 2019"
-        url: "/~assets/docs/fair-act-inventory-data-fy-2019.pdf"
-      - name: "FAIR Act Inventory Data FY 2016"
-        url: "/~assets/docs/fair-act-inventory-data-fy-2016.pdf"
-      - name: "FAIR Act Inventory Data FY 2007"
-        url: "/~assets/docs/fair-act-inventory-data-fy-2007.pdf"
-      - name: "FAIR Act Inventory Data FY 2005"
-        url: "/~assets/docs/fair-act-inventory-data-fy-2005.pdf"
-      - name: "FAIR Act Inventory Data FY 2004"
-        url: "/~assets/docs/fair-act-inventory-data-fy-2004.pdf"
-  - heading: "Strategic Plans and Performance Reports"
-    items:
+      - name: FY 2026 Congressional Budget Justification
+        url: /~assets/docs/fy-2026-congressional-budget-justification.pdf
+      - name: FY 2024 Congressional Budget Justification
+        url: /~assets/docs/fy-2024-congressional-budget-justification.pdf
+      - name: FY 2023 Congressional Budget Justification
+        url: /~assets/docs/fy-2023-congressional-budget-justification.pdf
+      - name: FY 2022 Congressional Budget Justification
+        url: /~assets/docs/fy-2022-congressional-budget-justification.pdf
+      - name: FY 2021 Congressional Budget Justification
+        url: /~assets/docs/fy-2021-congressional-budget-justification.pdf
+      - name: FY 2020 Congressional Budget Justification
+        url: /~assets/docs/fy-2020-congressional-budget-justification.pdf
+      - name: FY 2019 Congressional Budget Justification
+        url: /~assets/docs/fy-2019-congressional-budget-justification.pdf
+      - name: FY 2018 Congressional Budget Justification
+        url: /~assets/docs/fy-2018-congressional-budget-justification.pdf
+      - name: FY 2017 Congressional Budget Justification
+        url: /~assets/docs/fy-2017-congressional-budget-justification.pdf
+      - name: FY 2016 Congressional Budget Justification
+        url: /~assets/docs/fy-2016-congressional-budget-justification.pdf
+      - name: FY 2015 Congressional Budget Justification
+        url: /~assets/docs/fy-2015-congressional-budget-justification.pdf
+      - name: FY 2014 Congressional Budget Justification
+        url: /~assets/docs/fy-2014-congressional-budget-justification.pdf
+      - name: FY 2013 Congressional Budget Justification
+        url: /~assets/docs/fy-2013-congressional-budget-justification.pdf
+      - name: FY 2012 Congressional Budget Justification
+        url: /~assets/docs/fy-2012-congressional-budget-justification.pdf
+      - name: FY 2011 Congressional Budget Justification
+        url: /~assets/docs/fy-2011-congressional-budget-justification.pdf
+      - name: FY 2010 Congressional Budget Justification
+        url: /~assets/docs/fy-2010-congressional-budget-justification.pdf
+      - name: FY 2009 Congressional Budget Justification
+        url: /~assets/docs/fy-2009-congressional-budget-justification.pdf
+      - name: FY 2008 Congressional Budget Justification
+        url: /~assets/docs/fy-2008-congressional-budget-justification.pdf
+      - name: FY 2007 Congressional Budget Justification
+        url: /~assets/docs/fy-2007-congressional-budget-justification.pdf
+  - heading: Information Quality Reports
+    links:
+      - name: Information Quality (Oct 2 2002)
+        url: /~assets/docs/information-quality-oct-2-2002.pdf
+      - name: Information Quality (July 8 2002)
+        url: /~assets/docs/information-quality-july-8-2002.pdf
+  - heading: No FEAR Act Reports and EEO Reports
+    links:
+      - name: No FEAR Act Quarterly Data Q3 2025
+        url: /~assets/docs/no-fear-act-quarterly-data-q3-2025.pdf
+  - heading: Federal Activities Inventory Reform (FAIR) Act Reports
+    links:
+      - name: FAIR Act Inventory 2024
+        url: /~assets/docs/fair-act-inventory-2024.pdf
+      - name: FAIR Act Inventory Data FY 2021
+        url: /~assets/docs/fair-act-inventory-data-fy-2021.pdf
+      - name: FAIR Act Inventory Data FY 2019
+        url: /~assets/docs/fair-act-inventory-data-fy-2019.pdf
+      - name: FAIR Act Inventory Data FY 2016
+        url: /~assets/docs/fair-act-inventory-data-fy-2016.pdf
+      - name: FAIR Act Inventory Data FY 2007
+        url: /~assets/docs/fair-act-inventory-data-fy-2007.pdf
+      - name: FAIR Act Inventory Data FY 2005
+        url: /~assets/docs/fair-act-inventory-data-fy-2005.pdf
+      - name: FAIR Act Inventory Data FY 2004
+        url: /~assets/docs/fair-act-inventory-data-fy-2004.pdf
+  - heading: Strategic Plans and Performance Reports
+    links:
       - name: "Strategic Plan FY 2026-2030"
         url: "/~assets/docs/fy-2026-2030-strategic-plan.pdf"
-      - name: "FY 2024 Performance and Accountability Report"
-        url: "/~assets/docs/fy-2024-performance-and-accountability-report.pdf"
-      - name: "FY 2023 Performance and Accountability Report"
-        url: "/~assets/docs/fy-2023-performance-and-accountability-report.pdf"
-      - name: "FY 2022 Performance and Accountability Report"
-        url: "/~assets/docs/fy-2022-performance-and-accountability-report.pdf"
-      - name: "Strategic Plan FY 2022-FY 2026"
-        url: "/~assets/docs/strategic-plan-fy-2022-fy-2026.pdf"
-      - name: "FY 2021 Performance and Accountability Report"
-        url: "/~assets/docs/fy-2021-performance-and-accountability-report.pdf"
-      - name: "FY 2020 Performance and Accountability Report"
-        url: "/~assets/docs/fy-2020-performance-and-accountability-report.pdf"
-      - name: "FY 2019 Performance and Accountability Report"
-        url: "/~assets/docs/fy-2019-performance-and-accountability-report.pdf"
-      - name: "FY 2018 Performance and Accountability Report"
-        url: "/~assets/docs/fy-2018-performance-and-accountability-report.pdf"
-      - name: "FY 2016 Performance and Accountability Report"
-        url: "/~assets/docs/fy-2016-performance-and-accountability-report.pdf"
-      - name: "FY 2015 Performance and Accountability Report"
-        url: "/~assets/docs/fy-2015-performance-and-accountability-report.pdf"
-      - name: "FY 2014 Performance and Accountability Report"
-        url: "/~assets/docs/fy-2014-performance-and-accountability-report.pdf"
-      - name: "FY 2013 Performance and Accountability Report"
-        url: "/~assets/docs/fy-2013-performance-and-accountability-report.pdf"
-      - name: "FY 2012 Performance and Accountability Report"
-        url: "/~assets/docs/fy-2012-performance-and-accountability-report.pdf"
-      - name: "FY 2011 Performance and Accountability Report"
-        url: "/~assets/docs/fy-2011-performance-and-accountability-report.pdf"
-      - name: "FY 2010 Performance and Accountability Report"
-        url: "/~assets/docs/fy-2010-performance-and-accountability-report.pdf"
-      - name: "FY 2010 Summary of Performance and Financial Information"
-        url: "/~assets/docs/fy-2010-summary-of-performance-and-financial-information.pdf"
-      - name: "FY 2009 Performance and Accountability Report"
-        url: "/~assets/docs/fy-2009-performance-and-accountability-report.pdf"
-      - name: "FY 2008 Performance and Accountability Report"
-        url: "/~assets/docs/fy-2008-performance-and-accountability-report.pdf"
-      - name: "FY 2007 Performance and Accountability Report"
-        url: "/~assets/docs/fy-2007-performance-and-accountability-report.pdf"
-      - name: "FY 2006 Performance and Accountability Report"
-        url: "/~assets/docs/fy-2006-performance-and-accountability-report.pdf"
-      - name: "FY 2005 Performance and Accountability Report"
-        url: "/~assets/docs/fy-2005-performance-and-accountability-report.pdf"
-      - name: "FY 2004 Performance and Accountability Report"
-        url: "/~assets/docs/fy-2004-performance-and-accountability-report.pdf"
-      - name: "OSC Annual Performance Plan (FY 2002)"
-        url: "/~assets/docs/osc-annual-performance-plan-fy-2002.pdf"
-      - name: "OSC Annual Performance Report (FY 2002)"
-        url: "/~assets/docs/osc-annual-performance-report-fy-2002.pdf"
-      - name: "OSC Annual Performance Report (FY 2001)"
-        url: "/~assets/docs/osc-annual-performance-report-fy-2001.pdf"
-      - name: "OSC Annual Performance Report (FY 2000)"
-        url: "/~assets/docs/osc-annual-performance-report-fy-2000.pdf"
-      - name: "OSC Annual Performance Report (FY 1999)"
-        url: "/~assets/docs/osc-annual-performance-report-fy-1999.pdf"
-      - name: "Strategic Plan FY2012-2016"
-        url: "/~assets/docs/strategic-plan-fy2012-2016.pdf"
-      - name: "Strategic Plan FY2017-2022"
-        url: "/~assets/docs/strategic-plan-fy2017-2022.pdf"
-  - heading: "Other Reports"
-    items:
-      - name: "OSC Lapse Plan September 2025"
-        url: "/~assets/docs/osc-lapse-plan-september-2025.pdf"
-      - name: "ADR Mediation Survey Follow-Up"
-        url: "/~assets/docs/adr-mediation-survey-follow-up.docx"
-      - name: "ADR Mediation Survey"
-        url: "/~assets/docs/adr-mediation-survey.docx"
-      - name: "OSC Excepted Employee List 24 September 2021"
-        url: "/~assets/docs/osc-excepted-employee-list-24-september-2021.pdf"
-      - name: "Proposed OSC 2021 PPP-RDU Annual Survey"
-        url: "/~assets/docs/proposed-osc-2021-ppp-rdu-annual-survey.pdf"
-      - name: "Proposed OSC USERRA 2021 ANNUAL SURVEY QUESTIONS"
-        url: "/~assets/docs/proposed-osc-userra-2021-annual-survey-questions.pdf"
-      - name: "Proposed OSC Disclosure unit 2021 ANNUAL SURVEY QUESTIONS"
-        url: "/~assets/docs/proposed-osc-disclosure-unit-2021-annual-survey-questions.pdf"
-      - name: "ADR Program Evaluation March 2020"
-        url: "/~assets/docs/adr-program-evaluation-march-2020.pdf"
+      - name: FY 2024 Performance and Accountability Report
+        url: /~assets/docs/fy-2024-performance-and-accountability-report.pdf
+      - name: FY 2023 Performance and Accountability Report
+        url: /~assets/docs/fy-2023-performance-and-accountability-report.pdf
+      - name: FY 2022 Performance and Accountability Report
+        url: /~assets/docs/fy-2022-performance-and-accountability-report.pdf
+      - name: Strategic Plan FY 2022-FY 2026
+        url: /~assets/docs/strategic-plan-fy-2022-fy-2026.pdf
+      - name: FY 2021 Performance and Accountability Report
+        url: /~assets/docs/fy-2021-performance-and-accountability-report.pdf
+      - name: FY 2020 Performance and Accountability Report
+        url: /~assets/docs/fy-2020-performance-and-accountability-report.pdf
+      - name: FY 2019 Performance and Accountability Report
+        url: /~assets/docs/fy-2019-performance-and-accountability-report.pdf
+      - name: FY 2018 Performance and Accountability Report
+        url: /~assets/docs/fy-2018-performance-and-accountability-report.pdf
+      - name: FY 2016 Performance and Accountability Report
+        url: /~assets/docs/fy-2016-performance-and-accountability-report.pdf
+      - name: FY 2015 Performance and Accountability Report
+        url: /~assets/docs/fy-2015-performance-and-accountability-report.pdf
+      - name: FY 2014 Performance and Accountability Report
+        url: /~assets/docs/fy-2014-performance-and-accountability-report.pdf
+      - name: FY 2013 Performance and Accountability Report
+        url: /~assets/docs/fy-2013-performance-and-accountability-report.pdf
+      - name: FY 2012 Performance and Accountability Report
+        url: /~assets/docs/fy-2012-performance-and-accountability-report.pdf
+      - name: FY 2011 Performance and Accountability Report
+        url: /~assets/docs/fy-2011-performance-and-accountability-report.pdf
+      - name: FY 2010 Performance and Accountability Report
+        url: /~assets/docs/fy-2010-performance-and-accountability-report.pdf
+      - name: FY 2010 Summary of Performance and Financial Information
+        url: /~assets/docs/fy-2010-summary-of-performance-and-financial-information.pdf
+      - name: FY 2009 Performance and Accountability Report
+        url: /~assets/docs/fy-2009-performance-and-accountability-report.pdf
+      - name: FY 2008 Performance and Accountability Report
+        url: /~assets/docs/fy-2008-performance-and-accountability-report.pdf
+      - name: FY 2007 Performance and Accountability Report
+        url: /~assets/docs/fy-2007-performance-and-accountability-report.pdf
+      - name: FY 2006 Performance and Accountability Report
+        url: /~assets/docs/fy-2006-performance-and-accountability-report.pdf
+      - name: FY 2005 Performance and Accountability Report
+        url: /~assets/docs/fy-2005-performance-and-accountability-report.pdf
+      - name: FY 2004 Performance and Accountability Report
+        url: /~assets/docs/fy-2004-performance-and-accountability-report.pdf
+      - name: OSC Annual Performance Plan (FY 2002)
+        url: /~assets/docs/osc-annual-performance-plan-fy-2002.pdf
+      - name: OSC Annual Performance Report (FY 2002)
+        url: /~assets/docs/osc-annual-performance-report-fy-2002.pdf
+      - name: OSC Annual Performance Report (FY 2001)
+        url: /~assets/docs/osc-annual-performance-report-fy-2001.pdf
+      - name: OSC Annual Performance Report (FY 2000)
+        url: /~assets/docs/osc-annual-performance-report-fy-2000.pdf
+      - name: OSC Annual Performance Report (FY 1999)
+        url: /~assets/docs/osc-annual-performance-report-fy-1999.pdf
+      - name: Strategic Plan FY2012-2016
+        url: /~assets/docs/strategic-plan-fy2012-2016.pdf
+      - name: Strategic Plan FY2017-2022
+        url: /~assets/docs/strategic-plan-fy2017-2022.pdf
+  - heading: Other Reports
+    links:
+      - name: OSC Lapse Plan September 2025
+        url: /~assets/docs/osc-lapse-plan-september-2025.pdf
+      - name: ADR Mediation Survey Follow-Up
+        url: /~assets/docs/adr-mediation-survey-follow-up.docx
+      - name: ADR Mediation Survey
+        url: /~assets/docs/adr-mediation-survey.docx
+      - name: OSC Excepted Employee List 24 September 2021
+        url: /~assets/docs/osc-excepted-employee-list-24-september-2021.pdf
+      - name: Proposed OSC 2021 PPP-RDU Annual Survey
+        url: /~assets/docs/proposed-osc-2021-ppp-rdu-annual-survey.pdf
+      - name: Proposed OSC USERRA 2021 ANNUAL SURVEY QUESTIONS
+        url: /~assets/docs/proposed-osc-userra-2021-annual-survey-questions.pdf
+      - name: Proposed OSC Disclosure unit 2021 ANNUAL SURVEY QUESTIONS
+        url: /~assets/docs/proposed-osc-disclosure-unit-2021-annual-survey-questions.pdf
+      - name: ADR Program Evaluation March 2020
+        url: /~assets/docs/adr-program-evaluation-march-2020.pdf
 ---

@@ -1,4 +1,5 @@
 ---
+cms_editable: true
 title: Additional Resources for USERRA
 layout: layouts/resource-index
 eleventyNavigation:
@@ -6,7 +7,7 @@ eleventyNavigation:
   title: Additional Resources
 items:
   - heading: USERRA Resources
-    items:
+    links:
       - name: USERRA Statute
         url: https://uscode.house.gov/view.xhtml?path=/prelim@title38/part3/chapter43&edition=prelim
       - name: USERRA Regulations for Federal Agencies
@@ -23,7 +24,6 @@ items:
         url: https://www.justice.gov/servicemembers
       - name: Feds Hire Vets
         url: http://www.fedshirevets.gov/
-        description: A U.S. Office of Personnel Management website to assist veterans who want to find a job in the federal government.
 ---
 
 ## USERRA Overview Video

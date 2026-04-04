@@ -1,4 +1,5 @@
 ---
+cms_editable: true
 title: Prohibited Personnel Practices FAQs
 layout: layouts/faq-accordion
 faqs:

@@ -1,4 +1,5 @@
 ---
+cms_editable: true
 title: Disclosure of Wrongdoing FAQs
 layout: layouts/faq-accordion
 faqs:

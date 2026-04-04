@@ -1,4 +1,5 @@
 ---
+cms_editable: true
 title: 2302(c) Certification Process
 layout: layouts/faq-accordion
 eleventyNavigation:

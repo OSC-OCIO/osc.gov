@@ -1,4 +1,5 @@
 ---
+cms_editable: true
 title: Privacy Resources
 layout: layouts/resource-index
 eleventyNavigation:
@@ -6,7 +7,7 @@ eleventyNavigation:
   title: Resources
 items:
   - heading: Privacy Guidance
-    items:
+    links:
       - name: Office of Management and Budget Privacy Guidance
         url: https://www.whitehouse.gov/omb/information-regulatory-affairs/privacy/
       - name: Department of Justice Guide to the Privacy Act
@@ -22,7 +23,7 @@ items:
       - name: Privacy Act Statement
         url: https://www.saferfederalworkforce.gov/downloads/VaccinationPAS4.pdf
   - heading: Comments to 2022 Regulations
-    items:
+    links:
       - name: Ravnitsky FY 2022 Proposed Regulation Comments
         url: /~assets/docs/ravnitsky-fy2022-proposed-reg-comments.pdf
       - name: OSC Privacy Act Comment

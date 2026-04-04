@@ -1,4 +1,5 @@
 ---
+cms_editable: true
 title: Privacy Policies & Reports
 layout: layouts/resource-index
 eleventyNavigation:
@@ -6,7 +7,7 @@ eleventyNavigation:
   title: Policies & Reports
 items:
   - heading: Privacy Program Reports
-    items:
+    links:
       - name: OSC’s Privacy Regulations – October 2007
         url: /~assets/docs/oscs-privacy-regulations-october-2007.pdf
       - name: OSC's Privacy Regulation - October 2022.pdf
@@ -15,7 +16,7 @@ items:
 
 Thank you for visiting the U.S. Office of Special Counsel (OSC) Web site, and for reviewing our Internet privacy policy. The privacy policy, in brief, is clear: We collect no personal information about you when you visit this site unless you choose to provide it to us. Any information that we receive depends upon what you do when you visit the site. Further details of the policy are provided below.
 
-#### ​Our Internet Privacy Policy Is:
+#### Our Internet Privacy Policy Is:
 
 - You do not have to give us personal information to visit our site.
 
@@ -38,12 +39,12 @@ We use this information for statistical purposes (e.g., to determine the number 
 
 - **. . . to read or download information:** You do not have to give us your name or other personal information. Our system will collect and store information about your visit for statistical purposes, in connection with analyses of and reports on usage of the site.
 - **. . . to download forms:** When you download a form, a Privacy Act statement about our use of any information that you may provide appears on the form. \[Note: Forms cannot be completed and sent to us directly from our Web site. If you want to use a form found on the site, you need to download the form and mail it to OSC.\]
-- **. . . to send us an e-mail:** In sending an e-mail request for an advisory opinion to the OSC Hatch Act Unit, or a question to the USERRA coordinator, you may be providing us with personal information in the caption or body of the message (e.g. your name, address, e-mail address). We may use that information to research and respond to your message. \(Note: E-mail is not necessarily​ secure against interception. If your communication is very sensitive, or includes sensitive information, such as your social security number, you might want to send it by postal mail instead.)
+- **. . . to send us an e-mail:** In sending an e-mail request for an advisory opinion to the OSC Hatch Act Unit, or a question to the USERRA coordinator, you may be providing us with personal information in the caption or body of the message (e.g. your name, address, e-mail address). We may use that information to research and respond to your message. \(Note: E-mail is not necessarily secure against interception. If your communication is very sensitive, or includes sensitive information, such as your social security number, you might want to send it by postal mail instead.)
 
-**REGARDLESS OF ANY INFORMATION SENT TO OSC, WE WILL PROTECT THE INFORMATION CONSISTENT WITH APPLICABLE FEDERAL LAW.​​**
+**REGARDLESS OF ANY INFORMATION SENT TO OSC, WE WILL PROTECT THE INFORMATION CONSISTENT WITH APPLICABLE FEDERAL LAW.**
 
-## Privacy Act Implementation Rule​s and Exemptions to the Privacy Act​​​​​​
+## Privacy Act Implementation Rules and Exemptions to the Privacy Act
 
 - [OSC's Privacy Act Implementation rules: See 5 C.F.R. part 1830](https://www.federalregister.gov/documents/2007/10/04/E7-19571/privacy-act-of-1974-implementation).
-- See here for [**instructions on submitting a Privacy Act and/or a Freedom of Information Act (FOIA) request**](/about/foia/) . ​
+- See here for [**instructions on submitting a Privacy Act and/or a Freedom of Information Act (FOIA) request**](/about/foia/) . 
 - [Federal Register](https://www.federalregister.gov/documents/2022/10/19/2022-22155/prohibited-personnel-practices-disclosures-of-information-evidencing-wrongdoing-foia-production-of)

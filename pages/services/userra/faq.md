@@ -1,4 +1,5 @@
 ---
+cms_editable: true
 title: USERRA FAQs
 layout: layouts/faq-accordion
 faqs:

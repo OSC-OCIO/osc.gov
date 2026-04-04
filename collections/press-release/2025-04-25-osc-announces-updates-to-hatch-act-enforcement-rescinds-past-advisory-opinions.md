@@ -15,14 +15,14 @@ Third, OSC is discarding the “year-round workplace political item prohibition"
 
 The updates summarized above are detailed in the April 25 Advisory Opinion available [here](/~assets/docs/osc-advisory-opinion-rescinding-may-20-2024-advisory.pdf).
 
-​
+
 _12/22/2025 Update_
 
-​As a result of litigation before the MSPB, OSC has provided an update to this guidance [here](/~assets/docs/25.12.22-advisory-regarding-jurisdiction-over-former-employees.pdf).
+As a result of litigation before the MSPB, OSC has provided an update to this guidance [here](/~assets/docs/25.12.22-advisory-regarding-jurisdiction-over-former-employees.pdf).
 
 _4/28/2025 Supplemental Notes_
 
-​The May 20, 2024 and October 15, 2024 advisory opinions were departures from precedent supported by numerous Special Counsels who had been appointed by multiple administrations over many years.
+The May 20, 2024 and October 15, 2024 advisory opinions were departures from precedent supported by numerous Special Counsels who had been appointed by multiple administrations over many years.
 
 Historically, OSC has consistently maintained that only the President has the authority to discipline White House commissioned officers for violations of the Hatch Act because OSC determined that taking White House commissioned officers before the Merit Systems Protection Board (MSPB) would create a conflict with the President's appointment authority under 3 U.S. Code § 105. Accordingly, OSC issues reports to the President rather than filing disciplinary actions with the MSPB. In 2024, OSC decided to have the MSPB make its own determination on its authority and filed a disciplinary action with the MSPB against a White House commissioned officer. As noted in its April 25, 2025 Advisory Opinion, OSC is now reinstituting its longstanding practice of reporting violations by commissioned officers to the President, with a recommendation for discipline. For all other federal employees who are not commissioned officers or Senate-confirmed Presidential appointees, OSC will continue to seek disciplinary action before the MSPB.
 

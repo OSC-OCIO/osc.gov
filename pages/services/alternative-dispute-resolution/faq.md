@@ -1,4 +1,5 @@
 ---
+cms_editable: true
 title: Alternative Dispute Resolution FAQs
 layout: layouts/faq-accordion
 faqs:

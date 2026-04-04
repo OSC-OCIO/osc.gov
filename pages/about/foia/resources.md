@@ -1,4 +1,5 @@
 ---
+cms_editable: true
 title: FOIA Resources
 layout: layouts/resource-index
 eleventyNavigation:
@@ -6,7 +7,7 @@ eleventyNavigation:
   title: Resources
 items:
   - heading: FOIA Guidance and Training
-    items:
+    links:
       - name: Department of Justice Guide to the Freedom of Information Act
         url: https://www.justice.gov/oip/doj-guide-freedom-information-act-0
       - name: Office of Information Policy FOIA Guidance

@@ -1,4 +1,5 @@
 ---
+cms_editable: true
 title: Amicus Working Group
 layout: layouts/faq-accordion
 eleventyNavigation:
@@ -33,7 +34,7 @@ faqs:
           - [MacLean v Dept of Homeland Security](/~assets/docs/osc-amicus-curiae-brief-in-maclean-v-department-of-homeland-securi-43b4dfb6.pdf)
 ---
 
-​​OSC's Amicus Working Group (AWG) seeks to make effective use of *amicus curiae* (friend of the court) briefs before the Merit Systems Protection Board and in federal courts. An *amicus curiae* brief is a legal argument provided to a court by a person or group who is not a party to the case, but who could be affected by the legal questions it raises.
+OSC's Amicus Working Group (AWG) seeks to make effective use of *amicus curiae* (friend of the court) briefs before the Merit Systems Protection Board and in federal courts. An *amicus curiae* brief is a legal argument provided to a court by a person or group who is not a party to the case, but who could be affected by the legal questions it raises.
 
 Since its inception, the AWG has strategically filed *amicus curiae* briefs where OSC's unique perspective may help to develop or clarify the law, particularly in appeals involving claims of retaliation for whistleblowing or engaging in other protected activities, as defined under 5 U.S.C. § 2302(b)(8) and (b)(9). Legal issues of interest to the AWG include, but are not limited to:
 
@@ -50,4 +51,4 @@ Since its inception, the AWG has strategically filed *amicus curiae* briefs wh
 4.  Why you are seeking OSC's assistance, including a description of any novel or important legal issue in the proceeding. 
 
    
-Please note that the AWG cannot represent an employee in their appeal or provide legal advice. We do, however, make previous amicus curiae briefs public to further share OSC's position on a range of important legal issues.​​​​
+Please note that the AWG cannot represent an employee in their appeal or provide legal advice. We do, however, make previous amicus curiae briefs public to further share OSC's position on a range of important legal issues.
