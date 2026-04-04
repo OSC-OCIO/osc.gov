@@ -10,7 +10,7 @@ The Strategic Plan identifies rising demand for OSC’s services, reflected
 
 Senior Counsel Charles Baldis underscored the impact of those numbers, noting, 
 
-> Each OSC case is more than a number—it is the story of brave civil servants uncovering waste, fraud, or abuse within the federal government. Telling their stories is an effective way to promote good government, safeguard the merit system, and protect taxpayers*.* 
+> Each OSC case is more than a number—it is the story of brave civil servants uncovering waste, fraud, or abuse within the federal government. Telling their stories is an effective way to promote good government, safeguard the merit system, and protect taxpayers.
 
 OSC’s Strategic Plan for Fiscal Years FY2026-2030 underscores the agency’s commitment to curbing waste, fraud, abuse, illegality, and threats to public health. Taken together, these efforts strengthen OSC’s ability to protect the federal workforce and serve the public interest. 
 
