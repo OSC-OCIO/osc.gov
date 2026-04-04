@@ -1,5 +1,4 @@
 ---
-cms_editable: true
 title: All Resources
 layout: layouts/resource-index
 permalink: "/resources/all{% if pagination.pageNumber > 0 %}/page/{{ pagination.pageNumber }}{% endif %}/index.html"

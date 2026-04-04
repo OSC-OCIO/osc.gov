@@ -50,7 +50,7 @@ collections:
               label: "Title",
               name: "title",
               widget: "string",
-              hint: "The main heading people see at the top of the page."
+              hint: "The main heading people see at the top of the page.",
             }
           - {
               label: "Lead Text",
@@ -119,7 +119,7 @@ collections:
                   name: "heading",
                   widget: "string",
                   required: false,
-                  hint: "Optional. Add this when you want to group items in a section."
+                  hint: "Optional. Add this when you want to group items in a section.",
                 }
               - label: "Items"
                 name: "links"
@@ -136,7 +136,7 @@ collections:
                       name: "icon",
                       widget: "string",
                       required: false,
-                      hint: "Optional USWDS icon name. Leave blank to use `file_present`."
+                      hint: "Optional USWDS icon name. Leave blank to use `file_present`.",
                     }
               - label: "Subsections"
                 name: "sections"
@@ -150,7 +150,7 @@ collections:
                       label: "Subsection Heading",
                       name: "heading",
                       widget: "string",
-                      hint: "Use a short heading to group the items below."
+                      hint: "Use a short heading to group the items below.",
                     }
                   - label: "Items"
                     name: "links"
@@ -166,7 +166,7 @@ collections:
                           name: "icon",
                           widget: "string",
                           required: false,
-                          hint: "Optional USWDS icon name. Leave blank to use `file_present`."
+                          hint: "Optional USWDS icon name. Leave blank to use `file_present`.",
                         }
           - {
               label: "Footnote",
@@ -516,17 +516,6 @@ collections:
     identifier_field: "title"
     summary: "{{title}}"
     fields: *page_fields
-  - name: "services-pages"
-    label: "Services Pages"
-    files:
-      - label: "Services Index"
-        name: "services-index-page"
-        file: "pages/services/index.md"
-        fields: *page_fields
-      - label: "Services Landing"
-        name: "services-landing-page"
-        file: "pages/services/services.md"
-        fields: *page_fields
   - name: "services-alternative-dispute-resolution-pages"
     label: "Services Pages - Alternative Dispute Resolution"
     folder: "pages/services/alternative-dispute-resolution"
