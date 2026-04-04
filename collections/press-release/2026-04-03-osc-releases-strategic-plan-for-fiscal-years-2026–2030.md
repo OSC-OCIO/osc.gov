@@ -1,5 +1,5 @@
 ---
-title: OSC Releases Strategic Plan for Fiscal Years 2026–2030
+title: OSC Releases Strategic Plan for Fiscal Years 2026-2030
 date: 2026-04-03
 tags:
   - general
