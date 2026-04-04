@@ -8,8 +8,7 @@ layout: layouts/default
   {%- assign has_nested_items = false -%}
   {%- assign has_section_headings = false -%}
   {%- for section in items -%}
-    {%- assign section_subsections = section.sections | default: section.topics -%}
-    {%- if section_subsections and section_subsections.size > 0 -%}
+    {%- if section.sections and section.sections.size > 0 -%}
       {%- assign has_nested_items = true -%}
     {%- endif -%}
     {%- if section.heading -%}
@@ -60,16 +59,15 @@ layout: layouts/default
 
   {%- if has_nested_items -%}
     {%- for category in items -%}
-      {%- assign category_sections = category.sections | default: category.topics -%}
       {%- assign category_heading = category.heading -%}
       {%- assign category_label = category_heading | default: "General" -%}
-      {%- if category_sections and category_sections.size > 0 -%}
+      {%- if category.sections and category.sections.size > 0 -%}
         <div class="resource-category" data-resource-parent="{{- category_label | escape -}}">
           {%- if category_heading -%}
             <h2 id="{{- category_heading | slugify -}}">{{- category_heading -}}</h2>
           {%- endif -%}
-          {%- for section in category_sections -%}
-            {%- assign section_links = section.links | default: section.items -%}
+          {%- for section in category.sections -%}
+            {%- assign section_links = section.links -%}
             {%- if section_links and section_links.size > 0 -%}
               {%- assign category_slug = category_label | slugify -%}
               {%- assign section_slug = section.heading | default: forloop.index | slugify -%}
@@ -99,7 +97,7 @@ layout: layouts/default
   {%- else -%}
     {%- if has_section_headings -%}
       {%- for section in items -%}
-        {%- assign section_links = section.links | default: section.items -%}
+        {%- assign section_links = section.links -%}
         {%- if section_links and section_links.size > 0 -%}
           <section class="resource-section" data-resource-topic="{{- section.heading | escape -}}">
             {%- if section.heading -%}
@@ -116,13 +114,11 @@ layout: layouts/default
     {%- else -%}
       <ul class="usa-icon-list">
         {%- for section in items -%}
-          {%- assign section_links = section.links | default: section.items -%}
+          {%- assign section_links = section.links -%}
           {%- if section_links and section_links.size > 0 -%}
             {%- for item in section_links -%}
               {%- include 'resource-item.html', item: item -%}
             {%- endfor -%}
-          {%- elsif section.name and section.url -%}
-            {%- include 'resource-item.html', item: section -%}
           {%- endif -%}
         {%- endfor -%}
       </ul>
