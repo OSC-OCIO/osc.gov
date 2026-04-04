@@ -1,12 +1,12 @@
 ## Comment out when doing local development
-# backend:
-#   name: github
-#   repo: OSC-OCIO/osc.gov
-#   base_url: https://pages.cloud.gov
-#   auth_endpoint: external/auth/github
-#   preview_context: pages/build
-#   branch: main
-#   use_graphql: true
+backend:
+  name: github
+  repo: OSC-OCIO/osc.gov
+  base_url: https://pages.cloud.gov
+  auth_endpoint: external/auth/github
+  preview_context: pages/build
+  branch: main
+  use_graphql: true
 
 ##
 ## Uncomment when doing local development on Netlify CMS
@@ -15,14 +15,15 @@
 ## See https://www.netlifycms.org/docs/beta-features/#working-with-a-local-git-repository
 ##
 
-backend:
-  name: git-gateway
-local_backend: true
+# backend:
+#   name: git-gateway
+# local_backend: true
 
 media_folder: img
 public_folder: /img
 publish_mode: editorial_workflow
 logo_url: https://pages.cloud.gov/images/logos/pages-logo-blue.svg
+site_url: https://www.osc.gov
 
 editor:
   preview: false
@@ -32,6 +33,145 @@ cms_editable_filter: &cms_editable_filter
     field: "cms_editable"
     value: true
 
+page_fields: &page_fields
+  - {
+      label: "CMS Editable",
+      name: "cms_editable",
+      widget: "hidden",
+      default: true,
+    }
+  - {
+      label: "Title",
+      name: "title",
+      widget: "string",
+      hint: "The main heading people see at the top of the page.",
+    }
+  - {
+      label: "Lead Text",
+      name: "lead",
+      widget: "markdown",
+      minimal: true,
+      hint: "Optional intro text shown under the page title.",
+      required: false,
+    }
+  - {
+      label: "Body",
+      name: "body",
+      widget: "markdown",
+      hint: "Main content for this page.",
+      required: false,
+    }
+  - label: "FAQs"
+    name: "faqs"
+    widget: "list"
+    required: false
+    collapsed: true
+    hint: "Used on pages with the `layouts/faq-accordion` template. Add either a simple FAQ (Question + Answer) or a section (Section Heading + Items)."
+    summary: "{{fields.heading}}{{fields.question}}"
+    fields:
+      - {
+          label: "Section Heading",
+          name: "heading",
+          widget: "string",
+          hint: "Optional. Add this when you want to group FAQs in a section.",
+          required: false,
+        }
+      - {
+          label: "Question",
+          name: "question",
+          widget: "string",
+          hint: "Use this for a simple FAQ item (no section items).",
+          required: false,
+        }
+      - {
+          label: "Answer",
+          name: "answer",
+          widget: "text",
+          hint: "Use this for a simple FAQ item (no section items).",
+          required: false,
+        }
+      - label: "Items"
+        name: "items"
+        widget: "list"
+        required: false
+        collapsed: true
+        hint: "Add the question-and-answer items for this section."
+        summary: "{{fields.question}}"
+        fields:
+          - { label: "Question", name: "question", widget: "string" }
+          - { label: "Answer", name: "answer", widget: "text" }
+  - label: "Link List"
+    name: "items"
+    widget: "list"
+    required: false
+    collapsed: true
+    hint: "Used on pages with the `layouts/resource-index` template. Add either a simple list of items (Section Heading + Items) or organize content into subsections (Section Heading + Subsections)."
+    summary: "{{fields.heading}}"
+    fields:
+      - {
+          label: "Section Heading",
+          name: "heading",
+          widget: "string",
+          required: false,
+          hint: "Optional. Add this when you want to group links in a section.",
+        }
+      - label: "Items"
+        name: "links"
+        widget: "list"
+        required: false
+        collapsed: true
+        summary: "{{fields.name}}"
+        hint: "Use this for a simple link section (no subsection items)."
+        fields:
+          - { label: "Name", name: "name", widget: "string" }
+          - { label: "URL", name: "url", widget: "string" }
+          - {
+              label: "Icon",
+              name: "icon",
+              widget: "string",
+              required: false,
+              hint: "Optional USWDS icon name. Leave blank to use `file_present`.",
+            }
+      - label: "Subsections"
+        name: "sections"
+        widget: "list"
+        required: false
+        collapsed: true
+        summary: "{{fields.heading}}"
+        hint: "Use this when you want to group links into subsections."
+        fields:
+          - {
+              label: "Subsection Heading",
+              name: "heading",
+              widget: "string",
+              hint: "Add a short heading to group links in this subsection.",
+            }
+          - label: "Items"
+            name: "links"
+            widget: "list"
+            required: false
+            collapsed: true
+            summary: "{{fields.name}}"
+            hint: "Add the links for this subsection."
+            fields:
+              - { label: "Name", name: "name", widget: "string" }
+              - { label: "URL", name: "url", widget: "string" }
+              - {
+                  label: "Icon",
+                  name: "icon",
+                  widget: "string",
+                  required: false,
+                  hint: "Optional USWDS icon name. Leave blank to use `file_present`.",
+                }
+  - {
+      label: "Footnote",
+      name: "footnote",
+      widget: "markdown",
+      minimal: true,
+      hint: "Shown only on pages using the `layouts/resource-index` template.",
+      required: false,
+    }
+
 collections:
   - name: "about-pages"
     label: "About Pages"
@@ -39,158 +179,27 @@ collections:
       - label: "About OSC"
         name: "about-osc-page"
         file: "pages/about/about.md"
-        fields: &page_fields
-          - {
-              label: "CMS Editable",
-              name: "cms_editable",
-              widget: "hidden",
-              default: true,
-            }
-          - {
-              label: "Title",
-              name: "title",
-              widget: "string",
-              hint: "The main heading people see at the top of the page.",
-            }
-          - {
-              label: "Lead Text",
-              name: "lead",
-              widget: "markdown",
-              minimal: true,
-              hint: "Optional intro text shown under the page title.",
-              required: false,
-            }
-          - {
-              label: "Body",
-              name: "body",
-              widget: "markdown",
-              hint: "Main content for this page.",
-              required: false,
-            }
-          - label: "FAQs"
-            name: "faqs"
-            widget: "list"
-            required: false
-            collapsed: true
-            hint: "Used on pages with the `layouts/faq-accordion` template. Add either a simple FAQ (Question + Answer) or a section (Section Heading + Items)."
-            summary: "{{fields.heading}}{{fields.question}}"
-            fields:
-              - {
-                  label: "Section Heading",
-                  name: "heading",
-                  widget: "string",
-                  hint: "Optional. Add this when you want to group FAQs in a section.",
-                  required: false,
-                }
-              - {
-                  label: "Question",
-                  name: "question",
-                  widget: "string",
-                  hint: "Use this for a simple FAQ item (no section items).",
-                  required: false,
-                }
-              - {
-                  label: "Answer",
-                  name: "answer",
-                  widget: "text",
-                  hint: "Use this for a simple FAQ item (no section items).",
-                  required: false,
-                }
-              - label: "Items"
-                name: "items"
-                widget: "list"
-                required: false
-                collapsed: true
-                hint: "Add the question-and-answer items for this section."
-                summary: "{{fields.question}}"
-                fields:
-                  - { label: "Question", name: "question", widget: "string" }
-                  - { label: "Answer", name: "answer", widget: "text" }
-          - label: "Link List"
-            name: "items"
-            widget: "list"
-            required: false
-            collapsed: true
-            hint: "Add section content here. You can add items directly or organize them into subsections."
-            summary: "{{fields.heading}}"
-            fields:
-              - {
-                  label: "Section Heading",
-                  name: "heading",
-                  widget: "string",
-                  required: false,
-                  hint: "Optional. Add this when you want to group items in a section.",
-                }
-              - label: "Items"
-                name: "links"
-                widget: "list"
-                required: false
-                collapsed: true
-                summary: "{{fields.name}}"
-                hint: "Add items directly in this section."
-                fields:
-                  - { label: "Name", name: "name", widget: "string" }
-                  - { label: "URL", name: "url", widget: "string" }
-                  - {
-                      label: "Icon",
-                      name: "icon",
-                      widget: "string",
-                      required: false,
-                      hint: "Optional USWDS icon name. Leave blank to use `file_present`.",
-                    }
-              - label: "Subsections"
-                name: "sections"
-                widget: "list"
-                required: false
-                collapsed: true
-                summary: "{{fields.heading}}"
-                hint: "Optional. Use subsections when you want another level of grouping."
-                fields:
-                  - {
-                      label: "Subsection Heading",
-                      name: "heading",
-                      widget: "string",
-                      hint: "Use a short heading to group the items below.",
-                    }
-                  - label: "Items"
-                    name: "links"
-                    widget: "list"
-                    required: false
-                    collapsed: true
-                    summary: "{{fields.name}}"
-                    fields:
-                      - { label: "Name", name: "name", widget: "string" }
-                      - { label: "URL", name: "url", widget: "string" }
-                      - {
-                          label: "Icon",
-                          name: "icon",
-                          widget: "string",
-                          required: false,
-                          hint: "Optional USWDS icon name. Leave blank to use `file_present`.",
-                        }
-          - {
-              label: "Footnote",
-              name: "footnote",
-              widget: "markdown",
-              minimal: true,
-              hint: "Shown only on pages using the `layouts/resource-index` template.",
-              required: false,
-            }
+        preview_path: "about/about"
+        fields: *page_fields
       - label: "Engagement"
         name: "engagement-page"
         file: "pages/about/engagement.md"
+        preview_path: "about/engagement"
         fields: *page_fields
       - label: "Law Clerk Program"
         name: "lawclerk-page"
         file: "pages/about/lawclerk.md"
+        preview_path: "about/lawclerk"
         fields: *page_fields
       - label: "Opportunities"
         name: "opportunities-page"
         file: "pages/about/opportunities.md"
+        preview_path: "about/opportunities"
         fields: *page_fields
   - name: "about-foia-pages"
     label: "About Pages - FOIA"
     folder: "pages/about/foia"
+    preview_path: "about/foia/{{slug}}"
     create: false
     <<: *cms_editable_filter
     identifier_field: "title"
@@ -199,6 +208,7 @@ collections:
   - name: "about-policies-pages"
     label: "About Pages - Policies"
     folder: "pages/about/policies"
+    preview_path: "about/policies/{{slug}}"
     create: false
     <<: *cms_editable_filter
     identifier_field: "title"
@@ -207,6 +217,7 @@ collections:
   - name: "about-privacy-pages"
     label: "About Pages - Privacy"
     folder: "pages/about/privacy"
+    preview_path: "about/privacy/{{slug}}"
     create: false
     <<: *cms_editable_filter
     identifier_field: "title"
@@ -218,6 +229,7 @@ collections:
     folder: "collections/case"
     create: true
     slug: "{{cases[0]}}{{cases[1] | ternary('--multi', '')}}"
+    preview_path: "cases"
     summary: "{{cases[0]}}{{cases[1] | ternary(' + additional cases', '')}}"
     sortable_fields:
       - { field: "date", default_sort: "desc", label: "Date (Newest first)" }
@@ -401,10 +413,12 @@ collections:
       - label: "Public Files"
         name: "cases-page"
         file: "pages/cases.md"
+        preview_path: "cases"
         fields: *page_fields
       - label: Home
         name: "home"
         file: "pages/index.md"
+        preview_path: "/"
         fields:
           - label: Hero Section
             name: hero
@@ -459,6 +473,7 @@ collections:
   - name: "file-complaint-pages"
     label: "File Complaint Pages"
     folder: "pages/file-complaint"
+    preview_path: "file-complaint/{{slug}}"
     create: false
     <<: *cms_editable_filter
     identifier_field: "title"
@@ -470,6 +485,8 @@ collections:
     folder: "collections/press-release"
     create: true
     slug: "{{date}}-{{slug}}"
+    preview_path: "news/{{year}}-{{month}}-{{day}}/{{slug}}"
+    preview_path_date_field: "date"
     summary: "[{{date}}] {{title}}"
     sortable_fields:
       - { field: "date", default_sort: "desc", label: "Date (Newest first)" }
@@ -511,6 +528,7 @@ collections:
   - name: "resource-pages"
     label: "Resource Pages"
     folder: "pages/resources"
+    preview_path: "resources/{{slug}}"
     create: false
     <<: *cms_editable_filter
     identifier_field: "title"
@@ -519,6 +537,7 @@ collections:
   - name: "services-alternative-dispute-resolution-pages"
     label: "Services Pages - Alternative Dispute Resolution"
     folder: "pages/services/alternative-dispute-resolution"
+    preview_path: "services/alternative-dispute-resolution/{{slug}}"
     create: false
     <<: *cms_editable_filter
     identifier_field: "title"
@@ -527,6 +546,7 @@ collections:
   - name: "services-disclosure-of-wrongdoing-pages"
     label: "Services Pages - Disclosure of Wrongdoing"
     folder: "pages/services/disclosure-of-wrongdoing"
+    preview_path: "services/disclosure-of-wrongdoing/{{slug}}"
     create: false
     <<: *cms_editable_filter
     identifier_field: "title"
@@ -535,6 +555,7 @@ collections:
   - name: "services-hatch-act-pages"
     label: "Services Pages - Hatch Act"
     folder: "pages/services/hatch-act"
+    preview_path: "services/hatch-act/{{slug}}"
     create: false
     <<: *cms_editable_filter
     identifier_field: "title"
@@ -543,6 +564,7 @@ collections:
   - name: "services-outreach-pages"
     label: "Services Pages - Outreach"
     folder: "pages/services/outreach"
+    preview_path: "services/outreach/{{slug}}"
     create: false
     <<: *cms_editable_filter
     identifier_field: "title"
@@ -551,6 +573,7 @@ collections:
   - name: "services-prohibited-personnel-practices-pages"
     label: "Services Pages - Prohibited Personnel Practices"
     folder: "pages/services/prohibited-personnel-practices"
+    preview_path: "services/prohibited-personnel-practices/{{slug}}"
     create: false
     <<: *cms_editable_filter
     identifier_field: "title"
@@ -559,6 +582,7 @@ collections:
   - name: "services-userra-pages"
     label: "Services Pages - USERRA"
     folder: "pages/services/userra"
+    preview_path: "services/userra/{{slug}}"
     create: false
     <<: *cms_editable_filter
     identifier_field: "title"
