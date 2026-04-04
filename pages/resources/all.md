@@ -5,7 +5,7 @@ permalink: "/resources/all{% if pagination.pageNumber > 0 %}/page/{{ pagination.
 pagination:
   data: resources
   size: 50
-  alias: items
+  alias: paged_resources
 eleventyNavigation:
   order: 0
 ---
