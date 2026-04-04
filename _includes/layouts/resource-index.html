@@ -97,7 +97,9 @@ layout: layouts/default
 {%- endif -%}
 
 {% if footnote %}
-  {{ footnote | markdownify }}
+  <div class="resource-footnote margin-top-4">
+    {{ footnote | markdownify }}
+  </div>
 {% endif %}
 
 {%- include 'pagination-links.html' -%}

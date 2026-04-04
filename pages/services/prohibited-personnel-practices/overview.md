@@ -1,4 +1,5 @@
 ---
+cms_editable: true
 title: Prohibited Personnel Practices Overview
 layout: layouts/faq-accordion
 eleventyNavigation:

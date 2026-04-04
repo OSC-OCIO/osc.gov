@@ -22,7 +22,7 @@ layout: layouts/base
             <div class="usa-prose">
               <h1>{{ title }}</h1>
               {%- if lead -%}
-                <p class="usa-intro margin-bottom-4">{{ lead }}</p>
+                <div class="usa-intro margin-bottom-4">{{ lead | markdownify }}</div>
               {%- endif -%}
               {{ content }}
             </div>

@@ -1,4 +1,5 @@
 ---
+cms_editable: true
 title: Confidentiality & Anonymity When Filing a Disclosure Claim
 eleventyNavigation:
   order: 3

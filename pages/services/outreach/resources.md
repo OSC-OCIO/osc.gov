@@ -1,4 +1,5 @@
 ---
+cms_editable: true
 title: Additional Resources for Outreach, Training, & Certification
 layout: layouts/resource-index
 eleventyNavigation:

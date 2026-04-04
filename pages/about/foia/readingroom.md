@@ -1,4 +1,5 @@
 ---
+cms_editable: true
 title: FOIA Reading Room
 layout: layouts/resource-index
 eleventyNavigation:

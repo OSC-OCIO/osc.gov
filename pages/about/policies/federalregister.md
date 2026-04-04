@@ -1,4 +1,5 @@
 ---
+cms_editable: true
 title: OSC Federal Register Notices
 layout: layouts/resource-index
 eleventyNavigation:

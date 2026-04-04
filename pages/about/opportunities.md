@@ -1,4 +1,5 @@
 ---
+cms_editable: true
 title: Opportunities
 eleventyNavigation:
   order: 2

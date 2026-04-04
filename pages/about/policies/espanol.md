@@ -1,4 +1,5 @@
 ---
+cms_editable: true
 title: "Para Informaci\xF3n En Espa\xF1ol"
 eleventyNavigation:
   order: 3

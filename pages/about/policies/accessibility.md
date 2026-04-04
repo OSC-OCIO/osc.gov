@@ -1,4 +1,5 @@
 ---
+cms_editable: true
 title: Accessibility for Individuals with Disabilities
 eleventyNavigation:
   order: 1

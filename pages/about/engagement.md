@@ -1,4 +1,5 @@
 ---
+cms_editable: true
 title: Employee Engagement at OSC
 layout: layouts/resource-index
 eleventyNavigation:

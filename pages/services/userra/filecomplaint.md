@@ -1,4 +1,5 @@
 ---
+cms_editable: true
 title: How to File a USERRA Complaint
 eleventyNavigation:
   order: 3

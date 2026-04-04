@@ -1,4 +1,5 @@
 ---
+cms_editable: true
 title: Your USERRA Rights as an Employer
 eleventyNavigation:
   order: 2

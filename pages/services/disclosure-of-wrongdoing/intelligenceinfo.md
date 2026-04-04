@@ -1,4 +1,5 @@
 ---
+cms_editable: true
 title: When a Disclosure Involves Counterintelligence or Foreign Intelligence Information
 eleventyNavigation:
   order: 5

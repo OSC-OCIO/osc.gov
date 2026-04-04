@@ -1,4 +1,5 @@
 ---
+cms_editable: true
 title: Search Results
 layout: layouts/search
 eleventyNavigation: false

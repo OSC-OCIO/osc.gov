@@ -1,4 +1,5 @@
 ---
+cms_editable: true
 title: USERRA Enforcement by OSC
 eleventyNavigation:
   order: 4

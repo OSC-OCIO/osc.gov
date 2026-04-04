@@ -1,4 +1,5 @@
 ---
+cms_editable: true
 title: All FAQs
 eleventyNavigation:
   order: 1

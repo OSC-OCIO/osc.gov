@@ -1,4 +1,5 @@
 ---
+cms_editable: true
 title: Amicus Working Group
 layout: layouts/faq-accordion
 eleventyNavigation:

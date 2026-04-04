@@ -27,7 +27,229 @@ logo_url: https://pages.cloud.gov/images/logos/pages-logo-blue.svg
 editor:
   preview: false
 
+cms_editable_filter: &cms_editable_filter
+  filter:
+    field: "cms_editable"
+    value: true
+
 collections:
+  - name: "about-pages"
+    label: "About Pages"
+    files:
+      - label: "About OSC"
+        name: "about-osc-page"
+        file: "pages/about/about.md"
+        fields: &page_fields
+          - {
+              label: "CMS Editable",
+              name: "cms_editable",
+              widget: "hidden",
+              default: true,
+            }
+          - {
+              label: "Title",
+              name: "title",
+              widget: "string",
+              hint: "Main page heading (H1).",
+            }
+          - {
+              label: "Lead Text",
+              name: "lead",
+              widget: "markdown",
+              minimal: true,
+              hint: "Optional intro text shown beneath the page title on standard page layouts.",
+              required: false,
+            }
+          - label: "FAQ Entries"
+            name: "faqs"
+            widget: "list"
+            required: false
+            collapsed: true
+            hint: "Only rendered on pages using the `layouts/faq-accordion` template. Use either a simple FAQ row (Question + Answer) or a section row (Heading + Items)."
+            summary: "{{fields.heading}}{{fields.question}}"
+            fields:
+              - {
+                  label: "Section Heading",
+                  name: "heading",
+                  widget: "string",
+                  hint: "Use only for sectioned FAQs. Leave blank for a simple FAQ row.",
+                  required: false,
+                }
+              - {
+                  label: "Question",
+                  name: "question",
+                  widget: "string",
+                  hint: "Use for a simple FAQ row (without subsection items).",
+                  required: false,
+                }
+              - {
+                  label: "Answer",
+                  name: "answer",
+                  widget: "text",
+                  hint: "Use for a simple FAQ row (without subsection items).",
+                  required: false,
+                }
+              - label: "Items"
+                name: "items"
+                widget: "list"
+                required: false
+                collapsed: true
+                hint: "Use for sectioned FAQs. Add the question/answer rows for this section."
+                summary: "{{fields.question}}"
+                fields:
+                  - {
+                      label: "Question",
+                      name: "question",
+                      widget: "string",
+                    }
+                  - { label: "Answer", name: "answer", widget: "text" }
+          - label: "List Items"
+            name: "items"
+            widget: "list"
+            required: false
+            collapsed: true
+            hint: "Structured links/content for resource-style pages. Most useful with `layouts/resource-index`."
+            summary: "{{fields.heading}}{{fields.name}}{{fields.agency}}"
+            types:
+              - label: "Link"
+                name: "link"
+                widget: "object"
+                summary: "{{fields.name}}"
+                fields:
+                  - { label: "Name", name: "name", widget: "string" }
+                  - { label: "URL", name: "url", widget: "string" }
+              - label: "Icon Link"
+                name: "icon_link"
+                widget: "object"
+                summary: "{{fields.name}}"
+                fields:
+                  - { label: "Name", name: "name", widget: "string" }
+                  - { label: "URL", name: "url", widget: "string" }
+                  - { label: "Icon", name: "icon", widget: "string" }
+              - label: "Link Group"
+                name: "link_group"
+                widget: "object"
+                summary: "{{fields.heading}}"
+                fields:
+                  - { label: "Heading", name: "heading", widget: "string" }
+                  - label: "Items"
+                    name: "items"
+                    widget: "list"
+                    summary: "{{fields.name}}"
+                    fields:
+                      - { label: "Name", name: "name", widget: "string" }
+                      - { label: "URL", name: "url", widget: "string" }
+              - label: "Topic Group"
+                name: "topic_group"
+                widget: "object"
+                summary: "{{fields.heading}}"
+                fields:
+                  - { label: "Heading", name: "heading", widget: "string" }
+                  - label: "Topics"
+                    name: "topics"
+                    widget: "list"
+                    summary: "{{fields.heading}}"
+                    fields:
+                      - { label: "Heading", name: "heading", widget: "string" }
+                      - label: "Items"
+                        name: "items"
+                        widget: "list"
+                        summary: "{{fields.name}}"
+                        fields:
+                          - { label: "Name", name: "name", widget: "string" }
+                          - { label: "URL", name: "url", widget: "string" }
+              - label: "Registered Agency Row"
+                name: "registered_agency"
+                widget: "object"
+                summary: "{{fields.agency}}"
+                fields:
+                  - { label: "Agency", name: "agency", widget: "string" }
+                  - {
+                      label: "Registration Date",
+                      name: "regdate",
+                      widget: "string",
+                    }
+              - label: "Certified Agency Row"
+                name: "certified_agency"
+                widget: "object"
+                summary: "{{fields.agency}}"
+                fields:
+                  - { label: "Agency", name: "agency", widget: "string" }
+                  - {
+                      label: "Certification Date",
+                      name: "certdate",
+                      widget: "string",
+                      required: false,
+                    }
+                  - {
+                      label: "Expiration",
+                      name: "expiration",
+                      widget: "string",
+                      required: false,
+                    }
+                  - {
+                      label: "Point of Contact",
+                      name: "poc",
+                      widget: "string",
+                      required: false,
+                    }
+                  - {
+                      label: "URL",
+                      name: "url",
+                      widget: "string",
+                      required: false,
+                    }
+          - {
+              label: "Footnote",
+              name: "footnote",
+              widget: "markdown",
+              minimal: true,
+              hint: "Only rendered on pages using the `layouts/resource-index` template.",
+              required: false,
+            }
+          - {
+              label: "Body",
+              name: "body",
+              widget: "markdown",
+              hint: "Main page content area.",
+              required: false,
+            }
+      - label: "Engagement"
+        name: "engagement-page"
+        file: "pages/about/engagement.md"
+        fields: *page_fields
+      - label: "Law Clerk Program"
+        name: "lawclerk-page"
+        file: "pages/about/lawclerk.md"
+        fields: *page_fields
+      - label: "Opportunities"
+        name: "opportunities-page"
+        file: "pages/about/opportunities.md"
+        fields: *page_fields
+  - name: "about-foia-pages"
+    label: "About Pages - FOIA"
+    folder: "pages/about/foia"
+    create: false
+    <<: *cms_editable_filter
+    identifier_field: "title"
+    summary: "{{title}}"
+    fields: *page_fields
+  - name: "about-policies-pages"
+    label: "About Pages - Policies"
+    folder: "pages/about/policies"
+    create: false
+    <<: *cms_editable_filter
+    identifier_field: "title"
+    summary: "{{title}}"
+    fields: *page_fields
+  - name: "about-privacy-pages"
+    label: "About Pages - Privacy"
+    folder: "pages/about/privacy"
+    create: false
+    <<: *cms_editable_filter
+    identifier_field: "title"
+    summary: "{{title}}"
+    fields: *page_fields
   - name: "case"
     label: "Cases"
     label_singular: "Case"
@@ -35,10 +257,12 @@ collections:
     create: true
     slug: "{{cases[0]}}{{cases[1] | ternary('--multi', '')}}"
     summary: "{{cases[0]}}{{cases[1] | ternary(' + additional cases', '')}}"
+    sortable_fields:
+      - { field: "date", default_sort: "desc", label: "Date (Newest first)" }
     fields:
       - label: "Source"
         name: "source"
-        widget: "list"
+        widget: "object"
         fields:
           - {
               label: "Agency",
@@ -162,55 +386,74 @@ collections:
         fields:
           - { label: Label, name: label, widget: string }
           - { label: Link, name: href, widget: string }
-  - name: "press-release"
-    label_singular: "Press Release"
-    label: "Press Release"
-    folder: "collections/press-release"
-    create: true
-    slug: "{{date}}-{{slug}}"
-    summary: "[{{date}}] {{title}}"
-    fields:
-      - { label: "Title", name: "title", widget: "string" }
-      - {
-          label: "Date",
-          name: "date",
-          date_format: "YYYY-MM-DD",
-          default: "{{now}}",
-          widget: "datetime",
-        }
-      - { label: "Body", name: "body", widget: "markdown" }
-      - {
-          label: "Tags",
-          name: "tags",
-          widget: "select",
-          multiple: true,
-          options:
-            [
-              {
-                label: "Alternative Dispute Resolution",
-                value: "alternative dispute resolution",
-              },
-              {
-                label: "Disclosure of Wrongdoing",
-                value: "disclosure of wrongdoing",
-              },
-              { label: "General", value: "general" },
-              { label: "Hatch Act", value: "hatch act" },
-              { label: "Outreach Training", value: "outreach training" },
-              {
-                label: "Prohibited Personnel Practices",
-                value: "prohibited personnel practices",
-              },
-              { label: "USERRA", value: "userra" },
-            ],
-        }
-  - label: Homepage
-    name: homepage
+  - name: "contacts"
+    label: "Contacts"
     files:
+      - label: "Contact Directory"
+        name: "contacts-data"
+        file: "_data/contacts.yaml"
+        fields:
+          - label: "Units"
+            name: "units"
+            widget: "list"
+            required: false
+            collapsed: true
+            summary: "{{fields.name}}"
+            fields:
+              - { label: "Unit Name", name: "name", widget: "string" }
+              - label: "Contacts"
+                name: "contacts"
+                widget: "list"
+                required: false
+                collapsed: true
+                fields:
+                  - {
+                      label: "Phone 1",
+                      name: "phone1",
+                      widget: "string",
+                      required: false,
+                    }
+                  - {
+                      label: "Phone 2",
+                      name: "phone2",
+                      widget: "string",
+                      required: false,
+                    }
+                  - {
+                      label: "Phone 3",
+                      name: "phone3",
+                      widget: "string",
+                      required: false,
+                    }
+                  - {
+                      label: "Fax",
+                      name: "fax",
+                      widget: "string",
+                      required: false,
+                    }
+                  - {
+                      label: "Email",
+                      name: "email",
+                      widget: "string",
+                      required: false,
+                    }
+                  - {
+                      label: "Address",
+                      name: "address",
+                      widget: "string",
+                      required: false,
+                    }
+  - name: "core-pages"
+    label: "Core Pages"
+    <<: *cms_editable_filter
+    files:
+      - label: "Public Files"
+        name: "cases-page"
+        file: "pages/cases.md"
+        fields: *page_fields
       - label: Home
-        name: home
+        name: "home"
         file: "pages/index.md"
-        create: false
         fields:
           - label: Hero Section
             name: hero
@@ -262,314 +505,122 @@ collections:
               - { label: "Video Link", name: "url", widget: "string" }
               - { label: "Button Text", name: "button_text", widget: "string" }
               - { label: "Button Link", name: "button_url", widget: "string" }
-  - name: "about-pages"
-    label: "About Pages"
-    folder: "pages/about"
-    extension: "md"
-    create: false
-    identifier_field: "title"
-    summary: "{{title}}"
-    nested:
-      depth: 100
-    editor:
-      preview: false
-    fields: &page_fields
-      - { label: "Title", name: "title", widget: "string" }
-      - { label: "Lead Text", name: "lead", widget: "text", required: false }
-      - {
-          label: "Enable Resource Filtering",
-          name: "resource_filtering",
-          widget: "boolean",
-          required: false,
-        }
-      - label: "FAQ Entries"
-        name: "faqs"
-        widget: "list"
-        required: false
-        collapsed: true
-        summary: "{{fields.heading}}{{fields.question}}"
-        fields:
-          - {
-              label: "Section Heading (Optional)",
-              name: "heading",
-              widget: "string",
-              required: false,
-            }
-          - {
-              label: "Question (Simple FAQ)",
-              name: "question",
-              widget: "string",
-              required: false,
-            }
-          - {
-              label: "Answer (Simple FAQ)",
-              name: "answer",
-              widget: "text",
-              required: false,
-            }
-          - label: "Items (Section FAQs)"
-            name: "items"
-            widget: "list"
-            required: false
-            collapsed: true
-            summary: "{{fields.question}}"
-            fields:
-              - { label: "Question", name: "question", widget: "string" }
-              - { label: "Answer", name: "answer", widget: "text" }
-          - label: "Topics (Nested FAQs)"
-            name: "topics"
-            widget: "list"
-            required: false
-            collapsed: true
-            summary: "{{fields.heading}}"
-            fields:
-              - {
-                  label: "Topic Heading (Optional)",
-                  name: "heading",
-                  widget: "string",
-                  required: false,
-                }
-              - label: "Items"
-                name: "items"
-                widget: "list"
-                required: false
-                collapsed: true
-                summary: "{{fields.question}}"
-                fields:
-                  - { label: "Question", name: "question", widget: "string" }
-                  - { label: "Answer", name: "answer", widget: "text" }
-      - label: "List Items"
-        name: "items"
-        widget: "list"
-        required: false
-        collapsed: true
-        summary: "{{fields.heading}}{{fields.name}}{{fields.agency}}"
-        types:
-          - label: "Link"
-            name: "link"
-            widget: "object"
-            summary: "{{fields.name}}"
-            fields:
-              - { label: "Name", name: "name", widget: "string" }
-              - { label: "URL", name: "url", widget: "string" }
-          - label: "Icon Link"
-            name: "icon_link"
-            widget: "object"
-            summary: "{{fields.name}}"
-            fields:
-              - { label: "Name", name: "name", widget: "string" }
-              - { label: "URL", name: "url", widget: "string" }
-              - { label: "Icon", name: "icon", widget: "string" }
-          - label: "Link Group"
-            name: "link_group"
-            widget: "object"
-            summary: "{{fields.heading}}"
-            fields:
-              - { label: "Heading", name: "heading", widget: "string" }
-              - label: "Items"
-                name: "items"
-                widget: "list"
-                summary: "{{fields.name}}"
-                fields:
-                  - { label: "Name", name: "name", widget: "string" }
-                  - { label: "URL", name: "url", widget: "string" }
-          - label: "Topic Group"
-            name: "topic_group"
-            widget: "object"
-            summary: "{{fields.heading}}"
-            fields:
-              - { label: "Heading", name: "heading", widget: "string" }
-              - label: "Topics"
-                name: "topics"
-                widget: "list"
-                summary: "{{fields.heading}}"
-                fields:
-                  - { label: "Heading", name: "heading", widget: "string" }
-                  - label: "Items"
-                    name: "items"
-                    widget: "list"
-                    summary: "{{fields.name}}"
-                    fields:
-                      - { label: "Name", name: "name", widget: "string" }
-                      - { label: "URL", name: "url", widget: "string" }
-          - label: "Registered Agency Row"
-            name: "registered_agency"
-            widget: "object"
-            summary: "{{fields.agency}}"
-            fields:
-              - { label: "Agency", name: "agency", widget: "string" }
-              - {
-                  label: "Registration Date",
-                  name: "regdate",
-                  widget: "string",
-                }
-          - label: "Certified Agency Row"
-            name: "certified_agency"
-            widget: "object"
-            summary: "{{fields.agency}}"
-            fields:
-              - { label: "Agency", name: "agency", widget: "string" }
-              - {
-                  label: "Certification Date",
-                  name: "certdate",
-                  widget: "string",
-                  required: false,
-                }
-              - {
-                  label: "Expiration",
-                  name: "expiration",
-                  widget: "string",
-                  required: false,
-                }
-              - {
-                  label: "Point of Contact",
-                  name: "poc",
-                  widget: "string",
-                  required: false,
-                }
-              - { label: "URL", name: "url", widget: "string", required: false }
-      - label: "Service Cards"
-        name: "pages"
-        widget: "list"
-        required: false
-        collapsed: true
-        summary: "{{fields.name}}"
-        fields:
-          - { label: "Name", name: "name", widget: "string" }
-          - { label: "URL", name: "url", widget: "string" }
-          - { label: "Icon", name: "icon", widget: "string", required: false }
-          - {
-              label: "Icon Background Class",
-              name: "icon_bg_class",
-              widget: "string",
-              required: false,
-            }
-          - {
-              label: "Description",
-              name: "description",
-              widget: "text",
-              required: false,
-            }
-      - label: "Contact Units"
-        name: "units"
-        widget: "list"
-        required: false
-        collapsed: true
-        summary: "{{fields.name}}"
-        fields:
-          - { label: "Unit Name", name: "name", widget: "string" }
-          - label: "Contacts"
-            name: "contacts"
-            widget: "list"
-            required: false
-            collapsed: true
-            fields:
-              - {
-                  label: "Phone 1",
-                  name: "phone1",
-                  widget: "string",
-                  required: false,
-                }
-              - {
-                  label: "Phone 2",
-                  name: "phone2",
-                  widget: "string",
-                  required: false,
-                }
-              - {
-                  label: "Phone 3",
-                  name: "phone3",
-                  widget: "string",
-                  required: false,
-                }
-              - { label: "Fax", name: "fax", widget: "string", required: false }
-              - {
-                  label: "Email",
-                  name: "email",
-                  widget: "string",
-                  required: false,
-                }
-              - {
-                  label: "Address",
-                  name: "address",
-                  widget: "string",
-                  required: false,
-                }
-      - label: "Terms"
-        name: "terms"
-        widget: "list"
-        required: false
-        collapsed: true
-        summary: "{{fields.season}}"
-        fields:
-          - { label: "Season", name: "season", widget: "string" }
-          - { label: "Hours", name: "hours", widget: "string", required: false }
-          - {
-              label: "Deadline",
-              name: "deadline",
-              widget: "string",
-              required: false,
-            }
-          - {
-              label: "Program",
-              name: "program",
-              widget: "string",
-              required: false,
-            }
-      - { label: "Footnote", name: "footnote", widget: "text", required: false }
-      - { label: "Body", name: "body", widget: "markdown", required: false }
-  - name: "services-pages"
-    label: "Services Pages"
-    folder: "pages/services"
-    extension: "md"
-    create: false
-    identifier_field: "title"
-    summary: "{{title}}"
-    nested:
-      depth: 100
-    editor:
-      preview: false
-    fields: *page_fields
-  - name: "resource-pages"
-    label: "Resource Pages"
-    folder: "pages/resources"
-    extension: "md"
-    create: false
-    identifier_field: "title"
-    summary: "{{title}}"
-    nested:
-      depth: 100
-    editor:
-      preview: false
-    fields: *page_fields
   - name: "file-complaint-pages"
     label: "File Complaint Pages"
     folder: "pages/file-complaint"
-    extension: "md"
     create: false
+    <<: *cms_editable_filter
     identifier_field: "title"
     summary: "{{title}}"
-    nested:
-      depth: 100
-    editor:
-      preview: false
     fields: *page_fields
-  - name: "core-pages"
-    label: "Core Pages"
+  - name: "press-release"
+    label_singular: "Press Release"
+    label: "Press Release"
+    folder: "collections/press-release"
+    create: true
+    slug: "{{date}}-{{slug}}"
+    summary: "[{{date}}] {{title}}"
+    sortable_fields:
+      - { field: "date", default_sort: "desc", label: "Date (Newest first)" }
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - {
+          label: "Date",
+          name: "date",
+          date_format: "YYYY-MM-DD",
+          default: "{{now}}",
+          widget: "datetime",
+        }
+      - { label: "Body", name: "body", widget: "markdown" }
+      - {
+          label: "Tags",
+          name: "tags",
+          widget: "select",
+          multiple: true,
+          options:
+            [
+              {
+                label: "Alternative Dispute Resolution",
+                value: "alternative dispute resolution",
+              },
+              {
+                label: "Disclosure of Wrongdoing",
+                value: "disclosure of wrongdoing",
+              },
+              { label: "General", value: "general" },
+              { label: "Hatch Act", value: "hatch act" },
+              { label: "Outreach Training", value: "outreach training" },
+              {
+                label: "Prohibited Personnel Practices",
+                value: "prohibited personnel practices",
+              },
+              { label: "USERRA", value: "userra" },
+            ],
+        }
+  - name: "resource-pages"
+    label: "Resource Pages"
+    folder: "pages/resources"
+    create: false
+    <<: *cms_editable_filter
+    identifier_field: "title"
+    summary: "{{title}}"
+    fields: *page_fields
+  - name: "services-pages"
+    label: "Services Pages"
     files:
-      - label: "Contact"
-        name: "contact-page"
-        file: "pages/contact.md"
+      - label: "Services Index"
+        name: "services-index-page"
+        file: "pages/services/index.md"
         fields: *page_fields
-      - label: "Public Files"
-        name: "cases-page"
-        file: "pages/cases.md"
+      - label: "Services Landing"
+        name: "services-landing-page"
+        file: "pages/services/services.md"
         fields: *page_fields
-      - label: "Search"
-        name: "search-page"
-        file: "pages/search.md"
-        fields: *page_fields
-      - label: "404"
-        name: "not-found-page"
-        file: "pages/404.md"
-        fields: *page_fields
+  - name: "services-alternative-dispute-resolution-pages"
+    label: "Services Pages - Alternative Dispute Resolution"
+    folder: "pages/services/alternative-dispute-resolution"
+    create: false
+    <<: *cms_editable_filter
+    identifier_field: "title"
+    summary: "{{title}}"
+    fields: *page_fields
+  - name: "services-disclosure-of-wrongdoing-pages"
+    label: "Services Pages - Disclosure of Wrongdoing"
+    folder: "pages/services/disclosure-of-wrongdoing"
+    create: false
+    <<: *cms_editable_filter
+    identifier_field: "title"
+    summary: "{{title}}"
+    fields: *page_fields
+  - name: "services-hatch-act-pages"
+    label: "Services Pages - Hatch Act"
+    folder: "pages/services/hatch-act"
+    create: false
+    <<: *cms_editable_filter
+    identifier_field: "title"
+    summary: "{{title}}"
+    fields: *page_fields
+  - name: "services-outreach-pages"
+    label: "Services Pages - Outreach"
+    folder: "pages/services/outreach"
+    create: false
+    <<: *cms_editable_filter
+    identifier_field: "title"
+    summary: "{{title}}"
+    fields: *page_fields
+  - name: "services-prohibited-personnel-practices-pages"
+    label: "Services Pages - Prohibited Personnel Practices"
+    folder: "pages/services/prohibited-personnel-practices"
+    create: false
+    <<: *cms_editable_filter
+    identifier_field: "title"
+    summary: "{{title}}"
+    fields: *page_fields
+  - name: "services-userra-pages"
+    label: "Services Pages - USERRA"
+    folder: "pages/services/userra"
+    create: false
+    <<: *cms_editable_filter
+    identifier_field: "title"
+    summary: "{{title}}"
+    fields: *page_fields

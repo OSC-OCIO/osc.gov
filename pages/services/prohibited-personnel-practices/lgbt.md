@@ -1,4 +1,5 @@
 ---
+cms_editable: true
 title: Resources for LGBTQIA+ Related Prohibited Personnel Practices
 permalink: false
 eleventyNavigation:

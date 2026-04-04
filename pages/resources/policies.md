@@ -1,4 +1,5 @@
 ---
+cms_editable: true
 title: Policies
 layout: layouts/resource-index
 eleventyNavigation:

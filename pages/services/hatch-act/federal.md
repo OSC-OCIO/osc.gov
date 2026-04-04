@@ -1,4 +1,5 @@
 ---
+cms_editable: true
 title: Federal Employee Hatch Act Information
 layout: layouts/faq-accordion
 eleventyNavigation:

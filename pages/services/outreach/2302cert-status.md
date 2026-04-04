@@ -1,4 +1,5 @@
 ---
+cms_editable: true
 title: 2302(c) Certified Agencies
 eleventyNavigation:
   order: 6

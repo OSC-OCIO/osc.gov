@@ -1,4 +1,5 @@
 ---
+cms_editable: true
 title: FOIA Handbook
 eleventyNavigation:
   order: 2

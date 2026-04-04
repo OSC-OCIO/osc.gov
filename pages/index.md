@@ -1,4 +1,5 @@
 ---
+cms_editable: true
 permalink: /
 layout: layouts/wide
 title: Home

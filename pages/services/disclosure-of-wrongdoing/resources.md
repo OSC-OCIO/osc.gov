@@ -1,4 +1,5 @@
 ---
+cms_editable: true
 title: Additional Resources for Disclosure of Wrongdoing
 layout: layouts/resource-index
 eleventyNavigation:

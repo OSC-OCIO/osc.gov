@@ -1,4 +1,5 @@
 ---
+cms_editable: true
 title: 2302(c) Certification for Government Corporations
 eleventyNavigation:
   order: 3

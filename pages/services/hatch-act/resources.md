@@ -1,4 +1,5 @@
 ---
+cms_editable: true
 title: Additional Resources for Hatch Act
 layout: layouts/resource-index
 eleventyNavigation:

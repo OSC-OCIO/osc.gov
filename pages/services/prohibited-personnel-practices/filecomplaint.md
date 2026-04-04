@@ -1,4 +1,5 @@
 ---
+cms_editable: true
 title: How to File a Prohibited Personnel Practices Complaint
 eleventyNavigation:
   order: 2

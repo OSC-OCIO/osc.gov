@@ -1,4 +1,5 @@
 ---
+cms_editable: true
 title: Hatch Act Outreach
 eleventyNavigation:
   order: 7

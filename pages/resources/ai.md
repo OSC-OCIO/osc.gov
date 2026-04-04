@@ -1,4 +1,5 @@
 ---
+cms_editable: true
 title: Artificial Intelligence (AI)
 sidenav: false
 eleventyNavigation: false

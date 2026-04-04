@@ -1,4 +1,5 @@
 ---
+cms_editable: true
 title: Outreach, Training, & Certification Overview
 eleventyNavigation:
   order: 0

@@ -1,4 +1,5 @@
 ---
+cms_editable: true
 title: Advantages of Mediation
 eleventyNavigation:
   order: 2

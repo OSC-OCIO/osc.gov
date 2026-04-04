@@ -1,4 +1,5 @@
 ---
+cms_editable: true
 title: Privacy Resources
 layout: layouts/resource-index
 eleventyNavigation:

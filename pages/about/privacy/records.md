@@ -1,4 +1,5 @@
 ---
+cms_editable: true
 title: System of Records Notices (SORNs)
 layout: layouts/resource-index
 eleventyNavigation:

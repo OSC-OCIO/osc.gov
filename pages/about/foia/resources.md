@@ -1,4 +1,5 @@
 ---
+cms_editable: true
 title: FOIA Resources
 layout: layouts/resource-index
 eleventyNavigation:

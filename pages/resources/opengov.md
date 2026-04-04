@@ -1,4 +1,5 @@
 ---
+cms_editable: true
 title: Open Government
 sidenav: false
 eleventyNavigation: false

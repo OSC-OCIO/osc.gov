@@ -1,4 +1,5 @@
 ---
+cms_editable: true
 title: Hatch Act Policies & Procedures
 eleventyNavigation:
   order: 6

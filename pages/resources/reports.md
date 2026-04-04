@@ -1,4 +1,5 @@
 ---
+cms_editable: true
 title: Reports
 layout: layouts/resource-index
 eleventyNavigation:

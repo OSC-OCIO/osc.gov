@@ -1,4 +1,5 @@
 ---
+cms_editable: true
 title: Disclosure of Wrongdoing
 eleventyNavigation:
   order: 2

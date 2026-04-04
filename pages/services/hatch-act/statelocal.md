@@ -1,4 +1,5 @@
 ---
+cms_editable: true
 title: State, D.C., or Local Employee Hatch Act Information
 eleventyNavigation:
   order: 2

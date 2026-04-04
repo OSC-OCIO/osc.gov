@@ -1,4 +1,5 @@
 ---
+cms_editable: true
 title: Privacy Policies & Reports
 layout: layouts/resource-index
 eleventyNavigation:

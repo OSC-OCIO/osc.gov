@@ -1,4 +1,5 @@
 ---
+cms_editable: true
 title: How to File a Hatch Act Complaint
 eleventyNavigation:
   order: 4

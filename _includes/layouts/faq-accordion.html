@@ -7,44 +7,12 @@ layout: layouts/default
 
 {{ content }}
 
-{% if page_faqs and page_faqs.size > 0 and first_faq and first_faq.topics %}
-  {% for parent in page_faqs %}
-    {% if parent.topics and parent.topics.size > 0 %}
-      {% assign parent_anchor = parent.id | default: parent.heading | default: forloop.index | slugify %}
-      {% if parent.heading %}
-        <h2 id="{{ parent_anchor }}" class="usa-prose margin-top-4 margin-bottom-2">{{ parent.heading }}</h2>
-      {% endif %}
-
-      {% for topic in parent.topics %}
-        {% if topic.items and topic.items.size > 0 %}
-          {% assign topic_anchor_source = topic.id | default: topic.heading | default: forloop.index %}
-          {% assign topic_anchor = topic_anchor_source | slugify %}
-          {% assign topic_anchor = parent_anchor | append: '-' | append: topic_anchor %}
-          {% assign topic_accordion_prefix = faq_id_base | append: '-faq-' | append: topic_anchor %}
-          {% if topic.heading %}
-            <h3 id="{{ topic_anchor }}" class="usa-prose margin-top-3 margin-bottom-2">{{ topic.heading }}</h3>
-          {% endif %}
-          {% include 'accordion.html',
-            items: topic.items,
-            class: 'padding-top-2',
-            id_prefix: topic_accordion_prefix,
-            heading_tag: 'h4'
-          %}
-        {% endif %}
-      {% endfor %}
-    {% endif %}
-  {% endfor %}
-{% elsif page_faqs and page_faqs.size > 0 and first_faq and first_faq.items %}
-  {% assign has_multiple_sections = false %}
-  {% if page_faqs.size > 1 %}
-    {% assign has_multiple_sections = true %}
-  {% endif %}
-
+{% if page_faqs and page_faqs.size > 0 and first_faq and first_faq.items %}
   {% for section in page_faqs %}
     {% if section.items and section.items.size > 0 %}
       {% assign section_anchor = section.id | default: section.heading | default: forloop.index | slugify %}
       {% assign section_accordion_prefix = faq_id_base | append: '-faq-' | append: section_anchor %}
-      {% if section.heading and has_multiple_sections %}
+      {% if section.heading %}
         <h2 id="{{ section_anchor }}" class="usa-prose margin-top-4 margin-bottom-2">{{ section.heading }}</h2>
       {% endif %}
       {% include 'accordion.html',

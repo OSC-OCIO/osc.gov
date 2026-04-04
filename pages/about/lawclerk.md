@@ -1,18 +1,6 @@
 ---
+cms_editable: true
 title: Law Clerk Opportunities
-terms:
-  - season: "Fall"
-    hours: "16"
-    deadline: "Deadline: May 15"
-    program: "September-December"
-  - season: "Spring"
-    hours: "16"
-    deadline: "Deadline: October 15"
-    program: "January-May"
-  - season: "Summer"
-    hours: "35"
-    deadline: "Deadline: February 15"
-    program: "May-August"
 ---
 
 OSC's Law Clerk Program provides challenging year-round remote and in-person training opportunities to motivated law students seeking to pursue a career in administrative law or government oversight and accountability. Some volunteer internships qualify either for course credit or as part of a law school's work-study program. Interested students can contact their law schools for specific requirements.
@@ -59,33 +47,19 @@ Law clerk duties include assisting with nationwide training, responding to quest
 
 **Office of General Counsel (OGC).** The Office of General Counsel provides legal advice to OSC program areas. In addition, attorneys in this office are responsible for OSC's Freedom of Information Act and Privacy Act programs, for defending OSC in litigation in federal court, and for advising on any area of law that may affect a federal agency, such as ethics, appropriations or information security.
 
-**<u>Eligibility</u>**
+**Eligibility**
 
 Full-time and part-time law students who have completed at least two full semesters of legal study are eligible to apply. Candidates who are selected for the fall or spring semester must commit to working no fewer than 16 hours a week for a minimum of 12 weeks. Candidates selected for the summer must commit to working no fewer than 35 hours a week for a minimum of 10 weeks.
 
-**<u>Timeline</u>**
+**Timeline**
 
-<table>
-  <thead>
-    <tr>
-      <th scope="col">Term</th>
-      <th scope="col">Min Hours</th>
-      <th scope="col">Applications Accepted</th>
-      <th scope="col">Program Begins/Ends</th>
-    </tr>
-  </thead>
-  <tbody>
-    {%- for term in terms -%}
-      <tr>
-        <td>{{ term.season }}</td>
-        <td>{{ term.hours }}</td>
-        <td>{{ term.deadline }}</td>
-        <td>{{ term.program }}</td>
-      </tr>
-    {%- endfor -%}
-  </tbody>
-</table>
-<strong>**If you missed the deadline, you may still submit your application for consideration.</strong>
+| Term | Min Hours | Applications Accepted | Program Begins/Ends |
+| --- | --- | --- | --- |
+| Fall | 16 | May 15 | September-December |
+| Spring | 16 | October 15 | January-May |
+| Summer | 35 | February 15 | May-August |
+
+**If you missed the deadline, you may still submit your application for consideration.**
 
 **HOW TO APPLY:**
 

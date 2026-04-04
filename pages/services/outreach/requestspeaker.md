@@ -1,4 +1,5 @@
 ---
+cms_editable: true
 title: Request an OSC Speaker
 eleventyNavigation:
   order: 1

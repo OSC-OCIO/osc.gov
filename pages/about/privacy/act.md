@@ -1,4 +1,5 @@
 ---
+cms_editable: true
 title: The Privacy Act of 1974
 eleventyNavigation:
   order: 2

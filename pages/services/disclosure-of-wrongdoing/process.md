@@ -1,4 +1,5 @@
 ---
+cms_editable: true
 title: What Happens When an Employee Files a Disclosure Claim?
 eleventyNavigation:
   order: 4

@@ -1,4 +1,5 @@
 ---
+cms_editable: true
 title: Hatch Act Advisory Opinions
 layout: layouts/resource-index
 resource_filtering: true

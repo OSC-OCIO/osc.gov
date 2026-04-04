@@ -1,4 +1,5 @@
 ---
+cms_editable: true
 title: FOIA Reports
 layout: layouts/resource-index
 eleventyNavigation:

@@ -1,4 +1,5 @@
 ---
+cms_editable: true
 title: Testimonies & Transcripts
 layout: layouts/resource-index
 eleventyNavigation:
