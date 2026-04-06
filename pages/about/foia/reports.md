@@ -8,6 +8,12 @@ eleventyNavigation:
 items:
   - heading: Annual Reports
     links:
+      - name: Annual Report Fiscal Year 2025
+        url: /~assets/docs/annual-report-fiscal-year-2025.pdf
+      - name: Annual Report Fiscal Year 2025 – DOJ Format
+        url: /~assets/docs/annual-report-fiscal-year-2025-doj-format.xml
+      - name: Annual Report Fiscal Yeat 2025 – Raw Data
+        url: /~assets/docs/annual-foia-report-fiscal-2025-raw-data.csv
       - name: Annual FOIA Report Fiscal 2024 Raw Data
         url: /~assets/docs/annual-foia-report-fiscal-2024-raw-data.csv
       - name: Annual FOIA Report Fiscal Year 2024
