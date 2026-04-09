@@ -99,8 +99,8 @@ items:
         url: /~assets/docs/fy-1979-annual-report-to-congress.pdf
   - heading: Congressional Budget Justifications
     links:
-      - name: "FY 2027 Congressional Budget Justification"
-        url: "/~assets/docs/fy-2027-congressional-budget-justification.pdf"
+      - name: FY 2027 Congressional Budget Justification
+        url: /~assets/docs/fy-2027-congressional-budget-justification.pdf
       - name: FY 2026 Congressional Budget Justification
         url: /~assets/docs/fy-2026-congressional-budget-justification.pdf
       - name: FY 2024 Congressional Budget Justification
@@ -151,6 +151,8 @@ items:
         url: /~assets/docs/no-fear-act-quarterly-data-q3-2025.pdf
   - heading: Federal Activities Inventory Reform (FAIR) Act Reports
     links:
+      - url: /~assets/docs/fair-act-inventory-2025.pdf
+        name: FAIR Act Inventory 2025
       - name: FAIR Act Inventory 2024
         url: /~assets/docs/fair-act-inventory-2024.pdf
       - name: FAIR Act Inventory Data FY 2021
@@ -167,8 +169,8 @@ items:
         url: /~assets/docs/fair-act-inventory-data-fy-2004.pdf
   - heading: Strategic Plans and Performance Reports
     links:
-      - name: "Strategic Plan FY 2026-2030"
-        url: "/~assets/docs/fy-2026-2030-strategic-plan.pdf"
+      - name: Strategic Plan FY 2026-2030
+        url: /~assets/docs/fy-2026-2030-strategic-plan.pdf
       - name: FY 2024 Performance and Accountability Report
         url: /~assets/docs/fy-2024-performance-and-accountability-report.pdf
       - name: FY 2023 Performance and Accountability Report
