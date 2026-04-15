@@ -103,6 +103,8 @@ items:
         url: /~assets/docs/fy-2027-congressional-budget-justification.pdf
       - name: FY 2026 Congressional Budget Justification
         url: /~assets/docs/fy-2026-congressional-budget-justification.pdf
+      - name: FY 2025 Congressional Budget Justification
+        url: /~assets/docs/fy-2025-congressional-budget-justification.pdf
       - name: FY 2024 Congressional Budget Justification
         url: /~assets/docs/fy-2024-congressional-budget-justification.pdf
       - name: FY 2023 Congressional Budget Justification
