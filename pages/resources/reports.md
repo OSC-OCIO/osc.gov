@@ -173,6 +173,8 @@ items:
     links:
       - name: Strategic Plan FY 2026-2030
         url: /~assets/docs/fy-2026-2030-strategic-plan.pdf
+      - name: FY 2025 Performance and Accountability Report
+        url: /~assets/docs/fy2025-performance-and-accountability-report.pdf
       - name: FY 2024 Performance and Accountability Report
         url: /~assets/docs/fy-2024-performance-and-accountability-report.pdf
       - name: FY 2023 Performance and Accountability Report
