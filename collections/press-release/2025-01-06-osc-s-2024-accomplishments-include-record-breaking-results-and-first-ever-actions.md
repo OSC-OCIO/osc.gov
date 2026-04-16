@@ -95,4 +95,4 @@ Additionally, OSC enhanced its Section 2302(c) Certification Program by introduc
 
 **Additional 2024 Accomplishments**
 
-Read more about OSC's accomplishments in our annual [Performance and Accountability Report to Congress](https://osc.gov/Documents/Resources/Statutory%2520Reports%2520and%2520Notices/Performance%2520and%2520Accountability%2520Reports%2520%28PAR%29/Performance%2520Reports/FY%25202024%2520Performance%2520and%2520Accountability%2520Report.pdf&data=05%7c02%7c%7cccc97ddfdd7d4cbd756708dd2e63debb%7c39dcbe17c0694d7c8ad7efbbedb5fc55%7c0%7c0%7c638717728707837927%7cUnknown%7cTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7c0%7c%7c%7c&sdata=YL9s7m2Z%2BuXX5RVR59vUDrsEnbTG6OMAfc0Jg2Lxteo%3D&reserved=0).
+Read more about OSC's accomplishments in our annual [Performance and Accountability Report to Congress](/~assets/docs/fy-2024-performance-and-accountability-report.pdf).
