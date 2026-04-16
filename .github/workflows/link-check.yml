@@ -37,7 +37,6 @@ jobs:
           --retry-errors-count 2
           --verbosity ERROR
           --redirects allow
-          --links-to-skip "search.usa.gov/javascripts/remote.loader.js"
           --url-rewrite-search "^https?://[^/]+/~assets/"
           --url-rewrite-replace "https://www.osc.gov/~assets/"
           --format json
