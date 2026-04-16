@@ -14,4 +14,4 @@ The DOL investigation substantiated the whistleblowers' allegations that 51 mine
 
 “OSC is thankful to the whistleblowers for bringing these disclosures to us, and we recommend that the DOL recognize their contributions to help ensure the safety of miners in the Pacific Territories," said Senior Counsel Charles Baldis.
 
-A new OSC [policy](/news/2025-05-19/osc-institutes-new-policy-to-encourage-rewarding-whistleblowers) encourages agencies to provide monetary rewards in some whistleblower cases in line with agencies' existing statutory authority to grant whistleblowers rewards of up to $10,000, or more in some instances.
+A new OSC [policy](/news/2025-05-19/osc-institutes-new-policy-to-encourage-rewarding-whistleblowers/) encourages agencies to provide monetary rewards in some whistleblower cases in line with agencies' existing statutory authority to grant whistleblowers rewards of up to $10,000, or more in some instances.

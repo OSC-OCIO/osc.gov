@@ -5,10 +5,6 @@ eleventyNavigation:
   order: 2
 ---
 
-Detail – Current Attorneys, Federal government wide
-
-OSC is seeking current, Federal Attorneys experienced in various aspects of Federal personnel law to join the OSC team and serve on a Detail to one of our Program Units! We invite you to apply for this challenging, highly competitive, and rewarding opportunity so you can bring back valuable skills on OSC covered areas to your current Agency! OSC consistently ranks in the top 5 in the Best Places to Work in the Federal Government.  Additional information on this job opportunity and application procedures may be found at the following link:  [**USAJOBS - Job Announcement**](https%3A%2F%2Fwww.usajobs.gov%2Fjob%2F782959800&data=05%7C02%7C%7C2c84a618c49842e3849d08dc79c03c9c%7C39dcbe17c0694d7c8ad7efbbedb5fc55%7C0%7C0%7C638519113782797032%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=%2FfQiFfRZfzp5dbVhP3EE%2FDRXJTnPTIe7AA7orJvM4ZA%3D&reserved=0)
-
 ### Volunteer Law Clerk Opportunities:
 
 #### **For more information** [CLICK HERE](/about/lawclerk)

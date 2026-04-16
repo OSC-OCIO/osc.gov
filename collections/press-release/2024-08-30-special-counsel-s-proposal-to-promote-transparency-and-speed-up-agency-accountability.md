@@ -9,7 +9,7 @@ Special Counsel Hampton Dellinger today proposed ways to enhance OSC's approach 
 
 Special Counsel Hampton Dellinger today proposed ways to enhance the U.S. Office of Special Counsel's (OSC) approach to transparency and accountability. Under the initiative, for certain open whistleblower disclosure cases and investigations of prohibited personnel practices (PPPs), Dellinger proposes providing public summaries of OSC's ongoing work.
 
-The complete proposal, which OSC plans to finalize at the start of the federal government's fiscal year on October 1, 2024, is [available here](https://osc.gov/Documents/Resources/Policies/Special%2520Counsel%2520transparency%2520proposal.pdf&data=05%7c02%7c%7ca44e3d159f4f464fcebc08dcc8fdd1c1%7c39dcbe17c0694d7c8ad7efbbedb5fc55%7c0%7c0%7c638606239708847031%7cUnknown%7cTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7c0%7c%7c%7c&sdata=1xj/3LpsKza0tAUH03u6pMHSjfY6zxf7%2BVDeKtBGxN4%3D&reserved=0).
+The complete proposal, which OSC plans to finalize at the start of the federal government's fiscal year on October 1, 2024, is [available here](/~assets/docs/special-counsel-transparency-proposal.pdf).
 
 Summary:
 

@@ -7,7 +7,7 @@ faqs:
       - question: A Hatch Act complaint has been filed against me, can I find out who filed it?
         answer: |
           As a general matter, OSC staff may not disclose the name of the person who filed a Hatch Act complaint. OSCs program files, including Hatch Act complaints, contain personal or sensitive information, which is generally protected from release under the Freedom of Information Act. Release of the names of individuals who have reported suspected Hatch Act violations is generally considered to be an unwarranted invasion of privacy that could interfere with OSCs law enforcement efforts by subjecting such individuals, on whom OSC relies to report potential violations, to possible harassment or reprisal for doing so. For more information about this policy please refer to  
-          [1/26/2004 Policy Statement on Disclosure of Information from OSC Program Files (OSC49a)](/Documents/PPP/Policy%20Statements/Policy%20Statement%20on%20Disclosure%20of%20Information%20from%20OSC%20Program%20Files.pdf).
+          [1/26/2004 Policy Statement on Disclosure of Information from OSC Program Files (OSC49a)](/~assets/docs/policy-statement-on-disclosure-of-information-from-osc-program-files-october-2023.pdf).
       - question: Is a Hatch Act investigation an administrative or criminal matter?
         answer: |
           AHatch Act investigation is an administrative matter. Hatch Act matters areadjudicated before the Merit Systems Protection Board, which is an administrative agency.

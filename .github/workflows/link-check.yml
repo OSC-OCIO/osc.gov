@@ -1,0 +1,105 @@
+name: Link Check
+
+on:
+  pull_request:
+
+jobs:
+  link-check:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      issues: write
+      pull-requests: write
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Build site
+        run: npm run pages
+
+      - name: Run Linkinator
+        run: >
+          npx --yes linkinator _site
+          --recurse
+          --clean-urls
+          --skip "^https://search\\.usa\\.gov/javascripts/remote\\.loader\\.js$"
+          --timeout 10000
+          --retry-errors
+          --retry-errors-count 2
+          --verbosity ERROR
+          --redirects allow
+          --url-rewrite-search "^https?://[^/]+/~assets/"
+          --url-rewrite-replace "https://www.osc.gov/~assets/"
+          --format json
+          > /tmp/linkinator-results.json || true
+
+      - name: Format Link Check Summary
+        env:
+          LINKINATOR_RESULTS_FILE: /tmp/linkinator-results.json
+          LINK_CHECK_REPORT_FILE: /tmp/link-check-report.md
+          GITHUB_EVENT_NAME: ${{ github.event_name }}
+          GITHUB_REF_NAME: ${{ github.ref_name }}
+        run: node scripts/format-linkinator-results.mjs
+
+      - name: Publish PR Comment
+        if: github.event_name == 'pull_request'
+        uses: actions/github-script@v7
+        continue-on-error: true
+        env:
+          LINK_CHECK_REPORT_FILE: /tmp/link-check-report.md
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          script: |
+            const fs = require('fs');
+            const marker = '<!-- link-check-report -->';
+            const report = fs.readFileSync(process.env.LINK_CHECK_REPORT_FILE, 'utf8').trim();
+            const body = `${marker}
+
+            ${report}`;
+
+            const {owner, repo} = context.repo;
+            const issue_number = context.issue.number;
+
+            const comments = await github.paginate(github.rest.issues.listComments, {
+              owner,
+              repo,
+              issue_number,
+              per_page: 100,
+            });
+
+            const existing = comments.find((comment) =>
+              comment.user?.type === 'Bot' && comment.body?.includes(marker)
+            );
+
+            try {
+              if (existing) {
+                await github.rest.issues.updateComment({
+                  owner,
+                  repo,
+                  comment_id: existing.id,
+                  body,
+                });
+              } else {
+                await github.rest.issues.createComment({
+                  owner,
+                  repo,
+                  issue_number,
+                  body,
+                });
+              }
+            } catch (error) {
+              core.warning(
+                `Unable to publish PR comment: ${error.message}. ` +
+                'This commonly happens on forked or bot-authored pull requests where the GITHUB_TOKEN is read-only.'
+              );
+            }
