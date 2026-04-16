@@ -29,13 +29,6 @@
     gtag('config', '{{ site.ga.ua }}', { anonymize_ip: true, forceSSL: true });
   </script>
 {% endif %}
-{% if site.searchgov %}
-  {% if site.searchgov.suggestions == true %}
-    <script>
-      var usasearch_config = { siteHandle: '{{ site.searchgov.affiliate }}' };
-    </script>
-  {% endif %}
-{% endif %}
 {% if page.url contains '/cases/' %}
   <script type="module">
     import * as pagefind from '{{ "/pagefind/pagefind.js" | url }}';
