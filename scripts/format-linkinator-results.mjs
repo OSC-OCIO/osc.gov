@@ -1,6 +1,10 @@
 import {appendFileSync, readFileSync, writeFileSync} from 'node:fs';
 import process from 'node:process';
 
+const SUPPRESSED_URL_PATTERNS = [
+  /^https:\/\/search\.usa\.gov\/javascripts\/remote\.loader\.js$/i,
+];
+
 function normalizeLinks(payload) {
   if (!payload) return [];
   if (Array.isArray(payload.links)) return payload.links;
@@ -29,6 +33,10 @@ function getStatusCode(link) {
 
 function getUrl(link) {
   return link?.url || link?.link || link?.target || 'Unknown URL';
+}
+
+function isSuppressedUrl(url) {
+  return SUPPRESSED_URL_PATTERNS.some((pattern) => pattern.test(String(url)));
 }
 
 function getParent(link) {
@@ -102,7 +110,7 @@ const links = normalizeLinks(payload);
 const failingLinks = links
   .filter((link) => {
     const status = getStatusCode(link);
-    return status === 404;
+    return status === 404 && !isSuppressedUrl(getUrl(link));
   })
   .sort((a, b) => {
     const aStatus = getStatusCode(a) ?? 0;
