@@ -21,4 +21,4 @@ The U.S. Office of Special Counsel’s (OSC’s) Hatch Act Unit is sharing three
 
 “Protecting federal employees from political coercion is fundamental to a fair and effective government. These settlements reflect OSC’s dedication to preventing the political abuse of government authority and resources by officials,” said Charles Baldis, Senior Counsel at OSC.
 
-For more information on Hatch Act provisions and compliance guidance, visit [osc.gov](osc.gov). 
+For more information on Hatch Act provisions and compliance guidance, visit [osc.gov](https://osc.gov). 

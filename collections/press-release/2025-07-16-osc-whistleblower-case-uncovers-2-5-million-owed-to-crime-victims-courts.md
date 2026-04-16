@@ -16,4 +16,4 @@ As a result of the investigation, BOP established inmate repayment plans to coll
 
 “Inadequate oversight of BOP inmate accounts and financial obligations has been a longstanding problem, and I thank the whistleblower for bringing this matter to OSC’s attention,” said Senior Counsel Charles Baldis. He continued, “I also encourage DOJ to continue to improve accountability in this area and help ensure that inmates are paying restitution to crime victims, covering child support debts, and fulfilling other court\-ordered obligations.” 
 
-Given the significance of the disclosure and the risk taken, OSC [encourages](/news/2025-05-19/osc-institutes-new-policy-to-encourage-rewarding-whistleblowers) DOJ to offer a monetary reward to the whistleblower consistent with the agency’s existing statutory authority.
+Given the significance of the disclosure and the risk taken, OSC [encourages](/news/2025-05-19/osc-institutes-new-policy-to-encourage-rewarding-whistleblowers/) DOJ to offer a monetary reward to the whistleblower consistent with the agency’s existing statutory authority.

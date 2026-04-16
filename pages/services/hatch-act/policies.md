@@ -30,7 +30,7 @@ OSC permits subjects and witnesses to have a personal legal representative at in
 
 There can be ethical implications for agency counsel to act as the personal legal representative of a subject or witness who is or was an employee of the same agency. OSC will permit agency counsel to attend interviews only if, in their personal capacity, they represent the individual being interviewed, and not the agency, for purposes of the matter under investigation. If agency counsel is not personally representing the individual being interviewed, he/she is not permitted to attend the interview. To protect subjects and witnesses and to prevent conflicts of interest from compromising the OSC investigation, the Designation of Personal Legal Representation form contains specific language addressing those situations where individuals request to be represented by agency counsel. Agency liaisons and points of contact should not serve as the personal legal representatives of any subject or witness.
 
-For more information, see [Policy Statement on Personal Legal Representation at Interviews](/Documents/PPP/Processing%20Complaints%20of%20PPPs/Policy%20Statement%20on%20Designation%20of%20Personal%20Legal%20Representation%20at%20Interviews.pdf).
+For more information, see [Policy Statement on Personal Legal Representation at Interviews](/~assets/docs/policy-statement-on-designation-of-personal-legal-representation-at-interviews.pdf).
 
 #### What other violations of law may OSC investigate?
 
