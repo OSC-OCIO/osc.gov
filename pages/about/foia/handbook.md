@@ -110,8 +110,8 @@ faqs:
       At present, many requests are processed within the 20-working day timetable established by the FOIA. Typically, complex requests are processed as soon as possible thereafter.
   - question: Can I check the status of my FOIA request?
     answer: Yes. A requester may obtain status information by accessing the [online
-      PAL portal](https://efoia.osc.gov/), or by contacting the FOIA Officer by
-      email at FOIArequest@osc.gov.
+      PAL portal](https://osc.arkcase.us/foia/portal/reading-room), or by
+      contacting the FOIA Officer by email at FOIArequest@osc.gov.
   - question: Under what circumstances can the processing of my request be expedited?
     answer: >-
       Requests and appeals will be taken out of order and given expedited
