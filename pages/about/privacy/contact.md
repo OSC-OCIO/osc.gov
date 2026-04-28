@@ -1,22 +1,11 @@
 ---
 cms_editable: true
 title: Contact Us About Privacy
+layout: layouts/contact-list
+contact_page: privacy
 eleventyNavigation:
   order: 7
   title: Contact Us
-units:
-  - name: Mahala Dar
-    phone1: (202) 804-7000
-    address: 1730 M Street, N.W., Suite 218, Washington, D.C., 20036-4505
-  - name: Ammar Ahmad
-    phone1: (202) 804-7000
-    address: 1730 M Street, N.W., Suite 218, Washington, D.C,, 20036-4505
 ---
 
 The Office of the Clerk implements the agency's privacy program. The Clerk is the Senior Agency Official for Privacy (SAOP). The Clerk's contact information:
-
-<ul class="usa-card-group padding-top-4">
-  {%- for unit in units -%}  
-  {%- include 'contactcard.html' -%}
-  {%- endfor -%}
-</ul>
