@@ -1,13 +1,9 @@
 ---
 cms_editable: false
 title: Contact OSC
+layout: layouts/contact-list
+contact_page: directory
 sidenav: false
 ---
 
 ## Units
-
-<ul class="usa-card-group">
-  {%- for unit in contacts.units -%}  
-  {%- include 'contactcard.html' -%}
-  {%- endfor -%}
-</ul>
