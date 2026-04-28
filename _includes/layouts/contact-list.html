@@ -6,7 +6,7 @@ layout: layouts/default
 {%- endif -%}
 
 {%- if contacts.units and contact_page -%}
-  <ul class="usa-card-group padding-top-4">
+  <ul class="usa-card-group">
     {%- for unit in contacts.units -%}
       {%- if unit.pages contains contact_page -%}
         {%- include 'contactcard.html' -%}
