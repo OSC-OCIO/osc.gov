@@ -1,8 +1,9 @@
 ---
 layout: layouts/default
 ---
-
-{{ content }}
+{%- if content -%}
+  {{ content }}
+{%- endif -%}
 
 {%- if contacts.units and contact_page -%}
   <ul class="usa-card-group padding-top-4">
