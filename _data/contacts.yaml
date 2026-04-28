@@ -1,5 +1,6 @@
 units:
-  - name: Prohibited Personnel Practices, for Inquiries About Filing a Complaint with OSC
+  - name: Prohibited Personnel Practices, for Inquiries About Filing a Complaint
+      with OSC
     pages:
       - directory
     phone1: (202) 804-7000
@@ -14,7 +15,8 @@ units:
     phone3: (202) 804-7002
     email: hatchact@osc.gov
     address: 1730 M Street, N.W., Suite 218, Washington, D.C,, 20036-4505
-  - name: Whistleblower Disclosure Hotline, for Inquiries on How to Report Fraud, Waste, Abuse or Dangers to Health and Safety
+  - name: Whistleblower Disclosure Hotline, for Inquiries on How to Report Fraud,
+      Waste, Abuse or Dangers to Health and Safety
     pages:
       - directory
     phone1: (202) 804-7000
@@ -82,13 +84,8 @@ units:
       - directory
     email: certification@osc.gov
     address: 1730 M Street, N.W., Suite 218, Washington, D.C., 20036-4505
-  - name: Mahala Dar
+  - name: Rhoan Jones
     pages:
       - privacy
     phone1: (202) 804-7000
     address: 1730 M Street, N.W., Suite 218, Washington, D.C., 20036-4505
-  - name: Ammar Ahmad
-    pages:
-      - privacy
-    phone1: (202) 804-7000
-    address: 1730 M Street, N.W., Suite 218, Washington, D.C,, 20036-4505
