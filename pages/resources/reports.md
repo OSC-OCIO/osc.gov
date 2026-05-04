@@ -97,6 +97,8 @@ items:
         url: /~assets/docs/fy-1980-annual-report-to-congress.pdf
       - name: FY 1979 Annual Report to Congress
         url: /~assets/docs/fy-1979-annual-report-to-congress.pdf
+      - name: FY 2025 Annual Report to Congress
+        url: /~assets/docs/fy-2025-annual-report-to-congress.pdf
   - heading: Congressional Budget Justifications
     links:
       - name: FY 2027 Congressional Budget Justification
