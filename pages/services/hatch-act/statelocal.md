@@ -9,12 +9,7 @@ faqs:
     items:
       - question: Who is Covered?
         answer: >-
-          The following list offers examples of the types of programs that
-          frequently receive financial assistance from the federal government:
-          public health, public welfare, housing, urban renewal and area
-          redevelopment, employment security, labor and industry training,
-          public works, conservation, agricultural, civil defense,
-          transportation, anti-poverty, and law enforcement programs.
+          The following list offers examples of the types of programs that frequently receive financial assistance from the federal government: public health, public welfare, housing, urban renewal and area redevelopment, employment security, labor and industry training, public works, conservation, agricultural, civil defense, transportation, anti-poverty, and law enforcement programs.
 
 
           Hatch Act provisions also may apply to employees of private, nonprofit organizations that receive federal Head Start or Community Service Block Grant funds.
@@ -102,14 +97,7 @@ faqs:
   - heading: Penalties and Relevant Laws
     items:
       - question: Penalties
-        answer: If the Merit Systems Protection Board ("Board") finds that an employee
-          violated the Hatch Act and that the violation warrants dismissal from
-          employment, the employing agency must either remove the employee or
-          forfeit a portion of its federal assistance equal to two years salary
-          of the employee. If within eighteen months of his removal, the
-          employee becomes employed by a state, D.C., or local agency within the
-          same state, then that agency, or the agency from which the employee
-          was removed, may lose some of its federal funding.
+        answer: If the Merit Systems Protection Board ("Board") finds that an employee violated the Hatch Act and that the violation warrants dismissal from employment, the employing agency must either remove the employee or forfeit a portion of its federal assistance equal to two years salary of the employee. If within eighteen months of his removal, the employee becomes employed by a state, D.C., or local agency within the same state, then that agency, or the agency from which the employee was removed, may lose some of its federal funding.
       - question: Statutes
         answer: >-
           - The Hatch Act, 5 U.S.C. § 1501 – 1508
@@ -132,19 +120,10 @@ faqs:
 
           - Judicial Review, [5 U.S.C § 1508](https://www.law.cornell.edu/uscode/text/5/1508)
       - question: Regulations
-        answer: "- Political Activity of State or Local Officers or Employees [5 C.F.R.
-          § 151](http://www.law.cornell.edu/cfr/text/5/part-151)"
+        answer: "- Political Activity of State or Local Officers or Employees [5 C.F.R. § 151](http://www.law.cornell.edu/cfr/text/5/part-151)"
       - question: Hatch Act Modernization Act
         answer: >-
-          On December 19, 2012, Congress passed the Hatch Act Modernization Act
-          of 2012. The Act allows most state and local government employees to
-          run for partisan political office. Prior to this change, state and
-          local government employees were prohibited from running for partisan
-          office if they worked in connection with programs financed in whole or
-          in part by federal loans or grants. With the change, the federal Hatch
-          Act no longer prohibits state and local government employees from
-          running for partisan office unless the employee's salary is paid for
-          completely by federal loans or grants.
+          On December 19, 2012, Congress passed the Hatch Act Modernization Act of 2012. The Act allows most state and local government employees to run for partisan political office. Prior to this change, state and local government employees were prohibited from running for partisan office if they worked in connection with programs financed in whole or in part by federal loans or grants. With the change, the federal Hatch Act no longer prohibits state and local government employees from running for partisan office unless the employee's salary is paid for completely by federal loans or grants.
 
 
           This change will allow hundreds of thousands of state and local government employees to participate more actively in the democratic process in their communities.
