@@ -7,6 +7,8 @@
     "build": "ELEVENTY_ENV=production node ./buildAssets.js && npx @11ty/eleventy && npm run search:index",
     "dev": "ELEVENTY_ENV=development sh -c 'node ./buildAssets.js --watch & ASSET_WATCH_PID=$!; trap \"kill $ASSET_WATCH_PID 2>/dev/null || true\" EXIT INT TERM; npx @11ty/eleventy && npx @11ty/eleventy --serve --watch --incremental --ignore-initial'",
     "pages": "ELEVENTY_ENV=production npm run build",
+    "format:content": "prettier --write \"**/*.{md,markdown,yml,yaml}\"",
+    "format:content:check": "prettier --check \"**/*.{md,markdown,yml,yaml}\"",
     "search:index": "node ./search-index.js",
     "start": "node ./buildAssets.js && npx @11ty/eleventy --serve",
     "serve:test": "python3 -m http.server 4173 -d _site",
@@ -29,6 +31,7 @@
     "markdown-it-named-headings": "^1.1.0",
     "pagefind": "^1.4.0",
     "postcss": "^8.5.6",
+    "prettier": "^3.8.3",
     "sass": "^1.97.3"
   },
   "dependencies": {

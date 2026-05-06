@@ -67,7 +67,7 @@ module.exports = async function (config) {
   // Customize Markdown library and settings:
   let markdownLibrary = markdownIt({
     html: true,
-    breaks: true,
+    breaks: false,
     linkify: true,
   }).use(markdownItNamedHeadings);
   config.setLibrary("md", markdownLibrary);
