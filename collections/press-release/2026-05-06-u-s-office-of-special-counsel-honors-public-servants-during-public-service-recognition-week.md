@@ -5,7 +5,7 @@ date: 2026-05-06
 tags:
   - general
 ---
-Washington, D.C. —  As Public Service Recognition Week (May 3–9, 2026) highlights the work of America’s federal workforce, the U.S. Office of Special Counsel (OSC) recognizes the countless civil servants who dedicate their careers to serving the American people with honesty, diligence, and a focus on results. While government is not immune to waste, inefficiency, or misconduct, the vast majority of public servants perform essential duties that deliver real value to taxpayers and strengthen the nation.  
+Washington, D.C. — As Public Service Recognition Week (May 3–9, 2026) highlights the work of America’s federal workforce, the U.S. Office of Special Counsel (OSC) recognizes the countless civil servants who dedicate their careers to serving the American people with honesty, diligence, and a focus on results. While government is not immune to waste, inefficiency, or misconduct, the vast majority of public servants perform essential duties that deliver real value to taxpayers and strengthen the nation.  
 
 “Public service is a serious responsibility, and we are genuinely grateful for those federal employees who commit themselves every day to doing their jobs effectively and upholding the merit-based principles that make our government work for the people,” said Senior Counsel Charles Baldis. “These dedicated men and women deserve appreciation and our protection. OSC stands ready to defend them when they face retaliation for doing what is right.”
 
