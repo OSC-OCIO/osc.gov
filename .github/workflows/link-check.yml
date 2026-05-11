@@ -32,7 +32,7 @@ jobs:
           npx --yes linkinator _site
           --recurse
           --clean-urls
-          --skip "^https?://(?!(?:[^/]+\\.)?osc\\.gov(?::[0-9]+)?(?:/|$)).*"
+          --skip "^https://search\\.usa\\.gov/javascripts/remote\\.loader\\.js$"
           --timeout 10000
           --retry-errors
           --retry-errors-count 2
