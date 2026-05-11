@@ -64,6 +64,32 @@ function normalizeReportedUrl(url) {
   );
 }
 
+function isSelfReferential(link) {
+  return (
+    normalizeReportedUrl(getUrl(link)) === normalizeReportedUrl(getParent(link))
+  );
+}
+
+function dedupeFailingLinks(links) {
+  const byUrl = new Map();
+
+  for (const link of links) {
+    const key = normalizeReportedUrl(getUrl(link));
+    const existing = byUrl.get(key);
+
+    if (!existing) {
+      byUrl.set(key, link);
+      continue;
+    }
+
+    if (isSelfReferential(existing) && !isSelfReferential(link)) {
+      byUrl.set(key, link);
+    }
+  }
+
+  return [...byUrl.values()];
+}
+
 function formatTableRows(links) {
   return links
     .map((link) => {
@@ -107,11 +133,12 @@ try {
 }
 
 const links = normalizeLinks(payload);
-const failingLinks = links
-  .filter((link) => {
+const failingLinks = dedupeFailingLinks(
+  links.filter((link) => {
     const status = getStatusCode(link);
     return status === 404 && !isSuppressedUrl(getUrl(link));
   })
+)
   .sort((a, b) => {
     const aStatus = getStatusCode(a) ?? 0;
     const bStatus = getStatusCode(b) ?? 0;
