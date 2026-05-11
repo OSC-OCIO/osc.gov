@@ -37,7 +37,6 @@ jobs:
           --retry-errors
           --retry-errors-count 2
           --verbosity ERROR
-          --redirects allow
           --url-rewrite-search "^https?://[^/]+/~assets/"
           --url-rewrite-replace "https://www.osc.gov/~assets/"
           --format json
