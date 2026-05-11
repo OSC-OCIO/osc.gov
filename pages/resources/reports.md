@@ -7,6 +7,8 @@ eleventyNavigation:
 items:
   - heading: Annual Reports to Congress
     links:
+      - name: FY 2025 Annual Report to Congress
+        url: /~assets/docs/fy-2025-annual-report-to-congress.pdf
       - name: FY 2024 Annual Report to Congress
         url: /~assets/docs/fy-2024-annual-report-to-congress.pdf
       - name: FY 2023 Annual Report to Congress

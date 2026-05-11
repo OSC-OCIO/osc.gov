@@ -32,7 +32,8 @@ items:
         url: /~assets/docs/hiring-offense-fact-sheet-b7-nepotism.pdf
       - name: Hiring Offense Fact Sheet (b)(11), Violating Veterans Preference
         url: /~assets/docs/hiring-offense-fact-sheet-b11-violating-veterans-preference.pdf
-      - name: Potpourri Fact Sheet (b)(13), Nondisclosure Forms, Policies, and Agreements
+      - name: Potpourri Fact Sheet (b)(13), Nondisclosure Forms, Policies, and
+          Agreements
         url: /~assets/docs/potpourri-fact-sheet-b13-nondisclosure-forms-policies-and-agreements.pdf
       - name: Potpourri Fact Sheet (b)(12), Violating Merit System Principles
         url: /~assets/docs/potpourri-fact-sheet-b12-violating-merit-system-principles.pdf
@@ -44,6 +45,8 @@ items:
         url: /~assets/docs/retaliation-fact-sheet-b9-protected-activity.pdf
       - name: Retaliation Fact Sheet (b)(8), Protected Disclosure
         url: /~assets/docs/retaliation-fact-sheet-b8-protected-disclosure.pdf
+      - url: /~assets/docs/combined-fact-sheets-b1-b14.pdf
+        name: Combined Fact Sheets (b)(1)-(b)(14)
   - heading: Posters
     links:
       - name: The Hatch Act and Further Restricted Employees Poster
@@ -74,11 +77,13 @@ items:
     links:
       - name: No FEAR Act Quarterly Data Q3 2025
         url: /~assets/docs/no-fear-act-quarterly-data-q3-2025.pdf
-      - name: Federal Protections for Lesbian, Gay, Bisexual, and Transgender (LGBT) Individuals
+      - name: Federal Protections for Lesbian, Gay, Bisexual, and Transgender (LGBT)
+          Individuals
         url: /~assets/docs/deral-protections-for-lesbian-gay-bisexual-and-transgender-lgb-51da6d07.pdf
       - name: No FEAR Act PowerPoint Presentation
         url: /~assets/docs/no-fear-act-powerpoint-presentation.ppt
-      - name: OSC's Plan for Improving Access for Persons with Limited English Proficiency
+      - name: OSC's Plan for Improving Access for Persons with Limited English
+          Proficiency
         url: /~assets/docs/oscs-plan-for-improving-access-for-persons-with-limited-english-proficiency.pdf
       - name: MD-715 AAP Report (FY24)
         url: /~assets/docs/md715-aap-report-fy24.pdf

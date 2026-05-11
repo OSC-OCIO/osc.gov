@@ -6,7 +6,7 @@ pagination:
   alias: year
   addAllPagesToCollections: true
 eleventyComputed:
-  title: "News: {{ year[0] }}"
+  title: "Press Releases: {{ year[0] }}"
   permalink: "news/{{ year[0] | slug }}/"
   eleventyNavigation:
     key: news-{{year[0]}}

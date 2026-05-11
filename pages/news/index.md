@@ -1,5 +1,5 @@
 ---
-title: News
+title: Press Releases
 layout: layouts/post-index
 permalink: "/news{% if pagination.pageNumber > 0 %}/page/{{ pagination.pageNumber }}{% endif %}/index.html"
 eleventyNavigation:

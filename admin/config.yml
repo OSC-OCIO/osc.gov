@@ -375,6 +375,15 @@ collections:
             summary: "{{fields.name}}"
             fields:
               - { label: "Unit Name", name: "name", widget: "string" }
+              - label: "Show On Pages"
+                name: "pages"
+                widget: "select"
+                multiple: true
+                required: false
+                options:
+                  - { label: "Main Contact Directory", value: "directory" }
+                  - { label: "FOIA Contact Page", value: "foia" }
+                  - { label: "Privacy Contact Page", value: "privacy" }
               - {
                   label: "Phone 1",
                   name: "phone1",
