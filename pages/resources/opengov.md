@@ -7,7 +7,7 @@ eleventyNavigation: false
 
 The U.S. Office of Special Counsel (OSC) is committed to the goals of transparency, participation and collaboration for the American population. This webpage provides easy access to the many ways in which OSC operates in an open, transparent way. The White House's 2009 [Open Government Directive](http://www.whitehouse.gov/sites/default/files/omb/assets/memoranda_2010/m10-06.pdf) and the 2013 [second Open Government National Action Plan](http://www.whitehouse.gov/sites/default/files/docs/us_national_action_plan_6p.pdf) require each agency to develop an [Open Government Plan](/~assets/docs/osc_open-govt-plan_nov2014.pdf) that states how the agency will incorporate the principles of transparency, participation and collaboration into its core mission objectives.
 
-OSC's [Open Government Plan](/~assets/docs/osc_ppen-govt-plan_nov2014.pdf) can be found [here](/~assets/docs/osc_open-govt-plan_nov2014.pdf) (pdf).
+OSC's [Open Government Plan](/~assets/docs/osc_open-govt-plan_nov2014.pdf) can be found [here](/~assets/docs/osc_open-govt-plan_nov2014.pdf) (pdf).
 
 ## Information and Data
 
