@@ -37,7 +37,7 @@ faqs:
         answer: |
           An agency official shall not coerce the political activity of any person or retaliate against an employee for refusing to engage in political activity. [5 U.S.C. § 2302(b)(3)](https://www.law.cornell.edu/uscode/text/5/2302)
 
-          This PPP is in place to help keep partisan politics out of the federal workplace. An employee cannot be pressured into political activity by a superior. This section also prohibits retaliation against an employee for refusing to engage in political activity. Allegations of this kind should be filed with OSC's Hatch Act Unit by clicking [here](/~assets/docs/osc13.pdf).
+          This PPP is in place to help keep partisan politics out of the federal workplace. An employee cannot be pressured into political activity by a superior. This section also prohibits retaliation against an employee for refusing to engage in political activity. Allegations of this kind should be filed with OSC's Hatch Act Unit by clicking [here](/services/hatch-act/filecomplaint/).
 
           **Example**: A subordinate employee declines to donate money to a candidate his supervisor fervently supports. After learning of this, the supervisor begins to deny that employee some privileges of employment. For instance, the supervisor removes the employee's teleworking conditions and denies him requested training.
 

@@ -5,7 +5,7 @@ tags:
   - hatch act
 ---
 
-The U.S. Office of Special Counsel (OSC) has filed two complaints with the U.S. Merit Systems Protection Board (MSPB) alleging that [Sheriff David Rosado](/~assets/docs/special-counsel-v-david-rosado-et-al_redacted.pdf) and [Undersheriff Christopher Pascal](/~assets/docs/special-counsel-v-christopher-pascal-et-at_redacted.pdf) of the Chesapeake Sheriff's Office in Virginia committed multiple, serious violations of the Hatch Act during Rosado's 2025 campaign for sheriff.
+The U.S. Office of Special Counsel (OSC) has filed two complaints with the U.S. Merit Systems Protection Board (MSPB) alleging that [Sheriff David Rosado](/~assets/docs/special-counsel-v-david-rosado-et-al_redacted.pdf) and [Undersheriff Christopher Pascal](/~assets/docs/special-counsel-v-christopher-pascal-et-al_redacted.pdf) of the Chesapeake Sheriff's Office in Virginia committed multiple, serious violations of the Hatch Act during Rosado's 2025 campaign for sheriff.
 
 The Hatch Act prohibits certain state and local officers and employees from using their official authority to influence elections or coerce political contributions. One of the main purposes of the Hatch Act is to allow government employees to work in an environment that is free of political coercion and intimidation.
 

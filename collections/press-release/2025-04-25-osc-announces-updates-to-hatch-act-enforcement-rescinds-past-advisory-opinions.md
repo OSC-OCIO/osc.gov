@@ -18,7 +18,7 @@ The updates summarized above are detailed in the April 25 Advisory Opinion avail
 
 _12/22/2025 Update_
 
-As a result of litigation before the MSPB, OSC has provided an update to this guidance [here](/~assets/docs/25.12.22-advisory-regarding-jurisdiction-over-former-employees.pdf).
+As a result of litigation before the MSPB, OSC has provided an update to this guidance [here](/~assets/docs/251222-advisory-regarding-jurisdiction-over-former-employees.pdf).
 
 _4/28/2025 Supplemental Notes_
 
