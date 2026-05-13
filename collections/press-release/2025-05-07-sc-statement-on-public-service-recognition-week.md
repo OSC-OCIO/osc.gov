@@ -1,5 +1,5 @@
 ---
-title: SC Statement on Public Service Recognition Week
+title: OSC Statement on Public Service Recognition Week
 date: 2025-05-07
 tags:
   - general
