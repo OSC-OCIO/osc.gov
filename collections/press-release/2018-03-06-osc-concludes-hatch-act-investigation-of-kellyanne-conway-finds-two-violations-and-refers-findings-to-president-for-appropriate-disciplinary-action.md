@@ -20,4 +20,4 @@ The report continues, “The U.S. Constitution confers on the President authorit
 
 Federal employees, including employees designated as “commissioned officers” at the White  House, are subject to the Hatch Act. While commissioned officers may engage in some political activity, they are still barred from using their official authority or influence to interfere with or affect  elections. Although the President and Vice President are exempt from the Hatch Act, their employees are not.
 
-OSC’s report is available [here](/Documents/Hatch%20Act/Reports/Conway%20HA-18-0966%20Final%20Report.pdf).
+OSC’s report is available [here](/~assets/docs/report-of-prohibited-political-activity-kellyanne-conway-ha-18-0966.pdf).

@@ -8,7 +8,7 @@ tags:
 
 OSC respects the Office of White House Counsel but respectfully disagrees with its position, and will not withdraw its Report sent to the President finding numerous Hatch Act violations.
 
-The U.S. Office of Special Counsel (OSC) respects the Office of White House Counsel but respectfully disagrees with its position, and will not withdraw its [Report](</documents/hatch%20act/reports/report%20to%20the%20president%20re%20kellyanne%20conway%20hatch%20act%20(3).pdf>) sent to the President today finding numerous Hatch Act violations made by Counselor to the President Kellyanne Conway (OSC File Nos. HA-19-0631 and HA-19-3395).
+The U.S. Office of Special Counsel (OSC) respects the Office of White House Counsel but respectfully disagrees with its position, and will not withdraw its [Report](/~assets/docs/report-of-prohibited-political-activity-kellyanne-conway-ha-19-06-a8748ac5.pdf) sent to the President today finding numerous Hatch Act violations made by Counselor to the President Kellyanne Conway (OSC File Nos. HA-19-0631 and HA-19-3395).
 
 As a threshold matter, OSC strongly rejects the Office of White House Counsel’s unfortunate characterization of our Hatch Act Report as tainted by improper considerations. OSC stands by the professionalism and integrity of its career federal employees who carried out this investigation and compiled the Report. As a unit, they represent decades of experience enforcing the Hatch Act and have never carried out their duties in a manner suggesting partisan bias. As dedicated public servants, they take pride in OSC’s important mission to ensure that the federal workplace is based on merit principles and free from partisan political influences.
 
