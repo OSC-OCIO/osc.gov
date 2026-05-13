@@ -24,23 +24,29 @@ items:
         url: /~assets/docs/the-hatch-act-and-most-federal-employees-poster.pdf
   - heading: Hatch Act Reports
     links:
+      - url: /~assets/docs/report-of-prohibited-political-activity-omalley.pdf
+        name: Report of Prohibited Political Activity, O'Malley
       - name: Report of Prohibited Political Activity, Carlos Del Toro (HA-24-000104)
         url: /~assets/docs/report-of-prohibited-political-activity-carlos-del-toro-ha-24-000104.pdf
       - name: Report of Prohibited Political Activity, Rachael Rollins (HA-22-000173)
         url: /~assets/docs/report-of-prohibited-political-activity-rachael-rollins-ha-22-000173.pdf
       - name: Report of Prohibited Political Activity, Xavier Becerra (HA-22-000223)
         url: /~assets/docs/report-of-prohibited-political-activity-xavier-becerra-ha-22-000223.pdf
-      - name: Investigation of Political Activities by Senior Trump Administration Officials During the 2020 Presidential Election
+      - name: Investigation of Political Activities by Senior Trump Administration
+          Officials During the 2020 Presidential Election
         url: /~assets/docs/investigation-of-political-activities-by-senior-trump-administratio-136ab295.pdf
       - name: Report of Prohibited Political Activity, Carla Sands, HA-20-000091
         url: /~assets/docs/report-of-prohibited-political-activity-carla-sands-ha-20-000091.pdf
       - name: Report of Prohibited Political Activity, Dr. Peter Navarro (HA-20-000279)
         url: /~assets/docs/report-of-prohibited-political-activity-dr-peter-navarro-ha-20-000279.pdf
-      - name: Report of Prohibited Political Activity, Kellyanne Conway (HA-19-0631 & HA-19-3395)
+      - name: Report of Prohibited Political Activity, Kellyanne Conway (HA-19-0631 &
+          HA-19-3395)
         url: /~assets/docs/report-of-prohibited-political-activity-kellyanne-conway-ha-19-06-a8748ac5.pdf
       - name: Report of Prohibited Political Activity, Kellyanne Conway (HA-18-0966)
         url: /~assets/docs/report-of-prohibited-political-activity-kellyanne-conway-ha-18-0966.pdf
-      - name: Report of Prohibited Political Activity, Facilitating Labor Union's Political Activity Through Use of Union Official Leave Without Pay (HA-17-0610)
+      - name: Report of Prohibited Political Activity, Facilitating Labor Union's
+          Political Activity Through Use of Union Official Leave Without Pay
+          (HA-17-0610)
         url: /~assets/docs/report-of-prohibited-political-activity-facilitating-labor-unions-6535f18d.pdf
       - name: Report of Prohibited Political Activity, Julián Castro (HA-16-3113)
         url: /~assets/docs/report-of-prohibited-political-activity-julian-castro-ha-16-3113.pdf
