@@ -24,6 +24,9 @@ items:
         url: /~assets/docs/the-hatch-act-and-most-federal-employees-poster.pdf
   - heading: Hatch Act Reports
     links:
+      - url: /~assets/docs/investigation-of-political-activities-by-white-house-and-federal-agency-officials-during-the-2006-midterm-elections-updated.pdf
+        name: Investigation of Political Activities by White House and Federal Agency
+          Officials During the 2006 Midterm Elections (updated)
       - url: /~assets/docs/report-of-prohibited-political-activity-omalley.pdf
         name: Report of Prohibited Political Activity, O'Malley
       - name: Report of Prohibited Political Activity, Carlos Del Toro (HA-24-000104)
