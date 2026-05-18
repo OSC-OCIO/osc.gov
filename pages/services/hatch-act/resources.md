@@ -52,13 +52,13 @@ items:
         url: /~assets/docs/report-of-prohibited-political-activity-julian-castro-ha-16-3113.pdf
       - name: Response, Julián Castro (HA-16-3113)
         url: /~assets/docs/response-julian-castro-ha-16-3113.pdf
-      - url: /~assets/docs/investigation-of-political-activities-by-white-house-and-federal-agency-officials-during-the-2006-midterm-elections-updated.pdf
-        name: Investigation of Political Activities by White House and Federal Agency
-          Officials During the 2006 Midterm Elections (updated)
       - name: Report of Prohibited Political Activity, Kathleen Sebelius (HA-12-1989)
         url: /~assets/docs/report-of-prohibited-political-activity-kathleen-sebelius-ha-12-1989.pdf
       - name: Response, Kathleen Sebelius (HA-12-1989)
         url: /~assets/docs/response-kathleen-sebelius-ha-12-1989.pdf
+      - url: /~assets/docs/investigation-of-political-activities-by-white-house-and-federal-agency-officials-during-the-2006-midterm-elections-updated.pdf
+        name: Investigation of Political Activities by White House and Federal Agency
+          Officials During the 2006 Midterm Elections (updated)
 ---
 
 ## Hatch Act Videos
