@@ -5,7 +5,7 @@ date: 2026-05-21
 tags:
   - disclosure of wrongdoing
 ---
-WASHINGTON, D.C./May 21, 2026 – Today, the U.S. Office of Special Counsel (OSC) notified the President and Congress of a whistleblower disclosure that revealed significant delays in medical certification reviews at the Department of Transportation (DOT), Federal Aviation Administration’s (FAA) Office of Aerospace Medicine (AAM). These delays resulted in hundreds of airmen holding medical certificates who may not have been medically qualified to fly. OSC commends the agency for the remedial actions that it took to correct the problem. 
+WASHINGTON, D.C./May 21, 2026 – Today, the U.S. Office of Special Counsel (OSC) notified the President and Congress of a whistleblower disclosure that revealed significant delays in medical certification reviews at the Department of Transportation (DOT), Federal Aviation Administration’s (FAA) Office of Aerospace Medicine (AAM). These delays resulted in hundreds of airmen holding medical certificates who may not have been medically qualified to fly. OSC commends the agency for the remedial actions that it took to correct the problem. 
 
 The whistleblower, an FAA Medical Officer, disclosed to OSC that understaffing of FAA medical officers within AAM led to an extraordinary backlog in reviewing medical certificates and clearances for airmen and air traffic controllers. The whistleblower alleged that these delays deterred airmen from disclosing illness, injury, and medications that may affect medical eligibility, and risked a shortage of employees responsible for controlling national airspace. 
 
