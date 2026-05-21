@@ -1,1 +1,3 @@
-require("@studio/eleventy-preset/admin");
+import CMS from "@studio/eleventy-preset/admin";
+
+CMS.init();

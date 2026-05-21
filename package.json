@@ -23,6 +23,6 @@
     "prettier": "^3.8.3"
   },
   "dependencies": {
-    "@studio/eleventy-preset": "github:cloud-gov/eleventy-preset#main"
+    "@studio/eleventy-preset": "github:cloud-gov/eleventy-preset#v0.1.0"
   }
 }

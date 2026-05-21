@@ -1,12 +1,9 @@
 module.exports = async function (config) {
-  const { default: studioPreset, normalizePathPrefix } = await import(
+  const { default: studioPreset } = await import(
     "@studio/eleventy-preset"
   );
-  const pathPrefix = normalizePathPrefix(process.env.BASEURL || "/");
 
-  await config.addPlugin(studioPreset, {
-    immediate: true,
-    pathPrefix,
+  await studioPreset(config, {
     passthroughCopy: [
       "admin",
       "uploads",
@@ -25,8 +22,4 @@ module.exports = async function (config) {
       },
     },
   });
-
-  return {
-    pathPrefix,
-  };
 };
