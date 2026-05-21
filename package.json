@@ -4,13 +4,12 @@
   "description": "A 11ty USWDS template.",
   "main": "index.js",
   "scripts": {
-    "build": "ELEVENTY_ENV=production node ./buildAssets.js && npx @11ty/eleventy && npm run search:index",
-    "dev": "ELEVENTY_ENV=development sh -c 'node ./buildAssets.js --watch & ASSET_WATCH_PID=$!; trap \"kill $ASSET_WATCH_PID 2>/dev/null || true\" EXIT INT TERM; npx @11ty/eleventy && npx @11ty/eleventy --serve --watch --incremental --ignore-initial'",
-    "pages": "ELEVENTY_ENV=production npm run build",
+    "build": "studio-eleventy build && npm run search:index",
+    "dev": "studio-eleventy dev",
+    "pages": "npm run build",
     "format:content": "prettier --write \"**/*.{md,markdown,yml,yaml}\"",
     "format:content:check": "prettier --check \"**/*.{md,markdown,yml,yaml}\"",
     "search:index": "node ./search-index.js",
-    "start": "node ./buildAssets.js && npx @11ty/eleventy --serve",
     "serve:test": "python3 -m http.server 4173 -d _site",
     "test:e2e": "playwright test"
   },
@@ -18,24 +17,12 @@
   "license": "CC0-1.0",
   "devDependencies": {
     "@11ty/eleventy": "^3.1.2",
-    "@11ty/eleventy-img": "^6.0.4",
-    "@11ty/eleventy-navigation": "^1.0.5",
     "@playwright/test": "^1.54.2",
-    "autoprefixer": "^10.4.24",
-    "chokidar": "^5.0.0",
-    "eleventy-plugin-svg-sprite": "^2.4.6",
-    "esbuild": "0.27.3",
     "js-yaml": "^4.1.1",
-    "luxon": "^3.7.2",
-    "markdown-it": "^14.1.1",
-    "markdown-it-named-headings": "^1.1.0",
     "pagefind": "^1.4.0",
-    "postcss": "^8.5.6",
-    "prettier": "^3.8.3",
-    "sass": "^1.97.3"
+    "prettier": "^3.8.3"
   },
   "dependencies": {
-    "@uswds/uswds": "^3.13.0",
-    "decap-cms": "^3.10.0"
+    "@studio/eleventy-preset": "file:../eleventy-preset"
   }
 }

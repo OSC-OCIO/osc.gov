@@ -1,1 +1,1 @@
-require('decap-cms');
+require("@studio/eleventy-preset/admin");
