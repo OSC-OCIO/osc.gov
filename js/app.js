@@ -1,4 +1,4 @@
-require("@uswds/uswds");
+require("@studio/eleventy-preset/uswds");
 
 const { initializeCaseSearch } = require("./search/case-search");
 const { initializeResourceSearch } = require("./search/resource-search");

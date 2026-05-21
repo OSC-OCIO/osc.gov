@@ -1,111 +1,25 @@
-const { DateTime } = require("luxon");
-const pluginNavigation = require("@11ty/eleventy-navigation");
-const markdownIt = require("markdown-it");
-const markdownItNamedHeadings = require("markdown-it-named-headings");
-const yaml = require("js-yaml");
-const svgSprite = require("eleventy-plugin-svg-sprite");
-const { eleventyImageTransformPlugin } = require("@11ty/eleventy-img");
-
 module.exports = async function (config) {
-  const { EleventyHtmlBasePlugin } = await import("@11ty/eleventy");
-
-  // Set pathPrefix for site
-  let pathPrefix = process.env.BASEURL || "/";
-  if (!pathPrefix.startsWith("/")) {
-    pathPrefix = `/${pathPrefix}`;
-  }
-  pathPrefix = pathPrefix.replace(/\/+$/, "") || "/";
-
-  // Copy the `admin` folders to the output
-  config.addPassthroughCopy("admin");
-  config.addPassthroughCopy("uploads");
-  config.addPassthroughCopy("favicon.ico");
-  config.addPassthroughCopy("site.webmanifest");
-  // Keep legacy /img/* URLs working.
-  config.addPassthroughCopy("img");
-
-  // Add plugins
-  config.addPlugin(pluginNavigation);
-  config.addPlugin(EleventyHtmlBasePlugin, {
-    baseHref: pathPrefix,
-  });
-
-  config.addPlugin(eleventyImageTransformPlugin, {
-    failOnError: false,
-    widths: ["auto", 600],
-    htmlOptions: {
-      imgAttributes: {
-        loading: "lazy",
-        decoding: "async",
-      },
-      pictureAttributes: {},
-      fallback: "largest", // or "smallest"
-    },
-  });
-
-  // SVG Sprite Plugin for USWDS icons
-  config.addPlugin(svgSprite, {
-    path: "./node_modules/@uswds/uswds/dist/img/uswds-icons",
-    svgSpriteShortcode: "uswds_icons_sprite",
-    svgShortcode: "uswds_icons",
-  });
-
-  config.addPlugin(svgSprite, {
-    path: "./node_modules/@uswds/uswds/dist/img/usa-icons",
-    svgSpriteShortcode: "usa_icons_sprite",
-    svgShortcode: "usa_icons",
-  });
-
-  // Allow yaml and CSV to be used in the _data dir
-  config.addDataExtension("yaml", (contents) => yaml.load(contents));
-
-  // https://html.spec.whatwg.org/multipage/common-microsyntaxes.html#valid-date-string
-  config.addFilter("htmlDateString", (dateObj) => {
-    return DateTime.fromJSDate(dateObj, { zone: "utc" }).toFormat("yyyy-LL-dd");
-  });
-
-  // Customize Markdown library and settings:
-  let markdownLibrary = markdownIt({
-    html: true,
-    breaks: false,
-    linkify: true,
-  }).use(markdownItNamedHeadings);
-  config.setLibrary("md", markdownLibrary);
-  config.addFilter("markdownify", (value) =>
-    markdownLibrary.render(value || ""),
+  const { default: studioPreset } = await import(
+    "@studio/eleventy-preset"
   );
 
-  // Set image shortcodes
-  config.addLiquidShortcode("uswds_icon", function (name, classes) {
-    return `<svg class="usa-icon ${classes}" aria-hidden="true" role="img"><use xlink:href="#svg-${name}"></use></svg>`;
+  await studioPreset(config, {
+    passthroughCopy: [
+      "admin",
+      "uploads",
+      "favicon.ico",
+      "site.webmanifest",
+      "img",
+    ],
+    watchTargets: ["styles", "js"],
+    markdown: {
+      breaks: false,
+      markdownFilterName: "markdownify",
+    },
+    collections: {
+      postsByYear: {
+        tag: "press-release",
+      },
+    },
   });
-  config.addShortcode("youtube", (videoURL, title) => {
-    const url = new URL(videoURL);
-    const id = url.searchParams.get("v");
-    return `
-<iframe class="yt-shortcode" src="https://www.youtube.com/embed/${id}" title="YouTube video player${
-      title ? ` for ${title}` : ""
-    }" frameborder="0" allowfullscreen></iframe>
-`;
-  });
-
-  config.addCollection("postsByYear", (collection) => {
-    const posts = collection.getFilteredByTag("press-release").reverse();
-    const years = posts.map((post) => post.date.getFullYear());
-    const uniqueYears = [...new Set(years)];
-
-    const postsByYear = uniqueYears.reduce((prev, year) => {
-      const filteredPosts = posts.filter(
-        (post) => post.date.getFullYear() === year,
-      );
-
-      return [...prev, [year, filteredPosts]];
-    }, []);
-
-    return postsByYear;
-  });
-
-  return {
-    pathPrefix,
-  };
 };

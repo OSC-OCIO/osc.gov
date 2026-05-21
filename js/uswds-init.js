@@ -1,1 +1,1 @@
-require('../node_modules/@uswds/uswds/dist/js/uswds-init');
+require("@studio/eleventy-preset/uswds-init");
