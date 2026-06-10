@@ -1,11 +1,11 @@
 ---
-title: Department of Education Confirms it Violated Federal Injunction;
+title: Department of Education Confirms it Violated Federal Injunction,
   Whistleblower Allegations Fully Substantiated
 date: 2026-06-10
 tags:
   - disclosure of wrongdoing
 ---
-WASHINGTON, D.C./June 10, 2026 — Today, the U.S. Office of Special Counsel (OSC) **notified** the President and Congress of the U.S. Department of Education’s (ED) investigation into whistleblower allegations that the agency failed to comply with a federal injunction related to Title IX enforcement. ED's investigation fully substantiated the whistleblower's allegations and OSC ultimately concluded that the agency's findings were reasonable.
+WASHINGTON, D.C./June 10, 2026 — Today, the U.S. Office of Special Counsel (OSC) [**notified** ](https://www.osc.gov/~assets/cases/di-24-000830-closure-letter-to-the-president.pdf)the President and Congress of the U.S. Department of Education’s (ED) investigation into whistleblower allegations that the agency failed to comply with a federal injunction related to Title IX enforcement. ED's investigation fully substantiated the whistleblower's allegations and OSC ultimately concluded that the agency's findings were reasonable.
 
 The investigation, prompted by a disclosure from a whistleblower with ED’s Office for Civil Rights (OCR), found that ED leadership failed to comply with a 2022 preliminary injunction issued by the U.S. District Court for the Eastern District of Tennessee, which the Sixth Circuit affirmed in 2024. The injunction barred ED from implementing its June 2021 guidance documents interpreting an executive order on Title IX to extend protections to include discrimination based on sexual orientation and gender identity. ED submitted a Notice of Compliance to the district court stating it understood the injunction and intended to adhere to it. 
 
