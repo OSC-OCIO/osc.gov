@@ -8,8 +8,6 @@ eleventyNavigation:
 items:
   - heading: Handouts
     links:
-      - url: /~assets/docs/md715-aap-report-fy-2025.pdf
-        name: AAP Report FY 2025
       - name: Sample Memo for Annual Notification (FAA)
         url: /~assets/docs/sample-memo-for-annual-notification-faa.docx
       - name: Your Rights as a Whistleblower for a Government Corporation (v2024)
