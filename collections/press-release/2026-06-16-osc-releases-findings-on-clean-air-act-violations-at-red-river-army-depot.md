@@ -4,7 +4,7 @@ date: 2026-06-16
 tags:
   - disclosure of wrongdoing
 ---
-WASHINGTON, D.C./June 16, 2026—The U.S. Office of Special Counsel (OSC) has **notified** the President that the Department of the Army’s findings in response to a whistleblower disclosure at the Red River Army Depot (RRAD) in Texarkana, Texas, appear reasonable.
+WASHINGTON, D.C./June 16, 2026—The U.S. Office of Special Counsel (OSC) has [notified](https://osc.gov/~assets/cases/di-24-000271-president-letter_-redacted.pdf) the President that the Department of the Army’s findings in response to a whistleblower disclosure at the Red River Army Depot (RRAD) in Texarkana, Texas, appear reasonable.
 
 The whistleblower, an Equipment Inspector at RRAD, reported that employees violated the Clean Air Act by improperly handling hydrochlorofluorocarbon-134a(HFC-134a), a flammable, pressurized air conditioning refrigerant. 
 
