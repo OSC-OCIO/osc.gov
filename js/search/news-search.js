@@ -4,6 +4,7 @@ const {
   activeFilters,
   createElement,
   focusResultsRegion,
+  generateFilterOptionCounts,
   parsePageNumber,
   populateFilterSelect,
   renderSearchPagination,
@@ -54,7 +55,10 @@ function formatIsoDate(value) {
 }
 
 function truncateWords(value, limit) {
-  const words = String(value || "").trim().split(/\s+/).filter(Boolean);
+  const words = String(value || "")
+    .trim()
+    .split(/\s+/)
+    .filter(Boolean);
   if (words.length <= limit) {
     return words.join(" ");
   }
@@ -85,56 +89,16 @@ function normalizeNewsRecord(doc) {
   };
 }
 
-function countRecordFilters(records) {
-  const filters = {
-    tag: {},
-    year: {},
-  };
-
-  for (const record of records) {
-    const year = String(record.dateIso || "").slice(0, 4);
-    if (year) {
-      filters.year[year] = (filters.year[year] || 0) + 1;
-    }
-
-    for (const tag of record.tags) {
-      filters.tag[tag] = (filters.tag[tag] || 0) + 1;
-    }
+function newsFilterValues(record, filterName) {
+  if (filterName === "year") {
+    return String(record.dateIso || "").slice(0, 4);
   }
 
-  return filters;
-}
-
-function mergeFilterCounts(allRecords, activeRecords, selectedFilters) {
-  const allFilters = countRecordFilters(allRecords);
-  const activeFiltersByName = countRecordFilters(activeRecords);
-
-  for (const filterName of Object.keys(allFilters)) {
-    const selectedValue =
-      selectedFilters[filterName] && selectedFilters[filterName][0];
-
-    for (const value of Object.keys(allFilters[filterName])) {
-      if (selectedValue && value !== selectedValue) {
-        allFilters[filterName][value] = 0;
-        continue;
-      }
-
-      allFilters[filterName][value] =
-        activeFiltersByName[filterName][value] || 0;
-    }
-
-    for (const value of Object.keys(activeFiltersByName[filterName])) {
-      if (selectedValue && value !== selectedValue) {
-        continue;
-      }
-
-      if (!Object.prototype.hasOwnProperty.call(allFilters[filterName], value)) {
-        allFilters[filterName][value] = activeFiltersByName[filterName][value];
-      }
-    }
+  if (filterName === "tag") {
+    return record.tags || [];
   }
 
-  return allFilters;
+  return "";
 }
 
 function renderNewsRecord(container, record) {
@@ -230,7 +194,9 @@ function initializeNewsSearch() {
   const status = document.querySelector("#news-search-status");
   const listContainer = document.querySelector("#news-results .usa-collection");
   const searchPagination = document.querySelector("#news-search-pagination");
-  const fallbackPagination = document.querySelector("#news-fallback-pagination");
+  const fallbackPagination = document.querySelector(
+    "#news-fallback-pagination",
+  );
   const selects = {
     year: document.querySelector("#news-filter-year"),
     tag: document.querySelector("#news-filter-tag"),
@@ -262,8 +228,13 @@ function initializeNewsSearch() {
     return selected;
   };
 
-  const hydrateFilters = function (records) {
-    const filters = mergeFilterCounts(allRecords, records, selectedFilterValues());
+  const hydrateFilters = function () {
+    const filters = generateFilterOptionCounts(
+      allRecords,
+      selectedFilterValues(),
+      Object.keys(selects),
+      newsFilterValues,
+    );
     for (const key of Object.keys(selects)) {
       populateFilterSelect(
         selects[key],
@@ -388,7 +359,7 @@ function initializeNewsSearch() {
     }
 
     currentRecords = searchResult.docs.map(normalizeNewsRecord);
-    hydrateFilters(currentRecords);
+    hydrateFilters();
     renderCurrentPage(settings);
   };
 

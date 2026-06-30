@@ -4,12 +4,17 @@ const { CASES_PER_PAGE, loadCaseFixtures } = require('./helpers/case-fixtures');
 const fixtures = loadCaseFixtures();
 
 function caseCard(page, caseNumber) {
-  return page.locator(`[data-case-card][data-case-number="${caseNumber}"]`).first();
+  return page
+    .locator(`[data-case-card][data-case-number="${caseNumber}"]`)
+    .first();
 }
 
 function isDescending(dateStrings) {
   for (let idx = 1; idx < dateStrings.length; idx += 1) {
-    if (new Date(dateStrings[idx - 1]).getTime() < new Date(dateStrings[idx]).getTime()) {
+    if (
+      new Date(dateStrings[idx - 1]).getTime() <
+      new Date(dateStrings[idx]).getTime()
+    ) {
       return false;
     }
   }
@@ -17,11 +22,22 @@ function isDescending(dateStrings) {
   return true;
 }
 
+function escapeRegExp(value) {
+  return String(value).replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+}
+
 async function waitForCaseSearchReady(page) {
-  await expect.poll(async function () {
-    return page.locator('#case-filter-agency option').count();
-  }).toBeGreaterThan(1);
-  await expect(page.locator('#case-search-status')).not.toContainText('Searching...');
+  await expect
+    .poll(
+      async function () {
+        return page.locator('#case-filter-agency option').count();
+      },
+      { timeout: 15000 },
+    )
+    .toBeGreaterThan(1);
+  await expect(page.locator('#case-search-status')).not.toContainText(
+    'Searching...',
+  );
 }
 
 test('populates results on initial page load', async ({ page }) => {
@@ -32,40 +48,52 @@ test('populates results on initial page load', async ({ page }) => {
   await expect(page.locator('#case-search-status')).toContainText('Showing');
 });
 
-test('populates results when using pagination and preserves chronological order', async ({ page }) => {
+test('populates results when using pagination and preserves chronological order', async ({
+  page,
+}) => {
   await page.goto('/cases/');
   await waitForCaseSearchReady(page);
 
-  const firstPageCaseNumbers = await page.locator('[data-case-card]').evaluateAll(function (cards) {
-    return cards.map(function (card) {
-      return card.getAttribute('data-case-number');
+  const firstPageCaseNumbers = await page
+    .locator('[data-case-card]')
+    .evaluateAll(function (cards) {
+      return cards.map(function (card) {
+        return card.getAttribute('data-case-number');
+      });
     });
-  });
   expect(firstPageCaseNumbers).toHaveLength(CASES_PER_PAGE);
 
-  const firstPageDates = await page.locator('[data-case-date]').evaluateAll(function (dates) {
-    return dates.map(function (item) {
-      return item.textContent.trim();
+  const firstPageDates = await page
+    .locator('[data-case-date]')
+    .evaluateAll(function (dates) {
+      return dates.map(function (item) {
+        return item.textContent.trim();
+      });
     });
-  });
   expect(isDescending(firstPageDates)).toBe(true);
 
   await page.getByRole('link', { name: 'Next page' }).click();
-  await expect(page.locator('.usa-pagination__button.usa-current')).toHaveText('2');
+  await expect(page.locator('.usa-pagination__button.usa-current')).toHaveText(
+    '2',
+  );
 
-  const secondPageCaseNumbers = await page.locator('[data-case-card]').evaluateAll(function (cards) {
-    return cards.map(function (card) {
-      return card.getAttribute('data-case-number');
+  const secondPageCaseNumbers = await page
+    .locator('[data-case-card]')
+    .evaluateAll(function (cards) {
+      return cards.map(function (card) {
+        return card.getAttribute('data-case-number');
+      });
     });
-  });
   expect(secondPageCaseNumbers).toHaveLength(CASES_PER_PAGE);
   expect(secondPageCaseNumbers).not.toEqual(firstPageCaseNumbers);
 
-  const secondPageDates = await page.locator('[data-case-date]').evaluateAll(function (dates) {
-    return dates.map(function (item) {
-      return item.textContent.trim();
+  const secondPageDates = await page
+    .locator('[data-case-date]')
+    .evaluateAll(function (dates) {
+      return dates.map(function (item) {
+        return item.textContent.trim();
+      });
     });
-  });
   expect(isDescending(secondPageDates)).toBe(true);
 });
 
@@ -78,19 +106,27 @@ test('populates results when using keyword search', async ({ page }) => {
   await page.locator('#case-search-query').fill(record.caseNumbers[0]);
   await page.locator('#case-search-query').press('Enter');
 
-  await expect(page.locator('#case-search-status')).toContainText('matching cases');
+  await expect(page.locator('#case-search-status')).toContainText(
+    'matching cases',
+  );
   await expect(page.locator('[data-case-card]')).toHaveCount(1);
-  await expect(caseCard(page, record.caseNumbers[0]).locator('[data-case-title]')).toHaveText(record.title);
+  await expect(
+    caseCard(page, record.caseNumbers[0]).locator('[data-case-title]'),
+  ).toHaveText(record.title);
 });
 
-test('does not include press releases in case keyword search results', async ({ page }) => {
+test('does not include press releases in case keyword search results', async ({
+  page,
+}) => {
   await page.goto('/cases/');
   await waitForCaseSearchReady(page);
 
   await page.locator('#case-search-query').fill('Social Media Guidance');
   await page.locator('#case-search-query').press('Enter');
 
-  await expect(page.locator('#case-search-status')).toContainText('No matching cases found.');
+  await expect(page.locator('#case-search-status')).toContainText(
+    'No matching cases found.',
+  );
   await expect(page.locator('[data-case-card]')).toHaveCount(0);
 });
 
@@ -103,24 +139,68 @@ test('populates results when using dropdown filtering', async ({ page }) => {
   await page.locator('#case-filter-agency').selectOption(record.agency);
   await page.locator('#case-filter-year').selectOption(record.year);
 
-  await expect(page.locator('#case-search-status')).toContainText('matching cases');
-  await expect.poll(async function () {
-    return page.locator('[data-case-card]').count();
-  }).toBeGreaterThan(0);
+  await expect(page.locator('#case-search-status')).toContainText(
+    'matching cases',
+  );
+  await expect(page.locator('#case-filter-agency option:checked')).toHaveText(
+    new RegExp(`${escapeRegExp(record.agency)} \\(\\d+\\)`),
+  );
+  await expect(page.locator('#case-filter-year option:checked')).toHaveText(
+    new RegExp(`${record.year} \\(\\d+\\)`),
+  );
+  await expect
+    .poll(async function () {
+      return page.locator('[data-case-card]').count();
+    })
+    .toBeGreaterThan(0);
 
-  const agencies = await page.locator('[data-case-agency]').evaluateAll(function (items) {
-    return items.map(function (item) {
-      return item.textContent.trim();
+  const agencies = await page
+    .locator('[data-case-agency]')
+    .evaluateAll(function (items) {
+      return items.map(function (item) {
+        return item.textContent.trim();
+      });
     });
-  });
   expect(new Set(agencies)).toEqual(new Set([record.agency]));
 
-  const years = await page.locator('[data-case-date]').evaluateAll(function (items) {
-    return items.map(function (item) {
-      return item.textContent.trim().slice(-4);
+  const years = await page
+    .locator('[data-case-date]')
+    .evaluateAll(function (items) {
+      return items.map(function (item) {
+        return item.textContent.trim().slice(-4);
+      });
     });
-  });
   expect(new Set(years)).toEqual(new Set([record.year]));
+});
+
+test('keeps alternate years selectable when a year is already selected', async ({
+  page,
+}) => {
+  const record = fixtures.linkedFilterRecord;
+
+  await page.goto('/cases/');
+  await waitForCaseSearchReady(page);
+
+  await page.locator('#case-filter-agency').selectOption(record.agency);
+  await page.locator('#case-filter-year').selectOption(record.year);
+  await expect(page.locator('#case-search-status')).toContainText(
+    'matching cases',
+  );
+
+  await expect(
+    page.locator(`#case-filter-year option[value="${record.alternateYear}"]`),
+  ).toContainText(new RegExp(`${record.alternateYear} \\([1-9]\\d*\\)`));
+  await expect(
+    page.locator(`#case-filter-year option[value="${record.alternateYear}"]`),
+  ).not.toBeDisabled();
+
+  await page.locator('#case-filter-year').selectOption(record.alternateYear);
+  await expect(page.locator('#case-filter-year option:checked')).toHaveText(
+    new RegExp(`${record.alternateYear} \\(\\d+\\)`),
+  );
+  await expect(page.locator('#case-search-status')).toContainText(
+    'matching cases',
+  );
 });
 
 test('individual case cards render the expected data', async ({ page }) => {
@@ -135,24 +215,31 @@ test('individual case cards render the expected data', async ({ page }) => {
   await expect(page.locator('[data-case-card]')).toHaveCount(1);
   await expect(card.locator('[data-case-title]')).toHaveText(record.title);
   await expect(card.locator('[data-case-agency]')).toHaveText(record.agency);
-  await expect(card.locator('[data-case-location]')).toContainText(record.locations[0]);
+  await expect(card.locator('[data-case-location]')).toContainText(
+    record.locations[0],
+  );
   await expect(card.locator('[data-case-date]')).toHaveText(record.dateDisplay);
 
-  const renderedResults = await card.locator('[data-case-result]').evaluateAll(function (items) {
-    return items.map(function (item) {
-      return item.textContent.trim();
+  const renderedResults = await card
+    .locator('[data-case-result]')
+    .evaluateAll(function (items) {
+      return items.map(function (item) {
+        return item.textContent.trim();
+      });
     });
-  });
   expect(renderedResults).toEqual(record.results);
 
-  const renderedFiles = await card.locator('[data-case-file-link]').evaluateAll(function (items) {
-    return items.map(function (item) {
-      return {
-        href: new URL(item.getAttribute('href'), 'http://127.0.0.1:4173').pathname,
-        label: item.textContent.trim(),
-      };
+  const renderedFiles = await card
+    .locator('[data-case-file-link]')
+    .evaluateAll(function (items) {
+      return items.map(function (item) {
+        return {
+          href: new URL(item.getAttribute('href'), 'http://127.0.0.1:4173')
+            .pathname,
+          label: item.textContent.trim(),
+        };
+      });
     });
-  });
   expect(renderedFiles).toEqual(
     record.files.map(function (file) {
       return {

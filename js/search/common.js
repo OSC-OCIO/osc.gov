@@ -26,6 +26,176 @@ function sortFilterEntries(filterName, values) {
   });
 }
 
+function normalizeFilterValues(values) {
+  if (!Array.isArray(values)) {
+    values = typeof values === "undefined" || values === null ? [] : [values];
+  }
+
+  return values
+    .map(function (value) {
+      return String(value || "").trim();
+    })
+    .filter(Boolean);
+}
+
+function filtersExcluding(filters, excludedFilterName) {
+  const filtered = {};
+  for (const key of Object.keys(filters || {})) {
+    if (key === excludedFilterName) {
+      continue;
+    }
+
+    const values = normalizeFilterValues(filters[key]);
+    if (values.length) {
+      filtered[key] = values;
+    }
+  }
+  return filtered;
+}
+
+function recordMatchesFilters(
+  record,
+  filters,
+  getFilterValues,
+  excludedFilterName,
+) {
+  const active = filtersExcluding(filters, excludedFilterName);
+  for (const filterName of Object.keys(active)) {
+    const selectedValues = active[filterName];
+    const recordValues = normalizeFilterValues(
+      getFilterValues(record, filterName),
+    );
+
+    if (
+      !selectedValues.some(function (selectedValue) {
+        return recordValues.includes(selectedValue);
+      })
+    ) {
+      return false;
+    }
+  }
+
+  return true;
+}
+
+function applyRecordFilters(
+  records,
+  filters,
+  getFilterValues,
+  excludedFilterName,
+) {
+  return (records || []).filter(function (record) {
+    return recordMatchesFilters(
+      record,
+      filters,
+      getFilterValues,
+      excludedFilterName,
+    );
+  });
+}
+
+function countFilterValues(records, filterNames, getFilterValues) {
+  const counts = {};
+  for (const filterName of filterNames || []) {
+    counts[filterName] = {};
+  }
+
+  for (const record of records || []) {
+    for (const filterName of filterNames || []) {
+      const values = normalizeFilterValues(getFilterValues(record, filterName));
+      for (const value of values) {
+        counts[filterName][value] = (counts[filterName][value] || 0) + 1;
+      }
+    }
+  }
+
+  return counts;
+}
+
+function emptyFilterCounts(allRecords, filterNames, getFilterValues) {
+  const globalCounts = countFilterValues(
+    allRecords,
+    filterNames,
+    getFilterValues,
+  );
+  const counts = {};
+
+  for (const filterName of filterNames || []) {
+    counts[filterName] = {};
+    for (const value of Object.keys(globalCounts[filterName] || {})) {
+      counts[filterName][value] = 0;
+    }
+  }
+
+  return counts;
+}
+
+function mergeContextFilterCounts(
+  allRecords,
+  contextRecordsByFilter,
+  filterNames,
+  getFilterValues,
+) {
+  const counts = emptyFilterCounts(allRecords, filterNames, getFilterValues);
+
+  for (const filterName of filterNames || []) {
+    const contextRecords =
+      (contextRecordsByFilter && contextRecordsByFilter[filterName]) || [];
+    const contextCounts = countFilterValues(
+      contextRecords,
+      [filterName],
+      getFilterValues,
+    );
+
+    for (const value of Object.keys(contextCounts[filterName] || {})) {
+      counts[filterName][value] = contextCounts[filterName][value];
+    }
+
+    Object.defineProperty(counts[filterName], "__total", {
+      configurable: true,
+      enumerable: false,
+      value: contextRecords.length,
+    });
+  }
+
+  return counts;
+}
+
+function optionCountTotal(values) {
+  if (values && Number.isFinite(values.__total)) {
+    return values.__total;
+  }
+
+  return Object.values(values || {}).reduce(function (total, count) {
+    return total + count;
+  }, 0);
+}
+
+function generateFilterOptionCounts(
+  allRecords,
+  selectedFilters,
+  filterNames,
+  getFilterValues,
+) {
+  const contextRecordsByFilter = {};
+
+  for (const filterName of filterNames || []) {
+    contextRecordsByFilter[filterName] = applyRecordFilters(
+      allRecords,
+      selectedFilters,
+      getFilterValues,
+      filterName,
+    );
+  }
+
+  return mergeContextFilterCounts(
+    allRecords,
+    contextRecordsByFilter,
+    filterNames,
+    getFilterValues,
+  );
+}
+
 function populateFilterSelect(
   select,
   filterName,
@@ -39,11 +209,13 @@ function populateFilterSelect(
   }
 
   select.innerHTML = "";
+  const defaultLabel = (labelMap && labelMap[filterName]) || "All options";
+  const totalCount = optionCountTotal(values);
 
   const defaultOption = document.createElement("option");
   defaultOption.value = "";
-  defaultOption.textContent =
-    (labelMap && labelMap[filterName]) || "All options";
+  defaultOption.textContent = `${defaultLabel} (${totalCount})`;
+  defaultOption.selected = !selectedValue;
   select.appendChild(defaultOption);
 
   const options = sortFilterEntries(filterName, values);
@@ -56,9 +228,12 @@ function populateFilterSelect(
 
     const option = document.createElement("option");
     const label = formatLabel ? formatLabel(value, filterName) : value;
+    const selected = selectedValue === value;
     option.value = value;
     option.textContent = `${label} (${count})`;
-    option.selected = selectedValue === value;
+    option.disabled = Number(count) === 0 && !selected;
+    option.selected = selected;
+    option.setAttribute("aria-selected", selected ? "true" : "false");
     select.appendChild(option);
   }
 }
@@ -330,9 +505,14 @@ module.exports = {
   NEWS_PER_PAGE,
   RESOURCE_FILTER_LABELS,
   activeFilters,
+  applyRecordFilters,
+  countFilterValues,
   createElement,
   debounce,
+  filtersExcluding,
   focusResultsRegion,
+  generateFilterOptionCounts,
+  mergeContextFilterCounts,
   parsePageNumber,
   populateFilterSelect,
   renderSearchPagination,
