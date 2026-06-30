@@ -24,6 +24,16 @@ async function buildSearchIndex(pagefind) {
     );
   }
 
+  const pressReleaseIndexing = await index.addDirectory({
+    path: SITE_DIR,
+    glob: "news/????-??-??/**/*.html",
+  });
+  if (pressReleaseIndexing.errors.length) {
+    throw new Error(
+      `Press release indexing failed: ${pressReleaseIndexing.errors.join("; ")}`,
+    );
+  }
+
   const writeResult = await index.writeFiles({
     outputPath: OUTPUT_DIR,
   });

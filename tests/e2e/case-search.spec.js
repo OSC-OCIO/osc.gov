@@ -83,6 +83,17 @@ test('populates results when using keyword search', async ({ page }) => {
   await expect(caseCard(page, record.caseNumbers[0]).locator('[data-case-title]')).toHaveText(record.title);
 });
 
+test('does not include press releases in case keyword search results', async ({ page }) => {
+  await page.goto('/cases/');
+  await waitForCaseSearchReady(page);
+
+  await page.locator('#case-search-query').fill('Social Media Guidance');
+  await page.locator('#case-search-query').press('Enter');
+
+  await expect(page.locator('#case-search-status')).toContainText('No matching cases found.');
+  await expect(page.locator('[data-case-card]')).toHaveCount(0);
+});
+
 test('populates results when using dropdown filtering', async ({ page }) => {
   const record = fixtures.filterRecord;
 

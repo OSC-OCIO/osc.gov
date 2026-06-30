@@ -34,6 +34,14 @@ function formatCaseTitle(caseNumbers) {
   return `${caseNumbers.slice(0, -1).join(', ')}, and ${caseNumbers[caseNumbers.length - 1]}`;
 }
 
+function normalizeFileHref(href) {
+  try {
+    return new URL(href, 'http://127.0.0.1:4173').pathname;
+  } catch (error) {
+    return href;
+  }
+}
+
 function loadCaseFixtures() {
   const records = fs
     .readdirSync(CASES_DIR)
@@ -57,7 +65,14 @@ function loadCaseFixtures() {
         caseNumbers,
         date,
         dateDisplay: formatDateDisplay(data.date),
-        files: Array.isArray(data.files) ? data.files : [],
+        files: Array.isArray(data.files)
+          ? data.files.map(function (file) {
+              return {
+                ...file,
+                href: normalizeFileHref(file.href),
+              };
+            })
+          : [],
         locations: Array.isArray(data.locations) ? data.locations : [],
         results: Array.isArray(data.results) ? data.results : [],
         subagency,

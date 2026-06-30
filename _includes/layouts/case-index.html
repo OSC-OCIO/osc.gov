@@ -1,18 +1,15 @@
 ---
 layout: layouts/base
 ---
+
 <div id="main-content" class="usa-section padding-y-4 bg-base-lightest">
   <div class="grid-container">
     <div class="grid-row grid-gap">
       <div class="grid-col-12 usa-prose">
         <h1>{{ title }}</h1>
         {% if lead %}
-          <div class="usa-intro margin-bottom-4">{{ lead | markdownify }}</div>
-        {% endif %}
-        {{ content }}
-        {%- if pagination and pagination.pages -%}
-          {%- include 'pagination-links.html' -%}
-        {%- endif -%}
+        <div class="usa-intro margin-bottom-4">{{ lead | markdownify }}</div>
+        {% endif %} {{ content }}
       </div>
     </div>
   </div>

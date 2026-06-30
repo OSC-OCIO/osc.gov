@@ -14,6 +14,7 @@
 <li
   class="tablet:grid-col-6 usa-card"
   data-pagefind-body
+  data-pagefind-filter="content-type:case"
   data-case-card="true"
   {%- if case_numbers and case_numbers.size > 0 -%}
     data-case-number="{{ case_numbers[0] }}"
@@ -73,7 +74,7 @@
           <time
             datetime="{{ case_date_iso }}"
             data-year="{{ case_year }}"
-            data-pagefind-meta="date"
+            data-pagefind-meta="date, date-iso[datetime]"
             data-pagefind-sort="date-iso[datetime]"
             data-pagefind-filter="year[data-year]"
             data-case-date="true"
