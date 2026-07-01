@@ -1,7 +1,10 @@
 module.exports = async function (config) {
+  const { formatNewsTagLabel } = require("./js/search/news-tag-labels");
   const { default: studioPreset } = await import(
     "@studio/eleventy-preset"
   );
+
+  config.addFilter("newsTagLabel", formatNewsTagLabel);
 
   await studioPreset(config, {
     passthroughCopy: [

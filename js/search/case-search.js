@@ -1,17 +1,19 @@
-const {
-  normalizeLookupValue,
-} = require("../../search-shared");
+const { normalizeLookupValue } = require("../../search-shared");
 const {
   CASES_PER_PAGE,
   CASE_FILTER_LABELS,
   activeFilters,
   debounce,
+  filtersExcluding,
+  generateFilterOptionCounts,
+  mergeContextFilterCounts,
   populateFilterSelect,
-  responseFilters,
   runPagefindSearch,
 } = require("./common");
 const { loadPagefind } = require("./pagefind");
 const CASE_SORT = { "date-iso": "desc" };
+const CASE_TYPE_FILTER_NAME = "content-type";
+const CASE_TYPE_FILTER_VALUE = "case";
 
 function exactCaseMatch(caseNumbers, caseNumber) {
   const expected = normalizeLookupValue(caseNumber);
@@ -61,7 +63,12 @@ function pageSequence(totalPages, currentPage) {
   ];
 }
 
-function renderSearchPagination(container, totalItems, currentPage, onPageChange) {
+function renderSearchPagination(
+  container,
+  totalItems,
+  currentPage,
+  onPageChange,
+) {
   container.innerHTML = "";
   const totalPages = Math.ceil(totalItems / CASES_PER_PAGE);
 
@@ -176,7 +183,9 @@ function createElement(tagName, options) {
 function normalizeCaseRecord(record) {
   const files = Array.isArray(record.files) ? record.files : [];
   const results = Array.isArray(record.results) ? record.results : [];
-  const caseNumbers = Array.isArray(record.caseNumbers) ? record.caseNumbers : [];
+  const caseNumbers = Array.isArray(record.caseNumbers)
+    ? record.caseNumbers
+    : [];
 
   return {
     agency: record.agency || "",
@@ -206,7 +215,39 @@ function parseJsonArray(value) {
 }
 
 function normalizeLocationValue(value) {
-  return String(value || "").replace(/^location:\s*/i, "").trim();
+  return String(value || "")
+    .replace(/^location:\s*/i, "")
+    .trim();
+}
+
+function scopedCaseFilters(filters) {
+  return {
+    ...(filters || {}),
+    [CASE_TYPE_FILTER_NAME]: [CASE_TYPE_FILTER_VALUE],
+  };
+}
+
+function caseSearchOptions(options) {
+  const settings = options || {};
+  return {
+    ...settings,
+    filters: scopedCaseFilters(settings.filters),
+  };
+}
+
+function caseFilterValues(record, filterName) {
+  if (filterName === "agency") {
+    return record.agency || "";
+  }
+
+  if (filterName === "year") {
+    return (
+      String(record.dateIso || "").slice(0, 4) ||
+      (String(record.dateDisplay || "").match(/\b\d{4}\b/) || [""])[0]
+    );
+  }
+
+  return "";
 }
 
 function buildCaseRecordFromDoc(doc) {
@@ -483,6 +524,10 @@ async function initializeCaseSearch() {
     agency: document.querySelector("#case-filter-agency"),
     year: document.querySelector("#case-filter-year"),
   };
+  const initialSelected = {};
+  for (const key of Object.keys(selects)) {
+    initialSelected[key] = initialParams.get(key) || "";
+  }
   let exactCaseNumber = initialParams.get("case") || "";
 
   queryInput.value = initialParams.get("query") || exactCaseNumber || "";
@@ -500,56 +545,56 @@ async function initializeCaseSearch() {
     return;
   }
 
-  const hydrateFilters = async function () {
-    let filters = {};
-    try {
-      filters = await pagefind.filters();
-    } catch (error) {
-      filters = {};
-    }
-
-    const hasAnyFilters = Object.keys(CASE_FILTER_LABELS).some(function (key) {
-      return filters[key] && Object.keys(filters[key]).length;
-    });
-
-    if (!hasAnyFilters) {
-      try {
-        const bootstrapSearch = await runPagefindSearch(
-          pagefind,
-          null,
-          { sort: CASE_SORT },
-          false,
-        );
-        filters = responseFilters(bootstrapSearch.response);
-      } catch (error) {
-        filters = {};
+  const selectedFilterValues = function () {
+    const selected = activeFilters(selects);
+    for (const key of Object.keys(selects)) {
+      if (initialSelected[key] && !selected[key]) {
+        selected[key] = [initialSelected[key]];
       }
     }
+    return selected;
+  };
+
+  const hydrateFilters = function (contextRecordsByFilter) {
+    const filterKeys = Object.keys(selects);
+    const filters = contextRecordsByFilter
+      ? mergeContextFilterCounts(
+          browseRecords,
+          contextRecordsByFilter,
+          filterKeys,
+          caseFilterValues,
+        )
+      : generateFilterOptionCounts(
+          browseRecords,
+          selectedFilterValues(),
+          filterKeys,
+          caseFilterValues,
+        );
 
     for (const key of Object.keys(selects)) {
       populateFilterSelect(
         selects[key],
         key,
         filters[key],
-        selects[key] ? selects[key].value : "",
+        initialSelected[key] || (selects[key] ? selects[key].value : ""),
         CASE_FILTER_LABELS,
       );
+      initialSelected[key] = "";
     }
   };
-
-  await hydrateFilters();
 
   try {
     const browseSearch = await runPagefindSearch(
       pagefind,
       null,
-      { sort: CASE_SORT },
+      caseSearchOptions({ sort: CASE_SORT }),
       true,
     );
     browseRecords = browseSearch.docs.map(buildCaseRecordFromDoc);
   } catch (error) {
     browseRecords = [];
   }
+  hydrateFilters();
 
   let requestId = 0;
   let currentRecords = browseRecords;
@@ -604,6 +649,41 @@ async function initializeCaseSearch() {
     return hasQuery || hasFilters;
   };
 
+  const shouldLoadFilterContextRecords = function (query) {
+    return Boolean(query || exactCaseNumber);
+  };
+
+  const loadFilterContextRecords = async function (query, filters) {
+    if (!shouldLoadFilterContextRecords(query)) {
+      return null;
+    }
+
+    const contextRecordsByFilter = {};
+    for (const filterName of Object.keys(selects)) {
+      const contextSearch = await runPagefindSearch(
+        pagefind,
+        query || null,
+        caseSearchOptions({
+          filters: filtersExcluding(filters, filterName),
+          sort: CASE_SORT,
+        }),
+        true,
+      );
+
+      contextRecordsByFilter[filterName] = contextSearch.docs
+        .map(buildCaseRecordFromDoc)
+        .filter(function (record) {
+          if (!exactCaseNumber) {
+            return true;
+          }
+
+          return exactCaseMatch(record.caseNumbers, exactCaseNumber);
+        });
+    }
+
+    return contextRecordsByFilter;
+  };
+
   const exitSearchMode = function () {
     if (!searchModeActive) {
       return;
@@ -612,7 +692,9 @@ async function initializeCaseSearch() {
     searchModeActive = false;
     requestId += 1;
     currentRecords = browseRecords;
-    currentPage = parsePageNumber(new URL(window.location.href).searchParams.get("page"));
+    currentPage = parsePageNumber(
+      new URL(window.location.href).searchParams.get("page"),
+    );
 
     if (!currentRecords.length) {
       listContainer.innerHTML = initialListMarkup;
@@ -685,7 +767,7 @@ async function initializeCaseSearch() {
     const thisRequest = requestId;
 
     const query = queryInput.value.trim() || null;
-    const filters = activeFilters(selects);
+    const filters = selectedFilterValues();
     currentPage = 1;
     syncSearchParams();
 
@@ -695,16 +777,20 @@ async function initializeCaseSearch() {
     }
 
     let searchResult;
+    let contextRecordsByFilter;
     try {
-      searchResult = await runPagefindSearch(
-        pagefind,
-        query,
-        {
-          filters,
-          sort: CASE_SORT,
-        },
-        true,
-      );
+      [searchResult, contextRecordsByFilter] = await Promise.all([
+        runPagefindSearch(
+          pagefind,
+          query,
+          caseSearchOptions({
+            filters,
+            sort: CASE_SORT,
+          }),
+          true,
+        ),
+        loadFilterContextRecords(query, filters),
+      ]);
     } catch (error) {
       if (thisRequest !== requestId) {
         return;
@@ -717,17 +803,6 @@ async function initializeCaseSearch() {
       return;
     }
 
-    const filterValues = responseFilters(searchResult.response);
-    for (const key of Object.keys(selects)) {
-      populateFilterSelect(
-        selects[key],
-        key,
-        filterValues[key],
-        selects[key] ? selects[key].value : "",
-        CASE_FILTER_LABELS,
-      );
-    }
-
     currentRecords = searchResult.docs
       .map(buildCaseRecordFromDoc)
       .filter(function (record) {
@@ -737,6 +812,7 @@ async function initializeCaseSearch() {
 
         return exactCaseMatch(record.caseNumbers, exactCaseNumber);
       });
+    hydrateFilters(contextRecordsByFilter);
     currentPage = 1;
     renderCurrentPage();
   };

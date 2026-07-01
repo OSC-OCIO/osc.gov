@@ -29,7 +29,7 @@
     gtag('config', '{{ site.ga.ua }}', { anonymize_ip: true, forceSSL: true });
   </script>
 {% endif %}
-{% if page.url contains '/cases/' %}
+{% if page.url contains '/cases/' or page.url == '/news/' or page.url contains '/news/page/' %}
   <script type="module">
     import * as pagefind from '{{ "/pagefind/pagefind.js" | url }}';
 

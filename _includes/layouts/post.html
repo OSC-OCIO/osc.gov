@@ -2,12 +2,51 @@
 layout: layouts/default
 ---
 
-<p class="text-gray-50">{{ date | date: '%B %d, %Y' }}</p>
+{%- assign post_date_iso = date | date: '%Y-%m-%d' -%}
+{%- assign post_year = date | date: '%Y' -%}
+
+<article
+  data-pagefind-body
+  data-pagefind-filter="content-type:press-release"
+  data-pagefind-meta="title[data-title], tags-json[data-tags-json]"
+  data-title="{{ title | escape }}"
+  data-tags-json='[
+    {%- assign first_public_tag = true -%}
+    {%- for tag in tags -%}
+      {%- if tag != "press-release" -%}
+        {%- unless first_public_tag -%},{%- endunless -%}
+        {{- tag | jsonify | escape -}}
+        {%- assign first_public_tag = false -%}
+      {%- endif -%}
+    {%- endfor -%}
+  ]'
+>
+
+<p class="text-gray-50">
+  <time
+    datetime="{{ post_date_iso }}"
+    data-year="{{ post_year }}"
+    data-pagefind-meta="date, date-iso[datetime]"
+    data-pagefind-sort="date-iso[datetime]"
+    data-pagefind-filter="year[data-year]"
+  >
+    {{- date | date: '%B %d, %Y' -}}
+  </time>
+</p>
 
 {% if tags %}
 <div class="margin-bottom-2">
   {% for tag in tags %} {% if tag != "press-release" %}
-  <span class="usa-tag">{{ tag }}</span>
+  <span
+    class="usa-tag"
+    data-pagefind-filter="tag[data-news-tag-value]"
+    data-news-tag-value="{{ tag | escape }}"
+  >
+    {{- tag | newsTagLabel -}}
+  </span>
   {% endif %} {% endfor %}
 </div>
-{% endif %} {{ content }}
+{% endif %}
+
+{{ content }}
+</article>

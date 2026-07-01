@@ -1,11 +1,13 @@
 require("@studio/eleventy-preset/uswds");
 
 const { initializeCaseSearch } = require("./search/case-search");
+const { initializeNewsSearch } = require("./search/news-search");
 const { initializeResourceSearch } = require("./search/resource-search");
 
 function initializeSearchFeatures() {
   initializeResourceSearch();
   initializeCaseSearch();
+  initializeNewsSearch();
 
   const rawBaseHref = document.querySelector("base")?.getAttribute("href");
   const appScriptPath =

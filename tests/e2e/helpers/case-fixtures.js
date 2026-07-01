@@ -34,6 +34,14 @@ function formatCaseTitle(caseNumbers) {
   return `${caseNumbers.slice(0, -1).join(', ')}, and ${caseNumbers[caseNumbers.length - 1]}`;
 }
 
+function normalizeFileHref(href) {
+  try {
+    return new URL(href, 'http://127.0.0.1:4173').pathname;
+  } catch (error) {
+    return href;
+  }
+}
+
 function loadCaseFixtures() {
   const records = fs
     .readdirSync(CASES_DIR)
@@ -44,12 +52,20 @@ function loadCaseFixtures() {
       const contents = fs.readFileSync(path.join(CASES_DIR, fileName), 'utf8');
       const data = parseFrontMatter(contents);
       const caseNumbers = Array.isArray(data.cases)
-        ? data.cases.map(function (value) {
-            return String(value || '').trim();
-          }).filter(Boolean)
+        ? data.cases
+            .map(function (value) {
+              return String(value || '').trim();
+            })
+            .filter(Boolean)
         : [];
-      const agency = data.source && data.source.agency ? String(data.source.agency).trim() : '';
-      const subagency = data.source && data.source.subagency ? String(data.source.subagency).trim() : '';
+      const agency =
+        data.source && data.source.agency
+          ? String(data.source.agency).trim()
+          : '';
+      const subagency =
+        data.source && data.source.subagency
+          ? String(data.source.subagency).trim()
+          : '';
       const date = new Date(data.date);
 
       return {
@@ -57,7 +73,14 @@ function loadCaseFixtures() {
         caseNumbers,
         date,
         dateDisplay: formatDateDisplay(data.date),
-        files: Array.isArray(data.files) ? data.files : [],
+        files: Array.isArray(data.files)
+          ? data.files.map(function (file) {
+              return {
+                ...file,
+                href: normalizeFileHref(file.href),
+              };
+            })
+          : [],
         locations: Array.isArray(data.locations) ? data.locations : [],
         results: Array.isArray(data.results) ? data.results : [],
         subagency,
@@ -85,7 +108,9 @@ function loadCaseFixtures() {
   });
 
   if (!richRecord) {
-    throw new Error('Unable to find a case record with rich metadata for E2E assertions.');
+    throw new Error(
+      'Unable to find a case record with rich metadata for E2E assertions.',
+    );
   }
 
   const filterRecord = records.find(function (record) {
@@ -93,12 +118,46 @@ function loadCaseFixtures() {
   });
 
   if (!filterRecord) {
-    throw new Error('Unable to find a case record with agency and year filters.');
+    throw new Error(
+      'Unable to find a case record with agency and year filters.',
+    );
   }
+
+  const agencyYears = {};
+  for (const record of records) {
+    if (!record.agency || !record.year) {
+      continue;
+    }
+
+    if (!agencyYears[record.agency]) {
+      agencyYears[record.agency] = new Set();
+    }
+    agencyYears[record.agency].add(record.year);
+  }
+
+  const linkedFilterAgency = Object.keys(agencyYears).find(function (agency) {
+    return agencyYears[agency].size > 1;
+  });
+
+  if (!linkedFilterAgency) {
+    throw new Error(
+      'Unable to find a case agency with records in multiple years.',
+    );
+  }
+
+  const linkedFilterYears = Array.from(agencyYears[linkedFilterAgency])
+    .sort()
+    .reverse();
+  const linkedFilterRecord = {
+    agency: linkedFilterAgency,
+    alternateYear: linkedFilterYears[1],
+    year: linkedFilterYears[0],
+  };
 
   return {
     browsePages,
     filterRecord,
+    linkedFilterRecord,
     richRecord,
   };
 }
