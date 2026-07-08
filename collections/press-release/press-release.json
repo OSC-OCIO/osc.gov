@@ -3,7 +3,7 @@
   "layout": "layouts/post",
   "sidenav": false,
   "eleventyComputed": {
-    "breadcrumb_key": "news"
+    "breadcrumb_key": "news-{{ page.date | date: \"%Y\" }}"
   },
   "tags": ["press-release"]
 }

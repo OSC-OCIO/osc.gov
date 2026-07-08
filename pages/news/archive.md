@@ -8,6 +8,10 @@ pagination:
 eleventyComputed:
   title: "Press Releases: {{ year[0] }}"
   permalink: "news/{{ year[0] | slug }}/"
+  eleventyNavigation:
+    key: news-{{ year[0] }}
+    parent: news
+    title: "{{ year[0] }}"
   canonical_url: "/news/?year={{ year[0] }}"
   meta_refresh: "0;url=/news/?year={{ year[0] }}"
   robots: "noindex"
