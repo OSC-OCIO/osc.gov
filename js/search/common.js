@@ -1,7 +1,12 @@
 const CASES_PER_PAGE = 10;
+const NEWS_PER_PAGE = 10;
 const CASE_FILTER_LABELS = {
   agency: "All agencies",
   year: "All years",
+};
+const NEWS_FILTER_LABELS = {
+  year: "All years",
+  tag: "All tags",
 };
 const RESOURCE_FILTER_LABELS = {
   parent: "All categories",
@@ -21,23 +26,196 @@ function sortFilterEntries(filterName, values) {
   });
 }
 
+function normalizeFilterValues(values) {
+  if (!Array.isArray(values)) {
+    values = typeof values === "undefined" || values === null ? [] : [values];
+  }
+
+  return values
+    .map(function (value) {
+      return String(value || "").trim();
+    })
+    .filter(Boolean);
+}
+
+function filtersExcluding(filters, excludedFilterName) {
+  const filtered = {};
+  for (const key of Object.keys(filters || {})) {
+    if (key === excludedFilterName) {
+      continue;
+    }
+
+    const values = normalizeFilterValues(filters[key]);
+    if (values.length) {
+      filtered[key] = values;
+    }
+  }
+  return filtered;
+}
+
+function recordMatchesFilters(
+  record,
+  filters,
+  getFilterValues,
+  excludedFilterName,
+) {
+  const active = filtersExcluding(filters, excludedFilterName);
+  for (const filterName of Object.keys(active)) {
+    const selectedValues = active[filterName];
+    const recordValues = normalizeFilterValues(
+      getFilterValues(record, filterName),
+    );
+
+    if (
+      !selectedValues.some(function (selectedValue) {
+        return recordValues.includes(selectedValue);
+      })
+    ) {
+      return false;
+    }
+  }
+
+  return true;
+}
+
+function applyRecordFilters(
+  records,
+  filters,
+  getFilterValues,
+  excludedFilterName,
+) {
+  return (records || []).filter(function (record) {
+    return recordMatchesFilters(
+      record,
+      filters,
+      getFilterValues,
+      excludedFilterName,
+    );
+  });
+}
+
+function countFilterValues(records, filterNames, getFilterValues) {
+  const counts = {};
+  for (const filterName of filterNames || []) {
+    counts[filterName] = {};
+  }
+
+  for (const record of records || []) {
+    for (const filterName of filterNames || []) {
+      const values = normalizeFilterValues(getFilterValues(record, filterName));
+      for (const value of values) {
+        counts[filterName][value] = (counts[filterName][value] || 0) + 1;
+      }
+    }
+  }
+
+  return counts;
+}
+
+function emptyFilterCounts(allRecords, filterNames, getFilterValues) {
+  const globalCounts = countFilterValues(
+    allRecords,
+    filterNames,
+    getFilterValues,
+  );
+  const counts = {};
+
+  for (const filterName of filterNames || []) {
+    counts[filterName] = {};
+    for (const value of Object.keys(globalCounts[filterName] || {})) {
+      counts[filterName][value] = 0;
+    }
+  }
+
+  return counts;
+}
+
+function mergeContextFilterCounts(
+  allRecords,
+  contextRecordsByFilter,
+  filterNames,
+  getFilterValues,
+) {
+  const counts = emptyFilterCounts(allRecords, filterNames, getFilterValues);
+
+  for (const filterName of filterNames || []) {
+    const contextRecords =
+      (contextRecordsByFilter && contextRecordsByFilter[filterName]) || [];
+    const contextCounts = countFilterValues(
+      contextRecords,
+      [filterName],
+      getFilterValues,
+    );
+
+    for (const value of Object.keys(contextCounts[filterName] || {})) {
+      counts[filterName][value] = contextCounts[filterName][value];
+    }
+
+    Object.defineProperty(counts[filterName], "__total", {
+      configurable: true,
+      enumerable: false,
+      value: contextRecords.length,
+    });
+  }
+
+  return counts;
+}
+
+function optionCountTotal(values) {
+  if (values && Number.isFinite(values.__total)) {
+    return values.__total;
+  }
+
+  return Object.values(values || {}).reduce(function (total, count) {
+    return total + count;
+  }, 0);
+}
+
+function generateFilterOptionCounts(
+  allRecords,
+  selectedFilters,
+  filterNames,
+  getFilterValues,
+) {
+  const contextRecordsByFilter = {};
+
+  for (const filterName of filterNames || []) {
+    contextRecordsByFilter[filterName] = applyRecordFilters(
+      allRecords,
+      selectedFilters,
+      getFilterValues,
+      filterName,
+    );
+  }
+
+  return mergeContextFilterCounts(
+    allRecords,
+    contextRecordsByFilter,
+    filterNames,
+    getFilterValues,
+  );
+}
+
 function populateFilterSelect(
   select,
   filterName,
   values,
   selectedValue,
   labelMap,
+  formatLabel,
 ) {
   if (!select) {
     return;
   }
 
   select.innerHTML = "";
+  const defaultLabel = (labelMap && labelMap[filterName]) || "All options";
+  const totalCount = optionCountTotal(values);
 
   const defaultOption = document.createElement("option");
   defaultOption.value = "";
-  defaultOption.textContent =
-    (labelMap && labelMap[filterName]) || "All options";
+  defaultOption.textContent = `${defaultLabel} (${totalCount})`;
+  defaultOption.selected = !selectedValue;
   select.appendChild(defaultOption);
 
   const options = sortFilterEntries(filterName, values);
@@ -49,9 +227,13 @@ function populateFilterSelect(
     }
 
     const option = document.createElement("option");
+    const label = formatLabel ? formatLabel(value, filterName) : value;
+    const selected = selectedValue === value;
     option.value = value;
-    option.textContent = `${value} (${count})`;
-    option.selected = selectedValue === value;
+    option.textContent = `${label} (${count})`;
+    option.disabled = Number(count) === 0 && !selected;
+    option.selected = selected;
+    option.setAttribute("aria-selected", selected ? "true" : "false");
     select.appendChild(option);
   }
 }
@@ -113,13 +295,228 @@ function debounce(fn, delay) {
   return wrapped;
 }
 
+function pageSequence(totalPages, currentPage) {
+  if (totalPages <= 5) {
+    return Array.from({ length: totalPages }, function (_, idx) {
+      return idx + 1;
+    });
+  }
+
+  if (currentPage <= 3) {
+    return [1, 2, 3, 4, "ellipsis", totalPages];
+  }
+
+  if (currentPage >= totalPages - 2) {
+    return [
+      1,
+      "ellipsis",
+      totalPages - 3,
+      totalPages - 2,
+      totalPages - 1,
+      totalPages,
+    ];
+  }
+
+  return [
+    1,
+    "ellipsis",
+    currentPage - 1,
+    currentPage,
+    currentPage + 1,
+    "ellipsis",
+    totalPages,
+  ];
+}
+
+function renderSearchPagination(
+  container,
+  totalItems,
+  currentPage,
+  itemsPerPage,
+  onPageChange,
+) {
+  container.innerHTML = "";
+  const totalPages = Math.ceil(totalItems / itemsPerPage);
+
+  if (totalPages <= 1) {
+    container.classList.add("display-none");
+    return;
+  }
+
+  container.classList.remove("display-none");
+
+  const nav = document.createElement("nav");
+  nav.className = "usa-pagination padding-top-2";
+  nav.setAttribute("aria-label", "Pagination");
+
+  const list = document.createElement("ul");
+  list.className = "usa-pagination__list";
+
+  if (currentPage > 1) {
+    const prevItem = document.createElement("li");
+    prevItem.className = "usa-pagination__item usa-pagination__arrow";
+
+    const prevLink = document.createElement("a");
+    prevLink.href = "#";
+    prevLink.className = "usa-pagination__link usa-pagination__previous-page";
+    prevLink.setAttribute("aria-label", "Previous page");
+    prevLink.innerHTML =
+      '<span class="usa-pagination__link-text"> Previous </span>';
+    prevLink.addEventListener("click", function (event) {
+      event.preventDefault();
+      onPageChange(currentPage - 1);
+    });
+
+    prevItem.appendChild(prevLink);
+    list.appendChild(prevItem);
+  }
+
+  for (const page of pageSequence(totalPages, currentPage)) {
+    if (page === "ellipsis") {
+      const overflowItem = document.createElement("li");
+      overflowItem.className = "usa-pagination__item usa-pagination__overflow";
+      overflowItem.setAttribute("role", "presentation");
+      overflowItem.textContent = " … ";
+      list.appendChild(overflowItem);
+      continue;
+    }
+
+    const pageItem = document.createElement("li");
+    pageItem.className = "usa-pagination__item usa-pagination__page-no";
+
+    const pageLink = document.createElement("a");
+    pageLink.href = "#";
+    pageLink.className = `usa-pagination__button${page === currentPage ? " usa-current" : ""}`;
+    pageLink.setAttribute("aria-label", `Page ${page}`);
+    pageLink.textContent = String(page);
+    pageLink.addEventListener("click", function (event) {
+      event.preventDefault();
+      onPageChange(page);
+    });
+
+    pageItem.appendChild(pageLink);
+    list.appendChild(pageItem);
+  }
+
+  if (currentPage < totalPages) {
+    const nextItem = document.createElement("li");
+    nextItem.className = "usa-pagination__item usa-pagination__arrow";
+
+    const nextLink = document.createElement("a");
+    nextLink.href = "#";
+    nextLink.className = "usa-pagination__link usa-pagination__next-page";
+    nextLink.setAttribute("aria-label", "Next page");
+    nextLink.innerHTML =
+      '<span class="usa-pagination__link-text"> Next </span>';
+    nextLink.addEventListener("click", function (event) {
+      event.preventDefault();
+      onPageChange(currentPage + 1);
+    });
+
+    nextItem.appendChild(nextLink);
+    list.appendChild(nextItem);
+  }
+
+  nav.appendChild(list);
+  container.appendChild(nav);
+}
+
+function createElement(tagName, options) {
+  const element = document.createElement(tagName);
+  const config = options || {};
+
+  if (config.className) {
+    element.className = config.className;
+  }
+  if (config.textContent) {
+    element.textContent = config.textContent;
+  }
+  if (config.html) {
+    element.innerHTML = config.html;
+  }
+  if (config.attributes) {
+    for (const key of Object.keys(config.attributes)) {
+      const value = config.attributes[key];
+      if (value !== null && typeof value !== "undefined" && value !== "") {
+        element.setAttribute(key, value);
+      }
+    }
+  }
+
+  return element;
+}
+
+function parsePageNumber(value) {
+  const parsed = Number.parseInt(String(value || ""), 10);
+  return Number.isFinite(parsed) && parsed > 0 ? parsed : 1;
+}
+
+function focusResultsRegion() {
+  const mainContent = document.querySelector("#main-content");
+  if (!mainContent) {
+    return;
+  }
+
+  if (!mainContent.hasAttribute("tabindex")) {
+    mainContent.setAttribute("tabindex", "-1");
+  }
+
+  mainContent.scrollIntoView({ block: "start" });
+  mainContent.focus();
+}
+
+function withSitePathPrefix(rawHref) {
+  const href = String(rawHref || "").trim();
+  if (!href) {
+    return "";
+  }
+
+  if (
+    /^[a-z][a-z0-9+.-]*:/i.test(href) ||
+    href.startsWith("//") ||
+    href.startsWith("#")
+  ) {
+    return href;
+  }
+
+  const pagefindBasePath = String(window.sitePagefindBasePath || "").trim();
+  const pathPrefix = pagefindBasePath
+    ? pagefindBasePath.replace(/\/pagefind\/?$/, "/")
+    : "/";
+
+  if (!href.startsWith("/") || pathPrefix === "/") {
+    return href;
+  }
+
+  const normalizedPrefix = pathPrefix.endsWith("/")
+    ? pathPrefix.slice(0, -1)
+    : pathPrefix;
+  if (!normalizedPrefix || href.startsWith(`${normalizedPrefix}/`)) {
+    return href;
+  }
+
+  return `${normalizedPrefix}${href}`;
+}
+
 module.exports = {
   CASES_PER_PAGE,
   CASE_FILTER_LABELS,
+  NEWS_FILTER_LABELS,
+  NEWS_PER_PAGE,
   RESOURCE_FILTER_LABELS,
   activeFilters,
+  applyRecordFilters,
+  countFilterValues,
+  createElement,
   debounce,
+  filtersExcluding,
+  focusResultsRegion,
+  generateFilterOptionCounts,
+  mergeContextFilterCounts,
+  parsePageNumber,
   populateFilterSelect,
+  renderSearchPagination,
   responseFilters,
   runPagefindSearch,
+  withSitePathPrefix,
 };

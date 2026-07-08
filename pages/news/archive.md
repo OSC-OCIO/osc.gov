@@ -9,13 +9,15 @@ eleventyComputed:
   title: "Press Releases: {{ year[0] }}"
   permalink: "news/{{ year[0] | slug }}/"
   eleventyNavigation:
-    key: news-{{year[0]}}
+    key: news-{{ year[0] }}
     parent: news
     title: "{{ year[0] }}"
+  canonical_url: "/news/?year={{ year[0] }}"
+  meta_refresh: "0;url=/news/?year={{ year[0] }}"
+  robots: "noindex"
 ---
 
-<ul class="usa-collection">
-  {%- for post in year[1] | reverse -%}
-    {%- include 'collection-item.html', post: post -%}
-  {%- endfor -%}
-</ul>
+<p>
+  Press releases from {{ year[0] }} are available on the
+  <a href="/news/?year={{ year[0] }}">Press Releases index</a>.
+</p>
