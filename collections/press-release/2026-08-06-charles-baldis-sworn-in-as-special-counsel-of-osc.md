@@ -1,11 +1,11 @@
 ---
-title: Charles Baldis Sworn in as Special Counsel of OSC
-date: 2026-08-06
+title: Senate Confirms Charles Baldis as Special Counsel of OSC
+date: 2026-08-07
 tags:
   - general
 ---
-WASHINGTON, D.C./August XX, 2026 – The U.S. Office of Special Counsel (OSC) announces that Presidential nominee Charles Baldis has been confirmed by the U.S. Senate to be the Special Counsel of OSC.
+WASHINGTON, D.C./August 07, 2026 – The U.S. Office of Special Counsel (OSC) announces that Charles N. Baldis has been confirmed by the U.S. Senate to be the Special Counsel of OSC. 
 
-Baldis is Chief Counsel at OSC. Prior to his time at the agency, Baldis worked at the Senate Judiciary Committee as Senior Counsel to committee leadership, including Senators Grassley and Graham. Earlier in his career, he was a prosecutor in Virginia. He graduated from the University of Virginia School of Law and Liberty University.
+Mr. Baldis is currently Chief Counsel at OSC after having served from April 2025 to May 2026 as Senior Counsel to Acting Special Counsel Jamieson Greer. Mr. Baldis’ tenure at OSC has given him deep operational insight into the agency's mission and prepared him to serve as the Special Counsel. Prior to his time at OSC, Mr. Baldis was a staffer for Senators Grassley and Graham on the Senate Judiciary Committee. Before that, he was a prosecutor in Virginia. He graduated from the University of Virginia School of Law and Liberty University. 
 
-Since April 2025, Baldis has managed and directed OSC, first on behalf of Acting Special Counsel Jamieson Greer, and more recently as Chief Counsel. This tenure has given him deep operational insight into OSC’s mission and prepared him to continue serving in the role formally as the Special Counsel.
+“I am deeply honored and grateful to President Trump for nominating me to serve as Special Counsel of OSC,” said Mr. Baldis.  “I am thankful for the Senate’s confirmation and the confidence it represents, and I look forward to continuing OSC’s vital work.”
