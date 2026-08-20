@@ -6,7 +6,6 @@ layout: layouts/default
 {%- assign post_year = date | date: '%Y' -%}
 
 <article
-  data-pagefind-body
   data-pagefind-filter="content-type:press-release"
   data-pagefind-meta="title[data-title], tags-json[data-tags-json]"
   data-title="{{ title | escape }}"
@@ -48,5 +47,7 @@ layout: layouts/default
 </div>
 {% endif %}
 
-{{ content }}
+<div data-pagefind-body>
+  {{ content }}
+</div>
 </article>
