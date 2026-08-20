@@ -65,6 +65,21 @@ test('populates year and tag dropdowns in the expected order', async ({
   expect(isAlphabetical(tags)).toBe(true);
 });
 
+test('builds press release excerpts from the content body', async ({ page }) => {
+  await page.goto('/news/');
+  await waitForNewsSearchReady(page);
+
+  const firstResult = page.locator('[data-news-item]').first();
+  const excerpt = await firstResult
+    .locator('[data-news-description]')
+    .textContent();
+  const displayedDate = await firstResult
+    .locator('[data-news-date-display]')
+    .textContent();
+
+  expect(excerpt.trim().startsWith(displayedDate.trim())).toBe(false);
+});
+
 test('filters press releases by year and tag', async ({ page }) => {
   await page.goto('/news/');
   await waitForNewsSearchReady(page);
