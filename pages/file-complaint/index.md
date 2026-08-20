@@ -14,10 +14,10 @@ If so, please read <a class="usa-link" href="/~assets/docs/osc-rif-fact-sheet.pd
 <a
   class="usa-button usa-button--big display-inline-flex flex-align-center"
   href="https://oscportal.powerappsportals.us/SignIn?ReturnUrl=%2F"
->
-  {% uswds_icon "edit" -%}
-  <span class="margin-left-1">Online Filing Portal</span>
-</a>
+
+>   {% uswds_icon "edit" -%}
+>   <span class="margin-left-1">Online Filing Portal</span>
+> </a>
 
 <p>
   <strong>Prohibited personnel practices</strong> (PPPs) are employment-related activities that are banned in the
@@ -29,10 +29,7 @@ If so, please read <a class="usa-link" href="/~assets/docs/osc-rif-fact-sheet.pd
 <p>
   <strong
     ><i
-      >OSC generally does not handle allegations of discrimination or EEO retaliation to avoid duplication of procedures
-      established in the agency you are filing about and the Equal Employment Opportunity Commission. However, OSC does
-      consider allegations of discrimination based on marital status and political affiliation because they are not
-      covered by EEO processes. More information about OSC's process for evaluating discrimination claims can be found
+      >With certain exceptions, OSC generally does not handle allegations of discrimination or EEO retaliation to avoid duplication of procedures established in the agency you are filing about and the Equal Employment Opportunity Commission. Exceptions include egregious or systemic cases such as discriminatory “Diversity, Equity, and Inclusion” programs, policies, or practices, as well as mixed cases involving both discrimination and whistleblower retaliation. At the same time, OSC does consider allegations of discrimination based on marital status and political affiliation because they are not covered by EEO processes. More information about OSC's process for evaluating discrimination claims can be found
       <a href="/services/prohibited-personnel-practices/faq"> HERE</a>. Information about filing an EEO complaint is
       available on the <a href="https://www.eeoc.gov/"> EEOC website</a>.</i
     ></strong
