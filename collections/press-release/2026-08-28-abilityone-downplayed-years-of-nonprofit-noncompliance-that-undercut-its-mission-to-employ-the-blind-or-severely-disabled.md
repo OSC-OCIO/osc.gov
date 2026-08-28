@@ -5,7 +5,7 @@ date: 2026-08-28
 tags:
   - disclosure of wrongdoing
 ---
-The U.S. Office of Special Counsel (OSC) today [informed](https://osc.gov/~assets/cases/di-22-000590-1213c-letter-to-the-president.pdf) the President that the U.S. AbilityOne Commission’s findings from its investigation into whistleblower allegations of widespread noncompliance by the Commission’s contract recipients do not appear reasonable. The Commission’s own review documented high rates of contractor noncompliance, gaps in policy and recordkeeping, and delayed action on serious complaints, yet it concluded that the allegations were unsubstantiated. OSC finds that determination unreasonable. 
+The U.S. Office of Special Counsel (OSC) today informed the President that the U.S. AbilityOne Commission’s findings from its investigation into whistleblower allegations of widespread noncompliance by the Commission’s contract recipients do not appear reasonable. The Commission’s own review documented high rates of contractor noncompliance, gaps in policy and recordkeeping, and delayed action on serious complaints, yet it concluded that the allegations were unsubstantiated. OSC finds that determination unreasonable. 
 
 In FY 2025, the AbilityOne Program oversaw more than $4.7 billion in products and services, supported through federal purchases from qualified nonprofit agencies. These taxpayer-funded contracts supported approximately 41,000 jobs for individuals who are blind or have significant disabilities. To participate in the program, nonprofits must meet statutory and regulatory requirements, including ensuring that individuals with qualifying disabilities perform at least 75 percent of all direct labor hours used to complete their contracts.  
 
