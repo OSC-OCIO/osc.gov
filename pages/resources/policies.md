@@ -6,6 +6,8 @@ eleventyNavigation:
   order: 3
 items:
   - links:
+      - name: Executive Order 14418 Statement
+        url: https://osc.gov/~assets/docs/executive-order-14418-statement.pdf
       - name: 2025 EEO Policy Statement
         url: /~assets/docs/2025-eeo-policy-statement.pdf
       - name: 2018 Agency Requirements Memo
@@ -20,7 +22,9 @@ items:
         url: /~assets/docs/frequently-asked-questions-osc-access-to-privileged-material.pdf
       - name: IPv6 Policy
         url: /~assets/docs/ipv6-policy.pdf
-      - name: Memorandum of Understanding Between OSC and the Transportation Security Administration Regarding Whistleblower Protections for TSA Security Screeners
+      - name: Memorandum of Understanding Between OSC and the Transportation Security
+          Administration Regarding Whistleblower Protections for TSA Security
+          Screeners
         url: /~assets/docs/memorandum-of-understanding-between-osc-and-the-transportation-secu-1c244b2e.pdf
       - name: Prohibited Conduct for Individuals Interacting with OSC 2023
         url: /~assets/docs/prohibited-conduct-for-individuals-interacting-with-osc-2023.pdf
