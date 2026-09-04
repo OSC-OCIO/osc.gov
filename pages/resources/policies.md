@@ -6,6 +6,8 @@ eleventyNavigation:
   order: 3
 items:
   - links:
+      - name: Executive Order 14418 Statement
+        url: https://osc.gov/~assets/docs/executive-order-14418-statement.pdf
       - name: 2025 EEO Policy Statement
         url: /~assets/docs/2025-eeo-policy-statement.pdf
       - name: 2018 Agency Requirements Memo
@@ -33,6 +35,4 @@ items:
         url: /~assets/docs/policy-statement-on-disclosure-of-information-from-osc-program-file-9b09a60a.pdf
       - name: OSC Monetary Policy re Whistleblowers 5.20.25
         url: /~assets/docs/osc-monetary-policy-re-whistleblowers-52025.pdf
-      - name: Executive Order 14418 Statement
-        url: https://osc.gov/~assets/docs/executive-order-14418-statement.pdf
 ---
