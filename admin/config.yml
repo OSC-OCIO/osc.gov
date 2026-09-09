@@ -1,12 +1,12 @@
 ## Comment out when doing local development
-backend:
-  name: github
-  repo: OSC-OCIO/osc.gov
-  base_url: https://pages.cloud.gov
-  auth_endpoint: external/auth/github
-  preview_context: pages/build
-  branch: main
-  use_graphql: true
+# backend:
+#   name: github
+#   repo: OSC-OCIO/osc.gov
+#   base_url: https://pages.cloud.gov
+#   auth_endpoint: external/auth/github
+#   preview_context: pages/build
+#   branch: main
+#   use_graphql: true
 
 ##
 ## Uncomment when doing local development on Netlify CMS
@@ -15,9 +15,9 @@ backend:
 ## See https://www.netlifycms.org/docs/beta-features/#working-with-a-local-git-repository
 ##
 
-# backend:
-#   name: git-gateway
-# local_backend: true
+backend:
+  name: git-gateway
+local_backend: true
 
 media_folder: img
 public_folder: /img
@@ -567,13 +567,100 @@ collections:
     fields: *page_fields
   - name: "services-outreach-pages"
     label: "Services Pages - Outreach"
-    folder: "pages/services/outreach"
-    preview_path: "services/outreach/{{slug}}"
-    create: false
-    <<: *cms_editable_filter
-    identifier_field: "title"
-    summary: "{{title}}"
-    fields: *page_fields
+    files:
+      - name: "2302cert-gov"
+        label: "2302(c) Certification for Government Corporations"
+        file: "pages/services/outreach/2302cert-gov.md"
+        preview_path: "services/outreach/2302cert-gov/"
+        fields: *page_fields
+      - name: "2302cert-process"
+        label: "2302(c) Certification Process"
+        file: "pages/services/outreach/2302cert-process.md"
+        preview_path: "services/outreach/2302cert-process/"
+        fields: *page_fields
+      - name: "2302cert-recertification"
+        label: "2302(c) Recertification"
+        file: "pages/services/outreach/2302cert-recertification.md"
+        preview_path: "services/outreach/2302cert-recertification/"
+        fields: *page_fields
+      - name: "2302cert-registered"
+        label: "2302(c) Registered Agencies"
+        file: "pages/services/outreach/2302cert-registered.md"
+        preview_path: "services/outreach/2302cert-registered/"
+        fields: *page_fields
+      - name: "2302cert-status"
+        label: "2302(c) Certified Agencies"
+        file: "pages/services/outreach/2302cert-status.md"
+        preview_path: "services/outreach/2302cert-status/"
+        fields:
+          - label: CMS Editable
+            name: cms_editable
+            widget: hidden
+            default: true
+          - label: Title
+            name: title
+            widget: string
+            hint: The main heading people see at the top of the page.
+          - label: Body Text
+            name: body_text
+            widget: markdown
+            hint: Text displayed above the certified agencies table.
+            required: false
+          - label: Layout
+            name: layout
+            widget: hidden
+            default: layouts/default
+          - label: Agencies
+            name: agencies
+            widget: list
+            required: false
+            hint: Add or update rows in the certified agencies table.
+            collapsed: true
+            minimize_collapsed: true
+            summary: '{{fields.name}}'
+            fields:
+              - label: Agency
+                name: name
+                widget: string
+              - label: Agency URL
+                name: url
+                widget: string
+              - label: Point of Contact
+                name: contact
+                widget: string
+              - label: Certification/Recertification Date
+                name: certification_date
+                widget: string
+                hint: Month and year, for example April 2025.
+              - label: Certification Expiration
+                name: expiration_date
+                widget: string
+                hint: Month and year, for example April 2028.
+      - name: "2302cert"
+        label: "2302(c) Certification Program"
+        file: "pages/services/outreach/2302cert.md"
+        preview_path: "services/outreach/2302cert/"
+        fields: *page_fields
+      - name: "faq"
+        label: "Outreach, Training, & Certification FAQs"
+        file: "pages/services/outreach/faq.md"
+        preview_path: "services/outreach/faq/"
+        fields: *page_fields
+      - name: "overview"
+        label: "Outreach, Training, & Certification Overview"
+        file: "pages/services/outreach/overview.md"
+        preview_path: "services/outreach/overview/"
+        fields: *page_fields
+      - name: "requestspeaker"
+        label: "Request an OSC Speaker"
+        file: "pages/services/outreach/requestspeaker.md"
+        preview_path: "services/outreach/requestspeaker/"
+        fields: *page_fields
+      - name: "resources"
+        label: "Additional Resources for Outreach, Training, & Certification"
+        file: "pages/services/outreach/resources.md"
+        preview_path: "services/outreach/resources/"
+        fields: *page_fields
   - name: "services-prohibited-personnel-practices-pages"
     label: "Services Pages - Prohibited Personnel Practices"
     folder: "pages/services/prohibited-personnel-practices"
