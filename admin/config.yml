@@ -529,6 +529,29 @@ collections:
               { label: "USERRA", value: "userra" },
             ],
         }
+  - name: "resources"
+    label: "Resources"
+    files:
+      - label: "Resource Directory"
+        name: "resources-data"
+        file: "_data/resources.yaml"
+        fields:
+          - label: "Resources"
+            label_singular: "Resource"
+            name: "items"
+            widget: "list"
+            required: false
+            collapsed: true
+            summary: "{{fields.name}}"
+            fields:
+              - { label: "Name", name: "name", widget: "string" }
+              - { label: "URL", name: "url", widget: "string" }
+              - {
+                  label: "Description",
+                  name: "description",
+                  widget: "text",
+                  required: false,
+                }
   - name: "resource-pages"
     label: "Resource Pages"
     folder: "pages/resources"
