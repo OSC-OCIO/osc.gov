@@ -7,7 +7,7 @@ eleventyNavigation:
   order: 5
   hideChildrenFromTopNav: true
 pagination:
-  data: collections.press-release
+  data: collections.recentPressReleases
   size: 10
   alias: posts
   reverse: true
@@ -19,7 +19,7 @@ pagination:
       <div class="tablet:grid-col-5">
         <label class="usa-label margin-top-0" for="news-filter-year">Year</label>
         <select class="usa-select" id="news-filter-year" name="year">
-          <option value="">All years</option>
+          <option value="">All recent</option>
         </select>
       </div>
       <div class="tablet:grid-col-5">

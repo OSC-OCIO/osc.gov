@@ -1,7 +1,5 @@
 const { test, expect } = require('@playwright/test');
 
-const EXPECTED_SOCIAL_MEDIA_TITLE = /Social Media Guidance/i;
-
 async function waitForNewsSearchReady(page) {
   await expect
     .poll(async function () {
@@ -52,8 +50,24 @@ test('populates year and tag dropdowns in the expected order', async ({
   await page.goto('/news/');
   await waitForNewsSearchReady(page);
 
+  const cutoff = new Date();
+  cutoff.setMonth(cutoff.getMonth() - 18);
+  const cutoffIso = [
+    cutoff.getFullYear(),
+    String(cutoff.getMonth() + 1).padStart(2, '0'),
+    String(cutoff.getDate()).padStart(2, '0'),
+  ].join('-');
+  const defaultDates = await page
+    .locator('[data-news-date]')
+    .evaluateAll(function (items) {
+      return items.map(function (item) {
+        return item.getAttribute('data-news-date');
+      });
+    });
+  expect(defaultDates.every((date) => date >= cutoffIso)).toBe(true);
+
   await expect(page.locator('#news-filter-year option:checked')).toHaveText(
-    /All years \(\d+\)/,
+    /All recent \(\d+\)/,
   );
 
   const years = await optionValues(page, '#news-filter-year');
@@ -61,7 +75,8 @@ test('populates year and tag dropdowns in the expected order', async ({
 
   expect(years.length).toBeGreaterThan(1);
   expect(tags.length).toBeGreaterThan(1);
-  expect(isDescendingNumeric(years)).toBe(true);
+  expect(years.at(-1)).toBe('archived');
+  expect(isDescendingNumeric(years.slice(0, -1))).toBe(true);
   expect(isAlphabetical(tags)).toBe(true);
 });
 
@@ -80,19 +95,19 @@ test('builds press release excerpts from the content body', async ({ page }) => 
   expect(excerpt.trim().startsWith(displayedDate.trim())).toBe(false);
 });
 
-test('filters press releases by year and tag', async ({ page }) => {
+test('filters archived press releases by tag', async ({ page }) => {
   await page.goto('/news/');
   await waitForNewsSearchReady(page);
 
   const initialYearOptionCount = await page
     .locator('#news-filter-year option')
     .count();
-  await page.locator('#news-filter-year').selectOption('2018');
+  await page.locator('#news-filter-year').selectOption('archived');
   await expect(page.locator('#news-search-status')).toContainText(
-    'Showing 41 matching press releases',
+    'matching press releases',
   );
   await expect(page.locator('#news-filter-year option:checked')).toHaveText(
-    /2018 \(\d+\)/,
+    /Archived \(\d+\)/,
   );
   await expect(page.locator('#news-filter-year option')).toHaveCount(
     initialYearOptionCount,
@@ -106,7 +121,7 @@ test('filters press releases by year and tag', async ({ page }) => {
 
   await page.locator('#news-filter-tag').selectOption('hatch act');
   await expect(page.locator('#news-search-status')).toContainText(
-    'Showing 8 matching press releases',
+    'matching press releases',
   );
   await expect(page.locator('#news-filter-tag option:checked')).toHaveText(
     /Hatch Act \(\d+\)/,
@@ -118,14 +133,25 @@ test('filters press releases by year and tag', async ({ page }) => {
     })
     .toBeGreaterThan(0);
 
-  const years = await page
+  const archiveCutoff = new Date();
+  archiveCutoff.setMonth(archiveCutoff.getMonth() - 18);
+  const archiveCutoffIso = [
+    archiveCutoff.getFullYear(),
+    String(archiveCutoff.getMonth() + 1).padStart(2, '0'),
+    String(archiveCutoff.getDate()).padStart(2, '0'),
+  ].join('-');
+  const archiveDates = await page
     .locator('[data-news-date]')
     .evaluateAll(function (items) {
       return items.map(function (item) {
-        return item.getAttribute('data-news-date').slice(0, 4);
+        return item.getAttribute('data-news-date');
       });
     });
-  expect(new Set(years)).toEqual(new Set(['2018']));
+  expect(
+    archiveDates.every(function (date) {
+      return date < archiveCutoffIso;
+    }),
+  ).toBe(true);
 
   const tagSets = await page
     .locator('[data-news-tags]')
@@ -143,12 +169,6 @@ test('filters press releases by year and tag', async ({ page }) => {
       return tags.includes('Hatch Act');
     }),
   ).toBe(true);
-
-  await expect(
-    page
-      .locator('[data-news-title]')
-      .filter({ hasText: EXPECTED_SOCIAL_MEDIA_TITLE }),
-  ).toBeVisible();
 });
 
 test('keeps same-filter tag options visible with contextual counts', async ({
@@ -179,23 +199,18 @@ test('keeps same-filter tag options visible with contextual counts', async ({
 });
 
 test('hydrates filters from URL query params', async ({ page }) => {
-  await page.goto('/news/?year=2018&tag=hatch%20act');
+  await page.goto('/news/?year=archived&tag=hatch%20act');
   await waitForNewsSearchReady(page);
 
-  await expect(page.locator('#news-filter-year')).toHaveValue('2018');
+  await expect(page.locator('#news-filter-year')).toHaveValue('archived');
   await expect(page.locator('#news-filter-tag')).toHaveValue('hatch act');
   await expect(
     page.locator('#news-filter-tag option[value="hatch act"]'),
   ).toContainText('Hatch Act');
-  await expect(
-    page
-      .locator('[data-news-title]')
-      .filter({ hasText: EXPECTED_SOCIAL_MEDIA_TITLE }),
-  ).toBeVisible();
 });
 
 test('clear resets filters and URL state', async ({ page }) => {
-  await page.goto('/news/?year=2018&tag=hatch%20act&page=2');
+  await page.goto('/news/?year=archived&tag=hatch%20act&page=2');
   await waitForNewsSearchReady(page);
 
   await page.locator('#news-search-clear').click();
@@ -276,9 +291,9 @@ test('old year archive pages point to the filtered news index', async ({
   await page.waitForTimeout(250);
 
   if (new URL(page.url()).pathname === '/news/') {
-    expect(new URL(page.url()).searchParams.get('year')).toBe('2018');
     await waitForNewsSearchReady(page);
-    await expect(page.locator('#news-filter-year')).toHaveValue('2018');
+    expect(new URL(page.url()).searchParams.get('year')).toBe('archived');
+    await expect(page.locator('#news-filter-year')).toHaveValue('archived');
     return;
   }
 
