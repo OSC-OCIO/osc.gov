@@ -5,7 +5,7 @@ date: 2026-09-17
 tags:
   - general
 ---
-WASHINGTON, D.C./September 17, 2026 – Today, on Constitution Day, the U.S. Office of Special Counsel (OSC) reaffirms its role in upholding the constitutional principles that guide its mission, grounded in our commitment to safeguarding employee rights and ensuring government accountability.
+Today, on Constitution Day, the U.S. Office of Special Counsel (OSC) reaffirms its role in upholding the constitutional principles that guide its mission, grounded in our commitment to safeguarding employee rights and ensuring government accountability.
 
 Since it was created by the Civil Service Reform Act of 1978, the U.S. Office of Special Counsel has safeguarded the merit-based federal civil service, protected whistleblowers from retaliation, and enforced the Hatch Act’s political activity restrictions. These responsibilities reflect core constitutional values: due process, separation of powers, and a government that remains answerable to the people it serves.
 
