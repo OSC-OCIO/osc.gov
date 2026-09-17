@@ -1,5 +1,5 @@
 ---
-title: OSC Recognizes Constitution Day,Reaffirms Commitment to Protecting
+title: OSC Recognizes Constitution Day, Reaffirms Commitment to Protecting
   Federal Employees and the Rule of Law
 date: 2026-09-17
 tags:
