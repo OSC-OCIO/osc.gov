@@ -44,19 +44,30 @@ function isAlphabetical(values) {
   return true;
 }
 
+function archiveCutoffIso() {
+  const date = new Date();
+  const cutoff = new Date(date.getFullYear(), date.getMonth() - 18, 1);
+  const lastDayOfMonth = new Date(
+    cutoff.getFullYear(),
+    cutoff.getMonth() + 1,
+    0,
+  ).getDate();
+  cutoff.setDate(Math.min(date.getDate(), lastDayOfMonth));
+
+  return [
+    cutoff.getFullYear(),
+    String(cutoff.getMonth() + 1).padStart(2, '0'),
+    String(cutoff.getDate()).padStart(2, '0'),
+  ].join('-');
+}
+
 test('populates year and tag dropdowns in the expected order', async ({
   page,
 }) => {
   await page.goto('/news/');
   await waitForNewsSearchReady(page);
 
-  const cutoff = new Date();
-  cutoff.setMonth(cutoff.getMonth() - 18);
-  const cutoffIso = [
-    cutoff.getFullYear(),
-    String(cutoff.getMonth() + 1).padStart(2, '0'),
-    String(cutoff.getDate()).padStart(2, '0'),
-  ].join('-');
+  const cutoffIso = archiveCutoffIso();
   const defaultDates = await page
     .locator('[data-news-date]')
     .evaluateAll(function (items) {
@@ -102,6 +113,12 @@ test('filters archived press releases by tag', async ({ page }) => {
   const initialYearOptionCount = await page
     .locator('#news-filter-year option')
     .count();
+  const recentYear = await page
+    .locator('#news-filter-year option:not([value=""]):not([value="archived"])')
+    .first()
+    .getAttribute('value');
+  expect(recentYear).toMatch(/^\d{4}$/);
+
   await page.locator('#news-filter-year').selectOption('archived');
   await expect(page.locator('#news-search-status')).toContainText(
     'matching press releases',
@@ -113,10 +130,10 @@ test('filters archived press releases by tag', async ({ page }) => {
     initialYearOptionCount,
   );
   await expect(
-    page.locator('#news-filter-year option[value="2026"]'),
-  ).toContainText(/2026 \([1-9]\d*\)/);
+    page.locator(`#news-filter-year option[value="${recentYear}"]`),
+  ).toContainText(new RegExp(`${recentYear} \\([1-9]\\d*\\)`));
   await expect(
-    page.locator('#news-filter-year option[value="2026"]'),
+    page.locator(`#news-filter-year option[value="${recentYear}"]`),
   ).not.toBeDisabled();
 
   await page.locator('#news-filter-tag').selectOption('hatch act');
@@ -133,13 +150,7 @@ test('filters archived press releases by tag', async ({ page }) => {
     })
     .toBeGreaterThan(0);
 
-  const archiveCutoff = new Date();
-  archiveCutoff.setMonth(archiveCutoff.getMonth() - 18);
-  const archiveCutoffIso = [
-    archiveCutoff.getFullYear(),
-    String(archiveCutoff.getMonth() + 1).padStart(2, '0'),
-    String(archiveCutoff.getDate()).padStart(2, '0'),
-  ].join('-');
+  const archiveCutoff = archiveCutoffIso();
   const archiveDates = await page
     .locator('[data-news-date]')
     .evaluateAll(function (items) {
@@ -149,7 +160,7 @@ test('filters archived press releases by tag', async ({ page }) => {
     });
   expect(
     archiveDates.every(function (date) {
-      return date < archiveCutoffIso;
+      return date < archiveCutoff;
     }),
   ).toBe(true);
 
@@ -167,6 +178,36 @@ test('filters archived press releases by tag', async ({ page }) => {
   expect(
     tagSets.every(function (tags) {
       return tags.includes('Hatch Act');
+    }),
+  ).toBe(true);
+});
+
+test('preserves archived releases when filtering by the cutoff year', async ({
+  page,
+}) => {
+  const cutoff = archiveCutoffIso();
+  const cutoffYear = cutoff.slice(0, 4);
+  await page.goto(`/news/?year=${cutoffYear}&page=999`);
+  await waitForNewsSearchReady(page);
+
+  await expect(page.locator('#news-filter-year')).toHaveValue(cutoffYear);
+
+  const dates = await page
+    .locator('[data-news-date]')
+    .evaluateAll(function (items) {
+      return items.map(function (item) {
+        return item.getAttribute('data-news-date');
+      });
+    });
+  expect(dates.length).toBeGreaterThan(0);
+  expect(
+    dates.every(function (date) {
+      return date.startsWith(cutoffYear);
+    }),
+  ).toBe(true);
+  expect(
+    dates.some(function (date) {
+      return date < cutoff;
     }),
   ).toBe(true);
 });
@@ -287,24 +328,23 @@ test('press release detail pages do not render the section sidenav', async ({
 test('old year archive pages point to the filtered news index', async ({
   page,
 }) => {
+  const response = await page.request.get('/news/2018/');
+  const archiveHtml = await response.text();
+  expect(archiveHtml).toMatch(
+    /<link rel="canonical" href="[^"]*\/news\/\?year=2018">/,
+  );
+  expect(archiveHtml).toContain(
+    '<meta http-equiv="refresh" content="0;url=/news/?year=2018">',
+  );
+
   await page.goto('/news/2018/', { waitUntil: 'domcontentloaded' });
-  await page.waitForTimeout(250);
+  await expect
+    .poll(function () {
+      return new URL(page.url()).pathname;
+    })
+    .toBe('/news/');
+  await waitForNewsSearchReady(page);
 
-  if (new URL(page.url()).pathname === '/news/') {
-    await waitForNewsSearchReady(page);
-    expect(new URL(page.url()).searchParams.get('year')).toBe('archived');
-    await expect(page.locator('#news-filter-year')).toHaveValue('archived');
-    return;
-  }
-
-  await expect(page.locator('link[rel="canonical"]')).toHaveAttribute(
-    'href',
-    /\/news\/\?year=2018$/,
-  );
-  await expect(page.locator('meta[http-equiv="refresh"]')).toHaveAttribute(
-    'content',
-    '0;url=/news/?year=2018',
-  );
-  await expect(page.locator('#section-nav')).toHaveCount(0);
-  await expect(page.locator('ul.usa-collection')).toHaveCount(0);
+  expect(new URL(page.url()).searchParams.get('year')).toBe('archived');
+  await expect(page.locator('#news-filter-year')).toHaveValue('archived');
 });

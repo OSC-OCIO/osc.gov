@@ -114,11 +114,18 @@ function normalizeNewsRecord(doc) {
 
 function newsFilterValues(record, filterName) {
   if (filterName === "year") {
-    if (record.dateIso < newsArchiveCutoff()) {
+    const year = String(record.dateIso || "").slice(0, 4);
+    const cutoff = newsArchiveCutoff();
+
+    if (record.dateIso < cutoff) {
+      if (year === cutoff.slice(0, 4)) {
+        return [year, NEWS_ARCHIVE_FILTER_VALUE];
+      }
+
       return NEWS_ARCHIVE_FILTER_VALUE;
     }
 
-    return [String(record.dateIso || "").slice(0, 4), NEWS_RECENT_FILTER_VALUE];
+    return [year, NEWS_RECENT_FILTER_VALUE];
   }
 
   if (filterName === "tag") {
