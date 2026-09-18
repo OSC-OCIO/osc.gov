@@ -5,7 +5,7 @@ const CASE_FILTER_LABELS = {
   year: "All years",
 };
 const NEWS_FILTER_LABELS = {
-  year: "All years",
+  year: "All recent",
   tag: "All tags",
 };
 const RESOURCE_FILTER_LABELS = {
@@ -17,6 +17,12 @@ function sortFilterEntries(filterName, values) {
   const entries = Object.entries(values || {});
   if (filterName === "year") {
     return entries.sort(function (a, b) {
+      if (a[0] === "archived") {
+        return 1;
+      }
+      if (b[0] === "archived") {
+        return -1;
+      }
       return Number(b[0]) - Number(a[0]);
     });
   }

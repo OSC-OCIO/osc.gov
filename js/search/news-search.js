@@ -2,6 +2,7 @@ const {
   NEWS_FILTER_LABELS,
   NEWS_PER_PAGE,
   activeFilters,
+  applyRecordFilters,
   createElement,
   focusResultsRegion,
   generateFilterOptionCounts,
@@ -17,6 +18,28 @@ const { loadPagefind } = require("./pagefind");
 const NEWS_SORT = { "date-iso": "desc" };
 const NEWS_TYPE_FILTER_NAME = "content-type";
 const NEWS_TYPE_FILTER_VALUE = "press-release";
+const NEWS_ARCHIVE_FILTER_VALUE = "archived";
+const NEWS_RECENT_FILTER_VALUE = "__recent__";
+const NEWS_RECENT_MONTHS = 18;
+
+function newsArchiveCutoff(referenceDate) {
+  const date = referenceDate ? new Date(referenceDate) : new Date();
+  const cutoffYear = date.getFullYear();
+  const cutoffMonth = date.getMonth() - NEWS_RECENT_MONTHS;
+  const cutoffDay = date.getDate();
+  const cutoff = new Date(cutoffYear, cutoffMonth, 1);
+  const lastDayOfMonth = new Date(
+    cutoff.getFullYear(),
+    cutoff.getMonth() + 1,
+    0,
+  ).getDate();
+  cutoff.setDate(Math.min(cutoffDay, lastDayOfMonth));
+  return [
+    cutoff.getFullYear(),
+    String(cutoff.getMonth() + 1).padStart(2, "0"),
+    String(cutoff.getDate()).padStart(2, "0"),
+  ].join("-");
+}
 
 function parseJsonArray(value) {
   if (!value) {
@@ -91,7 +114,18 @@ function normalizeNewsRecord(doc) {
 
 function newsFilterValues(record, filterName) {
   if (filterName === "year") {
-    return String(record.dateIso || "").slice(0, 4);
+    const year = String(record.dateIso || "").slice(0, 4);
+    const cutoff = newsArchiveCutoff();
+
+    if (record.dateIso < cutoff) {
+      if (year === cutoff.slice(0, 4)) {
+        return [year, NEWS_ARCHIVE_FILTER_VALUE];
+      }
+
+      return NEWS_ARCHIVE_FILTER_VALUE;
+    }
+
+    return [year, NEWS_RECENT_FILTER_VALUE];
   }
 
   if (filterName === "tag") {
@@ -229,20 +263,41 @@ function initializeNewsSearch() {
   };
 
   const hydrateFilters = function () {
+    const selected = selectedFilterValues();
+    const effectiveSelected = { ...selected };
+    if (!effectiveSelected.year) {
+      effectiveSelected.year = [NEWS_RECENT_FILTER_VALUE];
+    }
     const filters = generateFilterOptionCounts(
       allRecords,
-      selectedFilterValues(),
+      effectiveSelected,
       Object.keys(selects),
       newsFilterValues,
     );
     for (const key of Object.keys(selects)) {
+      if (key === "year") {
+        delete filters.year[NEWS_RECENT_FILTER_VALUE];
+        Object.defineProperty(filters.year, "__total", {
+          configurable: true,
+          enumerable: false,
+          value: applyRecordFilters(
+            allRecords,
+            { ...effectiveSelected, year: [NEWS_RECENT_FILTER_VALUE] },
+            newsFilterValues,
+          ).length,
+        });
+      }
       populateFilterSelect(
         selects[key],
         key,
         filters[key],
         initialSelected[key] || (selects[key] ? selects[key].value : ""),
         NEWS_FILTER_LABELS,
-        key === "tag" ? formatNewsTagLabel : null,
+        key === "tag"
+          ? formatNewsTagLabel
+          : function (value) {
+              return value === NEWS_ARCHIVE_FILTER_VALUE ? "Archived" : value;
+            },
       );
       initialSelected[key] = "";
     }
@@ -330,35 +385,16 @@ function initializeNewsSearch() {
       currentPage = 1;
     }
 
-    let searchResult;
-    const filters = {
-      ...selectedFilterValues(),
-      [NEWS_TYPE_FILTER_NAME]: [NEWS_TYPE_FILTER_VALUE],
-    };
-
-    try {
-      searchResult = await runPagefindSearch(
-        pagefind,
-        null,
-        {
-          filters,
-          sort: NEWS_SORT,
-        },
-        true,
-      );
-    } catch (error) {
-      if (thisRequest !== requestId) {
-        return;
-      }
-      status.textContent = "Search is temporarily unavailable.";
-      return;
+    const filters = selectedFilterValues();
+    if (!filters.year) {
+      filters.year = [NEWS_RECENT_FILTER_VALUE];
     }
 
     if (thisRequest !== requestId) {
       return;
     }
 
-    currentRecords = searchResult.docs.map(normalizeNewsRecord);
+    currentRecords = applyRecordFilters(allRecords, filters, newsFilterValues);
     hydrateFilters();
     renderCurrentPage(settings);
   };
@@ -405,6 +441,22 @@ function initializeNewsSearch() {
       return;
     }
 
+    if (
+      initialSelected.year &&
+      initialSelected.year !== NEWS_ARCHIVE_FILTER_VALUE &&
+      !allRecords.some(function (record) {
+        return newsFilterValues(record, "year").includes(initialSelected.year);
+      }) &&
+      allRecords.some(function (record) {
+        return (
+          record.dateIso.slice(0, 4) === initialSelected.year &&
+          newsFilterValues(record, "year") === NEWS_ARCHIVE_FILTER_VALUE
+        );
+      })
+    ) {
+      initialSelected.year = NEWS_ARCHIVE_FILTER_VALUE;
+    }
+
     if (fallbackPagination) {
       fallbackPagination.classList.add("display-none");
       fallbackPagination.setAttribute("hidden", "");
@@ -416,4 +468,5 @@ function initializeNewsSearch() {
 
 module.exports = {
   initializeNewsSearch,
+  newsArchiveCutoff,
 };
