@@ -329,6 +329,8 @@ items:
             url: /~assets/docs/temporary-seasonal-employees-under-a-1039-appointment.pdf
       - heading: Use of Official Authority
         links:
+          - name: Hatch Act Advisory Opinion Regarding Official Agency Communication
+            url: https://osc.gov/~assets/docs/260925-assessment-and-advisory-of-partisan-communications-2025.pdf
           - name: Hatch Act Advisory Opinion Rescinding Advisory Opinions Dated May 20 and
               October 15, 2024
             url: /~assets/docs/hatch-act-advisory-opinion-rescinding-advisory-opinions-dated-may-2-a2b69ece.pdf
@@ -353,8 +355,6 @@ items:
             url: /~assets/docs/social-media-quick-guide.pdf
           - name: Social Media and Email FAQs
             url: /~assets/docs/social-media-and-email-faqs.pdf
-          - name: Hatch Act Advisory Opinion Regarding Official Agency Communication
-            url: https://osc.gov/~assets/docs/260925-assessment-and-advisory-of-partisan-communications-2025.pdf
       - heading: Partisan Political Groups
         links:
           - name: What is a partisan political group
