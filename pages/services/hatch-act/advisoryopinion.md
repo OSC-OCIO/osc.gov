@@ -19,11 +19,13 @@ items:
             url: /~assets/docs/personal-services-contractors.pdf
           - name: American Red Cross AO - Redacted
             url: /~assets/docs/american-red-cross-ao-redacted.pdf
-          - name: Miscellaneous (e.g., Local Political Party Membership, Spouse Hosting Fundraiser in Home, etc.)
+          - name: Miscellaneous (e.g., Local Political Party Membership, Spouse Hosting
+              Fundraiser in Home, etc.)
             url: /~assets/docs/miscellaneous-eg-local-political-party-membership-spouse-hosti-3fa81e77.pdf
           - name: Fanny Mae and Freddy Mac Employees
             url: /~assets/docs/fanny-mae-and-freddy-mac-employees.pdf
-          - name: National Disaster Medical System, Disaster Mortuary Operation Response Team Employees
+          - name: National Disaster Medical System, Disaster Mortuary Operation Response
+              Team Employees
             url: /~assets/docs/national-disaster-medical-system-disaster-mortuary-operation-respo-c3088cc5.pdf
           - name: Temporary Work Assignments to an Elected Official's Office
             url: /~assets/docs/temporary-work-assignments-to-an-elected-officials-office.pdf
@@ -99,17 +101,22 @@ items:
             url: /~assets/docs/serving-as-an-officer-for-an-organization-that-has-a-pac.pdf
       - heading: On Duty/In Workplace
         links:
-          - name: Hatch Act Advisory Opinion Rescinding Advisory Opinions Dated May 20 and October 15, 2024
+          - name: Hatch Act Advisory Opinion Rescinding Advisory Opinions Dated May 20 and
+              October 15, 2024
             url: /~assets/docs/hatch-act-advisory-opinion-rescinding-advisory-opinions-dated-may-2-a2b69ece.pdf
-          - name: The Hatch Act and Federal Employees' Discussions About the Conflict Between Israel and Hamas
+          - name: The Hatch Act and Federal Employees' Discussions About the Conflict
+              Between Israel and Hamas
             url: /~assets/docs/the-hatch-act-and-federal-employees-discussions-about-the-conflict-a9de2256.pdf
-          - name: Hatch Act Advisory Opinion Regarding the Use of Presidential Campaign Slogans
+          - name: Hatch Act Advisory Opinion Regarding the Use of Presidential Campaign
+              Slogans
             url: /~assets/docs/hatch-act-advisory-opinion-regarding-the-use-of-presidential-campai-2a7a144a.pdf
-          - name: The Hatch Act implications of President Biden announcing his reelection campaign
+          - name: The Hatch Act implications of President Biden announcing his reelection
+              campaign
             url: /~assets/docs/the-hatch-act-implications-of-president-biden-announcing-his-reelec-897f9d74.pdf
           - name: Hatch Act Advice on Workplace Discussions
             url: /~assets/docs/hatch-act-advice-on-workplace-discussions.pdf
-          - name: Hatch Act Advice Now that Former President Trump is a Presidential Candidate
+          - name: Hatch Act Advice Now that Former President Trump is a Presidential
+              Candidate
             url: /~assets/docs/hatch-act-advice-now-that-former-president-trump-is-a-presidential-candidate.pdf
           - name: Agency Hosting Lecture on Politically-Charged Topics
             url: /~assets/docs/agency-hosting-lecture-on-politically-charged-topics.pdf
@@ -131,7 +138,8 @@ items:
             url: /~assets/docs/political-briefings-in-the-workplace.pdf
           - name: Canvassing Residents and Other Political Activities in Government Housing
             url: /~assets/docs/canvassing-residents-and-other-political-activities-in-government-housing.pdf
-          - name: Miscellaneous (e.g., Bumper Stickers, Candidate Photographs, Agency News Clips, etc.)
+          - name: Miscellaneous (e.g., Bumper Stickers, Candidate Photographs, Agency News
+              Clips, etc.)
             url: /~assets/docs/miscellaneous-eg-bumper-stickers-candidate-photographs-agency-c89c6ce4.pdf
           - name: Contacting Members of Congress Concerning Legislation or Workplace Issues
             url: /~assets/docs/contacting-members-of-congress-concerning-legislation-or-workplace-issues.pdf
@@ -141,7 +149,8 @@ items:
             url: /~assets/docs/posting-candidates-positions-on-issues-in-the-workplace.pdf
           - name: Nonpartisan Voter Registration Drives in the Workplace
             url: /~assets/docs/nonpartisan-voter-registration-drives-in-the-workplace.pdf
-          - name: Union Conducting Voter Registration Drives after It Has Endorsed a Candidate
+          - name: Union Conducting Voter Registration Drives after It Has Endorsed a
+              Candidate
             url: /~assets/docs/union-conducting-voter-registration-drives-after-it-has-endorsed-a-candidate.pdf
           - name: Voter Registration Drives in the Workplace
             url: /~assets/docs/voter-registration-drives-in-the-workplace.pdf
@@ -171,7 +180,8 @@ items:
             url: /~assets/docs/social-media-guidance.pdf
           - name: Further Restricted Employees' Use of Social Media
             url: /~assets/docs/further-restricted-employees-use-of-social-media.pdf
-          - name: Miscellaneous (e.g., Bumper Stickers, Candidate Photographs, Agency News Clips, etc.)
+          - name: Miscellaneous (e.g., Bumper Stickers, Candidate Photographs, Agency News
+              Clips, etc.)
             url: /~assets/docs/miscellaneous-eg-bumper-stickers-candidate-photographs-agency-c89c6ce4.pdf
           - name: Hatch Act Agencies and Social Media FAQs
             url: /~assets/docs/hatch-act-agencies-and-social-media-faqs.pdf
@@ -201,13 +211,15 @@ items:
             url: /~assets/docs/social-media-and-email-faqs.pdf
       - heading: Political Party Activities
         links:
-          - name: Hatch Act Advisory Opinion Regarding Service on a Presidential Transition Team
+          - name: Hatch Act Advisory Opinion Regarding Service on a Presidential Transition
+              Team
             url: /~assets/docs/hatch-act-advisory-opinion-regarding-service-on-a-presidential-tran-c503aaa8.pdf
           - name: Use of Administrative Leave to Participate in Nonpartisan Poll Activities
             url: /~assets/docs/use-of-administrative-leave-to-participate-in-nonpartisan-poll-activities.pdf
           - name: Political Briefings in the Workplace
             url: /~assets/docs/political-briefings-in-the-workplace.pdf
-          - name: Miscellaneous (e.g., Local Political Party Membership, Spouse Hosting Fundraiser in Home, etc.)
+          - name: Miscellaneous (e.g., Local Political Party Membership, Spouse Hosting
+              Fundraiser in Home, etc.)
             url: /~assets/docs/miscellaneous-eg-local-political-party-membership-spouse-hosti-3fa81e77.pdf
           - name: Canvassing Residents and Other Political Activities in Government Housing
             url: /~assets/docs/canvassing-residents-and-other-political-activities-in-government-housing.pdf
@@ -237,11 +249,13 @@ items:
             url: /~assets/docs/further-restricted-employee-housing-campaign-volunteers.pdf
           - name: Soliciting Volunteers for a Voter Protection Team
             url: /~assets/docs/soliciting-volunteers-for-a-voter-protection-team.pdf
-          - name: Miscellaneous (e.g., Local Political Party Membership, Spouse Hosting Fundraiser in Home, etc.)
+          - name: Miscellaneous (e.g., Local Political Party Membership, Spouse Hosting
+              Fundraiser in Home, etc.)
             url: /~assets/docs/miscellaneous-eg-local-political-party-membership-spouse-hosti-3fa81e77.pdf
           - name: Canvassing Residents and Other Political Activities in Government Housing
             url: /~assets/docs/canvassing-residents-and-other-political-activities-in-government-housing.pdf
-          - name: Union Conducting Voter Registration Drives after It Has Endorsed a Candidate
+          - name: Union Conducting Voter Registration Drives after It Has Endorsed a
+              Candidate
             url: /~assets/docs/union-conducting-voter-registration-drives-after-it-has-endorsed-a-candidate.pdf
           - name: Voter Registration Drives in the Workplace
             url: /~assets/docs/voter-registration-drives-in-the-workplace.pdf
@@ -261,9 +275,11 @@ items:
             url: /~assets/docs/further-restricted-employee-supporting-spouse-who-is-a-candidate.pdf
           - name: Serving as Campaign Treasurer
             url: /~assets/docs/serving-as-campaign-treasurer.pdf
-          - name: Miscellaneous (e.g., Local Political Party Membership, Spouse Hosting Fundraiser in Home, etc.)
+          - name: Miscellaneous (e.g., Local Political Party Membership, Spouse Hosting
+              Fundraiser in Home, etc.)
             url: /~assets/docs/miscellaneous-eg-local-political-party-membership-spouse-hosti-3fa81e77.pdf
-          - name: Miscellaneous (e.g., Bumper Stickers, Candidate Photographs, Agency News Clips, etc.)
+          - name: Miscellaneous (e.g., Bumper Stickers, Candidate Photographs, Agency News
+              Clips, etc.)
             url: /~assets/docs/miscellaneous-eg-bumper-stickers-candidate-photographs-agency-c89c6ce4.pdf
           - name: Nonpartisan Election Candidacy and Fundraising
             url: /~assets/docs/nonpartisan-election-candidacy-and-fundraising.pdf
@@ -297,9 +313,11 @@ items:
             url: /~assets/docs/sges-who-work-more-than-130-days-in-a-365-day-period.pdf
           - name: Uncompensated Special Government Employees (SGEs)
             url: /~assets/docs/uncompensated-special-government-employees-sges.pdf
-          - name: Miscellaneous (e.g., Local Political Party Membership, Spouse Hosting Fundraiser in Home, etc.)
+          - name: Miscellaneous (e.g., Local Political Party Membership, Spouse Hosting
+              Fundraiser in Home, etc.)
             url: /~assets/docs/miscellaneous-eg-local-political-party-membership-spouse-hosti-3fa81e77.pdf
-          - name: National Disaster Medical System, Disaster Mortuary Operation Response Team Employees
+          - name: National Disaster Medical System, Disaster Mortuary Operation Response
+              Team Employees
             url: /~assets/docs/national-disaster-medical-system-disaster-mortuary-operation-respo-c3088cc5.pdf
           - name: FEMA Disaster Assistance Employees
             url: /~assets/docs/fema-disaster-assistance-employees.pdf
@@ -311,12 +329,9 @@ items:
             url: /~assets/docs/temporary-seasonal-employees-under-a-1039-appointment.pdf
       - heading: Use of Official Authority
         links:
-          - name: Hatch Act Advisory Opinion Rescinding Advisory Opinions Dated May 20 and October 15, 2024
+          - name: Hatch Act Advisory Opinion Rescinding Advisory Opinions Dated May 20 and
+              October 15, 2024
             url: /~assets/docs/hatch-act-advisory-opinion-rescinding-advisory-opinions-dated-may-2-a2b69ece.pdf
-          - name: Hatch Act Advisory Opinion Regarding Official Agency Communications
-            url: /~assets/docs/hatch-act-advisory-opinion-regarding-official-agency-communications.pdf
-          - name: Hatch Act Advisory Opinion Regarding the Use of Presidential Campaign Slogans
-            url: /~assets/docs/hatch-act-advisory-opinion-regarding-the-use-of-presidential-campai-2a7a144a.pdf
           - name: Agency Hosting Lecture on Politically-Charged Topics
             url: /~assets/docs/agency-hosting-lecture-on-politically-charged-topics.pdf
           - name: Candidate Visits to Federal Agencies
@@ -327,7 +342,8 @@ items:
             url: /~assets/docs/serving-as-campaign-treasurer.pdf
           - name: Soliciting Volunteers for a Voter Protection Team
             url: /~assets/docs/soliciting-volunteers-for-a-voter-protection-team.pdf
-          - name: Miscellaneous (e.g., Bumper Stickers, Candidate Photographs, Agency News Clips, etc.)
+          - name: Miscellaneous (e.g., Bumper Stickers, Candidate Photographs, Agency News
+              Clips, etc.)
             url: /~assets/docs/miscellaneous-eg-bumper-stickers-candidate-photographs-agency-c89c6ce4.pdf
           - name: Establishing or Holding Office Within a PAC
             url: /~assets/docs/establishing-or-holding-office-within-a-pac.pdf
@@ -337,6 +353,8 @@ items:
             url: /~assets/docs/social-media-quick-guide.pdf
           - name: Social Media and Email FAQs
             url: /~assets/docs/social-media-and-email-faqs.pdf
+          - name: Hatch Act Advisory Opinion Regarding Official Agency Communication
+            url: https://osc.gov/~assets/docs/260925-assessment-and-advisory-of-partisan-communications-2025.pdf
       - heading: Partisan Political Groups
         links:
           - name: What is a partisan political group
@@ -363,11 +381,13 @@ items:
             url: /~assets/docs/elected-sheriffs-campaigning-in-uniform.pdf
           - name: Hatch Act's Application to Employees of Private, Nonprofit Organizations
             url: /~assets/docs/hatch-acts-application-to-employees-of-private-nonprofit-organizations.pdf
-          - name: Use of Official Title by State and Local Employees Who May Run for Partisan Political Office
+          - name: Use of Official Title by State and Local Employees Who May Run for
+              Partisan Political Office
             url: /~assets/docs/use-of-official-title-by-state-and-local-employees-who-may-run-for-afd1b2fd.pdf
           - name: Definition of Salary under the Hatch Act Modernization Act of 2012
             url: /~assets/docs/definition-of-salary-under-the-hatch-act-modernization-act-of-2012.pdf
-          - name: California's Voter-Nominated Primary Elections are Presumptively Partisan for Purposes of the Hatch Act
+          - name: California's Voter-Nominated Primary Elections are Presumptively Partisan
+              for Purposes of the Hatch Act
             url: /~assets/docs/californias-voter-nominated-primary-elections-are-presumptively-pa-c5a1ed38.pdf
           - name: Elected Sheriffs Use of Title and Uniform for Campaign Purposes
             url: /~assets/docs/elected-sheriffs-use-of-title-and-uniform-for-campaign-purposes.pdf
@@ -387,11 +407,13 @@ items:
         links:
           - name: Elected Sheriffs Campaigning in Uniform
             url: /~assets/docs/elected-sheriffs-campaigning-in-uniform.pdf
-          - name: Signing or Asking Others to Sign a Letter of Support for Sheriff's Reelection
+          - name: Signing or Asking Others to Sign a Letter of Support for Sheriff's
+              Reelection
             url: /~assets/docs/signing-or-asking-others-to-sign-a-letter-of-support-for-sheriffs-f33514f1.pdf
           - name: Hatch Act's Application to Employees of Private, Nonprofit Organizations
             url: /~assets/docs/hatch-acts-application-to-employees-of-private-nonprofit-organizations.pdf
-          - name: Use of Official Title by State and Local Employees Who May Run for Partisan Political Office
+          - name: Use of Official Title by State and Local Employees Who May Run for
+              Partisan Political Office
             url: /~assets/docs/use-of-official-title-by-state-and-local-employees-who-may-run-for-afd1b2fd.pdf
           - name: Elected Sheriffs Use of Title and Uniform for Campaign Purposes
             url: /~assets/docs/elected-sheriffs-use-of-title-and-uniform-for-campaign-purposes.pdf
@@ -403,11 +425,13 @@ items:
         links:
           - name: Elected Sheriffs Campaigning in Uniform
             url: /~assets/docs/elected-sheriffs-campaigning-in-uniform.pdf
-          - name: Signing or Asking Others to Sign a Letter of Support for Sheriff's Reelection
+          - name: Signing or Asking Others to Sign a Letter of Support for Sheriff's
+              Reelection
             url: /~assets/docs/signing-or-asking-others-to-sign-a-letter-of-support-for-sheriffs-f33514f1.pdf
           - name: Hatch Act's Application to Employees of Private, Nonprofit Organizations
             url: /~assets/docs/hatch-acts-application-to-employees-of-private-nonprofit-organizations.pdf
-          - name: Use of Official Title by State and Local Employees Who May Run for Partisan Political Office
+          - name: Use of Official Title by State and Local Employees Who May Run for
+              Partisan Political Office
             url: /~assets/docs/use-of-official-title-by-state-and-local-employees-who-may-run-for-afd1b2fd.pdf
           - name: Elected Sheriffs Use of Title and Uniform for Campaign Purposes
             url: /~assets/docs/elected-sheriffs-use-of-title-and-uniform-for-campaign-purposes.pdf
