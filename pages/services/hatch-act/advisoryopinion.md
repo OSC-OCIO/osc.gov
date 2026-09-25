@@ -329,7 +329,7 @@ items:
             url: /~assets/docs/temporary-seasonal-employees-under-a-1039-appointment.pdf
       - heading: Use of Official Authority
         links:
-          - name: Hatch Act Advisory Opinion Regarding Official Agency Communication
+          - name: Hatch Act Advisory Opinion Regarding Official Agency Communications
             url: https://osc.gov/~assets/docs/260925-assessment-and-advisory-of-partisan-communications-2025.pdf
           - name: Hatch Act Advisory Opinion Rescinding Advisory Opinions Dated May 20 and
               October 15, 2024
