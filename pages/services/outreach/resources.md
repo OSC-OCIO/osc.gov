@@ -49,6 +49,8 @@ items:
         url: /~assets/docs/retaliation-fact-sheet-b8-protected-disclosure.pdf
       - url: /~assets/docs/combined-fact-sheets-b1-b14.pdf
         name: Combined Fact Sheets (b)(1)-(b)(14)
+      - name: Sample Memo for Annual Notification Non-GC (v2026)
+        url: /~assets/docs/sample-memo-for-annual-notification-v2026.pdf
   - heading: Posters
     links:
       - name: The Hatch Act and Further Restricted Employees Poster
