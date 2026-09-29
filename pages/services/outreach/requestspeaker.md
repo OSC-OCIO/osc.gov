@@ -5,9 +5,9 @@ eleventyNavigation:
   order: 1
 items: []
 ---
-OSC is dedicated to enhancing understanding of the laws that our office enforces through comprehensive training. Browse our training catalog below to discover the perfect program for your agency's training session or event and email us at **[training@osc.gov](mailto:certification@osc.gov)** to reserve your spot. When emailing **[training@osc.gov](mailto:certification@osc.gov)**, you can include the details of your training session or event in the body of your email or utilize the speaker request form provided below. Separate forms are available for requests from federal agencies and for requests from non-federal entities.
+OSC is dedicated to enhancing understanding of the laws that our office enforces through comprehensive training. Browse our training catalog below to discover the perfect program for your agency's training session or event and email us at **[training@osc.gov](mailto:certification@osc.gov)** to reserve your spot. When emailing **[training@osc.gov](mailto:certification@osc.gov)**, you can include the details of your training session or event in the body of your email or utilize the speaker request form provided below. 
 
-[Speaker Request Form](https://forms.office.com/Pages/ResponsePage.aspx?id=F77cOWnAfE2K1--77bX8VfkYT-8lcUpFg2CqSx2plkpUM0pTMDFBUVJaM1daOFIwSVZWMFE3T1c5Si4u) 
+[Speaker Request Form](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=F77cOWnAfE2K1--77bX8VfkYT-8lcUpFg2CqSx2plkpUOE9PRUxZMTFFVEIwMk5HQlhWVFhaUEQ5QS4u) 
 
 **Training Catalog** 
 
