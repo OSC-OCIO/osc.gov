@@ -8,7 +8,7 @@ WASHINGTON, D.C./September 29, 2026 – Yesterday, the U.S. Office of Special Co
 
 Ambassador Jamieson Greer, the U.S. Trade Representative and former Acting Special Counsel of OSC, performed the ceremonial swearing-in of Mr. Baldis during the event.  
 
-“This agency plays a really important role in safeguarding the merit system for federal employees and ensuring that whistleblowers can disclose wrongdoing without fear of reprisal. The Special Counsel has significant responsibility, ensuring that American can trust the integrity of their government, and I can’t think of anyone better than Charles to carry it out,” said Ambassador Greer. 
+“This agency plays a really important role in safeguarding the merit system for federal employees and ensuring that whistleblowers can disclose wrongdoing without fear of reprisal. The Special Counsel has significant responsibility, ensuring that Americans can trust the integrity of their government, and I can’t think of anyone better than Charles to carry it out,” said Ambassador Greer. 
 
  Mr. Baldis remarked, "Our primary job has always been to protect whistleblowers, and to identify mistakes inside agencies, so they can do their work better.” 
 
