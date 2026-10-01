@@ -100,6 +100,10 @@ items:
         url: /~assets/docs/annual-foia-report-fiscal-year-2007.pdf
   - heading: Quarterly Reports
     links:
+      - name: OSC-2026-Q3
+        url: https://osc.gov/~assets/docs/osc-2026-q3-quarterly-foia-report.pdf
+      - name: OSC-2026-Q2
+        url: https://osc.gov/~assets/docs/osc-2026-q2-quarterly-foia-report.pdf
       - name: OSC-2025-Q2
         url: /~assets/docs/osc-2025-q2.pdf
       - name: OSC-2025-Q1
