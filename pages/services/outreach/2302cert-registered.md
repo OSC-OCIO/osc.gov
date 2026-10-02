@@ -5,22 +5,21 @@ eleventyNavigation:
   order: 5
   title: 2302(c) Registered Agencies List
 ---
+The following agencies have registered for the 2302(c) Certification Program:
 
-The following agencies have registered for the 2302(c) certification program:
-
-| Agency | Registration Date |
-| --- | --- |
-| AmeriCorps OIG | April 2025 |
-| Commodity Futures Trading Commission | October 2023 |
-| Defense Nuclear Facilities Safety Board | June 2024 |
-| Department of Transportation, Federal Aviation Administration | June 2025 |
-| Department of Transportation, Office of the Secretary | February 2024 |
-| Department of Transportation, OIG | August 2024 |
-| Department of Veterans Affairs, OIG | June 2025 |
-| Export-Import Bank of the United States | February 2024 |
-| General Services Administration | August 2024 |
-| General Services Administration, OIG | April 2025 |
-| International Trade Commission | September 2025 |
-| International Trade Commission, Office of Inspector General | September 2025 |
-| National Credit Union Administration, OIG | July 2024 |
-| Retrial Services Agency for the District of Columbia | March 2024 |
+| Agency                                                                | Registration Date |
+| --------------------------------------------------------------------- | ----------------- |
+| AmeriCorps OIG                                                        | April 2025        |
+| Department of Justice, Foreign Claims Settlement Commission           | September 2026    |
+| Department of Justice, National Security Division                     | September 2026    |
+| Department of Justice, Office of Community Oriented Policing Services | September 2026    |
+| Department of Justice, Office of Legal Counsel                        | September 2026    |
+| Department of Justice, Office of Legal Policy                         | September 2026    |
+| Department of Justice, Office of the Associate Attorney General       | September 2026    |
+| Department of Justice, Office of the Attorney General                 | September 2026    |
+| Department of Justice, Office of the Pardon Attorney                  | September 2026    |
+| Department of Justice, Office of the Solicitor                        | September 2026    |
+| Department of Justice, Office of Violence Against Women               | September 2026    |
+| Department of Justice, Professional Responsibility Advisory Office    | September 2026    |
+| Department of Justice, U.S. Trustee Program                           | September 2026    |
+| Department of Transportation, Office of the Secretary                 | February 2024     |
