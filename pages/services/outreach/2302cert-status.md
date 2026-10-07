@@ -356,22 +356,12 @@ agencies:
     contact: Patrick Browne (202) 735-6188
     certification_date: November 2023
     expiration_date: November 2026
-  - name: International Trade Commission
+  - name: International Trade Commission and Office of Inspector General
     url: https://www.usitc.gov/
     contact: Charles Smith (202) 205-3408
-    certification_date: June 2021
-    expiration_date: June 2024
-  - name: International Trade Commission, Office of Inspector General
-    url: https://www.usitc.gov/oig/
-    contact: Charles F. Smith (202) 205-3408
-    certification_date: June 2021
-    expiration_date: June 2024
-  - name: James Madison Memorial Fellowship Foundation
-    url: https://www.jamesmadison.gov/
-    contact: Claire Iglesias (571) 858-4202
-    certification_date: July 2022
-    expiration_date: July 2025
-  - name: Merit Systems Protection Board
+    certification_date: March 2026
+    expiration_date: March 2029
+  - name: Merit Systems Protection Board*
     url: http://www.mspb.gov/
     contact: Lance Seibenhener (202) 254-4493
     certification_date: December 2022
@@ -393,34 +383,24 @@ agencies:
     expiration_date: September 2028
   - name: National Credit Union Administration
     url: https://www.ncua.gov/
-    contact: Kevin Tuininga and Joe Hannah (703) 518-6543 and (703) 548-2430
-    certification_date: February 2023
-    expiration_date: February 2026
-  - name: National Credit Union Administration, Office of Inspector General
-    url: https://www.ncua.gov/about-ncua/inspector-general
-    contact: Marta E. Erceg -
-    certification_date: December 2019
-    expiration_date: December 2022
+    contact: Frank Kressman and Joe Hannah (703) 518-6558 and (703) 548-2430
+    certification_date: October 2026
+    expiration_date: October 2029
   - name: National Endowment for the Humanities
     url: https://www.neh.gov/
     contact: Lisette Voyatzis (202) 606-8322
     certification_date: March 2024
     expiration_date: March 2027
-  - name: National Labor Relations Board
+  - name: National Labor Relations Board*
     url: https://www.nlrb.gov/
     contact: Marie Azan-Reyes (202) 273-1755
     certification_date: November 2023
     expiration_date: November 2026
-  - name: National Mediation Board
-    url: https://nmb.gov/NMB_Application/
-    contact: Mary-Kate Dowling (202) 365-6712
-    certification_date: December 2020
-    expiration_date: December 2023
   - name: National Science Foundation, Office of the Inspector General
     url: http://www.nsf.gov/oig/
-    contact: Harrison Ford (703) 292-7100
-    certification_date: April 2022
-    expiration_date: April 2025
+    contact: Jennifer Kendrick (703) 292-7398
+    certification_date: October 2026
+    expiration_date: October 2029
   - name: National Transportation Safety Board
     url: https://www.ntsb.gov/
     contact: William McMurry (202) 314-6226
@@ -428,34 +408,24 @@ agencies:
     expiration_date: December 2027
   - name: Nuclear Regulatory Commission and Office of Inspector General
     url: https://nrcoig.oversight.gov/about-us/inspector-general
-    contact: Mary Lamary (301) 415-3300
-    certification_date: September 2021
-    expiration_date: September 2024
+    contact: Jennifer Golder (301) 287-0741
+    certification_date: February 2026
+    expiration_date: February 2029
   - name: Occupational Safety and Health Review Commission
     url: https://www.oshrc.gov/
     contact: Debra Hall (202) 606-5397
     certification_date: April 2025
     expiration_date: April 2028
-  - name: Office of Government Ethics
-    url: http://oge.gov/
-    contact: Dale Chrisopher, Jr. (202) 482-9224
-    certification_date: August 2022
-    expiration_date: August 2025
   - name: Office of Navajo and Hopi Indian Relocation
     url: https://www.federalregister.gov/agencies/navajo-and-hopi-indian-relocation-office
     contact: Teresa Slater (928) 779-2721
     certification_date: December 2023
     expiration_date: December 2026
-  - name: Office of Personnel Management
-    url: http://www.opm.gov/
-    contact: Joy Fisher (202) 936-2601
-    certification_date: March 2022
-    expiration_date: March 2025
   - name: Office of Personnel Management, Office of Inspector General
     url: https://www.opm.gov/our-inspector-general/
-    contact: Jennifer French (202) 322-1460
-    certification_date: December 2023
-    expiration_date: December 2026
+    contact: Sidrah Miraaj-Raza (202) 970-1853
+    certification_date: January 2026
+    expiration_date: January 2029
   - name: Patent and Trademark Office
     url: https://www.uspto.gov/
     contact: Stacy Long (571) 272-4153
@@ -464,14 +434,14 @@ agencies:
   - name: Peace Corps
     url: https://www.peacecorps.gov/
     contact: Diane Bradley (202) 938-7129
-    certification_date: January 2022
-    expiration_date: January 2025
+    certification_date: May 2026
+    expiration_date: May 2029
   - name: Pension Benefit Guaranty Corporation
     url: https://www.pbgc.gov/
     contact: Jaime Kunce (202) 230-0044
-    certification_date: February 2023
-    expiration_date: February 2026
-  - name: Pension Benefit Guaranty Corporation, Office of Inspector General
+    certification_date: February 2026
+    expiration_date: February 2029
+  - name: Pension Benefit Guaranty Corporation, Office of Inspector General*
     url: https://oig.pbgc.gov/
     contact: Ronald C. Engler (202) 326-4000 ext. 3744
     certification_date: June 2020
@@ -484,11 +454,11 @@ agencies:
   - name: Securities and Exchange Commission
     url: https://www.sec.gov/
     contact: Elizabeth McFadden (202) 551-5100
-    certification_date: September 2023
-    expiration_date: September 2026
+    certification_date: October 2026
+    expiration_date: October 2029
   - name: Securities and Exchange Commission, Office of Inspector General
     url: https://www.sec.gov/oig
-    contact: Lori Wagner (202) 551-2804
+    contact: Katherine Reilly (202) 551-6056
     certification_date: May 2023
     expiration_date: May 2026
   - name: Selective Service System website
