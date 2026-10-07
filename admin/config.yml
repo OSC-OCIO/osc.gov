@@ -610,7 +610,40 @@ collections:
         label: "2302(c) Registered Agencies"
         file: "pages/services/outreach/2302cert-registered.md"
         preview_path: "services/outreach/2302cert-registered/"
-        fields: *page_fields
+        fields:
+          - label: CMS Editable
+            name: cms_editable
+            widget: hidden
+            default: true
+          - label: Title
+            name: title
+            widget: string
+            hint: The main heading people see at the top of the page.
+          - label: Body Text
+            name: body_text
+            widget: markdown
+            hint: Text displayed above the registered agencies table.
+            required: false
+          - label: Layout
+            name: layout
+            widget: hidden
+            default: layouts/default
+          - label: Agencies
+            name: agencies
+            widget: list
+            required: false
+            hint: Add or update rows in the registered agencies table.
+            collapsed: true
+            minimize_collapsed: true
+            summary: '{{fields.name}}'
+            fields:
+              - label: Agency
+                name: name
+                widget: string
+              - label: Registration Date
+                name: registration_date
+                widget: string
+                hint: Month and year, for example September 2026.
       - name: "2302cert-status"
         label: "2302(c) Certified Agencies"
         file: "pages/services/outreach/2302cert-status.md"
