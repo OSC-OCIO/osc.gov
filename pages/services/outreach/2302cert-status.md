@@ -201,6 +201,11 @@ agencies:
     contact: Mark Porada (202) 307-3260
     certification_date: March 2025
     expiration_date: March 2028
+  - name: "Department of Justice, Office of Tribal Justice "
+    url: https://www.justice.gov/otj
+    contact: Jeanne Jacobs (202) 598-1609
+    certification_date: March 2025
+    expiration_date: March 2028
   - name: Department of Justice, Tax Division
     url: https://www.justice.gov/tax
     contact: Phyllis Wolfteich (202) 616-2583
@@ -281,7 +286,7 @@ agencies:
     contact: Maura Malone (202) 281-7925
     certification_date: March 2023
     expiration_date: March 2026
-  - name: Farm Credit Administration
+  - name: Farm Credit Administration and Office of Inspector General
     url: http://www.fca.gov/
     contact: Vonda Bell (703) 883-4045
     certification_date: February 2026
@@ -496,11 +501,6 @@ agencies:
     contact: Matt Cox (571) 236-2154
     certification_date: April 2023
     expiration_date: April 2026
-  - name: "Department of Justice, Office of Tribal Justice "
-    url: https://www.justice.gov/otj
-    contact: Jeanne Jacobs
-    certification_date: March 2025
-    expiration_date: March 2028
 ---
 {{ body_text | markdownify }}
 
