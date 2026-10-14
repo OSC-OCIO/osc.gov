@@ -5,7 +5,7 @@ date: 2026-10-14
 tags:
   - general
 ---
-Today, Special Counsel Charles Baldis formally presented Dr. Brett Wyrick, Deputy Federal Air Surgeon, with the Office of Special Counsel’s 2026 Outstanding Public Servant Award. 
+WASHINGTON, D.C./October 14, 2026 – Today, Special Counsel Charles Baldis formally presented Dr. Brett Wyrick, Deputy Federal Air Surgeon, with the Office of Special Counsel’s 2026 Outstanding Public Servant Award. 
 
 OSC [announced](https://www.osc.gov/news/2026-07-30/osc-recognizes-faa-whistleblower-with-outstanding-public-servant-award-for-protecting-public-safety-in-airspace-on-national-whistleblower-day/) the award on July 30, 2026, National Whistleblower Day. During the ceremony, Special Counsel Charles Baldis presented Dr. Wyrick with the award and praised his decision to raise safety concerns.
 
