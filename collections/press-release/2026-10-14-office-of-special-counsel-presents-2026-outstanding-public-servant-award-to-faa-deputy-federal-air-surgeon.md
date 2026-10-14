@@ -11,7 +11,7 @@ Today, Special Counsel Charles Baldis formally presented Dr. Brett Wyrick, Deput
 
 In connection with the presentation, Special Counsel Baldis issued the following statement:
 
-“I am pleased to present Dr. Brett Wyrick with the 2026Outstanding Public Servant Award.
+“I am pleased to present Dr. Brett Wyrick with the 2026 Outstanding Public Servant Award.
 
 “Dr. Wyrick saw a risk to the people who fly, and to the people who keep them safe in the air, and he would not look past it. As Deputy Federal Air Surgeon, he identified that medical officers in the FAA’s Office of Aerospace Medicine were too few for the work before them. Certificates and clearances for pilots and air traffic controllers were falling behind. Hundreds of airmen continued flying while flagged medical issues had not been fully reviewed. Some personnel were discouraged from reporting an illness, injury, or new medication because a report could ground them for months. New controllers, hired to ease shortages in the towers, were waiting on medical clearances that should not have taken so long.
 
