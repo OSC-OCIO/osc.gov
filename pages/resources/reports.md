@@ -151,8 +151,12 @@ items:
         url: /~assets/docs/information-quality-july-8-2002.pdf
   - heading: No FEAR Act Reports and EEO Reports
     links:
-      - name: No FEAR Act Quarterly Data Q3 2025
-        url: /~assets/docs/no-fear-act-quarterly-data-q3-2025.pdf
+      - name: No FEAR Act Quarterly FY26 Q4
+        url: osc.gov/~assets/no-fear-act-quarterly-data-q4-2026.pdf
+      - name: No FEAR Act Annual Report FY25
+        url: osc.gov/~assets/no-fear-act-data-report-for-fiscal-year-2025.pdf
+      - name: MD-715 AAP Report (FY25)
+        url: osc.gov/~assets/md715-aap-report-fy-2025.pdf
   - heading: Federal Activities Inventory Reform (FAIR) Act Reports
     links:
       - url: /~assets/docs/fair-act-inventory-2025.pdf
