@@ -1,23 +1,12 @@
-## Comment out when doing local development
+# Sveltia uses the same GitHub backend for remote and local editing.
+# Locally, choose "Work with Local Repository"; no proxy server is needed.
 backend:
   name: github
   repo: OSC-OCIO/osc.gov
   base_url: https://pages.cloud.gov
   auth_endpoint: external/auth/github
   preview_context: pages/build
-  branch: main
-  use_graphql: true
-
-##
-## Uncomment when doing local development on Netlify CMS
-## Run `npx netlify-cms-proxy-server` to start working locally
-## In another terminal, start the app with `npm start`
-## See https://www.netlifycms.org/docs/beta-features/#working-with-a-local-git-repository
-##
-
-# backend:
-#   name: git-gateway
-# local_backend: true
+  branch: sveltia-demo
 
 media_folder: img
 public_folder: /img
@@ -173,6 +162,22 @@ page_fields: &page_fields
     }
 
 collections:
+  - name: "pages"
+    label: "Pages"
+    files:
+      - name: "cms-test"
+        label: "cms-test"
+        file: "pages/cms-test.md"
+        preview_path: "cms-test/"
+        fields:
+          - { label: "CMS Editable", name: "cms_editable", widget: "hidden", default: true }
+          - { label: "Title", name: "title", widget: "string" }
+          - label: "Body"
+            name: "body"
+            widget: "markdown"
+            editor_components: [code-block, image, table, hr, uswds-card-group, uswds-summary-box]
+            hint: "Try formatting text and inserting images, tables, code blocks, and horizontal rules."
+          - { label: "Layout", name: "layout", widget: "hidden", default: "layouts/default" }
   - name: "about-pages"
     label: "About Pages"
     files:
@@ -228,9 +233,9 @@ collections:
     label_singular: "Case"
     folder: "collections/case"
     create: true
-    slug: "{{cases[0]}}{{cases[1] | ternary('--multi', '')}}"
+    slug: "{{cases.0}}{{cases.1 | ternary('--multi', '')}}"
     preview_path: "cases"
-    summary: "{{cases[0]}}{{cases[1] | ternary(' + additional cases', '')}}"
+    summary: "{{cases.0}}{{cases.1 | ternary(' + additional cases', '')}}"
     sortable_fields:
       - { field: "date", default_sort: "desc", label: "Date (Newest first)" }
     fields:
@@ -657,41 +662,15 @@ collections:
             name: title
             widget: string
             hint: The main heading people see at the top of the page.
-          - label: Body Text
-            name: body_text
+          - label: Body
+            name: body
             widget: markdown
-            hint: Text displayed above the certified agencies table.
-            required: false
+            editor_components: [code-block, image, table]
+            hint: Edit the introduction and agency table here. Use the table menu to add or remove rows and columns.
           - label: Layout
             name: layout
             widget: hidden
             default: layouts/default
-          - label: Agencies
-            name: agencies
-            widget: list
-            required: false
-            hint: Add or update rows in the certified agencies table.
-            collapsed: true
-            minimize_collapsed: true
-            summary: '{{fields.name}}'
-            fields:
-              - label: Agency
-                name: name
-                widget: string
-              - label: Agency URL
-                name: url
-                widget: string
-              - label: Point of Contact
-                name: contact
-                widget: string
-              - label: Certification/Recertification Date
-                name: certification_date
-                widget: string
-                hint: Month and year, for example April 2025.
-              - label: Certification Expiration
-                name: expiration_date
-                widget: string
-                hint: Month and year, for example April 2028.
       - name: "2302cert"
         label: "2302(c) Certification Program"
         file: "pages/services/outreach/2302cert.md"

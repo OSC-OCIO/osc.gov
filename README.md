@@ -92,41 +92,46 @@ TODO
 
 TODO
 
-## Netlify CMS
+## Sveltia CMS trial
 
-### Config
+This branch loads [Sveltia CMS](https://sveltiacms.app/) at `/admin/` using its
+hosted JavaScript bundle. Collections and fields remain in
+[`admin/config.yml`](./admin/config.yml). The shared Eleventy preset still depends
+on Decap CMS, but the admin page no longer loads or initializes it. The local
+`js/cms/` modules adapt the shared preset’s USWDS Card Group and Summary Box components for Sveltia
+and retain its paired-shortcode content format. Try it in **Pages → cms-test**.
 
-The Netlify CMS can be configured in [`/admin/config.yml`](./admin/config.yml) and you will update the
-`repo` key to be your Github organization and repository name.
+### Running locally
 
-```yml
-backend:
-  name: github
-  repo: <your-github-org>/<your-repository-name>
-  base_url: https://federalistapp.18f.gov
-  auth_endpoint: external/auth/github
-  preview_context: federalist/build
-  branch: master
-  use_graphql: true
-```
+1. Run `npm run dev`.
+2. Open `/admin/` on the localhost URL printed by the dev server in Chrome or Edge.
+3. Choose **Work with Local Repository**, select this repository's root folder
+   (`osc.gov`, not `_site`), and allow file access when prompted.
+4. Edit and save content, then preview it on the local site. Review changes with
+   `git diff` and commit them when ready.
 
-### Running Locally
+Keep the page you’re editing open in a second tab on the same localhost port
+as the dev server (for example, `/cms-test/`). Local saves trigger an Eleventy
+rebuild and a full-page refresh. The watcher polls for completed file saves to
+handle browser-based folder writes reliably. Restart `npm run dev` after changing
+the Eleventy configuration. GitHub-backed saves do not update the local checkout.
 
-You can run the Netlify CMS locally to more easily customize and troubleshoot the CMS to you content.
-We provide comments in the [`/admin/config.yml`](./admin/config.yml) instructing you how to change the `backend` values from your production site to the local development.
+No CMS proxy server, GitHub login, or configuration changes are required for
+local editing. Saves write directly to your local files. Safari and Firefox do
+not support Sveltia's local folder workflow. See the
+[local workflow documentation](https://sveltiacms.app/en/docs/workflows/local).
 
-> \*Note: Make sure to not commit and push the config with the `backend` set for local develop to Github or
-> else you will break your production site's Netlify CMS.
+### Remote editing
 
-```yml
-# Local development backend
-backend:
-  name: git-gateway
-local_backend: true
-```
+The GitHub backend targets `OSC-OCIO/osc.gov` on **`sveltia-demo`** for this trial
+and retains the existing cloud.gov Pages OAuth endpoint. Push this branch before
+trying remote editing. Remote saves target the configured branch, regardless of
+which deployed preview you open. Change `backend.branch` deliberately if the
+trial moves to another branch.
 
-Once you [`/admin/config.yml`](./admin/config.yml) is set to local development, you run `npm run dev:cms` to
-serve as a development authentication server.
+The existing `editorial_workflow` setting is retained. Verify cloud.gov sign-in
+and draft/publish behavior in a deployed preview before relying on remote editing;
+these require an authenticated browser session and are not checked by the build.
 
 ## How To
 
@@ -162,7 +167,7 @@ CSS and SASS can be added or imported into the `styles/styles.scss`. You can als
 
 ### Adding custom Javascript
 
-Javascript can be added to the admin UI or site UI by adding or importing code into the `js/admin.js` or `js/app.js` files respectively. This template uses [esbuild](https://esbuild.github.io/) to bundle your javascript and fingerprint the files in the site build.
+Site Javascript can be added or imported in `js/app.js`. Sveltia CMS is loaded directly by `admin/index.html`; `js/admin.js` registers Sveltia editor components and initializes the CMS. This template uses [esbuild](https://esbuild.github.io/) to bundle your javascript and fingerprint the files in the site build.
 
 ### Customizing 11ty
 

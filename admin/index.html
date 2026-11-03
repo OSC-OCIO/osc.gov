@@ -4,20 +4,13 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta name="description" content="Content Management System" />
-    <title>Content Manager</title>
+    <meta name="robots" content="noindex" />
+    <title>Sveltia CMS | OSC</title>
   </head>
   <body>
-    <!-- Include the script that builds the page and powers Netlify CMS -->
-    <script async src="/assets/js/admin.js"></script>
-    <link href="/admin/config.yml" type="text/yaml" rel="cms-config-url" />
-    <style>
-      img[alt="Logo"] {
-        margin-left: 75px;
-        width: 150px;
-      }
-      button {
-        margin-top: 0px !important;
-      }
-    </style>
+    <link href="config.yml" type="text/yaml" rel="cms-config-url" />
+    <script>window.CMS_MANUAL_INIT = true;</script>
+    <script src="https://unpkg.com/@sveltia/cms/dist/sveltia-cms.js"></script>
+    <script src="../assets/js/admin.js"></script>
   </body>
 </html>

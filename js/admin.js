@@ -1,3 +1,7 @@
-import CMS from "@studio/eleventy-preset/admin";
+import { registerUswdsCardGroupEditorComponent } from "./cms/uswds-card-group-editor-component.mjs";
 
-CMS.init();
+import { registerUswdsSummaryBoxEditorComponent } from "./cms/uswds-summary-box-editor-component.mjs";
+
+registerUswdsCardGroupEditorComponent(window.CMS);
+registerUswdsSummaryBoxEditorComponent(window.CMS);
+window.CMS.init();
