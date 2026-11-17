@@ -4,8 +4,10 @@
   "description": "A 11ty USWDS template.",
   "main": "index.js",
   "scripts": {
-    "build": "studio-eleventy build && npm run search:index",
-    "dev": "studio-eleventy dev",
+    "agents:sync": "studio-eleventy agents sync",
+    "agents:check": "studio-eleventy agents check",
+    "build": "npm run agents:sync && studio-eleventy build && npm run search:index",
+    "dev": "npm run agents:sync && studio-eleventy dev",
     "pages": "npm run build",
     "format:content": "prettier --write \"**/*.{md,markdown,yml,yaml}\"",
     "format:content:check": "prettier --check \"**/*.{md,markdown,yml,yaml}\"",
@@ -23,6 +25,6 @@
     "prettier": "^3.8.3"
   },
   "dependencies": {
-    "@studio/eleventy-preset": "github:cloud-gov/eleventy-preset#v0.4.1"
+    "@studio/eleventy-preset": "github:cloud-gov/eleventy-preset#v0.5.0"
   }
 }
