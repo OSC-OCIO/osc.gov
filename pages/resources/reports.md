@@ -177,6 +177,8 @@ items:
         url: /~assets/docs/fair-act-inventory-data-fy-2004.pdf
   - heading: Strategic Plans and Performance Reports
     links:
+      - url: /~assets/docs/fy26-par-final.pdf
+        name: FY 2026 Performance and Accountability Report
       - name: Strategic Plan FY 2026-2030
         url: /~assets/docs/fy-2026-2030-strategic-plan.pdf
       - name: FY 2025 Performance and Accountability Report
